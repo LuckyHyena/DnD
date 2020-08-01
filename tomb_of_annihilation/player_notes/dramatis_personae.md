@@ -102,12 +102,15 @@ The yeh-TEP-kah Society, also known as the **Triceratops Society**, is an anonym
 
 The Ytepka Society is widely known to have had a major role in organizing the merchant princes to take control of **Port Nyanzaru** from Amn. Rumors abound about who is still working with the Society today, and what their current purposes might be.
 
+![Triceratops Token](images/factorydirectcraft_miniature_pewter_triceratops_dinosaur.jpg)
+
 # The Flaming Fists
-![Flaming Fist Logo](images/flaming-fist.png)
 The official mercenary company of the wealthy foreign city of **Baldur's Gate**, who serve as guards of the city's interests at home and beyond. Their primary task on Chult is to protect ships flying the flag of Baldur's Gate from pirates; the same ships depend on Port Nyanzaru as a way station, so the Fists are also prepared to defend the Chultan city from being overrun by the undead. To accomplish these ends the Flaming Fists built **Fort Beluarian**, their headquarters on Chult.
 
 ### Liara Portyr
 lee-AR-ah por-TEER is the current commander of Fort Beluarian, and holds the Flaming Fist rank of *Blaze*. She is a human soldier.
+
+![Flaming Fist Logo](images/flaming-fist.png)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
@@ -126,13 +129,13 @@ The current commander of Camp Vengeance is a human noble.
 Zhentarim mercenaries are renowned across Faerûn as the best money can buy, and the **foreign mercenary company** is commonly employed in Chult to provide city guards, personal bodyguards, and protection for mines and logging camps in the jungle.
 
 # The [Harpers](https://dnd.wizards.com/dungeons-and-dragons/story/faction/harpers)
-An underground network of individuals who work to oppose tyrants and the powerful.
-
-# The [Emerald Enclave](https://dnd.wizards.com/dungeons-and-dragons/story/faction/emeraldenclave)
-A group of druids, rangers, and others that oppose threats to the natural world and helps others survive the many perils of the wild.
+An underground network of freedom-loving bards, rogues, mages, and others who work throughout Faerûn to oppose tyrants and the abuses of the powerful.
 
 # The [Lords' Alliance](https://dnd.wizards.com/dungeons-and-dragons/story/faction/lordsalliance)
-A loose coalition of Sword Coast cities and nations working together for mutual defense. Lords' Alliance members are generally concerned with events in the Sword Coast area, significantly North of Chult.
+A loose coalition of Sword Coast cities and nations working together to defend civilization and the law. Lords' Alliance members are usually concerned with events in the Sword Coast area, significantly North of Chult, but the various Lords maintain agents and spies everywhere in Faerûn.
+
+# The [Emerald Enclave](https://dnd.wizards.com/dungeons-and-dragons/story/faction/emeraldenclave)
+A group of druids, rangers, and others that oppose threats to the natural world and help others survive the many perils of the wild. The Emerald Enclave does have members who patrol the Chultan jungles, but almost all Emerald Enclave members operate in isolation, and Chult is far too large for any single individual to ever master.
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
@@ -169,8 +172,6 @@ VOH-loh-thamp geh-DARM is a famed human explorer currently in Port Nyanzaru as p
 
 50 gold coins will get a character a signed copy of _**Volo's Guide to Monsters**_ in a durable hardcover binding with vellum pages, suitable for strenuous jungle adventuring. Volo claims the book has accurate information on creatures and monsters across Faerûn, including a thoroughly-researched section about those inhabiting Chult.
 
----
-
 ![immovable rod](../../images/immovable-rod.jpg)
 
 # **_Acererak_**
@@ -188,11 +189,9 @@ Today, only a few fragments of that story are still remembered in Faerûn, where
 
 [Adventure introduction](introduction.md#top)
 
-[Activities in Port Nyanzaru](activities_in_Port_Nyanzaru.md#top)
+[Welcome to Chult!](introduction.md#welcome-to-chult)
 
-[Coins in Port Nyanzaru](coinage.md#top)
-
-[Character creation](character_creation.md#top)
+[Welcome to Port Nyanzaru](Port_Nyanzaru.md#top)
 
 [Tomb of Annihilation homepage](README.md#top)
 

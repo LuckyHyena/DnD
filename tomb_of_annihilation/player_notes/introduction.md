@@ -68,12 +68,6 @@ _Somewhere in the jungles of **Chult**, the Soulmonger leeches life from those s
 
 [Welcome to Port Nyanzaru](Port_Nyanzaru.md#top)
 
-[Activities in Port Nyanzaru](activities_in_Port_Nyanzaru.md#top)
-
-[Coins in Port Nyanzaru](coinage.md#top)
-
-[Character creation](character_creation.md#top)
-
 [Tomb of Annihilation homepage](README.md#top)
 
 ---

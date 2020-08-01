@@ -25,6 +25,8 @@
 
 7. In addition to trade from the Trackless Sea and the Shining Sea, the economy of Port Nyanzaru is based on mining, cutting lumber, hunting, and gathering rare materials from the jungle. Laborers living in hamlets and work camps in the jungle are in constant danger of being forced out by the undead and other dangers.
 
+![immovable rod](../../images/immovable-rod.jpg)
+
 ## Districts and Locations in Port Nyanzaru
 
 ![Map of Port Nyanzaru](images/port-nyanzaru.png)
@@ -107,9 +109,7 @@ A less-developed area outside the city walls, the Tiryki (tee-REE-kee) anchorage
 
 [Activities in Port Nyanzaru](activities_in_Port_Nyanzaru.md#top)
 
-[Coins in Port Nyanzaru](coinage.md#top)
-
-[Character creation](character_creation.md#top)
+[Items available for purchase in Port Nyanzaru](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#jessamine)
 
 [Tomb of Annihilation homepage](README.md#top)
 

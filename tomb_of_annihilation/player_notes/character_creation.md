@@ -10,9 +10,25 @@ Welcome to _Dungeons & Dragons_!
 
 When playing D&D you'll be creating and using a **player character**, one member of a party of adventurers who are **working together to complete a quest**. Although D&D characters can get into quite a strange variety of adventures, _generally_ adventuring involves travelling into uncivilized wilderness, exploring ruins and dungeons, and fighting monsters. Your character should be one who's prepared to fight and to adventure: generally, all the standard character classes have the skills and equipment you need.
 
-Additionally, your character **shouldn't** be one who's unable to work cooperatively with other people, such as a thief who tries to steal or hide treasure from the rest of the party, or someone who starts fights with the other player characters.
+Additionally, your character shouldn't be one who's unable to work cooperatively with other people, such as a thief who tries to steal or hide treasure from the rest of the party, or someone who starts fights in every town they visit. This adventure is a story about a team of capable (and _generally_ decent) adventurers working together to defeat the extraordinary challenges of the Chultan jungle and the Tomb of Annihilation.
 
+With all that in mind, take a look through the background information available on [the peninsula of Chult](introduction.md#welcome-to-chult), [the Chultan people](dramatis_personae.md#top), and [the city of Port Nyanzaru](Port_Nyanzaru.md#top) to get ideas for your character, then come here for the formal rules on how to create them.
 
+---
+
+> **The Adventurer's League** has its own rules for character creation, although you're still welcome to look through the background information for inspiration, or to take one of the [new ToA backgrounds](#tomb-of-annihilation-character-options).
+
+![immovable rod](../../images/immovable-rod.jpg)
+
+- [My Character Creation Rules](#my-character-creation-rules)
+- [New Tomb of Annihilation skill proficiencies](#further-information)
+- [Tomb of Annihilation Character Options](#tomb-of-annihilation-character-options)
+  - [Anthropologist Background](#anthropologist)
+  - [Archaeologist Background](#archeologist)
+  - Druid [_Wild Shape_ Dinosaurs](#druids)
+  - Ranger [Favored Terrains](#rangers)
+
+![immovable rod](../../images/immovable-rod.jpg)
 
 ### My Character Creation Rules
 
@@ -41,12 +57,6 @@ either the _**Standard Array**_
 or the _**Dungeon Master's Favorite**_
 
 2. Roll each ability score **in order** by rolling 4d6 and adding the three highest d6 results together. When you are done generating all of the character's scores, perform **exactly one swap** of two ability scores of your choice. Reminding me that you used this method may result in your character getting _Inspiration_. Thank you to [DM David](https://dmdavid.com/tag/organized-play-versus-random-ability-scores/) for describing this method.
-
-> **The Adventurer's League** is extremely discriminatory when considering candidate adventurer characters: only those lucky few who happen to have be born under an astrological configuration that blessed them with a set of abilities that fits the **standard array** even have a chance of entering the esteemed League.
-> 
-> Additionally, characters must maintain the discipline to spend their _entire careers_ choosing the **fixed hit points per level** described within in the 5e _Player's Handbook_. It's no surprise that only a tiny number of candidates survive each year's winnowing process to be allowed into the League's ranks.
->
-> Oh, also, they definitely have very different rules from the ones above about what sources a character may take options from.
 
 # Hit Points
 You should roll your hit points when you level up, cowards. Live a little! You may take the full hit points for your first level as normal.
@@ -227,6 +237,43 @@ One of your choice.
 - A two-person tent
 - A _trinket_ recovered from a dig site
 - A pouch containing 25 gold coins.
+
+![immovable rod](../../images/immovable-rod.jpg)
+
+
+# Druids
+## _Wild Shape_ dinosaur options
+
+Circle of the Moon druids gain access to higher-level _Wild Shapes_, and access to some shapes earlier, than other druids.
+
+|Dinosaur|CR|Size|Notes|Source|Moon Circle lvl|Other lvl|
+|-|-|-|-|-|-|-|
+|Allosaurus|2|Large|-|Monster Manual|6|-|
+|Ankylosaurus|3|Huge|Armor plating and spiked tail.|Monster Manual|9|-|
+|Brontosaurus|5|Gargantuan|-|ToA or Volo's|15|-|
+|Deinonychus|1|Medium|6-ft tall _Jurassic Park_ "velociraptors".|ToA or Volo's|2|8|
+|Dimetrodon|1/4|Medium|Swimming speed.|ToA or Volo's|4|4|
+|Hadrosaurus|1/4|Large|-|ToA or Volo's|2|2|
+|Jaculi|1/2|Large|Snake with chamaeleon camouflage.|ToA or Volo's|2|4|
+|Plesiosaurus|2|Large|Swimming speed.|Monster Manual|6|-|
+|Pteranodon|1/4|Medium|Flying speed.|Monster Manual|8|8|
+|Quetzalcoatlus|2|Huge|Flying speed.|Volo's|8|-|
+|Stegosaurus|4|Huge|-|ToA or Volo's|12|-|
+|Triceratops|5|Huge|-|Monster Manual|15|-|
+|Tyrannosaurus Rex|8|Huge|-|Monster Manual|20|-|
+|Velociraptor|1/4|Tiny|Realistically turkey-sized.|ToA or Volo's|2|2|
+
+---
+
+# Rangers
+## Favored terrain options in Chult
+From most to least useful, IMO:
+- The jungle
+- Swamps and rivers
+- The Underdark and other underground areas
+- Mountains and plateaus
+- Wastelands and volcanos
+- Coasts and seas
 
 ---
 

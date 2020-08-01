@@ -15,6 +15,7 @@ For speed and simplicity plan the party's days a _tenday_ at a time.
 #### Background Info
 - [Welcome to Chult!](introduction.md#welcome-to-chult)
 - [Welcome to Port Nyanzaru](introduction.md#port-nyanzaru)
+- [Dramatis Personae](dramatis_personae.md#top)
 - [Special items available for purchase in Port Nyanzaru](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#top)
 
 ![Port Nyanzaru](images/port-nyanzaru.jpg)
@@ -69,8 +70,10 @@ Uncommon:
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
-## Downtime Days
+### Downtime Day Activities
 For every __downtime day__ the party spends in Port Nyanzaru, each character may choose one of the following activities to spend their time on:
+
+---
 
 # Working
 If nothing else strikes a character's fancy, they may work any trade or profession they know in order to maintain a **modest lifestyle for free**.
@@ -85,6 +88,8 @@ Out of each tenday spent working a character may choose **three days** they are 
 Street performers have a unique place in the hearts of Port Nyanzaru's citizens, and throughout the city one can find musicians, bards, dancers, magicians, Tabaxi minstrels, mimes, clowns, performers in dinosaur costumes, martial artists, and many others giving performances based upon native Chultan traditions, as well as a wide sampling from cultures across Faerûn.
 
 > **Character Bonus:** A character proficient in Perform can maintain a wealthy lifestyle for free by working as a street performer.
+
+---
 
 # Carousing
 ![Carousing](images/yawning-portal.jpg)
@@ -107,11 +112,15 @@ Outside the city walls in the Old City district is a rectangular pit, commonly c
 ### Port Nyanzaru: The Thundering Lizard Tavern
 Syndra Silvane recommends the Thundering Lizard Inn for characters who are looking for "a raucous time". The inn's attached tavern faces the Red Bazaar in the market ward, and remains well-trafficked even during working hours; it's a fine place to carouse at any time of day.
 
+---
+
 # Healing
 If a character that maintains **at least a modest lifestyle** spends their downtime days healing, after spending **at least three such days** they gain advantage on all saving throws and ability checks to resist or treat nonmagical diseases, poisons, exhaustion, and other health conditions. This includes treating both the character's own conditions and those of other characters.
 
 ### Port Nyanzaru: Kaya's House of Repose
 Syndra Silvane recommends Kaya's House of Repose in the market ward for characters who are looking for a good night's rest. The inn is priced for a modest lifestyle and is in a residential section of the market ward, and Kaya strictly enforces quiet hours after sundown.
+
+---
 
 # Relaxing
 Characters who are not ill might nonetheless take a day off from other activities in order to relax. A character might spend the day hanging out in a tavern, taking it easy at their Port Nyanzaru residence, visiting or corresponding with friends and family, or simply going out and exploring a location in the city with no particular end in mind.
@@ -124,12 +133,18 @@ A character that spends additional days relaxing can reroll the 1d6 and keep the
 
 Characters that are relaxing while out and about in Port Nyanzaru are more likely to stumble across people and things in the city than characters that are in the city to accomplish something.
 
+---
+
 ### Port Nyanzaru: Public Baths of Sune
 Worshippers of Sune maintain the large public baths that can be found in the market ward of Port Nyanzaru. Citizens from every district come to enjoy these open-air baths, and despite the heavy traffic the city is justifiably proud of the cleanliness and quality of the baths. Giant rain catchers above the baths capture the daily rainfall of Chult for later use in refreshing the baths.
 
 The baths are free but donations are requested, and expected by the citizens of Port Nyanzaru. The city's inhabitants are proud of their local institution and are generous in donating to the temple of Sune for the maintenance of the baths; even the poorest citizens make sure they bring at least a copper penny for the donation bin when they come to the baths.
 
 Aside from the public baths of Sune, various private bathhouses can be found throughout Port Nyanzaru.
+
+![Public baths in Hungary](images/public-bathhouses-gellert-budapest-hungary.png)
+
+---
 
 ### Port Nyanzaru: The Thundering Lizard Tavern
 A character doesn't necessarily need to expend the cost and energy needed to [carouse](#carousing) if they just want to spend the day hanging out at the Thundering Lizard Tavern or one of the many other taverns in Port Nyanzaru. Generally, such characters avoid drawing attention to themselves and try to stay out of any of fights that break out; if they do end up joining a fight then they spend the downtime day [fighting](#fighting) instead of relaxing.
@@ -475,6 +490,7 @@ While the party travels as passengers on The Brazen Pegasus, up to three charact
 
 ### Your Very Own Ship
 ![A Shipwreck in Chult](images/your-very-own-ship.jpg)
+
 Acquiring and maintaining ownership of a sailing ship, particularly one that isn't actively worked to earn a profit on the high seas, is difficult, but entirely possible during the party's adventures in Chult.
 
 While sailing their own ship, up to three characters may work as crew members in the same way as on the Brazen Pegasus. An **additional three characters can assist** the first three to provide advantage on checks. Because of their existing rapport party members can even try to contribute if they aren't _proficient_ in _Sailing_.
