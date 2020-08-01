@@ -14,8 +14,8 @@
 
 ---
 
-### Aarakocra
-![Aarakocra](images/aarakocra.jpg)
+### Lizardfolk
+![Lizardfolk](images/lizardfolk.jpg)
 
 ---
 
@@ -29,13 +29,23 @@
 
 ---
 
-### Grungs
-![Grungs](images/grungs.jpg)
+### Tortles
+![Tortles](images/tortles.jpg)
 
 ---
 
 ### Pterafolk
 ![Pterafolk](images/pterafolk.jpg)
+
+---
+
+### Aarakocra
+![Aarakocra](images/aarakocra.jpg)
+
+---
+
+### Grungs
+![Grungs](images/grungs.jpg)
 
 ---
 
@@ -91,6 +101,7 @@ The yeh-TEP-kah Society, also known as the **Triceratops Society**, is an anonym
 The Ytepka Society is widely known to have had a major role in organizing the merchant princes to take control of **Port Nyanzaru** from Amn. Rumors abound about who is still working with the Society today, and what their current purposes might be.
 
 # The Flaming Fists
+![Flaming Fist Logo](images/flaming-fist.png)
 The official mercenary company of the wealthy foreign city of **Baldur's Gate**, who serve as guards of the city's interests at home and beyond. Their primary task on Chult is to protect ships flying the flag of Baldur's Gate from pirates; the same ships depend on Port Nyanzaru as a way station, so the Fists are also prepared to defend the Chultan city from being overrun by the undead. To accomplish these ends the Flaming Fists built **Fort Beluarian**, their headquarters on Chult.
 
 ### Liara Portyr
@@ -170,9 +181,6 @@ Today, only a few fragments of that story are still remembered in Faerûn, where
 ![The Soulmonger](../the-soulmonger.png)
 
 ---
-
-> Thank you for reading, and welcome, adventurer, to _Dungeons & Dragons_, and the [**Tomb of Annihilation**](README.md#top)!
-
 
 # Further reading
 

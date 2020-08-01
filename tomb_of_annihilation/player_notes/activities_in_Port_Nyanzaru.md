@@ -17,6 +17,8 @@ For speed and simplicity plan the party's days a _tenday_ at a time.
 - [Welcome to Port Nyanzaru](introduction.md#port-nyanzaru)
 - [Special items available for purchase in Port Nyanzaru](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#top)
 
+![Port Nyanzaru](images/port-nyanzaru.jpg)
+
 #### Downtime day activities:
 Common:
 - [Working](#working)
@@ -83,6 +85,8 @@ Street performers have a unique place in the hearts of Port Nyanzaru's citizens,
 > **Character Bonus:** A character proficient in Perform can maintain a wealthy lifestyle for free by working as a street performer.
 
 # Carousing
+![Carousing](images/yawning-portal.jpg)
+
 The reason adventurers go into ancient ruins and violently extract sacks full of gold is to make sure that they don't have to work, and may instead spend their downtime days partying late into the night at Port Nyanzaru's best taverns. Carousing requires that a character spend at least enough for a **wealthy lifestyle**, even if "Port Nyanzaru's best taverns" means dive bars in the Tiryki anchorage.
 
 Carousing commonly involves **Charisma** ability checks, but often involves a variety of different ability checks as the day or night progresses.
@@ -129,6 +133,8 @@ A character doesn't necessarily need to expend the cost and energy needed to [ca
 You may be surprised to learn that, aside from the Thundering Lizard Tavern, taverns and other watering holes can be found throughout every district of Port Nyanzaru.
 
 # Gaming
+![Gaming](images/gaming.jpg)
+
 A character can spend their downtime day playing games and/or gambling. They might play cards at the Thundering Lizard, roll dice in an alley, or place bets while watching fights at one of Port Nyanzaru's [arenas](#fighting).
 
 By default for **any game**, for each round of gaming or gambling a character will choose how much they want to risk, and have a simple **40% chance to win and receive double their risked coin back**, otherwise they lose it all. Characters who successfully cheat, bluff, or outplay their opponents can improve their odds.
@@ -167,7 +173,12 @@ In 5e D&D a gaming set is considered to be a type of _tool_, and therefore a cha
 |**Wisdom**|**Feel out your opponent's mood. Count cards. Detect a bluff.**|
 |**Charisma**|**Distract your opponent. Extract information from someone while they're distracted by a game. Bluff.**|
 
+![immovable rod](../../images/immovable-rod.jpg)
+
 # Worshipping
+
+![Deities of Faerûn](images/deities_of_the_forgotten_realms_by_doize-dboldkr.png)
+
 Port Nyanzaru has five major temples and numerous smaller shrines, where crowds of diverse people from all over the city gather to honor their deities, to pray for guidance and relief, or to listen to "less-orthodox" preachers yelling in the street.
 
 The people of Faerûn have a practical and unsentimental relationship with their often mercenary gods, and it's generally understood that petitioners will either bring a material sacrifice with them or purchase one upon arriving at their local shrine or temple.
@@ -291,6 +302,8 @@ Generally, teleportation targets must be outdoors.
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
+![Port Nyanzaru Markets](images/buying.jpg)
+
 # Buying Mundane Items
 Characters do not require downtime days to buy mundane items that cost less than 100 gold coins, and such purchases can be done alongside other downtime activities. A purchase with a price of **100 gold coins or more**, or any purchase involving live animals, generally takes **a single downtime day**. See the [items available for purchase in Port Nyanzaru](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#top) for further information.
 
@@ -329,11 +342,17 @@ Few non-adventurers have the wealth or the need to own magic items. Finding a po
 ![immovable rod](../../images/immovable-rod.jpg)
 
 # Fighting
+
+![Velociraptors like those at the Executioner's Run](images/raptors_raph04art.jpg)
+
 If you're not getting enough combat in your Dungeons & Dragons, for the price of just **one downtime day** I can provide an interesting fight at the arena of your choice: _**The Grand Coliseum**_, _**The Executioner's Run**_, or _**The Thundering Lizard Tavern**_. Winners earn prizes, but _everyone_ earns experience points.
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
 # Dinosaur Racing
+
+![Dinosaur races](images/dinosaur-races.png)
+
 Characters can do more than just [carouse](#carousing) and [relax](#relaxing) at Port Nyanzaru's famous dinosaur races: they may opt to join the celebrated but dangerous ranks of Port Nyanzaru's dinosaur riders themselves. Characters can race individually, or two characters can participate riding a single dinosaur.
 
 Racing involves a sequence of ability checks: most of the checks use the newly available [**_Riding_**](character_creation.md#riding) skill proficiency, or less commonly the _Animal Handling_ skill proficiency, and characters who aren't _proficient_ in _Riding_ won't quality for any races. If, on the other hand, a character would like to try racing a rampage-prone tyrannosaur or triceratops with no _Animal Handling_ proficiency: good luck.
@@ -395,6 +414,7 @@ A character who wishes to raise a wild dinosaur from an egg or juvenile can do s
 ![immovable rod](../../images/immovable-rod.jpg)
 
 # Hunting Pirates
+![A Battle on the High Seas](images/hunting-pirates.jpg)
 Port Nyanzaru has a problem with pirates, and both Harbormaster Zindar and the Blaze of Fort Beluarian need individuals with initiative and pluck to get out there and hunt them. A crew of pirate hunters might start out its journey escorting a merchant ship leaving the Bay of Chult, and then spend its time patrolling and setting ambushes until its crew is exhausted.
 
 ### Going on a hunt with The Brazen Pegasus
@@ -447,7 +467,10 @@ While the party travels as passengers on The Brazen Pegasus, up to three charact
 
 > **Character Bonus:** A character can attempt to assist the crew by using _Survival_, _Perform_, or some other skill or tool they are proficient with, provided that you can tell me a story about it.
 
+---
+
 ### Your Very Own Ship
+![A Shipwreck in Chult](images/your-very-own-ship.jpg)
 Acquiring and maintaining ownership of a sailing ship, particularly one that isn't actively worked to earn a profit on the high seas, is difficult, but entirely possible during the party's adventures in Chult.
 
 While sailing their own ship, up to three characters may work as crew members in the same way as on the Brazen Pegasus. An **additional three characters can assist** the first three to provide advantage on checks. Because of their existing rapport party members can even try to contribute if they aren't _proficient_ in _Sailing_.
@@ -542,6 +565,8 @@ Until they are _proficient_, bards with the jack-of-all-trades class feature may
 ---
 
 # Studying a Language
+![Language](images/fantasy-language.jpg)
+
 Port Nyanzaru's volume of trade and cosmopolitan citizenship means that a character can easily find teachers and studying materials for any non-secret language. Studying a new language costs **1 gold coin per day** in addition to lifestyle expenses. As you spend more downtime days on studying a language, you develop more and more ability to use it:
 |Downtime Days|Competency|
 |-|-|
@@ -592,7 +617,7 @@ A standard wizard's spellbook costs 5 platinum coins and has 100 vellum pages. E
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
-# Developing Relationships, Investments, and Projects
+# Developing Relationships, Investments, and Special Projects
 A character can invest time and coin into developing relationships, investments, or other special projects in Port Nyanzaru. Such a project might involve:
 
 - Establishing or maintaining a relationship with a particular person in Port Nyanzaru.
@@ -606,6 +631,8 @@ A character can invest time and coin into developing relationships, investments,
 - Raising or training an animal.
 - Speculating and advising on an investment opportunity.
 - Establishing a permanent resource or benefit for the party.
+
+![Special Projects](images/special-projects.jpg)
 
 # Looking for a Side Quest
 Wow I sure have typed up a lot of options at this point, _but!_ there are also a few small "side quests" to be found around Port Nyanzaru. Thanks for reading, and welcome to the fantastic city of **Port Nyanzaru**, the starting base camp for your adventures in [**_Tomb of Annihilation_**](README.md#top)!

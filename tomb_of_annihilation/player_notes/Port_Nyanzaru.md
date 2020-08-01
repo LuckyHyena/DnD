@@ -81,6 +81,8 @@ A less-developed area outside the city walls, the Tiryki (tee-REE-kee) anchorage
 - Less developed (and less patrolled) docks are preferred by smugglers.
 - Vast pens of dinosaurs, and many teams of dinosaur trainers, all under the authority of merchant prince [Ifan Talro'a](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#ifan-talroa).
 
+![dinosaur races](images/dinosaur-races.png)
+
 ![immovable rod](../../images/immovable-rod.jpg)
 
 # Further reading

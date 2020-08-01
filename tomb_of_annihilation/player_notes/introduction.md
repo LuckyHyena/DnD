@@ -43,6 +43,8 @@ _Somewhere in the jungles of **Chult**, the Soulmonger leeches life from those s
 
 ![Map of Chult](images/chult_player_map.jpg)
 
+![immovable rod](../../images/immovable-rod.jpg)
+
 # Dangers of Chult
 
 - Insects spreading disease
@@ -50,7 +52,13 @@ _Somewhere in the jungles of **Chult**, the Soulmonger leeches life from those s
 - Dinosaurs
 - Undead
 
+![undead](images/undead.jpg)
+
+![Weretiger](images/weretiger_by_deskridge.jpg)
+
 ![Dinosaurs and the Undead](images/undead-trex.jpg)
+
+![The Soulmonger](../the-soulmonger.png)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
@@ -69,10 +77,6 @@ _Somewhere in the jungles of **Chult**, the Soulmonger leeches life from those s
 [Tomb of Annihilation homepage](README.md#top)
 
 ---
-
-![The Soulmonger](../the-soulmonger.png)
-
-_do not neglect the Soulmonger. its Curse will come for you as well_
 
 [back to top](#top)
 
