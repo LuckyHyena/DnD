@@ -66,6 +66,8 @@ SIN-draw sil-VAIN is a Tethyrian human mage and **the party's employer and patro
 In Port Nyanzaru, Syndra is staying in the merchants' ward as a guest of the merchant prince and wizard Wakanga O'tamu.
 
 # The Merchant Princes
+![The Merchant Princes](images/merchant_princes.jpg)
+_From left to right: Ekene-Afa, Ifan Talro'a, Jessamine, Jobal, Kwayothé, Zhanthi, Wakanga O'tamu_
 
 Port Nyanzaru is controlled by a council of seven merchant princes, powerful native Chultans who organized a rebellion and took control of Nyanzaru from the nation of Amn nine years ago. They conduct official city business in the Goldenthrone palace in the Merchant's Ward.
 

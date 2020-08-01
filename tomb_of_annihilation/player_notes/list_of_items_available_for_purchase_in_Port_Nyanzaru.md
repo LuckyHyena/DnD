@@ -8,6 +8,8 @@
 # Items available for purchase in Port Nyanzaru
 
 ## The Merchant Princes
+![The Merchant Princes](images/merchant_princes.jpg)
+_From left to right: Ekene-Afa, Ifan Talro'a, Jessamine, Jobal, Kwayothé, Zhanthi, Wakanga O'tamu_
 
 Each of the seven merchant princes who rule Port Nyanzaru controls the selling and trading of certain types of goods in Port Nyanzaru. In order to purchase any goods or services you'll have to deal with one of the princes or their organizations.
 
