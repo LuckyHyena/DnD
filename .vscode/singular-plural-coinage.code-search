@@ -1,0 +1,100 @@
+# Query: [2-90] [a-z]+ coin[^s]
+# Flags: RegExp
+# ContextLines: 1
+
+49 results - 5 files
+
+tomb_of_annihilation\player_notes\activities_in_Port_Nyanzaru.md:
+  293  
+  294: Generally, a rentier will demand a **2d4 gold coin** fee to use a dinosaur for a day's races, or 1 gold coin to spend a day training with a dinosaur. They may waive the fee if they know the rider and believe they can profitably bet on them.
+  295  
+
+  395  ##### Gotta spend money to make money
+  396: As per the _Player's Handbook_, it costs **2 gold coin per day** to employ a skilled hireling, including a sailor. Sailors who are mistreated, or significantly cheaper sailors, might mutiny, steal the ship while the party is ashore, or simply abandon their post at the first available opportunity.
+  397  
+
+  447  |Dragonchess|1 gold coin|1/2 lb.|A heavy game that involves contests of **Intelligence**.|
+  448: |Playing cards|5 silver coin|-|Popular among explorers who often lack flat surfaces to roll dice on. Many card games involve contests of **Wisdom** that represent things such as: keeping track of the cards left in the deck, guessing at other players' hands, intuiting your odds for your next card draw, and, most importantly, dispassionately using that information to avoid being seduced by hot streaks, gambling fallacies, and gut feelings.|
+  449  |Three-Dragon Ante|1 gold coin|-|A bluffing game that involves contests of **Charisma**.|
+
+tomb_of_annihilation\player_notes\adventure_background.md:
+  109  
+  110: - _**The Thundering Lizard Inn and Tavern**_: for characters who want a raucous time; 5 silver coin per night for a **poor lifestyle**.
+  111  - _**Kaya's House of Repose**_: for characters who want a good night's sleep; 1 gold coin per night for a **modest lifestyle**.
+
+tomb_of_annihilation\player_notes\buying_items_in_Port_Nyanzaru.md:
+   35  |-|-|-|
+   36: | Canoe | 50 gold coin | Carries six characters. |
+   37  | Rain Catcher | 1 gold coin | Can hold up to 8 gallons of rainwater. |
+   38  | Yklwa | 1 gold coin | Simple melee weapon: 1d8 piercing damage, thrown 10/30 ft |
+   39: | _+1 Ammunition_ | 50 gold coin per piece | Magical: +1 to attack rolls and damage |
+   40: | _+1 Wooden Shield_ | 450 gold coin | Magical: +1 to AC |
+   41: | _+1 Dagger_ | 500 gold coin | Magical: +1 to attack rolls and damage |
+   42: | _+1 Yklwa_ | 500 gold coin | Magical: +1 to attack rolls and damage |
+   43  
+
+   60  |-|-|
+   61: | Flying Monkey | 100 gold coin |
+   62: | Giant Lizard | 100 gold coin |
+   63: | Hadrosaur | 100 gold coin |
+   64: | Ankylosaur | 250 gold coin |
+   65: | Deinonychus | 250 gold coin |
+   66: | Flying Snake | 250 gold coin |
+   67: | Triceratops | 500 gold coin |
+   68  
+
+   86  |-|-|-|
+   87: |Dancing Monkey Fruit|5 gold coin|a juicy and extremely sweet bright green fruit|
+   88: |Menga Leaves|2 gold coin for 1 ounce|dried red-and-purple leaves that make a chocolatey drink|
+   89: |Ryath Root|50 gold coin|a pitch-black small potato that tastes woody|
+   90: |Sinda Berries|5 gold coin for 10 berries|bitter dark brown berries|
+   91: |Wildroot|25 gold coin|resembles a deep green ginger root and tastes like a tough hardboiled egg|
+   92  |Wukka Nut|1 gold coin|a fist-sized nut that rattles when shaken|
+   93  |Yahcha|1 gold coin|a brown beetle the size of a human hand|
+   94: |Zabou|10 gold coin|a dark blue mushroom|
+   95  
+
+   98  |-|-|-|-|
+   99: |Assassin's Blood       |Ingested|150 gold coin|Poison damage and _poisoned_ for an hour.|
+  100: |Truth Serum            |Ingested|150 gold coin|_Poisoned_ and the equivalent of _zone of truth_ for 1 hour.|
+  101: |Pale Tincture          |Ingested|250 gold coin|_Poisoned_ and 1d6 incurable poison damage every 24 hours; seven successful saving throws to shake.|
+  102: |Torpor                 |Ingested|600 gold coin|_Poisoned_ and _incapacitated_ for 4d6 hours.|
+  103: |Midnight Tears         |Ingested|1500 gold coin|Massive poison damage at the stroke of midnight.|
+  104  ||-|
+  105: |Drow Poison            |Injury|200 gold coin|_Poisoned_ and _unconscious_ for 1 hour.|
+  106: |Serpent Venom          |Injury|200 gold coin|Poison damage.|
+  107: |Wyvern Poison          |Injury|1200 gold coin|Heavy poison damage.|
+  108: |Purple Worm Poison     |Injury|2000 gold coin|Massive poison damage.|
+  109  ||-|
+  110: |Carrion Crawler Mucus  |Contact|200 gold coin|_Poisoned_ and _paralyzed_ for up to 1 minute.|
+  111: |Oil of Taggit          |Contact|400 gold coin|_Poisoned_ and _unconscious_ for 24 hours.|
+  112  ||-|
+  113: |Essence of Ether       |Inhaled|300 gold coin|_Poisoned_ and _unconscious_ for 8 hours.|
+  114: |Burnt Othur Fumes      |Inhaled|500 gold coin|3 rounds of poison damage.|
+  115: |Malice                 |Inhaled|250 gold coin|_Poisoned_ and _blinded_ for 1 hour.|
+  116  
+
+  142  |-|-|-|
+  143: | Tej, mug | 4 copper coin | 6 copper coin in Fort Beluarian |
+  144: | Tej, 1-gallon cask | 2 silver coin | 3 silver coin in Fort Beluarian |
+  145  | Insect Repellant Incense | 1 silver coin for a block of incense | When lit, it burns for 8 hours and repels non-monstrous insects in a 20-foot radius. |
+
+  177  |-|-|
+  178: | Spell scroll, cantrip | 50 gold coin |
+  179: | Spell scroll, 1st-level | 100 gold coin |
+  180: | Spell scroll, 2nd-level | 550 gold coin |
+  181: | Potion, common | 50 gold coin |
+  182: | Potion, uncommon | 300 gold coin |
+  183: | Wondrous item, common | 150 gold coin |
+  184  
+
+tomb_of_annihilation\player_notes\rules_for_encumbrance.md:
+  53  |750 coins or gems|1 stone|
+  54: |Gold treasure or art|1 stone per 750 gold coin value|
+  55  |2 gallons of water and 1 pound of food|1 stone|one day's supplies for a single character in Chult|
+
+tomb_of_annihilation\player_notes\rules_for_travelling.md:
+  66  - 1 hex per day on land or walking along rivers.
+  67: - 2 hexes per day with a canoe on a river, lake, or shore. A canoe costs 50 gold coin in Port Nyanzaru and carries six characters.
+  68: - 10 hexes per day as a passenger on a sailing ship. Passage can be bought for 10 gold coin per day per passenger, with fast pace costing double.
+  69  

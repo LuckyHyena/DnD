@@ -1,0 +1,15 @@
+# Query: [^!]\\[.*\\]\\([^h#][^#]*\\)
+# Flags: RegExp
+# ContextLines: 1
+
+2 results - 2 files
+
+homebrew\5e_ability_checks.md:
+   9  
+  10: To accomplish this goal, the 5e team developed a system with a new abstract mathematical core, which they called [bounded accuracy](), and then built a minimal set of vanilla rules on top of that core that makes it feel much like older editions for existing players. Thus, 5e has been called ["everybody's second-favorite edition"](), because players from any previous edition can quickly pick up 5e, learn about the new _advantage_ rule and the truncated skill list, and keep playing D&D in essentially the same way they always have.
+  11  
+
+tomb_of_annihilation\player_notes\rules_for_long_rests.md:
+  29  ### Travelling in the jungle
+  30: Use the [rules for campsites in Chult](rules_for_campsites_in_Chult.md).
+  31  

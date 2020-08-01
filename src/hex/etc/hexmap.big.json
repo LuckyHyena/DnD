@@ -1,0 +1,14 @@
+{
+    "minX": -40,
+    "maxX": 30,
+    "minY": -20,
+    "maxY": 60,
+    "sourceImage": "hexmap.png",
+    "pixelX": 19,
+    "pixelY": 22,
+    "halfPixelX": 11,
+    "originX": 813,
+    "originY": 480,
+    "maxPixelX": 1477,
+    "maxPixelY": 1980
+}
