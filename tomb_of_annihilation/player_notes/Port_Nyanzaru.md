@@ -21,7 +21,7 @@
 
 5. Flowers and green plants sprout out of every crack and seam of Nyanzaru's stone streets and buildings. Nyanzaru's residents must manage the plants to prevent damage to the city's structures, and a few abandoned buildings are collapsing under creeping vines and moss.
 
-6. A gargantuan dragon turtle called [Aremag](dramatis_personae.md#aremag) patrols the Bay of Chult and demands treasure from ships that pass through while going to or from Port Nyanzaru. Although a drag on trade, many citizens of Port Nyanzaru have become fond of Aremag as a symbol of the city. The covetous beast is indifferent, and largely unaware of the concerns of the city.
+6. A gargantuan dragon turtle called [Aremag](dramatis_personae.md#aremag) patrols the Bay of Chult and demands treasure from ships that pass through while going to or from Port Nyanzaru.
 
 7. In addition to trade from the Trackless Sea and the Shining Sea, the economy of Port Nyanzaru is based on mining, cutting lumber, hunting, and gathering rare materials from the jungle. Laborers living in hamlets and work camps in the jungle are in constant danger of being forced out by the undead and other dangers.
 

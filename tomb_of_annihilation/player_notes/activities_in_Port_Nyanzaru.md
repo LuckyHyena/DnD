@@ -559,6 +559,13 @@ If the party encounters another ship or a sea creature, and starts communicating
 
 > **Plot Armor:** Player characters that fall overboard or go down with a sinking ship will always wash up on the shores of Chult, due to the _Tarrasque_. Ships or boats owned by the party do not have _plot armor_.
 
+---
+
+# Aremag
+![Aremag the Dragon Turtle waylays a sailing ship](images/aremag_wotc.jpg)
+
+The ancient dragon turtle Aremag patrols the Bay of Chult, demanding treasure from the many ships passing through. Although there's too much traffic for Aremag to bother every single ship that sails by, make no mistake about the danger: Aremag won't hesitate to sink an uncooperative or fast-talking ship so that she can simply pick out the treasure at her leisure. Most Port Nyanzaru citizens have little sympathy for captains [foolish enough to irritate the famous beast](dramatis_personae.md#aremag).
+
 ![immovable rod](../../images/immovable-rod.jpg)
 
 # Sign up for a Class in Adventuring

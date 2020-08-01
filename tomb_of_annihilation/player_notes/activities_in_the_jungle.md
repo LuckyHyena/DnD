@@ -9,7 +9,7 @@
 
 ![Chultan Jungle](images/undead-trex.jpg)
 
-While the party is travelling around Chult, a character may optionally choose to pursue one of the following downtime activities while relying on other members of the party to navigate. Any character doing a downtime activity while the party is exploring is distracted, and receives the following penalties:
+While the party is travelling around Chult, a character may optionally choose to pursue one of the following downtime activities while relying on other members of the party to navigate. Any character doing a downtime activity while the party is exploring is distracted, and suffers the following penalties:
 
 - Disadvantage on **all saving throws** for the day.
 - Disadvantage on **initiative rolls** during random encounters.
@@ -42,7 +42,7 @@ For every __fifteen__ downtime days a character invests in catching up, they gai
 
 A character with enough Experience Chunks can level up as part of any long rest.
 
-The character that is catching up still suffers the full penalties of being **distracted**.
+A character that is catching up suffers the normal penalties for being distracted, except they **don't suffer disadvantage on saving throws**.
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
