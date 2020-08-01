@@ -14,7 +14,7 @@ For speed and simplicity plan the party's days a _tenday_ at a time.
 
 #### Background Info
 - [Welcome to Chult!](introduction.md#welcome-to-chult)
-- [Welcome to Port Nyanzaru](introduction.md#port-nyanzaru)
+- [Welcome to Port Nyanzaru](Port_Nyanzaru.md#top)
 - [Dramatis Personae](dramatis_personae.md#top)
 - [Special items available for purchase in Port Nyanzaru](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#top)
 
@@ -51,9 +51,9 @@ Uncommon:
 
 ---
 
-### Lifestyles
-[Districts and Locations in Port Nyanzaru](introduction.md#port-nyanzaru)
+![Port Nyanzaru map](images/port-nyanzaru.png)
 
+### Lifestyles
 |Lifestyle|Activities Available|Expenses per Day|Potential Residences|
 |-|-|-|-|
 |Wretched|-|-|Sleeping in the Malar's Throat slums and consuming food and water from your inventory.|
@@ -66,14 +66,12 @@ Uncommon:
 |Wealthy|Carousing|5 gold coins|A private residence in the market ward.|
 |Aristocratic|-|at least 1 platinum coin|Residing in the merchants' ward as the guest of a merchant prince.|
 
-![Port Nyanzaru map](images/port-nyanzaru.png)
+[Districts and Locations in Port Nyanzaru](Port_Nyanzaru.md#top)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
 ### Downtime Day Activities
 For every __downtime day__ the party spends in Port Nyanzaru, each character may choose one of the following activities to spend their time on:
-
----
 
 # Working
 If nothing else strikes a character's fancy, they may work any trade or profession they know in order to maintain a **modest lifestyle for free**.
@@ -133,8 +131,6 @@ A character that spends additional days relaxing can reroll the 1d6 and keep the
 
 Characters that are relaxing while out and about in Port Nyanzaru are more likely to stumble across people and things in the city than characters that are in the city to accomplish something.
 
----
-
 ### Port Nyanzaru: Public Baths of Sune
 Worshippers of Sune maintain the large public baths that can be found in the market ward of Port Nyanzaru. Citizens from every district come to enjoy these open-air baths, and despite the heavy traffic the city is justifiably proud of the cleanliness and quality of the baths. Giant rain catchers above the baths capture the daily rainfall of Chult for later use in refreshing the baths.
 
@@ -144,12 +140,12 @@ Aside from the public baths of Sune, various private bathhouses can be found thr
 
 ![Public baths in Hungary](images/public-bathhouses-gellert-budapest-hungary.png)
 
----
-
 ### Port Nyanzaru: The Thundering Lizard Tavern
 A character doesn't necessarily need to expend the cost and energy needed to [carouse](#carousing) if they just want to spend the day hanging out at the Thundering Lizard Tavern or one of the many other taverns in Port Nyanzaru. Generally, such characters avoid drawing attention to themselves and try to stay out of any of fights that break out; if they do end up joining a fight then they spend the downtime day [fighting](#fighting) instead of relaxing.
 
 You may be surprised to learn that, aside from the Thundering Lizard Tavern, taverns and other watering holes can be found throughout every district of Port Nyanzaru.
+
+---
 
 # Gaming
 ![Gaming](images/gaming.jpg)
@@ -215,7 +211,17 @@ The people of Faerûn have a practical and unsentimental relationship with their
 |Hall of Gold|Waukeen, deity of trade and wealth|Market Ward|Sibonseni, Mother of Prosperity|
 |Temple of Tymora|Tymora, deity of good fortune|Malar's Throat|-|
 
+---
+
+![Kwayothé](images/Merchant_Prince_Kwayothé.jpg)
+
+_The young high priestess of Port Nyanzaru's Temple of Sune, Kwayothé, is also a powerful and ambitious merchant prince. She controls the sale of alcohol, fruit, oil, perfume, and insect repellant: this gives her additional de facto power over most of Port Nyanzaru's taverns, restaurants, ceremonies, celebrations, and day-to-day life._
+
+![immovable rod](../../images/immovable-rod.jpg)
+
 # Investigating
+![Investigation](images/investigation.jpg)
+
 Investigation includes not only the gumshoe kind but also formal research in libraries and guilds as well as talking to people in Port Nyanzaru for information. Investigating costs **1 gold coin per day** in addition to lifestyle expenses.
 
 Investigating commonly involves either **Intelligence** or **Charisma** ability checks with the _Investigation_ skill proficiency, but uses other ability checks and other skill or tool proficiencies for investigating specialized knowledge. Running a stakeout or long-term investigation might require either a **Constitution** or **Wisdom** ability check with your _Investigation_ proficiency or saving throw proficiency.
@@ -234,6 +240,14 @@ Port Nyanzaru's volume of trade means that the party has at least a chance of fi
 
 ### Port Nyanzaru: Temple of Savras
 In the merchants' ward is an opulent temple of Savras, Faerûn deity of divination and fate. For a price they can cast or assist with a ritual spell, as described below.
+
+---
+
+![Wakanga O'tamu](images/Merchant_Prince_Wakanga_O'tamu.jpg)
+
+_Wizard and merchant prince Wakanga O'tamu has final legal authority over magic item sales and spellcasting services in Port Nyanzaru. He's hosting Syndra Silvane in his mansion in the Merchants' ward._
+
+![immovable rod](../../images/immovable-rod.jpg)
 
 # Casting a Ritual Spell
 Casting a ritual spell generally involves making ability checks using your spellcasting ability, along with either your _Arcana_, _Religion_, or _Nature_ skill proficiency.
@@ -289,27 +303,25 @@ The temple of Savras can provide the ritual spell services shown below at the li
 |Location of an object|Party has object|-|-|-|
 |History of an object|Description|2d10|1d20|2 platinum coins|
 |History of an object|Party has object|2d10|2d10|1 platinum coin|
-|The _Soulmonger_|Hope and a literal prayer|5d20|5d20|10 platinum coins|
+|The _Soulmonger_|Hope and a literal prayer|10d20|10d20|10 platinum coins|
 
 
 ### Port Nyanzaru: _Teleportation Circles_
-Teleporting is an expensive way to travel with obvious advantages. Several large public _teleportation circles_ are available in Port Nyanzaru's harbor ward as well as the merchants' ward, and a few private circles can be found around the city.
+Teleporting is an expensive way to travel with obvious advantages. Several large public _teleportation circles_ are available in Port Nyanzaru's harbor ward as well as the merchants' ward, and a few private circles can be found around the city. Finding mages willing to operate those circles on the party's behalf is trivial in either case, although again expensive: the listed **price below is doubled** unless at least one party spellcaster spends downtime days assisting the ritual.
 
-Finding mages willing to operate those circles on the party's behalf is trivial in either case, although again expensive: the listed price below is doubled unless at least one party spellcaster spends downtime days assisting the ritual.
+All _teleportation_ spells require **one final downtime day** for the casting of the spell, which requires the party to gather at a particular _teleportation circle_ and stand still for a while.
 
-All _teleportation_ spells have one final casting day, which requires the party to gather at a particular _teleportation circle_ and stand still for a while.
-
-If you don't have the location mapped and can't measure how many hexes the distance will be, you'll receive **no information** about how many days are remaining.
+If you don't have the location mapped and can't measure how many hexes the distance will be, you'll receive **no information** about how many days are remaining before the teleportation ritual manages to locate your target and becomes castable.
 
 Generally, teleportation targets must be outdoors.
 
 |Teleportation Target|Material|Total Ritual Days|Price Per Day|
 |-|-|-|-|
-|Location in Chult|Description|1d20 per hex tile*|1 platinum coin|
-|Location in Chult|Party has an item from there|2d10 per hex tile*|1 platinum coin|
-|Location in Chult|Party has visited before|1d10 per hex tile*|5 gold pieces|
-|A location in greater Faerûn*|Description|3d20|1 platinum coin|
-|A location inside Port Nyanzaru**|Party has visited before|4d20|1 platinum coin|
+|Location in Chult|Description|1d20 per hex tile*|10 platinum coins|
+|Location in Chult|Party has an item from there|2d10 per hex tile*|10 platinum coins|
+|Location in Chult|Party has visited before|1d10 per hex tile*|50 gold pieces|
+|A location in greater Faerûn*|Description|3d20|10 platinum coins|
+|A location inside Port Nyanzaru**|Party has visited before|4d20|10 platinum coins|
 
 *If you're asking "why is it faster to..." it's because of the Spellplague and the **Tarrasque**, _obviously_.
 
@@ -358,6 +370,12 @@ A character may attempt to hunt down a specific magic item by talking to well-co
 # Selling a Magic Item
 Few non-adventurers have the wealth or the need to own magic items. Finding a potential buyer for any magic item requires at least `5d20+[20 minus a Charisma check result]` downtime days, and an additional hard [DC 20] **Charisma** check is required to determine the maximum price the buyer is willing to pay.
 
+---
+
+![Zhanthi](images/Merchant_Prince_Zhanthi.jpg)
+
+_The Chultan noble Zhanthi is a descendant of one of the founders of the city, and she's long been the wealthiest merchant prince. Zhanthi controls the exclusive and highly-secure Jewel Market, where most trade in magic items, armor, and other expensive items occurs._
+
 ![immovable rod](../../images/immovable-rod.jpg)
 
 # Fighting
@@ -365,6 +383,12 @@ Few non-adventurers have the wealth or the need to own magic items. Finding a po
 ![The Grand Coliseum](images/Banquet_Hall_by_liyart.jpg)
 
 If you're not getting enough combat in your Dungeons & Dragons, for the price of just **one downtime day** I can provide an interesting fight at the arena of your choice: _**The Grand Coliseum**_, _**The Executioner's Run**_, or _**The Thundering Lizard Tavern**_. Winners earn prizes, but _everyone_ earns experience points.
+
+---
+
+![Ekene-Afa](images/Merchant_Prince_Ekene-Afa.jpg)
+
+_Ex-gladiator Ekene-Afa is the merchant prince of mercenaries in Port Nyanzaru, and also regulates all combat within the city._
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
@@ -429,6 +453,10 @@ Most racers use rented or borrowed animals, but a character may choose to purcha
 If a character has an initial down payment of 25% or so, they can purchase a dinosaur on a loan, using the same rules as [putting down money for a Magic Item](#putting-down-money-for-a-magic-item).
 
 A character who wishes to raise a wild dinosaur from an egg or juvenile can do so as a [special project](#developing-relationships-investments-and-projects).
+
+![Ifan Talro'a](images/Merchant_Prince_Ifan_Talro'a.jpg)
+
+_The merchant prince Ifan Talro'a controls all sales of beasts and beast training in Port Nyanzaru._
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
@@ -501,12 +529,12 @@ To be fully crewed a sailing ship requires crew members equal to its normal spee
 If a ship lacks a full crew, its normal speed is one hex for each crew member it does have. Additional crew members don't add speed above the ship's normal maximum.
 
 ##### Red sky in the morning, sailors take warning
-> **Caution!** As long as at least one character crewing the ship is _proficient_ in _Sailing_, other characters may opt to rely on that character for direction and do a _**cautious**_ job: they skip making an ability check that day but can still contribute to the ship's normal speed.
+**Caution!** As long as at least one character crewing the ship is _proficient_ in _Sailing_, other characters may opt to rely on that character for direction and do a _**cautious**_ job: they skip making an ability check that day but can still contribute to the ship's normal speed.
 
 ##### Gotta spend coin to make coin
 As per the _Player's Handbook_, it costs **2 gold coins per day** to employ a skilled hireling, including a sailor. Sailors who are mistreated, or significantly cheaper sailors, might mutiny, steal the ship while the party is ashore, or simply abandon their post at the first available opportunity.
 
-Skilled sailors are proficient in _Sailing_ and generally have a total proficiency and ability bonus of **+5** for all _Sailing_ checks, depending on their price. If the crew's morale is low from the difficulty of the journey, or from being away from port for too long, their _Sailing_ proficiency bonus will drop.
+Skilled sailors are proficient in _Sailing_ and generally have a total proficiency and ability bonus of **+7** for all _Sailing_ checks, depending on their price. If the crew's morale is low from the difficulty of the journey, or from being away from port for too long, their _Sailing_ proficiency bonus will drop.
 
 > **Character Bonus:** One member of the party and one optional assistant may make a **Hard difficulty** [DC 20] **Charisma** ability check to improve the crew's morale, as long as the low morale isn't being caused by the antics of the party itself.
 
@@ -561,6 +589,10 @@ Characters can also retrain while the party is exploring in the jungle.
 
 # Training with a Skill or Tool
 
+> **_The Adventurer's League_** has no truck with __any__ of this nonsense.
+
+---
+
 A character can train to add a permanent +1 to their proficiency bonus for a particular skill or tool, whether or not they are currently _proficient_ with it. A character may train multiple times to increase their bonus further in the same skill or tool, or to train in different ones.
 
 Training requires **10 downtime days** plus **10 more days** for each point of existing proficiency bonus for that skill. It costs **1 gold coin per day** in addition to lifestyle expenses, and a character can't earn coin from working on days they are training.
@@ -573,10 +605,6 @@ If a character trains a skill or tool they aren't _proficient_ with, the charact
 
 > **Character Bonus: Bards and Rogues** with the expertise class feature may use that feature to double the effective bonus to +2.
 Until they are _proficient_, bards with the jack-of-all-trades class feature may use either their jack-of-all-trades bonus or their training bonus for ability checks.
-
----
-
-> **_The Adventurer's League_** has no truck with __any__ of this nonsense.
 
 > _for now let's cap the maximum proficiency bonus at +12, or up to a +6 training bonus. in 5e your final proficiency bonus will by +6, so this could double it_
 
@@ -631,7 +659,7 @@ A **Wizard** may spend downtime days to copy spells into their personal spellboo
 
 Searching [Wakanga O'tamu's extensive library](#port-nyanzaru-syndra-silvane-and-wakanga-otamu) for a spell and copying it down requires **2 downtime days per level** of the spell, and **5 platinum coins** per day. You may copy a cantrip in a single downtime day.
 
-If you have a specific spellbook you've looted or found in Chult, you may copy spells in half the downtime days, and with the same daily price, as a spell from O'tamu's library.
+If you have a specific spellbook you've looted or found in Chult, you may copy spells in **half the downtime days and total price** as a spell from O'tamu's library.
 
 A standard wizard's spellbook costs 5 platinum coins and has 100 vellum pages. Each spell requires 1 page per spell level.
 
@@ -652,10 +680,10 @@ A character can invest time and coin into developing relationships, investments,
 - Speculating and advising on an investment opportunity.
 - Establishing a permanent resource or benefit for the party.
 
-![Special Projects](images/special-projects.jpg)
-
 # Looking for a Side Quest
 Wow I sure have typed up a lot of options at this point, _but!_ there are also a few small "side quests" to be found around Port Nyanzaru. Thanks for reading, and welcome to the fantastic city of **Port Nyanzaru**, the starting base camp for your adventures in [**_Tomb of Annihilation_**](README.md#top)!
+
+![Special Projects](images/special-projects.jpg)
 
 ---
 

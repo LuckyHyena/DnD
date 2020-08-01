@@ -110,7 +110,9 @@ joh-BAWL is a Chultan ex-guide who manages the loose network of Port Nyanzaru **
 
 ![Kwayothé](images/Merchant_Prince_Kwayothé.jpg)
 
-kway-OH-thay is the Port Nyanzaru high priestess of Sune, deity of love and beauty. As high priestess she's responsible for managing both the temple of Sune in the merchants' ward as well as the public baths maintained in the market ward by the temple. As one of the seven merchant princes she controls the sale of **tej, wine, ale, fruit, oil, perfume, and insect repellant**, and her portion of the Port Nyanzaru economy is the largest in terms of the population it employs: Kwayothé has authority over most restaurants, taverns, grocers, ceremonies, celebrations, and many other parts of day-to-day life in the city. Most of those who are thus employed don't directly work for Kwayothé, but she does maintain a significant formal organization to enforce her regulations and fees. Additionally, Kwayothé directly owns several of the largest companies involved in the production of the goods she controls.
+kway-OH-thay is the Port Nyanzaru high priestess of Sune, deity of love and beauty. As high priestess she's responsible for managing both the temple of Sune in the merchants' ward as well as the public baths maintained in the market ward by the temple.
+
+As a merchant prince, Kwayothé controls the sale of **tej, wine, ale, fruit, oil, perfume, and insect repellant**, and her portion of the Port Nyanzaru economy is the largest in terms of the population it employs: Kwayothé has authority over most restaurants, taverns, grocers, ceremonies, celebrations, and many other parts of day-to-day life in the city. Most of those who are thus employed don't directly work for Kwayothé, but she does maintain a significant formal organization to enforce her regulations and fees. Additionally, Kwayothé directly owns several of the largest guilds involved in the production of the goods she controls.
 
 > **Tej** is Chult's alcohol of choice, an amber-colored fermented drink made from honey.
 
@@ -129,7 +131,7 @@ kway-OH-thay is the Port Nyanzaru high priestess of Sune, deity of love and beau
 
 ![Zhanthi](images/Merchant_Prince_Zhanthi.jpg)
 
-JOHN-thee is a Chultan noble who holds the monopoly on the sale of **gems, jewelry, cloth, and armor** in Port Nyanzaru. Zhanthi manages all of the activity in the Jewel Market except for magical items, which are under the authority of Wakanga O'tamu. Zhanthi and Kwayothé are two of the wealthiest merchant princes, and Zhanthi pays high salaries to keep the Jewel Market well-staffed with reliable and trustworthy people.
+JOHN-thee is a Chultan noble who holds the monopoly on the sale of **gems, jewelry, cloth, and armor** in Port Nyanzaru. Zhanthi manages all of the activity in the Jewel Market except for magical items, which are under the authority of Wakanga O'tamu. Zhanthi and Kwayothé are the two wealthiest merchant princes, and Zhanthi pays high salaries to keep the Jewel Market well-staffed with reliable and trustworthy people.
 
 
 > **Heavy armor** is rare in Chult due to the climate and costs triple the normal price. Most types of medium and heavy armor can only be found for sale in the Jewel Market.
@@ -140,7 +142,10 @@ JOHN-thee is a Chultan noble who holds the monopoly on the sale of **gems, jewel
 
 ![Wakanga O'tamu](images/Merchant_Prince_Wakanga_O'tamu.jpg)
 
-wah-KANG-gah oh-TAH-moo is a Chultan wizard with authority over all Port Nyanzaru business deals involving **magic items and lore**. Much like their absentminded merchant prince, the various mages of Port Nyanzaru are unorganized but usually don't cause too much trouble. Wakanga is only occasionally found in the Jewel Market, and trusts Zhanthi to resolve issues in his absence.
+wah-KANG-gah oh-TAH-moo is a Chultan wizard with authority over all Port Nyanzaru business deals involving **magic items, arcane lore, and spellcasting services**. Much like their absentminded merchant prince, the various mages of Port Nyanzaru are unorganized but usually don't cause too much trouble. Wakanga is only occasionally found in the Jewel Market, and trusts Zhanthi to resolve issues in his absence.
+
+#### Spellcasting Services
+See [casting a ritual spell](activities_in_Port_Nyanzaru.md#casting-a-ritual-spell) as an activity in Port Nyanzaru.
 
 #### Magic Items
 These basic magic items are commonly produced in Port Nyanzaru and are usually available for purchase in the Jewel Market. Additional magic items are sometimes available for sale in the Jewel Market and occasionally in the Grand Souk; see [buying a magic item](activities_in_Port_Nyanzaru.md#buying-a-magic-item) as an activity in Port Nyanzaru.
@@ -169,54 +174,27 @@ If a spell has a material component with a listed price, that price is added to 
 ## Common Potions
 ### 5 platinum coins
 
-#### Potion of Healing
-You regain **2d4+2 hit points** when you drink this potion. The potion’s red liquid glimmers when agitated.
-
-#### Potion of Climbing
-When you drink this potion, you gain a climbing speed equal to your walking speed for 24 hours. During this time, you have advantage on Strength (Athletics) checks you make to climb. The potion is separated into brown, silver, and gray layers resembling bands of stone. Shaking the bottle fails to mix the colors.
+|Common Potion|Description|
+|-|-|
+|Potion of Healing|You regain **2d4+2 hit points** when you drink this potion. The potion’s red liquid glimmers when agitated.|
+|Potion of Climbing|When you drink this potion, you gain a climbing speed equal to your walking speed for 24 hours. During this time, you have advantage on Strength (Athletics) checks you make to climb. The potion is separated into brown, silver, and gray layers resembling bands of stone. Shaking the bottle fails to mix the colors.|
 
 ---
 
 ## Uncommon Potions
 ### 30 platinum coins
 
-#### Potion of Animal Friendship
-When you drink this potion, for the next 24 hours you can cast the _animal friendship_ spell (save DC 13) at will. Agitating this muddy liquid brings little bits into view: a fish scale, a hummingbird tongue, a cat claw, or a squirrel hair.
-
-#### Potion of Fire Breath
-After drinking this potion, you can use a bonus action to exhale fire at a target within 30 feet of you. The target must make a DC 13 Dexterity saving throw, taking 4d6 fire damage on a failed save, or half as much damage on a successful one. The effect ends after you exhale the fire three times or when 24 hours have passed.
-
-This potion's orange liquid flickers, and smoke fills the top of the container and wafts out whenever it is opened.
-
-#### Potion of Greater Healing
-You regain **4d4+4 hit points** when you drink this potion. The potion’s red liquid glimmers when agitated.
-
-#### Potion of Growth
-When you drink this potion, you gain the "enlarge" effect of the _enlarge/reduce_ spell for 1d4 hours (no concentration required). The red in the potion's liquid continuously expands from a tiny bead to color the clear liquid around it and then contracts. Shaking the bottle fails to interrupt this process.
-
-#### Potion of Hill Giant Strength
-When you drink this potion, your Strength score changes to 21 for 1 hour. The potion has no effect on you if your Strength is equal to or greater than that score.
-
-This potion's transparent liquid has floating in it a sliver of fingernail from a hill giant.
-
-#### Philter of Love
-The next time you see a creature within 10 minutes after drinking this philter, you become **charmed** by that creature for 1 hour. If the creature is of a species and gender you are normally attracted to, you regard it as your true love while you are charmed. This potion's rose-hued, effervescent liquid contains one easy-to-miss bubble shaped like a heart.
-
-#### Potion of Poison
-This concoction looks, smells, and tastes like a potion of healing or other beneficial potion. However, it is actually poison masked by illusion magic. An _identify_ spell reveals its true nature.
-
-If you drink it, you take 3d6 poison damage, and you must succeed on a DC 13 Constitution saving throw or be poisoned. At the start of each of your turns while you are poisoned in this way, you take 3d6 poison damage. At the end of each of your turns, you can repeat the saving throw. On a successful save, the poison damage you take on your subsequent turns decreases by 1d6. The poison ends when the damage decreases to 0.
-
-#### Potion of Resistance
-When you drink this potion, you gain resistance to one type of damage for 24 hours. You can purchase a potion of resistance for acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder damage.
-
-#### Oil of Slipperiness
-This sticky black unguent is thick and heavy in the container, but it flows quickly when poured. The oil can cover a Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of a _freedom of movement_ spell for 8 hours.
-
-Alternatively, the oil can be poured on the ground as an action, where it covers a 10-foot square, duplicating the effect of the _grease_ spell in that area for 8 hours.
-
-#### Potion of Water Breathing
-You can breathe underwater for 24 hours after drinking this potion. Its cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it.
+|Uncommon Potion|Description|
+|-|-|
+|Potion of Animal Friendship|When you drink this potion, for the next 24 hours you can cast the _animal friendship_ spell (save DC 13) at will. Agitating this muddy liquid brings little bits into view: a fish scale, a hummingbird tongue, a cat claw, or a squirrel hair.|
+|Potion of Fire Breath|After drinking this potion, you can use a bonus action to exhale fire at a target within 30 feet of you. The target must make a DC 13 Dexterity saving throw, taking 4d6 fire damage on a failed save, or half as much damage on a successful one. The effect ends after you exhale the fire three times or when 24 hours have passed. This potion's orange liquid flickers, and smoke fills the top of the container and wafts out whenever it is opened.|
+|Potion of Greater Healing|You regain **4d4+4 hit points** when you drink this potion. The potion’s red liquid glimmers when agitated.|
+|Potion of Growth|When you drink this potion, you gain the "enlarge" effect of the _enlarge/reduce_ spell for 1d4 hours (no concentration required). The red in the potion's liquid continuously expands from a tiny bead to color the clear liquid around it and then contracts. Shaking the bottle fails to interrupt this process.|
+|Potion of Hill Giant Strength|When you drink this potion, your Strength score changes to 21 for 1 hour. The potion has no effect on you if your Strength is equal to or greater than that score. This potion's transparent liquid has floating in it a sliver of fingernail from a hill giant.|
+|Philter of Love|The next time you see a creature within 10 minutes after drinking this philter, you become **charmed** by that creature for 1 hour. If the creature is of a species and gender you are normally attracted to, you regard it as your true love while you are charmed. This potion's rose-hued, effervescent liquid contains one easy-to-miss bubble shaped like a heart.|
+|Potion of Resistance|When you drink this potion, you gain resistance to one type of damage for 24 hours. You can purchase a potion of resistance for acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder damage.|
+|Oil of Slipperiness|This sticky black unguent is thick and heavy in the container, but it flows quickly when poured. The oil can cover a Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of a _freedom of movement_ spell for 8 hours. Alternatively, the oil can be poured on the ground as an action, where it covers a 10-foot square, duplicating the effect of the _grease_ spell in that area for 8 hours.|
+|Potion of Water Breathing|You can breathe underwater for 24 hours after drinking this potion. Its cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it.|
 
 ---
 
