@@ -3,9 +3,11 @@
 
 ###### top
 
-
 ## Tomb of Annihilation
+
 # Rules for downtime activities in the jungle
+
+![Chultan Jungle](images/undead-trex.jpg)
 
 While the party is travelling around Chult, a character may optionally choose to pursue one of the following downtime activities while relying on other members of the party to navigate. Any character doing a downtime activity while the party is exploring is distracted, and receives the following penalties:
 

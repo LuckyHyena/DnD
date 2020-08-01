@@ -7,6 +7,8 @@
 ##### Tomb of Annihilation
 # Items available for purchase in Port Nyanzaru
 
+![Port Nyanzaru Markets](images/buying.jpg)
+
 ## The Merchant Princes
 ![The Merchant Princes](images/merchant_princes.jpg)
 _From left to right: Ekene-Afa, Ifan Talro'a, Jessamine, Jobal, Kwayothé, Zhanthi, Wakanga O'tamu_

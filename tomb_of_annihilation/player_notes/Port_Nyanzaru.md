@@ -38,6 +38,8 @@ The harbor ward includes the extensive, and labyrinthine, cargo docks where ship
 - The Royal Docks: restricted for the use of the merchant princes and their preferred guests.
 - Dry docks for repairing ships.
 
+---
+
 ### Market Ward
 The market ward is where the majority of Port Nyanzaru's population lives. Parts of the market ward stay open all night; other, more residential areas generally quiet down at night, although the streets never become completely empty.
 
@@ -50,6 +52,10 @@ The market ward is where the majority of Port Nyanzaru's population lives. Parts
 - [A public bathhouse run by worshippers of Sune](activities_in_Port_Nyanzaru.md#port-nyanzaru-public-baths-of-sune).
 - [The Grand Coliseum](activities_in_Port_Nyanzaru.md#port-nyanzaru-the-grand-coliseum), where violent gladiatorial games are held most afternoons.
 
+![Port Nyanzaru Markets](images/buying.jpg)
+
+---
+
 ### Merchants' Ward
 Port Nyanzaru's upper classes reside in the opulent merchants' ward. This area hosts the finest shops and the biggest market in the city during the day, while at night anyone trying to travel or do business in the district must submit to questioning by the numerous [Zhentarim](dramatis_personae.md#the-zhentarim) guard patrols.
 
@@ -61,6 +67,8 @@ Port Nyanzaru's upper classes reside in the opulent merchants' ward. This area h
 - Temple of Savras, deity of divination and fate.
 - Temple of Sune, deity of love and beauty. High priestess [Kwayothé](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#kwayothé) is also a merchant prince, and controls all Port Nyanzaru trade in tej, wine, ale, fruit, oil, perfume, and insect repellant.
 
+---
+
 ### Old City
 The original Chultan city of Nyanzaru, which Amn conquered and expanded into the modern Port Nyanzaru. This section that was left outside the city walls has become a lower-class but still-respectable part of the city where many laborers live.
 
@@ -68,12 +76,18 @@ The original Chultan city of Nyanzaru, which Amn conquered and expanded into the
 - [The Executioner's Run](activities_in_Port_Nyanzaru.md#port-nyanzaru-the-executioners-run): a rectangular pit where criminals are sentenced to death via dinosaur. Visitors from all over the city come to watch.
 - The city garbage dump.
 
+![Velociraptors like those at the Executioner's Run](images/raptors_raph04art.jpg)
+
+---
+
 ### Malar's Throat
 People with nowhere else to go in Port Nyanzaru are eventually forced into Malar's Throat, the slum district outside the city walls.
 
 Two deep, jungle-covered ridges flank a ravine filled with trash, which floods during heavy rains. Ramshackle housing is crammed into every available space on the ridges. Rope and bamboo bridges up to 200 feet long hang between them, allowing passage over the ravine. Pickpockets wait on the hanging bridges and use fishing lines to steal from victims.
 
 - Temple of Tymora, goddess of good fortune.
+
+---
 
 ### Tiryki Anchorage
 A less-developed area outside the city walls, the Tiryki (tee-REE-kee) anchorage is home to "animal trainers, river folk, and other rough-and-tumble sorts", whatever that means. It's also where most of Port Nyanzaru's dinosaurs are kept in pens, either to rest after a day of working or in preparation for slaughter. Unlike Old City or Malar's Throat, there are no stone buildings to take shelter in outside the city walls: running for the Tiryki Gate is residents' only option when undead or other dangers come out of the jungle.
