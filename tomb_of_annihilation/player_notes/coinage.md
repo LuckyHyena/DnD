@@ -11,7 +11,7 @@
 
 The government of Port Nyanzaru doesn't issue its own currency. Citizens use a motley mix of foreign coins, and will generally accept metal coins or bits brought back by adventurers from the ruins of ancient Faerûn civilizations.
 
-The coins of most cultures on Faerûn fall into one of five broad categories:
+The [coins of most cultures](https://forgottenrealms.fandom.com/wiki/Currency) on Faerûn fall into one of five broad categories:
 
 - 10 _Copper_ coins are worth a single silver coin or piece.
 
@@ -27,7 +27,11 @@ The coins of most cultures on Faerûn fall into one of five broad categories:
 
 ![Coins of Faerûn](images/coins.jpg)
 
-[_Waterdeep_ coins](https://forgottenrealms.fandom.com/wiki/Currency)
+> _Coins issued by the wealthy Sword Coast city of Waterdeep._
+
+![Sword Coast Currency](images/Swordcoastcurrency.png)
+
+> _Coins from the Elven city of Silverymoon._
 
 ---
 

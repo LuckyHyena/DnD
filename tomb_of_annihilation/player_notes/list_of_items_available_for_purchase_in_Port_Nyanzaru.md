@@ -88,7 +88,7 @@ Characters can learn to ride and race dinosaurs, and can [participate in Port Ny
 
 ![Jessamine](images/Merchant_Prince_Jessamine.jpg)
 
-JESS-ah-meen is a Chultan ex-assassin who controls the buying and selling of **plants, poison, and assassination**. She is the only public face of an anonymous guild of professional assassins in Port Nyanzaru who sell their brutal service to wealthy foreign visitors.
+JESS-ah-meen is a Chultan ex-assassin who controls the buying and selling of **poisons, assassinations, and medicinal plants**. She is the only public face of an anonymous guild of professional assassins in Port Nyanzaru who sell their brutal service to wealthy foreign visitors.
 
 Jessamine is the sole person in Port Nyanzaru with the authority to issue *sanctions*, writs that allow for legal assassinations in the city by approved methods, usually poison or a single stab with a blade. Sanctions are rarely sold and are extremely expensive.
 
