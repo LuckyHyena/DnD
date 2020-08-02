@@ -9,7 +9,9 @@
 
 ## The Merchant Princes
 ![The Merchant Princes](images/merchant_princes.jpg)
-_From left to right: Ekene-Afa, Ifan Talro'a, Jessamine, Jobal, Kwayothé, Zhanthi, Wakanga O'tamu_
+> _Ekene-Afa - Ifan Talro'a - Jessamine - Jobal_
+>
+> _Kwayothé - Wakanga O'tamu - Zhanthi_
 
 Each of the seven merchant princes who rule Port Nyanzaru controls the selling and trading of certain types of goods in Port Nyanzaru. In order to purchase any goods or services you'll have to deal with one of the princes or their organizations.
 
@@ -42,11 +44,9 @@ There are four major markets in Port Nyanzaru, each specializing in different ty
 
 ![Ekene-Afa](images/Merchant_Prince_Ekene-Afa.jpg)
 
-eh-KEE-nee AH-fah is a Chultan ex-gladiator who rose from the pits of Port Nyanzaru's Grand Coliseum to become a mercenary captain and merchant prince. Today, as a merchant prince Ekene-Afa has authority over all mercenary contracts involving Port Nyanzaru, as well as the sale and trade of **weapons, shields, travelling gear, rain catchers, saddles, wagons, and canoes**.
+eh-KEE-nee AH-fah is a Chultan ex-gladiator who rose from the pits of Port Nyanzaru's Grand Coliseum to become a mercenary captain and merchant prince. Today, as a merchant prince Ekene-Afa regulates all legal combat in Port Nyanzaru, wields final legal authority over all mercenary contracts involving the city, and has control over the sale and trade of **weapons, shields, travelling gear, rain catchers, saddles, wagons, and canoes**.
 
-Ekene-Afa can be a wrathful and mercurial leader, and the people who succeed in her personal mercenary organization **The Velociraptor Company** are those that can stay calm and think quickly in the face of a suddenly-angry boss with a history of killing people for sport.
-
-The bulk of Port Nyanzaru's mercenaries are foreigners like the Zhentarim, however, and Ekene-Afa must also carefully and dispassionately watch and manipulate them in order to ensure the city's newly-won independence isn't threatened or undermined. In this task she at least has the rare boon of the full and unanimous support of the other merchant princes.
+Ekene-Afa can be a wrathful and mercurial leader, and the people who succeed in her personal mercenary organization **The Velociraptor Company** are those that can stay calm and think quickly in the face of a suddenly-angry boss with a history of killing people for sport. The bulk of Port Nyanzaru's mercenaries are foreigners like the Zhentarim, however, and Ekene-Afa must also carefully and dispassionately watch and manipulate them in order to ensure the city's newly-won independence isn't threatened or undermined. In this task she at least has the rare boon of the full and unanimous support of the other merchant princes.
 
 | Item | Price | Notes |
 |-|-|-|
@@ -102,7 +102,9 @@ Jessamine is the sole person in Port Nyanzaru with the authority to issue *sanct
 
 ![Jobal](images/Merchant_Prince_Jobal.jpg)
 
-joh-BAWL is a Chultan ex-guide who manages the loose network of Port Nyanzaru **guides who are available to assist travellers in Chult**; he also has authority over the deals involved when large organized expeditions into the jungle purchase bulk supplies from Port Nyanzaru. Jobal is gregarious and charismatic, and he constantly wanders the city keeping in contact with people and listening for problems and opportunities. Any guide you hire out of Port Nyanzaru will pay a part of their fee to Jobal; most are independent operators but are happy to rely on Jobal to match them with customers.
+joh-BAWL is a Chultan ex-guide who manages the loose network of Port Nyanzaru **guides who are available to assist travellers in Chult**. Jobal also has a more formal organization that will prepare and supply the occasional large, organized, and above all wealthy expedition into the jungle: he's generally happy to leave this work to his lieutenants. Finally, Jobal has legal authority to adjudicate all disputes involving the sale of maps, accurate information about the jungle, and exploration supplies. 
+
+Jobal is gregarious and charismatic, and he constantly wanders the city keeping in contact with people and listening for problems and opportunities. Any guide you hire out of Port Nyanzaru will pay a part of their fee to Jobal; most are independent operators but are happy to rely on Jobal to match them with customers.
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
@@ -131,8 +133,7 @@ As a merchant prince, Kwayothé controls the sale of **tej, wine, ale, fruit, oi
 
 ![Zhanthi](images/Merchant_Prince_Zhanthi.jpg)
 
-JOHN-thee is a Chultan noble who holds the monopoly on the sale of **gems, jewelry, cloth, and armor** in Port Nyanzaru. Zhanthi manages all of the activity in the Jewel Market except for magical items, which are under the authority of Wakanga O'tamu. Zhanthi and Kwayothé are the two wealthiest merchant princes, and Zhanthi pays high salaries to keep the Jewel Market well-staffed with reliable and trustworthy people.
-
+JOHN-thee is a Chultan noble who can trace her lineage back to the original founders of the Chultan town of Nyanzaru, over six hundred years ago. She holds the monopoly on the sale of **gems, jewelry, cloth, and armor** in Port Nyanzaru. Zhanthi manages all of the activity in the Jewel Market except for magical items, which are under the authority of Wakanga O'tamu. Zhanthi and Kwayothé are the two wealthiest merchant princes, and Zhanthi pays high salaries to keep the Jewel Market well-staffed with reliable and trustworthy people.
 
 > **Heavy armor** is rare in Chult due to the climate and costs triple the normal price. Most types of medium and heavy armor can only be found for sale in the Jewel Market.
 

@@ -101,7 +101,10 @@ Syndra has brought the party to Port Nyanzaru in order to locate the source of t
 
 # The Merchant Princes
 ![The Merchant Princes](images/merchant_princes.jpg)
-_From left to right: Ekene-Afa, Ifan Talro'a, Jessamine, Jobal, Kwayothé, Zhanthi, Wakanga O'tamu_
+> _Ekene-Afa - Ifan Talro'a - Jessamine - Jobal_
+>
+> _Kwayothé - Wakanga O'tamu - Zhanthi_
+
 
 Port Nyanzaru is controlled by a council of seven merchant princes, powerful native Chultans who organized a rebellion and took control of Nyanzaru from the nation of Amn nine years ago. They conduct official city business in the Goldenthrone palace in the Merchant's Ward.
 
