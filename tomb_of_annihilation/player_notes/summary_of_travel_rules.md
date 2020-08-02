@@ -7,7 +7,7 @@
 ##### Tomb of Annihilation
 # Rules for travelling across Chult
 
-[Full camping rules](rules_for_camping.md#top)
+[Full rules for travelling in the jungle](rules_for_travelling.md#top)
 
 # The Travel Loop
 
@@ -35,23 +35,22 @@ For each day of travelling do the following:
 7. **Lunch**
    1. The party usually takes a [short rest](rules_for_short_rests.md#top).
    2. If the party skips their short rest, increase their Random Encounter Armor Class for the afternoon random encounter by 1d4, up to a maximum of 20.
-8.  **Afternoon Travel**
-   3. Repeat the morning steps of navigating and checking for a random encounter.
-9.  **Search for a campsite**
-   4. One character and one optional assistant must roll a **Wisdom** (_Survival_) ability check to find a campsite and establish its initial Camp Goodness.
-   5. The party may make further searches if they are unhappy with the first site. They may make their final decision from among any of the campsites found that day, regardless of the order they were found.
+8. **Afternoon Travel**
+   1. Repeat the morning steps of navigating and checking for a random encounter.
+9. **Search for a campsite**
+   1. One character and one optional assistant must roll a **Wisdom** (_Survival_) ability check to find a campsite and establish its initial Camp Goodness.
+   1. The party may make further searches if they are unhappy with the first site. They may make their final decision from among any of the campsites found that day, regardless of the order they were found.
 10. **Evening**
-   6. Characters may [choose to do camping chores](activities_for_camping.md#evening-activities) to improve the Camp Goodness score, or they may do any [short rest activity](activities_for_short_rests.md#short-rest-activities) for buffs or healing.
-   7. Generally, each character's chore or activity is resolved by rolling a single ability check.
+    1. Characters may [choose to do camping chores](activities_for_camping.md#evening-activities) to improve the Camp Goodness score, or they may do any [short rest activity](activities_for_short_rests.md#short-rest-activities) for buffs or healing.
+    1. Generally, each character's chore or activity is resolved by rolling a single ability check.
 11. **Supper**:
     1. Each character consumes 2 gallons of water and 1 lb of food every day.
-    2. If either runs out you will begin to suffer the extremely fun condition _**exhaustion**_, which will rapidly kill you.
-    3. Begin [the camping loop](summary_of_camping_rules.md#the-camping-loop) for the evening's long rest.
+    1. If either runs out you will begin to suffer the extremely fun condition _**exhaustion**_, which will rapidly kill you.
 12. **The Night Watch**
-   8. A single Random Encounter Check is rolled for the night.
-   9. If something is encountered, one random character from the party is selected be on watch at the time the encounter happens. Other characters might be awake as well.
-   10. **The Alarm:** Any characters awake and watching the perimeter make a **Wisdom** (_Perception_) ability check to detect the encounter. Their result will determine which members of the party are _surprised_ if combat starts.
-   11. **The Random Encounter** will be described by the DM.
+    1. A single Random Encounter Check is rolled for the night.
+    1. If something is encountered, one random character from the party is selected be on watch at the time the encounter happens. Other characters might be awake as well.
+    1. **The Alarm:** Any characters awake and watching the perimeter make a **Wisdom** (_Perception_) ability check to detect the encounter. Their result will determine which members of the party are _surprised_ if combat starts.
+    1. **The Random Encounter** will be described by the DM.
 13. Restart the loop.
 
 ![Player map of Chult](images/chult_player_map.jpg)
@@ -110,10 +109,6 @@ During a tropical storm the rain catcher can collect the equivalent of heavy rai
 ![immovable rod](../../images/immovable-rod.jpg)
 
 [Back to top](#top)
-
-[Full camping rules](rules_for_camping.md#top)
-
-[Summary of jungle travel rules](summary_of_travel_rules.md#top)
 
 [Full rules for travelling in the jungle](rules_for_travelling.md#top)
 

@@ -30,8 +30,6 @@ I'm looking forward to being your DM, and I hope you're looking forward to your 
 
 [Activities in Port Nyanzaru](activities_in_Port_Nyanzaru.md#top)
 
-[Coins in Port Nyanzaru](coinage.md#top)
-
 [Character creation](character_creation.md#top)
 
 [My Tomb of Annihilation homepage](README.md#top)

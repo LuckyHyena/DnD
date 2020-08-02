@@ -28,17 +28,13 @@ If the party is taking the long rest in a dungeon or other unsafe area, **5 Rand
 At the end of a long rest without a campsite each of the characters may perform one of the [short rest activities](activities_for_short_rests.md#top).
 
 ### Travelling in the jungle
-Use the [rules for camping in Chult](rules_for_camping.md#top).
+Use the [rules for camping in Chult](summary_of_travel_rules.md#top).
 
 > **_Highly Optional_ Hardcore Variant:** For a darker and grittier campaign setting, we could use the _Alternative Rests_ rule in the DMG, and make it so that short rests require 8 hours of rest, while a long rest requires 1 entire week of avoiding strenuous activity and adventuring.
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
 [Back to top](#top)
-
-[Summary of camping rules](summary_of_camping_rules.md#top)
-
-[Full camping rules](rules_for_camping.md#top)
 
 [Summary of jungle travel rules](summary_of_travel_rules.md#top)
 

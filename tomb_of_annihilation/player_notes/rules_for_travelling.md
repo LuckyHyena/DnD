@@ -46,7 +46,7 @@ Each day roll a d20:
 ![immovable rod](../../images/immovable-rod.jpg)
 
 ## Step 2: Choose Direction and Pace
-1 hex on the map of Chult = 10 miles
+1 hex on the map of Chult = 10 miles or 15 kilometers
 
 ### Moderate Pace
 - 1 hex per day on land or walking along rivers.
@@ -161,10 +161,6 @@ At the end of each long rest, you must repeat the saving throw. On a failure, ga
 [Back to top](#top)
 
 [Summary of these jungle travel rules](summary_of_travel_rules.md#top)
-
-[Summary of camping rules](summary_of_camping_rules.md#top)
-
-[Full camping rules](rules_for_camping.md#top)
 
 [Tomb of Annihilation homepage](README.md#top)
 

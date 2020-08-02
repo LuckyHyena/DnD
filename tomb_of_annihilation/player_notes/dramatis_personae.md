@@ -24,8 +24,8 @@
 
 ---
 
-### Batiri Goblins
-![Batiri goblins](images/batiri-goblins.jpg)
+### Batiri Goblins and Hobgoblins
+![Batiri goblins](images/hobgoblins.jpg)
 
 ---
 
@@ -61,9 +61,9 @@ The ritual was disrupted, however, and the Yuan-ti were instead transformed into
 ### _Port Nyanzaru:_
 
 # Syndra Silvane
-SIN-draw sil-VAIN is a Tethyrian human mage and **the party's employer and patron**. She's a trusted friend and mentor who has contracted the **Death Curse**; the disease is now so severe that Syndra can barely walk, and only slowly and with a cane. Syndra has brought the party to Port Nyanzaru in order to locate the source of the Death Curse, an artifact known as the Soulmonger, somewhere deep in the jungles of Chult.
+SIN-draw sil-VAIN is a [Tethyrian](https://forgottenrealms.fandom.com/wiki/Tethyrian) mage and **the party's employer and patron**. She's a trusted friend and mentor who has contracted the **Death Curse**; the disease is now so severe that Syndra can barely walk, and only slowly and with a cane. She has taken to wearing a silver mask and hood to hide the progression of the Death Curse.
 
-In Port Nyanzaru, Syndra is staying in the merchants' ward as a guest of the merchant prince and wizard Wakanga O'tamu.
+Syndra has brought the party to Port Nyanzaru in order to locate the source of the Death Curse, an artifact known as the Soulmonger, somewhere deep in the jungles of Chult. In Port Nyanzaru, Syndra is staying in the merchants' ward as a guest of the merchant prince and wizard Wakanga O'tamu.
 
 # The Merchant Princes
 ![The Merchant Princes](images/merchant_princes.jpg)
@@ -76,7 +76,9 @@ Each merchant prince **controls all selling and trading of certain types of good
 More information on the merchant princes can be found as part of the page on [items available for purchase in Port Nyanzaru](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#top).
 
 # Zindar
-ZIN-dar is a golden half-dragon sorcerer, and **Port Nyanzaru's Harbormaster**, and he's responsible for safely coordinating the vast amount of traffic that flows through the port. He's a common sight during the day in the harbor ward, where he can be seen flying, _sending_, and scrying across the maze-like harbor, trying to keep track of all the ships under his authority. The seven-foot stature of a half-dragon, and an occasional display of his magical prowess, is enough to ensure that the bookish Zindar never gets any real trouble from the many captains and crews upset daily by the port's delays and regulations.
+![Harbormaster Zindar](images/Harbormaster_Zindar.jpg)
+
+ZIN-dar is a golden half-dragon sorcerer and **Port Nyanzaru's Harbormaster**. He's responsible for safely coordinating the vast amount of traffic that flows through the port. He's a common sight during the day in the harbor ward, where he can be seen flying, _sending_, and scrying across the maze-like harbor, trying to keep track of all the ships under his authority. The seven-foot stature of a half-dragon, and an occasional display of his magical prowess, is enough to ensure that the bookish Zindar never gets any real trouble from the many captains and crews upset daily by the port's delays and regulations.
 
 # Sibonseni, Mother of Prosperity
 SEH-bone-SEN-ay is Port Nyanzaru's **high priestess of Waukeen**, the deity of trade and wealth, and one of the most important people in Nyanzaru besides the merchant princes. The **Hall of Gold** in the market ward is an opulent temple to Waukeen.
@@ -98,44 +100,49 @@ First mate of the Brazen Pegasus, an Illuskan human.
 ### _Organizations:_
 
 # The Ytepka Society
+![Triceratops Token](images/factorydirectcraft_miniature_pewter_triceratops_dinosaur.jpg)
+
 The yeh-TEP-kah Society, also known as the **Triceratops Society**, is an anonymous and obscure organization with the declared aim of protecting Chultans from tyrants and the abuses of the powerful. Those who upset the Society quietly receive a triceratops-shaped token as a warning to change their ways.
 
 The Ytepka Society is widely known to have had a major role in organizing the merchant princes to take control of **Port Nyanzaru** from Amn. Rumors abound about who is still working with the Society today, and what their current purposes might be.
 
-![Triceratops Token](images/factorydirectcraft_miniature_pewter_triceratops_dinosaur.jpg)
+---
 
 # The Flaming Fists
+![Flaming Fist Logo](images/flaming-fist.png)
+
 The official mercenary company of the wealthy foreign city of **Baldur's Gate**, who serve as guards of the city's interests at home and beyond. Their primary task on Chult is to protect ships flying the flag of Baldur's Gate from pirates; the same ships depend on Port Nyanzaru as a way station, so the Fists are also prepared to defend the Chultan city from being overrun by the undead. To accomplish these ends the Flaming Fists built **Fort Beluarian**, their headquarters on Chult.
 
 ### Liara Portyr
+![Liara Portyr](images/Liara_Portyr.jpg)
+
 lee-AR-ah por-TEER is the current commander of Fort Beluarian, and holds the Flaming Fist rank of *Blaze*. She is a human soldier.
 
-![Flaming Fist Logo](images/flaming-fist.png)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
 # Player Factions
 
 ![factions](images/factions.jpg)
-_From left to right: Harpers, Zhentarim, Lords' Alliance, Emerald Enclave, Order of the Gauntlet._
-
-# The [Order of the Gauntlet](https://dnd.wizards.com/dungeons-and-dragons/story/factions)
-The Order is a group of paladins, clerics, and other worshippers of Tyr, Helm, and Torm, who have joined together in order to oppose and destroy the many forces of elemental evil in Toril. The foreign Order established **Camp Righteous** deep in the jungle of Chult in order to destroy the undead menace there, but as the undead became more aggressive the camp was overrun. Undeterred, the Order has established **Camp Vengeance** even deeper in the interior, where they now continue their efforts to purge the undead from the jungle.
-
-### Niles Breakbone
-The current commander of Camp Vengeance is a human noble.
-
-# The [Zhentarim](https://dnd.wizards.com/dungeons-and-dragons/story/faction/zhentarim)
-Zhentarim mercenaries are renowned across Faerûn as the best money can buy, and the **foreign mercenary company** is commonly employed in Chult to provide city guards, personal bodyguards, and protection for mines and logging camps in the jungle.
+_From left to right: Harpers, Zhentarim, Lords' Alliance, Emerald Enclave, and the Order of the Gauntlet._
 
 # The [Harpers](https://dnd.wizards.com/dungeons-and-dragons/story/faction/harpers)
 An underground network of freedom-loving bards, rogues, mages, and others who work throughout Faerûn to oppose tyrants and the abuses of the powerful.
 
+# The [Zhentarim](https://dnd.wizards.com/dungeons-and-dragons/story/faction/zhentarim)
+Zhentarim mercenaries are renowned across Faerûn as the best money can buy, and the foreign mercenary company is commonly employed in Chult to provide city guards, personal bodyguards, and protection for mines and logging camps in the jungle.
+
 # The [Lords' Alliance](https://dnd.wizards.com/dungeons-and-dragons/story/faction/lordsalliance)
-A loose coalition of Sword Coast cities and nations working together to defend civilization and the law. Lords' Alliance members are usually concerned with events in the Sword Coast area, significantly North of Chult, but the various Lords maintain agents and spies everywhere in Faerûn.
+A loose coalition of Sword Coast cities, lords, and merchants working together to defend civilization, establish peace, and maintain stability in the face of the elemental evils of Faerûn. Lords' Alliance members are usually concerned with events in the Sword Coast area, significantly North of Chult, but the various Lords maintain agents and spies almost everywhere in Faerûn.
 
 # The [Emerald Enclave](https://dnd.wizards.com/dungeons-and-dragons/story/faction/emeraldenclave)
 A group of druids, rangers, and others that oppose threats to the natural world and help others survive the many perils of the wild. The Emerald Enclave does have members who patrol the Chultan jungles, but almost all Emerald Enclave members operate in isolation, and Chult is far too large for any single individual to ever master.
+
+# The [Order of the Gauntlet](https://dnd.wizards.com/dungeons-and-dragons/story/factions)
+Paladins and clerics of the deities Tyr, Helm, and Torm recently established the Order of the Gauntlet in order to better fight the evils of Faerûn. In Chult, the foreign Order established **Camp Righteous** deep in the jungle in order to destroy the undead menace there, but as the undead became more aggressive the camp was overrun. Undeterred, the Order has established **Camp Vengeance** even deeper in the interior, where they now continue their efforts to purge the undead from the jungle.
+
+### Niles Breakbone
+The current commander of Camp Vengeance is a [Chondathan](https://forgottenrealms.fandom.com/wiki/Chondathan) paladin who serves Tyr.
 
 ![immovable rod](../../images/immovable-rod.jpg)
 

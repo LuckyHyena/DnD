@@ -7,8 +7,6 @@
 ##### Tomb of Annihilation
 # Items available for purchase in Port Nyanzaru
 
-![Port Nyanzaru Markets](images/buying.jpg)
-
 ## The Merchant Princes
 ![The Merchant Princes](images/merchant_princes.jpg)
 _From left to right: Ekene-Afa, Ifan Talro'a, Jessamine, Jobal, Kwayothé, Zhanthi, Wakanga O'tamu_
@@ -35,6 +33,8 @@ There are four major markets in Port Nyanzaru, each specializing in different ty
 |Jewel Market|Art, rare trade goods, gems, treasure, and other expensive items|Merchants' Ward|
 |Red Bazaar|Groceries and everyday supplies, dinosaur meat, common trade goods, mundane items, weapons, armor, equipment|Market Ward|
 |Fish Market|Fish|Market Ward|
+
+![Port Nyanzaru Markets](images/buying.jpg)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 

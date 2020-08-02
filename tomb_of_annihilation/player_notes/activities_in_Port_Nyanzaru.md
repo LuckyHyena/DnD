@@ -17,6 +17,8 @@ For speed and simplicity plan the party's days a _tenday_ at a time.
 - [Welcome to Port Nyanzaru](Port_Nyanzaru.md#top)
 - [Dramatis Personae](dramatis_personae.md#top)
 - [Special items available for purchase in Port Nyanzaru](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#top)
+- [Coins in Port Nyanzaru](coinage.md#top)
+
 
 ![Port Nyanzaru](images/port-nyanzaru.jpg)
 
@@ -47,7 +49,7 @@ Uncommon:
 - [Studying a New Language](#studying-a-language)
 - [Teaching Another Character](#teaching-another-character)
 - [Copying Spells into your Spellbook](#copying-spells-into-your-spellbook)
-- [Developing Special Projects and Side Quests](#developing-relationships-investments-and-projects)
+- [Developing Special Projects and Side Quests](#developing-relationships-investments-and-special-projects)
 
 ---
 
@@ -81,11 +83,12 @@ Out of each tenday spent working a character may choose **three days** they are 
 > **Character Bonus:** If a character is a member of a guild, temple, or other professional organization in Port Nyanzaru, they can instead maintain a comfortable lifestyle when working.
 
 ### Port Nyanzaru: Street Performers
-![Tabaxi Bard](images/tabaxi-bard.jpg)
 
 Street performers have a unique place in the hearts of Port Nyanzaru's citizens, and throughout the city one can find musicians, bards, dancers, magicians, Tabaxi minstrels, mimes, clowns, performers in dinosaur costumes, martial artists, and many others giving performances based upon native Chultan traditions, as well as a wide sampling from cultures across Faerûn.
 
 > **Character Bonus:** A character proficient in Perform can maintain a wealthy lifestyle for free by working as a street performer.
+
+![Tabaxi Bard and Hobgoblin dancer](images/street-performers.png)
 
 ---
 
@@ -141,7 +144,7 @@ Aside from the public baths of Sune, various private bathhouses can be found thr
 ![Public baths in Hungary](images/public-bathhouses-gellert-budapest-hungary.png)
 
 ### Port Nyanzaru: The Thundering Lizard Tavern
-A character doesn't necessarily need to expend the cost and energy needed to [carouse](#carousing) if they just want to spend the day hanging out at the Thundering Lizard Tavern or one of the many other taverns in Port Nyanzaru. Generally, such characters avoid drawing attention to themselves and try to stay out of any of fights that break out; if they do end up joining a fight then they spend the downtime day [fighting](#fighting) instead of relaxing.
+A character doesn't necessarily need to expend the cost and energy needed to [carouse](#carousing) if they just want to spend the day hanging out in a place like the Thundering Lizard Tavern. Unlike when carousing, such characters avoid drawing attention to themselves, don't party with strangers, and try to stay out of any of fights that break out: if they do end up joining a fight then they spent their downtime day [fighting](#fighting) instead of relaxing.
 
 You may be surprised to learn that, aside from the Thundering Lizard Tavern, taverns and other watering holes can be found throughout every district of Port Nyanzaru.
 
@@ -277,7 +280,7 @@ Spell effects occur after the final day of the ritual: the ritual prepares energ
 A variety of shrines around Port Nyanzaru are dedicated to deities of life and medicine, and it's generally easy to find a caster at the listed rate for healing evocation spells.
 
 ### Port Nyanzaru: Hiring Mages
-If no party spellcaster is assisting with the ritual, the price to hire mages in Port Nyanzaru to cast a ritual on the party's behalf is **double the price** listed in the table, except for healing spells.
+If no party spellcaster is assisting with the ritual, the price to hire mages in Port Nyanzaru to cast a non-healing ritual on the party's behalf is **double the price** listed in the table, except for healing spells.
 
 ### Port Nyanzaru: Temple of Savras
 The immense size and opulence of the temple of Savras in the merchants' ward reflects the popularity, both in Chult and across Faerûn, of seeking divine help in resolving life's practical problems. It also means their answers are accurate, presumably. Grandfather Zitembe is the high priest of Savras, and a popular friend and confidante of many citizens of Port Nyanzaru.
@@ -329,8 +332,6 @@ Generally, teleportation targets must be outdoors.
 
 > **The _Tarrasque_:** It's impossible to _teleport_ into or out of a hex near the _Tarrasque_'s current position: ending up in the wrong place and other mishaps become more likely the closer you're aiming to the mythological creature. And when the _Tarrasque_'s position is unknown, trying to _teleport_ deep into the jungle becomes a gamble: be prepared to re-orient yourself as your first task upon landing. Although perhaps an irritating problem, it can be thought of as a blessing when you consider the alternative: being able to blindly _teleport_ directly to the _Tarrasque_ itself.
 
-> **The _Soulmonger_:** While the _Soulmonger_ is the main quest in _Tomb of Annihilation_, it's sealed inside a dungeon of cruel traps and powerful monsters. Consider gathering information about the _Soulmonger_ and the various disasters happening around Chult before trying to _teleport_ directly to the artifact.
-
 ![immovable rod](../../images/immovable-rod.jpg)
 
 # Buying Mundane Items
@@ -359,7 +360,7 @@ The [scrolls, potions, and common wondrous items](list_of_items_available_for_pu
 The DM will randomly determine other magic items that can be found in the markets of Port Nyanzaru, along with their prices. To acquire such an item, make a **Charisma** check: it takes a number of downtime days equal to `1d20+[20 minus the Charisma check result]` in order to find, negotiate, and complete the purchase of such an item.
 
 ### Putting down money for a Magic Item
-If a character can't afford a magic item right now, but has some coin to put down as a forward payment, they can usually ask a merchant to reserve the item for them until they can gather the final sum. When first making the request, and each _tenday_ after until they pay the sum, the character needs to make a forward payment equal to a percentage of the final total.
+If a character can't afford a magic item right now, but has some coin to put down as a forward payment, they can usually ask a merchant to reserve the item for them until they can gather the final sum. When first making the request, and every three _tendays_ afterwards until they pay the sum, the character needs to make a forward payment equal to a percentage of the final total.
 
 When asking for an item to be reserved, the character makes a **Charisma** ability check: for the first and each tenday payment the character must pay 35% of the total price minus 1% for each point of their check result.
 
@@ -396,7 +397,7 @@ _Ex-gladiator Ekene-Afa is the merchant prince of mercenaries in Port Nyanzaru, 
 
 ![Dinosaur races](images/dinosaur-races.png)
 
-Characters can do more than just [carouse](#carousing) and [relax](#relaxing) at Port Nyanzaru's famous dinosaur races: they may opt to join the celebrated but dangerous ranks of Port Nyanzaru's dinosaur riders themselves. Characters can race individually, or two characters can participate riding a single dinosaur.
+Characters can do more than just [carouse](#carousing) and [relax](#relaxing) at Port Nyanzaru's famous tenth-day dinosaur races: they may opt to join the celebrated but dangerous ranks of Port Nyanzaru's dinosaur riders themselves. Characters can race individually, or two characters can participate riding a single dinosaur.
 
 Racing involves a sequence of ability checks: most of the checks use the newly available [**_Riding_**](character_creation.md#riding) skill proficiency, or less commonly the _Animal Handling_ skill proficiency, and characters who aren't _proficient_ in _Riding_ won't quality for any races. If, on the other hand, a character would like to try racing a rampage-prone tyrannosaur or triceratops with no _Animal Handling_ proficiency: good luck.
 
@@ -430,7 +431,7 @@ Many racing dinosaurs are owned by investors who don't race themselves; a rider 
 Generally, a rentier will demand **2d4 gold coins** to use a dinosaur for a day's races, or 1 gold coin to spend a day training with a dinosaur. They may waive the fees if they know the rider and believe they can profitably bet on them.
 
 ### The day of the race
-A typical race day has three races: one for **four-legged beasts**, one for **two-legged beasts**, and one no-holds-barred "**unchained**" race. The four-legged dinosaurs are generally considered easier to handle than the two-legged ones. The dinosaurs are stoutly muzzled and have their claws and horns blunted in all but the unchained race.
+Citywide races occur on the last day of each _tenday_, simply named **tenth-day**. A typical race day has three races: one for **four-legged beasts**, one for **two-legged beasts**, and one no-holds-barred "**unchained**" race. The four-legged dinosaurs are generally considered easier to handle than the two-legged ones. The dinosaurs are stoutly muzzled and have their claws and horns blunted in all but the unchained race.
 
 A character may participate in multiple races on a single day, but they have **disadvantage on saving throws** during their second race, and if they race a third time they also suffer **disadvantage on ability checks**.
 
@@ -452,7 +453,7 @@ Most racers use rented or borrowed animals, but a character may choose to purcha
 
 If a character has an initial down payment of 25% or so, they can purchase a dinosaur on a loan, using the same rules as [putting down money for a Magic Item](#putting-down-money-for-a-magic-item).
 
-A character who wishes to raise a wild dinosaur from an egg or juvenile can do so as a [special project](#developing-relationships-investments-and-projects).
+A character who wishes to raise a wild dinosaur from an egg or juvenile can do so as a [special project](#developing-relationships-investments-and-special-projects).
 
 ![Ifan Talro'a](images/Merchant_Prince_Ifan_Talro'a.jpg)
 
@@ -480,7 +481,7 @@ For each day a crew spends hunting, roll a [Random Encounter Check](rules_for_ra
 ### Booty
 Pirate hunters are expected to seize their payment from the goods they re-steal from the pirates: the more pirates you catch, the more you'll earn. Failed hunts provide experience points and injuries but not treasure.
 
-For each potential ship target, the DM will roll one treasure hoard of level 1d20 from the tables in Chapter 7: Treasure of the _Dungeon Master's Guide_. The general booty value of a target can be identified by the features of the ship and how low it's riding in the water; the same is true for pirates eyeing the Brazen Pegasus when it's hauling loot back to Port Nyanzaru.
+For each potential ship target, the DM will roll one treasure hoard of level 1d12 from the tables in Chapter 7: Treasure of the _Dungeon Master's Guide_. The general booty value of a target can be identified by the features of the ship and how low it's riding in the water; the same is true for pirates eyeing the Brazen Pegasus when it's hauling loot back to Port Nyanzaru.
 
 > **Shares:** If a hoard is successfully looted, and only one party member is participating, that character will get a 1/20 share of the hoard: it's split with the sixteen existing Pegasus crew members, one extra share each for Captain Ortimay and mate Ruddell, and an extra half share each for the quartermaster and the cook. If two characters participate they each get a 1/21 share, if three participate they each get a 1/22 share, and so on. If any of the Brazen Pegasus's original crew die during the hunt, their share will be paid to their surviving kin.
 

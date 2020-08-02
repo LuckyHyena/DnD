@@ -30,18 +30,15 @@
 
 - [Summary of rules for travelling through the jungle](summary_of_travel_rules.md#top)
 - [Camping activities](activities_for_camping.md#top)
-- [Summary of rules for camping in the jungle](summary_of_camping_rules.md#top)
+- [Short rest activities](activities_for_short_rests.md#top)
 - [My 5e Quick Rules Reference](../../homebrew/5e_reference.md#top)
-- [My chosen optional and homebrew D&D 5e rules](../../homebrew/5e_homebrew.md#top)
-- [My rules for random encounters](rules_for_random_encounters.md#top)
-
 
 ## The full player-visible rules reference for all my nonsense
 
+- [My chosen optional and homebrew D&D 5e rules](../../homebrew/5e_homebrew.md#top)
+- [My rules for random encounters](rules_for_random_encounters.md#top)
 - [Short rests](rules_for_short_rests.md#top)
-- [Short rest activities](activities_for_short_rests.md#top)
 - [Long rests](rules_for_long_rests.md#top)
-- [Full rules for camping activities in the jungle](rules_for_camping.md#top)
 - [Full rules for travelling through the jungle](rules_for_travelling.md#top)
 - [Downtime activities in the jungle](activities_in_the_jungle.md#top)
 

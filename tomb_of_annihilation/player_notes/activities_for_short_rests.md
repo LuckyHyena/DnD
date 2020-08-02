@@ -33,8 +33,6 @@ If a character rolling an ability check rolls a **Natural 1**, or their result f
 
 [Back to top](#top)
 
-[Rules for camping](rules_for_camping.md#top)
-
 [Rules for travelling in the jungle](rules_for_travelling.md#top)
 
 [Tomb of Annihilation homepage](README.md#top)

@@ -24,12 +24,6 @@ While a party takes a short rest:
 
 ---
 
-[Rules for camping](rules_for_camping.md#top)
-
-[Summary of camping rules](summary_of_camping_rules.md#top)
-
-[Full camping rules](rules_for_camping.md#top)
-
 [Summary of jungle travel rules](summary_of_travel_rules.md#top)
 
 [Full rules for travelling in the jungle](rules_for_travelling.md#top)

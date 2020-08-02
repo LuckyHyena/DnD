@@ -242,38 +242,68 @@ One of your choice.
 
 
 # Druids
-## _Wild Shape_ dinosaur options
+## _Wild Shape_ options
 
-Circle of the Moon druids gain access to higher-level _Wild Shapes_, and access to some shapes earlier, than other druids.
+[Circle of the Moon](https://www.dndbeyond.com/classes/druid#CircleoftheMoon) druids gain access to higher-level _Wild Shapes_, and access to some shapes earlier, than [other druids](https://www.dndbeyond.com/classes/druid#WildShape-167).
 
-|Dinosaur|CR|Size|Notes|Source|Moon Circle lvl|Other lvl|
+---
+
+|Wild Shape|CR|Size|Notes|Source|Moon Circle lvl|Other druids|
 |-|-|-|-|-|-|-|
-|Allosaurus|2|Large|-|Monster Manual|6|-|
-|Ankylosaurus|3|Huge|Armor plating and spiked tail.|Monster Manual|9|-|
-|Brontosaurus|5|Gargantuan|-|ToA or Volo's|15|-|
-|Deinonychus|1|Medium|6-ft tall _Jurassic Park_ "velociraptors".|ToA or Volo's|2|8|
-|Dimetrodon|1/4|Medium|Swimming speed.|ToA or Volo's|4|4|
+|[Axe beak](https://5thsrd.org/gamemaster_rules/monsters/axe_beak/)|1/4|Large|-|Monster Manual|2|2|
+|[Giant Lizard](https://5thsrd.org/gamemaster_rules/monsters/giant_lizard/)|1/4|Large|Climbing speed.|Monster Manual|2|2|
 |Hadrosaurus|1/4|Large|-|ToA or Volo's|2|2|
+|Velociraptor|1/4|Tiny|Realistically turkey-sized.|ToA or Volo's|2|2|
 |Jaculi|1/2|Large|Snake with chamaeleon camouflage.|ToA or Volo's|2|4|
-|Plesiosaurus|2|Large|Swimming speed.|Monster Manual|6|-|
+|Deinonychus|1|Medium|6-ft tall _Jurassic Park_ "velociraptors".|ToA or Volo's|2|8|
+|[Giant Hyena](https://5thsrd.org/gamemaster_rules/monsters/giant_hyena/)|1|Large|-|Monster Manual|2|8|
+|Allosaurus|2|Large|-|Monster Manual|6|-|
+|Ankylosaurus|3|Huge|-|Monster Manual|9|-|
+|Stegosaurus|4|Huge|-|ToA or Volo's|12|-|
+|Brontosaurus|5|Gargantuan|-|ToA or Volo's|15|-|
+|[Triceratops](https://5thsrd.org/gamemaster_rules/monsters/triceratops/)|5|Huge|-|Monster Manual|15|-|
+|[Mammoth](https://5thsrd.org/gamemaster_rules/monsters/mammoth/)|6|Huge|-|Monster Manual|18|-|
+|[Tyrannosaurus Rex](https://5thsrd.org/gamemaster_rules/monsters/tyrannosaurus_rex/)|8|Huge|-|Monster Manual|20|-|
+
+---
+
+|Swimming Wild Shape|CR|Size|Notes|Source|Moon Circle lvl|Other druids|
+|-|-|-|-|-|-|-|
+|Dimetrodon|1/4|Medium|Swimming speed.|ToA or Volo's|4|4|
+|[Crocodile](https://5thsrd.org/gamemaster_rules/monsters/crocodile/)|1/2|Large|Swimming speed.|Monster Manual|4|4|
+|[Plesiosaurus](https://5thsrd.org/gamemaster_rules/monsters/plesiosaurus/)|2|Large|Swimming speed.|Monster Manual|6|-|
+|[Giant Crocodile](https://5thsrd.org/gamemaster_rules/monsters/giant_crocodile/)|5|Huge|Swimming speed.|Monster Manual|15|-|
+
+---
+
+|Flying Wild Shape|CR|Size|Notes|Source|Moon Circle lvl|Other druids|
+|-|-|-|-|-|-|-|
+|[Flying Snake](https://5thsrd.org/gamemaster_rules/monsters/flying_snake/)|1/8|Tiny|Flying speed.|Monster Manual|8|8|
 |Pteranodon|1/4|Medium|Flying speed.|Monster Manual|8|8|
 |Quetzalcoatlus|2|Huge|Flying speed.|Volo's|8|-|
-|Stegosaurus|4|Huge|-|ToA or Volo's|12|-|
-|Triceratops|5|Huge|-|Monster Manual|15|-|
-|Tyrannosaurus Rex|8|Huge|-|Monster Manual|20|-|
-|Velociraptor|1/4|Tiny|Realistically turkey-sized.|ToA or Volo's|2|2|
 
 ---
 
 # Rangers
 ## Favored terrain options in Chult
 From most to least useful, IMO:
-- The jungle
+- Jungle
 - Swamps and rivers
 - The Underdark and other underground areas
 - Mountains and plateaus
 - Wastelands and volcanos
 - Coasts and seas
+
+## Recommended favored enemies
+I've tried to cram every creature in the 5e Monster Manual into my Chult prep, but some are nonetheless more common than others:
+- Monstrosities, including the most powerful yuan-ti, as well as most Underdark creatures.
+- Undead.
+- Shapechanger humanoids, which includes both yuan-ti spies and [were-tigers](introduction.md#dangers-of-chult); plus one other [type of humanoid](dramatis_personae.md#inhabitants-of-chult).
+- Beasts, including dinosaurs.
+- Plants, constructs, or oozes.
+- Dragons, giants, or elementals.
+
+The yuan-ti speak Primordial.
 
 ---
 

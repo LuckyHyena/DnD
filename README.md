@@ -72,6 +72,8 @@ Thank __you__ for reading, and I hope you have tons of fun playing whatever kind
 ## Drafts and Misc
 
 - [Some encumbrance rules](tomb_of_annihilation/player_notes/rules_for_encumbrance.md#top)
+- [Some initiative rules](homebrew/initiative.md#top)
+
 
 ---
 

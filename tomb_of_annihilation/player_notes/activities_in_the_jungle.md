@@ -50,8 +50,6 @@ A character that is catching up suffers the normal penalties for being distracte
 
 [Activities in Port Nyanzaru](activities_in_Port_Nyanzaru.md#top)
 
-[Rules for camping](rules_for_camping.md#top)
-
 [Rules for travelling in the jungle](rules_for_travelling.md#top)
 
 [Tomb of Annihilation homepage](README.md#top)
