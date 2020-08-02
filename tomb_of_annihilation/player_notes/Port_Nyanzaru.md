@@ -19,7 +19,7 @@
 
 4. Port Nyanzaru is built to handle Chult's heavy rainfall and citizens ignore all but the worst storms. Rain catchers and waterwheels are visible on many buildings to make productive use of the rain. Immense rain gutters run along every street to prevent flooding.
 
-5. Flowers and green plants sprout out of every crack and seam of Nyanzaru's stone streets and buildings. Nyanzaru's residents must manage the plants to prevent damage to the city's structures, and a few abandoned buildings are collapsing under creeping vines and moss.
+5. Flowers and green plants sprout out of every crack and seam of the city's stone streets and buildings. Port Nyanzaru's residents must manage the plants to prevent damage to the city's structures, and a few abandoned buildings are collapsing under creeping vines and moss.
 
 6. A gargantuan dragon turtle called [Aremag](dramatis_personae.md#aremag) patrols the Bay of Chult and demands treasure from ships that pass through while going to or from Port Nyanzaru.
 
@@ -43,16 +43,16 @@ The harbor ward includes the extensive, and labyrinthine, cargo docks where ship
 ---
 
 ### Market Ward
-The market ward is where the majority of Port Nyanzaru's population lives. Parts of the market ward stay open all night; other, more residential areas generally quiet down at night, although the streets never become completely empty.
+The market ward is where the majority of Port Nyanzaru's population lives. Parts of the market ward stay open all night, while other, more residential areas generally quiet down at night. The streets never become completely empty.
 
-- _**The Thundering Lizard Inn and Tavern**_: [for characters who want a raucous time](activities_in_Port_Nyanzaru.md#port-nyanzaru-the-thundering-lizard-tavern). 1 electrum coin per night for a **poor lifestyle**.
-- _**Kaya's House of Repose**_: [for characters who want a good night's sleep](activities_in_Port_Nyanzaru.md#port-nyanzaru-kayas-house-of-repose). 1 gold piece per night for a **modest lifestyle**.
+- _**The Thundering Lizard Inn and Tavern**_: for characters who want [a raucous time](activities_in_Port_Nyanzaru.md#port-nyanzaru-the-thundering-lizard-tavern). 1 electrum coin per night for a **poor lifestyle**.
+- _**Kaya's House of Repose**_: for characters who want [a good night's sleep](activities_in_Port_Nyanzaru.md#port-nyanzaru-kayas-house-of-repose). 1 gold piece per night for a **modest lifestyle**.
 - The Red Bazaar: an everyday [market](activities_in_Port_Nyanzaru.md#selling-loot-or-items) for Port Nyanzaru citizens. Famed for the large slabs of dinosaur meat available for sale.
 - The city fish market.
-- The Hall of Gold: a [temple](activities_in_Port_Nyanzaru.md#worshipping) to Waukeen, deity of trade and wealth.
+- The Hall of Gold: a [temple](activities_in_Port_Nyanzaru.md#worshipping) to Waukeen, deity of trade and wealth. [Sibonseni](dramatis_personae.md#sibonseni-mother-of-prosperity), Mother of Prosperity, is the high priestess of the Hall of Gold, and the most important person in Port Nyanzaru besides the merchant princes.
 - A district of dye works where laborers work with rare and sometimes dangerous materials to produce dyes.
-- [A public bathhouse run by worshippers of Sune](activities_in_Port_Nyanzaru.md#port-nyanzaru-public-baths-of-sune).
-- [The Grand Coliseum](activities_in_Port_Nyanzaru.md#port-nyanzaru-the-grand-coliseum), where violent gladiatorial games are held most afternoons.
+- A [public bathhouse](activities_in_Port_Nyanzaru.md#port-nyanzaru-public-baths-of-sune) run by worshippers of Sune.
+- The [Grand Coliseum](activities_in_Port_Nyanzaru.md#port-nyanzaru-the-grand-coliseum), where violent gladiatorial games are held most afternoons.
 
 ![Port Nyanzaru Markets](images/buying.jpg)
 
@@ -63,11 +63,11 @@ Port Nyanzaru's upper classes reside in the opulent merchants' ward. This area h
 
 - The mansions of the [merchant princes](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#top).
 - The Goldenthrone: palace and seat of Port Nyanzaru's government.
-- _**The Grand Souk**_: the largest market in Nyanzaru, where international merchants come to trade.
-- [**_The Jewel Market_**](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#zhanthi): an exclusive and high-end market run by the merchant prince [Zhanthi](dramatis_personae.md#zhanthi) near the Grand Souk for the sale of jewelry, gems, [armor](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#mundane-items), and [magic items](activities_in_Port_Nyanzaru.md#buying-a-magic-item).
+- The _**Grand Souk**_: the largest [market](activities_in_Port_Nyanzaru.md#selling-loot-or-items) in Port Nyanzaru, where international merchants come to trade.
+- The **_Jewel Market_**: an exclusive and high-end market run by the merchant prince [Zhanthi](dramatis_personae.md#zhanthi) near the Grand Souk for the sale of jewelry, gems, [armor](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#mundane-items), and [magic items](activities_in_Port_Nyanzaru.md#buying-a-magic-item).
 - Temple of Gond, deity of artisans, craftspeople, and smiths.
-- Temple of Savras, deity of divination and fate.
-- Temple of Sune, deity of love and beauty. High priestess [Kwayothé](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#kwayothé) is also a merchant prince, and controls all Port Nyanzaru trade in tej, wine, ale, fruit, oil, perfume, and insect repellant.
+- Temple of Savras, deity of divination and fate. [Grandfather Zitembe](dramatis_personae.md#grandfather-zitembe) is the high priest.
+- Temple of Sune, deity of love and beauty. High priestess [Kwayothé](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#kwayothé) is also a merchant prince, and controls all Port Nyanzaru trade in tej, wine, ale, fruit, oil, and perfume.
 
 ---
 
@@ -75,7 +75,7 @@ Port Nyanzaru's upper classes reside in the opulent merchants' ward. This area h
 The original Chultan city of Nyanzaru, which Amn conquered and expanded into the modern Port Nyanzaru. This section that was left outside the city walls has become a lower-class but still-respectable part of the city where many laborers live.
 
 - The Beggars' Palaces: two massive stone ziggurats now crowded with newer construction.
-- [The Executioner's Run](activities_in_Port_Nyanzaru.md#port-nyanzaru-the-executioners-run): a rectangular pit where criminals are sentenced to death via dinosaur. Visitors from all over the city come to watch.
+- The [Executioner's Run](activities_in_Port_Nyanzaru.md#port-nyanzaru-the-executioners-run): a rectangular pit where criminals are sentenced to death via dinosaur. Visitors from all over the city come to watch.
 - The city garbage dump.
 
 ![Velociraptors like those at the Executioner's Run](images/raptors_raph04art.jpg)

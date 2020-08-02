@@ -35,7 +35,7 @@ _Somewhere in the jungles of **Chult**, the Soulmonger leeches life from those s
 
 3. Dinosaurs rule the wild jungles of Chult, particularly deep in the Valley of Dread. In Port Nyanzaru they are used as beasts of burden and butchered for meat.
 
-4. Over a century ago the warlord Ras Nsi raised an undead army to conquer Mezro. He was defeated, but his undead hordes swarmed into the jungle and drove Chult's inhabitants to the exterior of the peninsula.
+4. Over a century ago the warlord Ras Nsi raised an undead army to conquer the Chultan capital and holy city of Mezro. He was defeated, but his undead hordes swarmed into the jungle and drove Chult's inhabitants to the exterior of the peninsula.
 
 5. After the Chultans were driven from the interior, the Spellplague and later the two Sunderings each struck the world of Toril, warping and reshaping reality and geography all across Faerûn. Since those times a reliable map of Chult's interior has yet to be re-cartographed.
 

@@ -7,29 +7,27 @@
 ## Tomb of Annihilation
 ### _Dramatis Personae_
 
+- [Inhabitants of Chult](#native-inhabitants-of-chult)
+- [Port Nyanzaru](#port-nyanzaru)
+- [Organizations](#organizations)
+    - [Player Factions](#player-factions)
+- [Historical and Famous Figures](#historical-and-famous-figures)
+
+![immovable rod](../../images/immovable-rod.jpg)
+
 # Native inhabitants of Chult
 
-Port Nyanzaru is a cosmopolitan city built on international trade: people from all parts of Faerûn, as well as travellers from the far West continents of Anchorome and Kara-Tur, can be found there. The following are examples of local Chultan cultures:
+Port Nyanzaru is a cosmopolitan city built on international trade: people from all parts of Faerûn, as well as travellers from the far West continents of Anchorome and Kara-Tur, can be found in the city. The following are some examples from local Chultan cultures:
 
 ---
 
-### Chultan Humans
+### Humans
 ![Chultan Humans](images/Chultans.jpg)
 
 ---
 
-### Chultan Orcs and Half-Orcs
+### Orcs and Half-Orcs
 ![Chultan Orcs and Half-Orcs](images/chultan-orcs.jpg)
-
----
-
-### Lizardfolk
-![Lizardfolk](images/lizardfolk.jpg)
-
----
-
-### Chultan Dwarves
-![Chultan Dwarves](images/chultan-dwarves.jpg)
 
 ---
 
@@ -38,7 +36,17 @@ Port Nyanzaru is a cosmopolitan city built on international trade: people from a
 
 ---
 
-### Chultan Dragonborn
+### Dwarves
+![Chultan Dwarves](images/chultan-dwarves.jpg)
+
+---
+
+### Lizardfolk
+![Lizardfolk](images/lizardfolk.jpg)
+
+---
+
+### Dragonborn
 ![Chultan Dragonborn](images/chultan-dragonborn.jpg)
 
 ---
@@ -48,7 +56,7 @@ Port Nyanzaru is a cosmopolitan city built on international trade: people from a
 
 ---
 
-### Chultan Elves and Half-Elves
+### Elves and Half-Elves
 ![Chultan Elves](images/chultan-elves.jpg)
 
 ---
@@ -63,7 +71,7 @@ Port Nyanzaru is a cosmopolitan city built on international trade: people from a
 
 ---
 
-### Chultan Tieflings and Aasimar
+### Tieflings and Aasimar
 ![Chultan Tieflings and Aasimar](images/chultan-tieflings-and-aasimar.jpg)
 
 ---
@@ -73,8 +81,13 @@ Port Nyanzaru is a cosmopolitan city built on international trade: people from a
 
 ---
 
-### Chultan Gnomes and Halflings
+### Gnomes and Halflings
 ![Chultan Gnomes and Halflings](images/chultan-gnomes-halflings.jpg)
+
+---
+
+### Thri-Kreen
+![Chultan Thri-kreen](images/chultan-thri-kreen.jpg)
 
 ---
 
@@ -84,9 +97,11 @@ Port Nyanzaru is a cosmopolitan city built on international trade: people from a
 ---
 
 ### Yuan-ti
-Millennia ago, all of Faerûn suffered under the cruel, world-spanning empire of the Yuan-ti: humans who worshipped serpents as the ultimate symbol of beauty and power. At the apex of the Yuan-ti's power, their high priests performed an unholy ritual with thousands of living sacrifices in order to make themselves immortal, and to transform their bodies into the form of immense and powerful serpents.
+Millennia ago, all of Faerûn suffered under the cruel, world-spanning empire of the Yuan-ti: humans who worshipped serpents as the ultimate symbol of beauty and power. At the apex of the Yuan-ti's civilization, their high priests performed an unholy ritual with thousands of living sacrifices in order to make themselves immortal, and to transform their bodies into the form of immense and powerful serpents.
 
-The ritual was disrupted, however, and the Yuan-ti were instead transformed into hideous half-human forms. Their empire fell to ruin, and the surviving Yuan-ti were driven out of civilization into the wilderness. They have remained hidden in the wilds and shadows ever since, nursing their ancient grievances and watching for an opportunity to return to their rightful place as rulers of Faerûn.
+The ritual was disrupted, however, and the Yuan-ti were instead transformed into hideous half-human forms. The high priests turned on each other, sparking a brutal civil war across the entire empire. In response, the many conquered peoples of Faerûn began to resist the empire and throw off the yoke of the Yuan-ti.
+
+The surviving Yuan-ti were eventually driven out of their conquered lands and into the swampy wildernesses that they had originally emerged from. They have remained hidden in the wilds and in the shadows ever since, nursing their ancient grievances and searching for an opportunity or source of power that can return them to their rightful place as immortal conquerors of Faerûn.
 
 ![Yuan-ti](images/yuan-ti.jpg)
 
@@ -106,7 +121,7 @@ Syndra has brought the party to Port Nyanzaru in order to locate the source of t
 > _Kwayothé - Wakanga O'tamu - Zhanthi_
 
 
-Port Nyanzaru is controlled by a council of seven merchant princes, powerful native Chultans who organized a rebellion and took control of Nyanzaru from the nation of Amn nine years ago. They conduct official city business in the Goldenthrone palace in the Merchant's Ward.
+Port Nyanzaru is controlled by a council of seven merchant princes, powerful native Chultans who organized a rebellion and took control of the city from the nation of Amn nine years ago. They conduct official city business in the Goldenthrone palace in the merchants' ward.
 
 Each merchant prince **controls all selling and trading of certain types of goods** in Port Nyanzaru, although black market goods can sometimes be found outside the city walls.
 
@@ -118,10 +133,10 @@ More information on the merchant princes can be found as part of the page on [it
 ZIN-dar is a golden half-dragon sorcerer and **Port Nyanzaru's Harbormaster**. He's responsible for safely coordinating the vast amount of traffic that flows through the port. He's a common sight during the day in the harbor ward, where he can be seen flying, _sending_, and scrying across the maze-like harbor, trying to keep track of all the ships under his authority. The seven-foot stature of a half-dragon, and an occasional display of his magical prowess, is enough to ensure that the bookish Zindar never gets any real trouble from the many captains and crews upset daily by the port's delays and regulations.
 
 # Sibonseni, Mother of Prosperity
-SEH-bone-SEN-ay is Port Nyanzaru's **high priestess of Waukeen**, the deity of trade and wealth, and one of the most important people in Nyanzaru besides the merchant princes. The **Hall of Gold** in the market ward is an opulent temple to Waukeen.
+SEH-bone-SEN-ay is Port Nyanzaru's **high priestess of Waukeen**, the deity of trade and wealth, and the most important people in Port Nyanzaru besides the merchant princes. The **Hall of Gold** in the market ward is an opulent temple to Waukeen.
 
 # Grandfather Zitembe
-zeh-TEM-bay is the high priest at the **Temple of Savras** in Port Nyanzaru.
+zeh-TEM-bay is the high priest at the [**Temple of Savras**](activities_in_Port_Nyanzaru.md#port-nyanzaru-temple-of-savras) in Port Nyanzaru, and a trusted confidante of many of the city's wealthiest and most powerful figures.
 
 # The Brazen Pegasus
 A fast [sailing ship available for hire](activities_in_Port_Nyanzaru.md#sailing) somewhere in the labyrinthian harbor ward of Port Nyanzaru. The crew of the Pegasus takes jobs where they can find them, and often fall back on pirate hunting. They're usually on the lookout for skilled sailors and soldiers who might have an interest in joining the Pegasus, [hunting pirates out of the Bay of Chult](activities_in_Port_Nyanzaru.md#hunting-pirates).
@@ -141,7 +156,7 @@ First mate of the Brazen Pegasus, an Illuskan human.
 # The Ytepka Society
 ![Triceratops Token](images/factorydirectcraft_miniature_pewter_triceratops_dinosaur.jpg)
 
-The yeh-TEP-kah Society, also known as the **Triceratops Society**, is an anonymous and obscure organization with the declared aim of protecting Chultans from tyrants and the abuses of the powerful. Those who upset the Society quietly receive a triceratops-shaped token as a warning to change their ways.
+The yeh-TEP-kah Society, also known as the **Triceratops Society**, is an anonymous and obscure organization with the declared aim of protecting Chultans from tyrants and the abuses of the powerful. Those who upset the Society quietly receive a triceratops-shaped token as a [warning](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#jessamine) to change their ways.
 
 The Ytepka Society is widely known to have had a major role in organizing the merchant princes to take control of **Port Nyanzaru** from Amn. Rumors abound about who is still working with the Society today, and what their current purposes might be.
 
@@ -165,20 +180,20 @@ lee-AR-ah por-TEER is the current commander of Fort Beluarian, and holds the Fla
 ![factions](images/factions.jpg)
 _From left to right: Harpers, Zhentarim, Lords' Alliance, Emerald Enclave, and the Order of the Gauntlet._
 
-# The [Harpers](https://dnd.wizards.com/dungeons-and-dragons/story/faction/harpers)
-An underground network of freedom-loving bards, rogues, mages, and others who work throughout Faerûn to oppose tyrants and the abuses of the powerful.
+# The Harpers
+An [underground network](https://dnd.wizards.com/dungeons-and-dragons/story/faction/harpers) of freedom-loving bards, rogues, mages, and others who work throughout Faerûn to oppose tyrants and the abuses of the powerful.
 
-# The [Zhentarim](https://dnd.wizards.com/dungeons-and-dragons/story/faction/zhentarim)
-Zhentarim mercenaries are renowned across Faerûn as the best money can buy, and the foreign mercenary company is commonly employed in Chult to provide city guards, personal bodyguards, and protection for mines and logging camps in the jungle.
+# The Zhentarim
+[Zhentarim mercenaries](https://dnd.wizards.com/dungeons-and-dragons/story/faction/zhentarim) are renowned across Faerûn as the best money can buy, and the foreign mercenary company is commonly employed in Chult to provide city guards, personal bodyguards, and protection for mines and logging camps in the jungle.
 
-# The [Lords' Alliance](https://dnd.wizards.com/dungeons-and-dragons/story/faction/lordsalliance)
-A loose coalition of Sword Coast cities, lords, and merchants working together to defend civilization, establish peace, and maintain stability in the face of the elemental evils of Faerûn. Lords' Alliance members are usually concerned with events in the Sword Coast area, significantly North of Chult, but the various Lords maintain agents and spies almost everywhere in Faerûn.
+# The Lords' Alliance
+A loose coalition of Sword Coast cities, lords, and merchants working together to defend civilization, keep the peace, and maintain stability in the face of the incredible powers and forces that wreak havoc across Faerûn. Lords' Alliance members are usually concerned with events in the Sword Coast area, significantly North of Chult, but the various Lords maintain [agents and spies](https://dnd.wizards.com/dungeons-and-dragons/story/faction/lordsalliance) almost everywhere in Faerûn.
 
-# The [Emerald Enclave](https://dnd.wizards.com/dungeons-and-dragons/story/faction/emeraldenclave)
-A group of druids, rangers, and others that oppose threats to the natural world and help others survive the many perils of the wild. The Emerald Enclave does have members who patrol the Chultan jungles, but almost all Emerald Enclave members operate in isolation, and Chult is far too large for any single individual to ever master.
+# The Emerald Enclave
+A group of druids, rangers, and others that oppose threats to the natural world and help others survive the many perils of the wild. The [Emerald Enclave](https://dnd.wizards.com/dungeons-and-dragons/story/faction/emeraldenclave) does have members who patrol the Chultan jungles, but almost all Emerald Enclave members operate in isolation, and Chult is far too large for any single individual to ever master.
 
-# The [Order of the Gauntlet](https://dnd.wizards.com/dungeons-and-dragons/story/factions)
-Paladins and clerics of the deities Tyr, Helm, and Torm recently established the Order of the Gauntlet in order to better fight the evils of Faerûn. In Chult, the foreign Order established **Camp Righteous** deep in the jungle in order to destroy the undead menace there, but as the undead became more aggressive the camp was overrun. Undeterred, the Order has established **Camp Vengeance** even deeper in the interior, where they now continue their efforts to purge the undead from the jungle.
+# The Order of the Gauntlet
+Paladins and clerics of the deities Tyr, Helm, and Torm recently established the [Order of the Gauntlet](https://dnd.wizards.com/dungeons-and-dragons/story/factions) in order to better fight the evils of Faerûn. In Chult, the foreign Order established **Camp Righteous** deep in the jungle in order to destroy the undead menace there. As the undead became more aggressive the camp was overrun. Undeterred, the Order has established **Camp Vengeance** even deeper in the interior, where they now continue their efforts to purge the undead from the jungle.
 
 ### Niles Breakbone
 The current commander of Camp Vengeance is a [Chondathan](https://forgottenrealms.fandom.com/wiki/Chondathan) paladin who serves Tyr.
@@ -192,7 +207,7 @@ The current commander of Camp Vengeance is a [Chondathan](https://forgottenrealm
 
 A gargantuan dragon turtle called Aremag patrols the Bay of Chult, demanding treasure from ships passing through on their way to or from Port Nyanzaru. There's too much traffic for Aremag to catch every single ship that sails through, and Aremag doesn't appreciate slow or uncomprehending crews who delay her hunting. Aremag won't hesitate to sink an uncooperative or fast-talking ship so that she can simply pick out the treasure at her leisure later that night, when the bay is less busy.
 
-Although a drag on trade, many citizens of Port Nyanzaru have become fond of Aremag because she's a famous symbol of the city, or perhaps because so many of the captains sunk by the gargantuan beast later turn out to be loud, arrogant fools. Aremag is quite happy with her straightforward life of intimidating ships and collecting exotic treasures, and the beast is largely unaware of the concerns of the city.
+Although a drag on trade, many citizens of Port Nyanzaru have become fond of Aremag because she's a famous symbol of the city, or perhaps because so many of the captains sunk by the gargantuan beast later turn out to be loud, arrogant fools. Aremag is quite happy with her straightforward life of intimidating tiny ships and collecting a hoard of exotic treasures, and the beast is largely unaware of the concerns of the city.
 
 # The _Tarrasque_
 Tall tales of the return of the _Tarrasque_ have always been a popular topic in the taverns of Faerûn, but something has been subtly different since you arrived in Port Nyanzaru. Many Chultans are still mocking the stories told by travellers who claim to have been to the deepest jungles of the interior, but others have a quiet seriousness and urgency to their questioning. With the recent rise of the Death Curse, the growing aggressiveness of the undead, and the re-awakening of long-dormant volcanoes, it's no wonder that Chultans are considering the further catastrophic possibility of the return of the _Tarrasque_. If the mythological prophecy __is__ finally occurring, and the _Tarrasque_ __has__ risen, then it is coming to consume, and bring the apocalyptic final end to, the entire world of Toril.
@@ -223,7 +238,7 @@ VOH-loh-thamp geh-DARM is a famed human explorer currently in Port Nyanzaru as p
 ![immovable rod](../../images/immovable-rod.jpg)
 
 # **_Acererak_**
-Born to an Age that was already forgotten long before the earliest writings of the most ancient elves, Acererak is an immortal _**Lich**_ of unimaginable and sublime power. Wielding magic that dwarfs that of Faerûn's greatest deities, Acererak travels far and wide through the Astral Plane, wandering the uncounted worlds that can be reached from there while watching and manipulating the lives of both mortals and gods for his own amusement.
+Born to an Age that was already forgotten before the most ancient elven civilizations laid their first brick, Acererak is an immortal _**Lich**_ of unimaginable and sublime power. Wielding magic that dwarfs that of Faerûn's greatest deities, Acererak travels far and wide through the Astral Plane, wandering the uncounted worlds that can be reached from there while watching and manipulating the lives of both mortals and gods for his own amusement.
 
 Obscure texts tell the story of an ancient world named **Oerth**, where Acererak constructed an immense dungeon that he filled with powerful artifacts made from fragments of his own power. Vast armies' worth of adventurers were lured to their final death by the treasure in that ancient slaughterhouse, arrogantly underestimating the power and cruelty of Acererak.
 

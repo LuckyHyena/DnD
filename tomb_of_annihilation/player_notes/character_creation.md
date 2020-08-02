@@ -169,77 +169,43 @@ Characters sailing an unfamiliar ship require some time to adjust to their new v
 # Special _Tomb of Annihilation_ Equipment
 See the [items available for purchase in Port Nyanzaru](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#top).
 
-##### New Background Option:
-# **_Anthropologist_**
+# Factions
+Standard Adventurer's League factions, or you can tell me about a new one. See the Player Factions section of my Tomb of Annihilation [dramatis personae](dramatis_personae.md#player-factions).
 
-|Adopted Culture|d8|
-|-|-|
-|Aarakocra|1|
-|Dwarf|2|
-|Elf|3|
-|Goblin|4|
-|Halfling|5|
-|Human|6|
-|Lizardfolk|7|
-|Orc|8|
+# Background Options
+Quick summary of various background options from the _Player's Handbook_, _Tomb of Annihilation_, and _Sword Coast Adventurer's Guide_.
 
-#### Feature: **_Adept Linguist_**
-It takes you half the normal _downtime days_ to earn each [level of language competence](activities_in_Port_Nyanzaru.md#studying-a-language) when studying a language.
+|Background|Skills|Tools|Languages|Coins|Items|Feature|Source|
+|-|-|-|-|-|-|-|-|
+|Acolyte|Insight and Religion|-|2|15 gold|A holy symbol, a prayer book or prayer wheel, 5 sticks of incense, vestments, and common clothes.|Shelter of the Faithful|[SRD](https://5thsrd.org/character/backgrounds/)|
+|Anthropologist|Insight and History|-|2|10 gold|A leather-bound diary with ink and pen, a set of travelers' clothes, and a trinket of special significance to your adopted culture.|Adept Linguist|_ToA_|
+|Archeologist|History and Survival|Either cartographer's tools or navigator's tools|1|25 gold|A wood case containing an unlabelled map, a bullseye lantern, a set of traveler's clothes, and a trinket recovered from a dig site.|History Knowledge|_ToA_|
+|Charlatan|Deception and Sleight of Hand|Disguise hit and forgery kit|-|15 gold|Fine clothes, a disguise kit, and the forged items needed for your preferred con.|False Identity|_PHB_|
+|City Watch|Insight, Athletics or Investigation|-|2|10 gold|Uniform, a horn for summoning help, and a set of manacles.|Find the nearest guard station or nearby criminal dens.|_SCAG_|
+|Courtier|Insight, Persuasion|-|2|10 gold|A set of fine clothes.|Master of court bureaucracy and records, and who to ask for favors.|_SCAG_|
+|Criminal|Deception and Stealth|Thieves' tools and one type of gaming set|-|15 gold|A crowbar and dark common clothes with a hood|Criminal Contact|_PHB_|
+|Entertainer|Acrobatics and Performance|Disguise kit and one type of musical instrument|-|15 gold|Your musical instrument, a trinket from a lover, and a costume.|By Popular Demand|_PHB_|
+|Faerûn Faction Agent|Insight plus one Int, Wis, or Cha skill|-|2|15 gold|Badge or emblem of your faction, a seminal text or code book, and a set of common clothes.|Safe Haven|_SCAG_|
+|Far Traveller|Insight, Perception|One musical instrument or gaming set|1|5 gold|One set of traveler's clothes, your proficient instrument or game, a crude map of Faerûn, a piece of jewelry worth 1 platinum coin.|All Eyes on You|_SCAG_|
+|Folk Hero|Animal Handling and Survival|Land vehicles plus one type of artisan's tools|-|10 gold|Your artisan's tools, a shovel, an iron pot, and common clothes.|Rustic Hospitality|_PHB_|
+|Guild Artisan|Insight and Persuasion|One type of artisan's tools|1|15 gold|Your artisan's tools, a set of traveler's clothes, and a letter of introduction from your guild.|Guild Membership|_PHB_|
+|Clan Crafter|History, Insight|One type of artisan's tool|Dwarvish, or another language if you already speak it.|5 gold|Your artisan's tools, a marking chisel with your clans' maker's mark, traveler's clothes, a gem worth 1 platinum coin.|Respect of Dwarves everywhere|_SCAG_|
+|Hermit|Medicine and Religion|Herbalism kit|1|5 gold|A herbalism kit, a scroll case full of personal notes, a winter blanket, and common clothes.|Unique and powerful Discovery|_PHB_|
+|Inheritor|Survival plus one from Arcana, History, or Religion|One gaming set or musical instrument|1|15 gold|Your inheritance (one mundane object), a set of traveler's clothes, and your gaming set or instrument.|DM decides your inheritance|_SCAG_|
+|Knightly Order|Persuasion plus one from Arcana, History, Nature, or Religion|One gaming set or musical instrument|1|10 gold|Traveler's clothes and a signet, banner, or seal from your order|Well-regarded|_SCAG_|
+|Noble|History and Persuasion|One type of gaming set|1|25 gold|Fine clothes, a signet ring, and a scroll of pedigree.|Position of Privilege|_PHB_|
+|Waterdhavian Noble|History and Persuasion|One gaming set or musical instrument|1|20 gold|Fine clothes, a signet ring or brooch, a scroll of pedigree, and a skin or fine _zzar_ or wine.|Kept in Style|_SCAG_|
+|Outlander|Athletics and Survival|One musical instrument|1|10 gold|A hunting trap, a trophy from a successful hunt, and a set of traveler's clothes.|Excellent memory for terrain and foraging|_PHB_|
+|Uthgardt Outlander|Athletics and Survival|One instrument or set of artisan's tools|1|10 gold|A hunting trap, a totemic token or set of tattoos, and traveler's clothes.|Uthgaardt Heritage|_SCAG_|
+|Sage|History and Arcana|-|2|10 gold|Common clothes, writing tools, and a letter from a dead colleague asking a question you haven't yet solved.|Researcher|_PHB_|
+|Cloistered Scholar|History plus one of Arcana, Nature, or Religion|-|2|10 gold|Your cloisters' scholarly robes, a writing kit, a borrowed research book.|Library access|_SCAG_|
+|Sailor|Athletics, Perception, and [_Sailing_](#sailing)|Water vehicles and navigator's tools|* 1|10 gold|50 feet of silk rope, a lucky charm, and common clothes.|Ship's Passage|_PHB_|
+|Soldier|Athletics and Intimidation|Land vehicles and one type of gaming set|-|10 gold|An insignia of rank, a trophy from a victory, your gaming set, and common clothes|Military Rank|_PHB_|
+|Mercenary Veteran|Athletics and Persuasion|Land vehicles plus one type of gaming set|-|10 gold|Uniform, an insignia of your rank, and your gaming set.|Identify mercenaries and their companies|_SCAG_|
+|Urban Bounty Hunter|Two from Deception, Insight, Persuasion, or Stealth|Choose two from: a gaming set, an instrument, or thieves' tools.|-|20 gold|Clothes "appropriate to your duties".|Ear to the Ground|_SCAG_|
+|Urchin|Sleight of Hand, Stealth|Disguise kit, thieves' tools|-|10 gold|A precious item to remember your parents by, a pet mouse, common clothes, and a trinket from the city you grew up in.|City Secrets|_PHB_|
 
-#### Skill Proficiencies
-- _Insight_
-- _History_
-
-#### Languages
-Two of your choice.
-
-#### Equipment
-- A leather-bound diary.
-- A bottle of ink.
-- An ink pen.
-- A set of traveler's clothes.
-- One _trinket_ of special significance, from your adopted culture.
-- A pouch containing 10 gold coins.
-
----
-
-##### New Background Option:
-# _**Archeologist**_
-
-|Signature Tool|d8|
-|-|-|
-|Ten-foot pole|1|
-|Crowbar|2|
-|Hat|3|
-|Hooded Lantern|4|
-|Medallion|5|
-|Shovel|6|
-|Sledgehammer|7|
-|Whip|8|
-
-#### Feature: **_Historical Knowledge_**
-- You can investigate dungeons and ruins for their purpose and builders.
-- You can appraise the monetary value of art objects more than a century old.
-
-#### Skill Proficiencies
-- _History_
-- _Survival_
-
-#### Tool Proficiencies
-Either cartographer's tools or navigator's tools.
-
-#### Languages
-One of your choice.
-
-#### Equipment
-- A wooden case containing a map to a ruin or dungeon (ask me about it ingame).
-- A bullseye lantern
-- A miner's pick
-- A set of traveler's clothes
-- A shovel
-- A two-person tent
-- A _trinket_ recovered from a dig site
-- A pouch containing 25 gold coins.
+> * means homebrew
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
@@ -299,12 +265,12 @@ From most to least useful, IMO:
 
 ## Recommended favored enemies
 I've tried to cram every creature in the 5e Monster Manual into my Chult prep, but some are nonetheless more common than others:
-- Monstrosities, including the most powerful Yuan-ti, as well as most Underdark creatures.
+- Monstrosities, including the most powerful Yuan-ti as well as most Underdark creatures.
 - Undead.
-- Shapechanger humanoids, which includes both Yuan-ti spies and [were-tigers](introduction.md#dangers-of-chult); plus one other [type of humanoid](dramatis_personae.md#inhabitants-of-chult).
-- Beasts, including dinosaurs.
-- Plants, constructs, or oozes.
-- Dragons, giants, or elementals.
+- Shapechanger humanoids (includes Yuan-ti spies and [were-tigers](introduction.md#dangers-of-chult)), plus one other [type of humanoid](dramatis_personae.md#inhabitants-of-chult).
+- One of: Beasts (including dinosaurs) or Elementals.
+- One of: Plants, Constructs, Oozes, or Aberrations.
+- One of: Dragons, Giants, Demons, or Devils.
 
 The Yuan-ti speak Primordial.
 

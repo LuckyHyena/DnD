@@ -26,7 +26,7 @@ All sales of poisons must be approved by [Jessamine](list_of_items_available_for
 
 |Injury Poisons|Price per Dose|Effect|
 |-|-|-|
-|Drow Poison            |20 platinum coins|_Poisoned_ and _unconscious_ for 1 hour.|
+|Drow-Elf Poison            |20 platinum coins|_Poisoned_ and _unconscious_ for 1 hour.|
 |Serpent Venom          |20 platinum coins|Poison damage.|
 |Wyvern Poison          |120 platinum coins|Heavy poison damage.|
 |Purple Worm Poison     |200 platinum coins|Massive poison damage.|

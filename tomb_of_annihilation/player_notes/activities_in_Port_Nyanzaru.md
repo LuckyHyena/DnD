@@ -535,7 +535,7 @@ If a ship lacks a full crew, its normal speed is one hex for each crew member it
 ##### Gotta spend coin to make coin
 As per the _Player's Handbook_, it costs **2 gold coins per day** to employ a skilled hireling, including a sailor. Sailors who are mistreated, or significantly cheaper sailors, might mutiny, steal the ship while the party is ashore, or simply abandon their post at the first available opportunity.
 
-Skilled sailors are proficient in _Sailing_ and generally have a total proficiency and ability bonus of **+7** for all _Sailing_ checks, depending on their price. If the crew's morale is low from the difficulty of the journey, or from being away from port for too long, their _Sailing_ proficiency bonus will drop.
+Skilled sailors are proficient in _Sailing_ and generally have a total proficiency and ability bonus of **6** for all _Sailing_ checks, depending on their price. If the crew's morale is low from the difficulty of the journey, or from being away from port for too long, their _Sailing_ proficiency bonus will drop.
 
 > **Character Bonus:** One member of the party and one optional assistant may make a **Hard difficulty** [DC 20] **Charisma** ability check to improve the crew's morale, as long as the low morale isn't being caused by the antics of the party itself.
 
