@@ -481,7 +481,7 @@ For each day a crew spends hunting, roll a [Random Encounter Check](rules_for_ra
 ### Booty
 Pirate hunters are expected to seize their payment from the goods they re-steal from the pirates: the more pirates you catch, the more you'll earn. Failed hunts provide experience points and injuries but not treasure.
 
-For each potential ship target, the DM will roll one treasure hoard of level 1d12 from the tables in Chapter 7: Treasure of the _Dungeon Master's Guide_. The general booty value of a target can be identified by the features of the ship and how low it's riding in the water; the same is true for pirates eyeing the Brazen Pegasus when it's hauling loot back to Port Nyanzaru.
+For each potential ship target, the DM will roll one treasure hoard of level 1d20 from the tables in Chapter 7: Treasure of the _Dungeon Master's Guide_. The general booty value of a target can be identified by the features of the ship and how low it's riding in the water; the same is true for pirates eyeing the Brazen Pegasus when it's hauling loot back to Port Nyanzaru.
 
 > **Shares:** If a hoard is successfully looted, and only one party member is participating, that character will get a 1/20 share of the hoard: it's split with the sixteen existing Pegasus crew members, one extra share each for Captain Ortimay and mate Ruddell, and an extra half share each for the quartermaster and the cook. If two characters participate they each get a 1/21 share, if three participate they each get a 1/22 share, and so on. If any of the Brazen Pegasus's original crew die during the hunt, their share will be paid to their surviving kin.
 
@@ -522,7 +522,7 @@ While the party travels as passengers on The Brazen Pegasus, up to three charact
 
 Acquiring and maintaining ownership of a sailing ship, particularly one that isn't actively worked to earn a profit on the high seas, is difficult, but entirely possible during the party's adventures in Chult.
 
-While sailing their own ship, up to three characters may work as crew members in the same way as on the Brazen Pegasus. An **additional three characters can assist** the first three to provide advantage on checks. Because of their existing rapport party members can even try to contribute if they aren't _proficient_ in _Sailing_.
+While sailing their own ship, up to three party members may work as crew members in the same way as on the Brazen Pegasus. An **additional three characters can assist** the first three to provide advantage on checks. Because of their existing rapport party members can even try to contribute if they aren't _proficient_ in _Sailing_.
 
 ##### This fully armed and operational battle station
 To be fully crewed a sailing ship requires crew members equal to its normal speed in (Chultan 10-mile) hexes per day, which is **10 hexes per day** and **10 crew members** for the Brazen Pegasus and similar ships.

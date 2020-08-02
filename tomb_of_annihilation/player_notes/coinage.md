@@ -25,6 +25,10 @@ The coins of most cultures on Faerûn fall into one of five broad categories:
 
 - A wide variety of _**Gems**_ are also used in Port Nyanzaru as currency. Depending upon the type of jewel, an individual gem may range in value from a single platinum coin to as much as **five hundred platinum coins**.
 
+![Coins of Faerûn](images/coins.jpg)
+
+[_Waterdeep_ coins](https://forgottenrealms.fandom.com/wiki/Currency)
+
 ---
 
 [Items available for purchase in Port Nyanzaru](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#top)

@@ -21,7 +21,7 @@
 
 - [Dramatis Personae](dramatis_personae.md#top)
 - [One-shot or campaign intro scenario](scenario.md#top)
-- [Things to do in Port Nyanzaru](activities_in_Port_Nyanzaru.md#top)
+- [Activities in Port Nyanzaru](activities_in_Port_Nyanzaru.md#top)
 - [Items available for purchase in Port Nyanzaru](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#top)
   
 ## Rules you could skim
