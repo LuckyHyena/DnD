@@ -308,6 +308,10 @@ I've tried to cram every creature in the 5e Monster Manual into my Chult prep, b
 
 The Yuan-ti speak Primordial.
 
+![Vegepygmies](images/Vegepygmy-5e.jpg)
+
+_Vegepygmies, one of the many plant-based dangers in Chult._
+
 ---
 
 [Back to top](#top)

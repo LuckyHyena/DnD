@@ -7,10 +7,19 @@
 ## Tomb of Annihilation
 ### _Dramatis Personae_
 
-# Inhabitants of Chult
+# Native inhabitants of Chult
+
+Port Nyanzaru is a cosmopolitan city built on international trade, and people from all parts of Faerûn can be found there. The following are examples of local Chultan cultures:
+
+---
 
 ### Chultan Humans
 ![Chultan Humans](images/Chultans.jpg)
+
+---
+
+### Chultan Orcs and Half-Orcs
+![Chultan Orcs and Half-Orcs](images/chultan-orcs.jpg)
 
 ---
 
@@ -19,13 +28,28 @@
 
 ---
 
+### Chultan Dwarves
+![Chultan Dwarves](images/chultan-dwarves.jpg)
+
+---
+
 ### Tabaxi
 ![Tabaxi](images/tabaxi.jpg)
 
 ---
 
+### Chultan Dragonborn
+![Chultan Dragonborn](images/chultan-dragonborn.jpg)
+
+---
+
 ### Batiri Goblins and Hobgoblins
 ![Batiri goblins](images/hobgoblins.jpg)
+
+---
+
+### Chultan Elves and Half-Elves
+![Chultan Elves](images/chultan-elves.jpg)
 
 ---
 
@@ -39,8 +63,18 @@
 
 ---
 
+### Chultan Tieflings and Aasimar
+![Chultan Tieflings and Aasimar](images/chultan-tieflings-and-aasimar.jpg)
+
+---
+
 ### Aarakocra
 ![Aarakocra](images/aarakocra.jpg)
+
+---
+
+### Chultan Gnomes and Halflings
+![Chultan Gnomes and Halflings](images/chultan-gnomes-halflings.jpg)
 
 ---
 
