@@ -9,7 +9,7 @@
 
 # Native inhabitants of Chult
 
-Port Nyanzaru is a cosmopolitan city built on international trade, and people from all parts of Faerûn can be found there. The following are examples of local Chultan cultures:
+Port Nyanzaru is a cosmopolitan city built on international trade: people from all parts of Faerûn, as well as travellers from the far West continents of Anchorome and Kara-Tur, can be found there. The following are examples of local Chultan cultures:
 
 ---
 
