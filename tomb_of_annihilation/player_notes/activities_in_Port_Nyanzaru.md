@@ -466,7 +466,7 @@ _The merchant prince Ifan Talro'a controls all sales of beasts and beast trainin
 Port Nyanzaru has a problem with pirates, and both Harbormaster Zindar and the Blaze of Fort Beluarian need individuals with initiative and pluck to get out there and hunt them. A crew of pirate hunters might start out its journey escorting a merchant ship leaving the Bay of Chult, and then spend its time patrolling and setting ambushes until its crew is exhausted.
 
 ### Going on a hunt with The Brazen Pegasus
-A ship named The Brazen Pegasus sails out of Port Nyanzaru. The sixteen-person crew of the Pegasus takes a wide variety of jobs doing whatever they can, and often fall back on pirate hunting when better opportunities can't be found. A character may sign up with Captain Ortimay to join The Brazen Pegasus on a pirate hunting voyage as a crew member, and sail the Shining Sea while the rest of the party is doing other business in Port Nyanzaru.
+A ship named The Brazen Pegasus sails out of Port Nyanzaru. The sixteen-person crew of the Pegasus takes a wide variety of jobs doing whatever they can, and often fall back on pirate hunting when better opportunities can't be found. A character may sign up with [Captain Ortimay Swift and Dark](dramatis_personae.md#captain-ortimay-swift-and-dark) to join The Brazen Pegasus on a pirate hunting voyage as a crew member, and sail the Shining Sea while the rest of the party is doing other business in Port Nyanzaru.
 
 Pirate hunting involves the newly-available skill proficiency [_**Sailing**_](character_creation.md#sailing). Hunting pirates is a combination of _Sailing_ ability checks and combat, and a character must be good at one or the other, preferably both, to impress Captain Ortimay and join The Brazen Pegasus's crew.
 
@@ -503,7 +503,7 @@ Characters may also try to assist with the day's sailing, as described here.
 
 ### Port Nyanzaru: The Brazen Pegasus
 
-The party can speak to Captain Ortimay to buy passage on her ship, The Brazen Pegasus, which can eventually be found in Port Nyanzaru's maze-like docks.
+The party can speak to [Captain Ortimay Swift and Dark](dramatis_personae.md#captain-ortimay-swift-and-dark) to buy passage on her ship, The Brazen Pegasus, which can eventually be found in Port Nyanzaru's maze-like docks.
 
 While the party travels as passengers on The Brazen Pegasus, up to three characters _proficient_ in _Sailing_ may spend downtime days assisting the crew by making one _Sailing_ ability check per day:
 

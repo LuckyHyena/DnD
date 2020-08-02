@@ -50,7 +50,7 @@
 ---
 
 ### Yuan-ti
-Millennia ago, all of Faerûn suffered under the cruelty of the Yuan-ti, a world-spanning empire of humans who worshipped serpents as the ultimate symbol of beauty and power. At the apex of their civilization, the high priests of the Yuan-ti performed an unholy ritual with thousands of human sacrifices in order to make themselves immortal, and to transform their bodies into the form of immense and powerful serpents.
+Millennia ago, all of Faerûn suffered under the cruel, world-spanning empire of the Yuan-ti: humans who worshipped serpents as the ultimate symbol of beauty and power. At the apex of the Yuan-ti's power, their high priests performed an unholy ritual with thousands of living sacrifices in order to make themselves immortal, and to transform their bodies into the form of immense and powerful serpents.
 
 The ritual was disrupted, however, and the Yuan-ti were instead transformed into hideous half-human forms. Their empire fell to ruin, and the surviving Yuan-ti were driven out of civilization into the wilderness. They have remained hidden in the wilds and shadows ever since, nursing their ancient grievances and watching for an opportunity to return to their rightful place as rulers of Faerûn.
 
@@ -90,6 +90,8 @@ zeh-TEM-bay is the high priest at the **Temple of Savras** in Port Nyanzaru.
 A fast [sailing ship available for hire](activities_in_Port_Nyanzaru.md#sailing) somewhere in the labyrinthian harbor ward of Port Nyanzaru. The crew of the Pegasus takes jobs where they can find them, and often fall back on pirate hunting. They're usually on the lookout for skilled sailors and soldiers who might have an interest in joining the Pegasus, [hunting pirates out of the Bay of Chult](activities_in_Port_Nyanzaru.md#hunting-pirates).
 
 ### Captain Ortimay Swift and Dark
+![Captain Ortimay](images/captain-ortimay-swift-and-dark.jpg)
+
 OR-teh-may is the captain of the Brazen Pegasus and a rock gnome.
 
 ### First mate Grig Ruddell

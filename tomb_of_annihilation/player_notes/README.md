@@ -13,7 +13,7 @@
 ## Things you should read
 
 - [Adventure Introduction](introduction.md#tomb-of-annihilation)
-- [Welcome to Chult!](introduction.md#welcome-to-chult)
+  - [Welcome to Chult!](introduction.md#welcome-to-chult)
 - [Welcome to Port Nyanzaru](Port_Nyanzaru.md#top)
 - [Character Creation](character_creation.md#top)
 
@@ -21,10 +21,8 @@
 
 - [Dramatis Personae](dramatis_personae.md#top)
 - [One-shot or campaign intro scenario](scenario.md#top)
-- [Welcome to Port Nyanzaru!](Port_Nyanzaru.md#top)
 - [Things to do in Port Nyanzaru](activities_in_Port_Nyanzaru.md#top)
 - [Items available for purchase in Port Nyanzaru](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#top)
-- [The subtle elegance of Fifth Edition D&D's ability checks](../../homebrew/5e_ability_checks.md#top)
   
 ## Rules you could skim
 
@@ -32,6 +30,7 @@
 - [Camping activities](activities_for_camping.md#top)
 - [Short rest activities](activities_for_short_rests.md#top)
 - [My 5e Quick Rules Reference](../../homebrew/5e_reference.md#top)
+- [The subtle elegance of Fifth Edition D&D's ability checks](../../homebrew/5e_ability_checks.md#top)
 
 ## The full player-visible rules reference for all my nonsense
 

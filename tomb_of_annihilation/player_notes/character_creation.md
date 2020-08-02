@@ -20,12 +20,15 @@ With all that in mind, take a look through the background information available 
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
-- [My Character Creation Rules](#my-character-creation-rules)
-- [New Tomb of Annihilation skill proficiencies](#further-information)
-- [Tomb of Annihilation Character Options](#tomb-of-annihilation-character-options)
-  - [Anthropologist Background](#anthropologist)
-  - [Archaeologist Background](#archeologist)
-  - Druid [_Wild Shape_ Dinosaurs](#druids)
+- My [Character Creation Rules](#my-character-creation-rules)
+- New Tomb of Annihilation [skill proficiencies](#further-information)
+  - [**_Camping_**](#camping)
+  - [**_Riding_**](#riding)
+  - [**_Sailing_**](#sailing)
+- Tomb of Annihilation [Character Options](#tomb-of-annihilation-character-options)
+  - [Anthropologist](#anthropologist) background
+  - [Archaeologist](#archeologist) background
+  - Druid [_Wild Shape_ options](#druids)
   - Ranger [Favored Terrains](#rangers)
 
 ![immovable rod](../../images/immovable-rod.jpg)
@@ -296,14 +299,14 @@ From most to least useful, IMO:
 
 ## Recommended favored enemies
 I've tried to cram every creature in the 5e Monster Manual into my Chult prep, but some are nonetheless more common than others:
-- Monstrosities, including the most powerful yuan-ti, as well as most Underdark creatures.
+- Monstrosities, including the most powerful Yuan-ti, as well as most Underdark creatures.
 - Undead.
-- Shapechanger humanoids, which includes both yuan-ti spies and [were-tigers](introduction.md#dangers-of-chult); plus one other [type of humanoid](dramatis_personae.md#inhabitants-of-chult).
+- Shapechanger humanoids, which includes both Yuan-ti spies and [were-tigers](introduction.md#dangers-of-chult); plus one other [type of humanoid](dramatis_personae.md#inhabitants-of-chult).
 - Beasts, including dinosaurs.
 - Plants, constructs, or oozes.
 - Dragons, giants, or elementals.
 
-The yuan-ti speak Primordial.
+The Yuan-ti speak Primordial.
 
 ---
 
