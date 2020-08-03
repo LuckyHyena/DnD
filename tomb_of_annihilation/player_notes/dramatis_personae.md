@@ -186,7 +186,7 @@ The official mercenary company of the wealthy foreign city of **Baldur's Gate**,
 
 ## Blaze Liara Portyr
 
-lee-AR-ah por-TEER is the current commander of Fort Beluarian, and holds the Flaming Fist rank of *blaze*. Blaze Portyr is a career soldier who comes from the important Portyr family in Baldur's Gate. She's related to one of the four current Lords of Baldur's Gate, but as a blaze she answers only to Grand Duke Ulder Ravengard, a fellow career officer of the Flaming Fist.
+lee-AR-ah por-TEER is the current commander of Fort Beluarian, and holds the Flaming Fist rank of *blaze*. The blaze Portyr is a career soldier who comes from the important Portyr family in Baldur's Gate. She's related to one of the four current Lords of Baldur's Gate, but as a blaze she answers only to Grand Duke Ulder Ravengard, a fellow career officer of the Flaming Fist.
 
 ![Liara Portyr](images/Liara_Portyr.jpg)
 
@@ -201,7 +201,7 @@ _From left to right: Harpers, Zhentarim, Lords' Alliance, Emerald Enclave, and t
 An [underground network](https://dnd.wizards.com/dungeons-and-dragons/story/faction/harpers) of freedom-loving bards, rogues, mages, and others who work throughout Faerûn to oppose tyrants and the abuses of the powerful.
 
 ## Nivri Snowfang
-Snowfang is a harper _brightcandle_, and harper members' official contact in Port Nyanzaru (and therefore all of Chult). She lives a comfortable life skimming from the immense wealth of Port Nyanzaru, enjoying the local luxuries, and betting on dinosaur races, all while keeping an ear to the ground for information valuable to the Harpers. Syndra Silvane is a harper wise owl, and Snowfang is one of Silvane's trusted contacts for scrounging up information on Chult and the Soulmonger.
+Nivri Snowfang is a harper _brightcandle_, and harper members' official contact in Port Nyanzaru (and therefore all of Chult). She lives a comfortable life skimming from the immense wealth of Port Nyanzaru, enjoying the local luxuries, and betting on and racing dinosaurs, all while keeping an ear to the ground for information valuable to the Harpers. Syndra Silvane is a harper _wise owl_, and Nivri is one of Silvane's trusted contacts for scrounging up information on Chult and the Soulmonger.
 
 ![Nivri Snowfang](images/nivri_snowfang.jpeg)
 
@@ -217,7 +217,7 @@ The orc Kuraz is the _viper_ in charge of Zhentarim operations in Chult. There a
 A loose coalition of Sword Coast cities, lords, and merchants working together to defend civilization, keep the peace, and maintain stability in the face of the incredible powers and forces that wreak havoc across Faerûn. Lords' Alliance members are usually concerned with events in the Sword Coast area, significantly North of Chult, but the various Lords maintain [agents and spies](https://dnd.wizards.com/dungeons-and-dragons/story/faction/lordsalliance) almost everywhere in Faerûn.
 
 ## Tsaubra McGee
-Tsaubra McGee is a golden dragonborn and a popular _master_ in Port Nyanzaru's blacksmiths' guild. Tsaubra's work puts him in contact with people all over the city, and the _stingblade_ is able to spy for the Lords' Alliance while waving off suspicion either as required information he needs to estimate and plan the guilds' work, or as a part of his well-publicized eccentricity. Tsaubra has raced dinosaurs in the past but is currently trying to keep a lower profile.
+Tsaubra McGee is a golden dragonborn and a popular _master_ in Port Nyanzaru's blacksmiths' guild. Tsaubra's work puts him in contact with people all over the city, and the _stingblade_ is able to spy for the Lords of Waterdeep while waving off suspicion with either excuses about gathering info and planning the guilds' future work, or as a part of his well-publicized eccentricity. Tsaubra has raced dinosaurs in the past but is currently trying to keep a lower profile.
 
 ![Tsaubra McGee](images/Tsaubra%20Mcgee.jpeg)
 
@@ -225,7 +225,7 @@ Tsaubra McGee is a golden dragonborn and a popular _master_ in Port Nyanzaru's b
 A group of druids, rangers, and others that oppose threats to the natural world and help others survive the many perils of the wild. The [Emerald Enclave](https://dnd.wizards.com/dungeons-and-dragons/story/faction/emeraldenclave) does have members who patrol the deep Chultan jungles, but almost all Emerald Enclave members operate in isolation, and Chult is far too large for any single individual to ever master.
 
 ## Danbul Thistletop
-The lightfoot halfling Danbul Thistletop is an _autumnreaver_ in the Emerald Enclave, and he's members' point of contact in Port Nyanzaru. He has an affinity for the dinosaurs of Chult, and Danbul can usually be found or summoned to the Tiryki anchorage within a few days. He is an utterly ruthless [gamer](activities_in_Port_Nyanzaru.md#gaming) and dinosaur racer.
+The lightfoot halfling Danbul Thistletop is an _autumnreaver_ in the Emerald Enclave, and he's members' point of contact in Port Nyanzaru and the surrounding area. He has an affinity for the dinosaurs of Chult, and Danbul can usually be found or summoned to the Tiryki anchorage within a few days. He is an utterly ruthless [gamer](activities_in_Port_Nyanzaru.md#gaming) and dinosaur racer.
 
 ![Danbul Thistletop](images/danbul-thistletop.png)
 
@@ -238,7 +238,7 @@ The current commander of Camp Vengeance is a young and untested [Chondathan](htt
 ![Niles Breakbone](images/lord-mayer-olin-keetes.jpg)
 
 ## Malexus
-A tiefling bard named Malexus is the Order's agent in Port Nyanzaru itself, outside of Camp Vengeance. Malexus's status as a _whitehawk_ in the Order is only a semi-open secret, which allows him to better keep an eye on the merchants, clerics, and mages that keep Camp Vengeance supplied. Most days Malexus can be found on the streets of Port Nyanzaru performing for a crowd, often in the Grand Souk or the taverns of the market ward.
+A tiefling bard named Malexus is the Order's agent in Port Nyanzaru itself, outside of Camp Vengeance. Malexus's status as a _whitehawk_ in the Order of the Gauntlet is only a semi-open secret, which allows him to better keep an eye on the merchants, clerics, and mages that keep Camp Vengeance supplied, as well as listening for information that might be useful to the Order. Most days Malexus can be found on the streets of Port Nyanzaru performing for a carefully-placed crowd, often in the Grand Souk or the taverns of the market ward.
 
 ![Malexus](images/malexus.png)
 
