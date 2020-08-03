@@ -153,11 +153,18 @@ ZIN-dar is a golden half-dragon sorcerer and Port Nyanzaru's Harbormaster. He's 
 
 ![Harbormaster Zindar](images/Harbormaster_Zindar.jpg)
 
+
+# Xandala Cinder
+Xandala is a half-elf sorcerer searching in Port Nyanzaru for information about her father, Artus, or his lost expedition that travelled up the river Tath. The Cinder family has significant wealth, and Xandala will reward anyone who can bring her information about where Artus's small party travelled in Chult, or their final destination.
+
+# Lerek Dashlynd
+Lerek Dashlynd represents powerful Waterdhavian commercial interests, and he's looking for an accurate map with the locations of the two ruined Chultan settlements Nangalore and Oralunga. Dashlynd has offered to trade a sailing ship for a map that can be verified by divination magic.
+
 # The Brazen Pegasus
 A [fast sailing ship](activities_in_Port_Nyanzaru.md#sailing) available for hire somewhere in the labyrinthian harbor ward of Port Nyanzaru. Captain Swift and Dark and her crew take jobs where they can find them, and often fall back on pirate hunting. They're usually on the lookout for skilled sailors and soldiers who might have an interest in joining the Pegasus, [hunting pirates out of the Bay of Chult](activities_in_Port_Nyanzaru.md#hunting-pirates).
 
 ## Captain Ortimay Swift and Dark
-OR-teh-may Swift and Dark is the captain of the Brazen Pegasus and a rock gnome. Like many gnomes, she has a variety of interests and an impatient zest for life, but above all else Captain Swift and Dark has an unmistakable _talent_ for hunting pirates.
+OR-teh-may Swift and Dark is the captain of the Brazen Pegasus and a rock gnome. Like many gnomes, she has a diverse variety of interests and an impatient zeal for life, but above all else Captain Swift and Dark has an unmistakable _talent_ for hunting pirates.
 
 ![Captain Swift and Dark](images/captain-ortimay-swift-and-dark.jpg)
 
