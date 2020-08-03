@@ -106,9 +106,9 @@ Every **tenth-day** most of Port Nyanzaru gathers in the streets to watch the ci
 Most afternoons the Grand Coliseum in the market ward is open and hosting a variety of events. It's possible for a character to join as one of the gladiators [fighting](#fighting) in an event, or they may choose to carouse and spend an afternoon in the spectator stands watching the fights.
 
 ### Port Nyanzaru: The Executioner's Run
-![Velociraptors like those at the Executioner's Run](images/raptors_raph04art.jpg)
-
 Outside the city walls in the Old City district is a rectangular pit, commonly called The Executioner's Run, that has been repurposed from an ancient sporting arena into a combat pit. Some varieties of petty legal disputes can be resolved here via trial by combat, and more serious criminals are sometimes sent here to be executed by a pack of velociraptors. Crowds from all over the city gather to watch the carnage from above. A character can try to get involved in the [fighting](#fighting), or they may carouse and spend the day watching the combats as part of the crowd.
+
+![Velociraptors like those at the Executioner's Run](images/raptors_raph04art.jpg)
 
 ### Port Nyanzaru: The Thundering Lizard Tavern
 Syndra Silvane recommends the Thundering Lizard Inn for characters who are looking for "a raucous time". The inn's attached tavern faces the Red Bazaar in the market ward, and remains well-trafficked even during working hours. It's a fine place to carouse at any time of day. The owner and main bartender [Erlathan Naeynore](dramatis_personae.md#erlathan-naeynore) is an ex-gladiator who tolerates quite a lot in the tavern.
