@@ -65,9 +65,9 @@ Ekene-Afa can be a wrathful and mercurial leader, and the people who succeed in 
 |Manacles|2 gold coins|Can bind a Small or Medium creature. Escaping requires a Hard difficulty Strength or Dexterity ability check (`DC 20`), or a Moderate difficulty to pick the lock.|
 |Simple Lock|1 platinum coin|Moderate difficulty to pick with lock-picking tools (`DC 15`).|
 |Good Lock|5 platinum coins|Hard difficulty to pick with lock-picking tools (`DC 20`).|
-|Portable ram|4 gold coins| Characters get a +4 bonus on Strength checks to break down doors or obstacles. One other character may assist with the ram to provide advantage with the same +4 bonus.|
+|Portable ram|4 gold coins| A character using a portable ram gets a +4 bonus on Strength checks to break down doors or obstacles. One other character may assist with the ram to provide advantage with the same +4 bonus.|
 |Ball Bearings|1 gold piece|As an action, a character can spill these [tiny metal ball bearings](https://5thsrd.org/adventuring/equipment/adventuring_gear/) from their pouch to cover a flat area of the floor, affecting up to 4 squares within their reach on the battlemap. A creature may move at half speed to walk safely past the ball bearings. Otherwise they must succeed on an Easy difficulty Dexterity saving throw (`DC 10`) or fall _prone_.|
-|Caltrops|1 gold piece| As an action, a character can spread a [bag of caltrops](https://5thsrd.org/adventuring/equipment/adventuring_gear/) to cover one square on the battlemap. A creature may walk at half speed to move safely through caltrops: otherwise they must succeed on a Moderate difficulty Dexterity saving throw (`DC 15`) or stop moving and take damage.|
+|Caltrops|1 gold piece| As an action, a character can spread a [bag of caltrops](https://5thsrd.org/adventuring/equipment/adventuring_gear/) to cover one square within reach on the battlemap. A creature may walk at half speed to move safely through caltrops: otherwise they must succeed on a Moderate difficulty Dexterity saving throw (`DC 15`) or stop moving and take damage.|
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
@@ -171,9 +171,9 @@ As a merchant prince, Kwayothé controls the sale of **tej, wine, ale, fruit, oi
 |Sealing wax|5 silver coins|-|
 |Abacus|2 gold coins|You may add your tool proficiency bonus to ability checks made when you're investigating monetary documents, estimating distances or areas, or performing other mathematics.|
 |Merchant's Scale|5 gold pieces|You may add your tool proficiency bonus to ability checks to assess the value of an object.|
-|Perfume|5 gold pieces|-|
+|Perfume|5 gold pieces|Easy difficulty (`DC 10`) to correctly apply.|
 |Not-Forgery Kit|15 gold coins|This small box contains a variety of papers and parchments, pens and inks, seals and sealing wax, gold and silver leaf, and other supplies for your bard's unremarkable calligraphy hobby. This kit would never be used to forge personal messages or official documents.|
-|Not-Thieves' Tools|25 gold pieces|This kit contains the tools and picks that your rogue needs to disarm traps and open locks, as part of the party's entirely-legitimate business of looting ancient societies and their few remaining tombs. Such a kit would would never be used to break into a Port Nyanzaru location.|
+|Not-Thieves' Tools|25 gold pieces|This kit contains the tools and picks that your rogue needs to disarm traps and open locks, as part of the party's entirely-legitimate business of looting our ancestor civilizations' few remaining tombs. Such a kit would would never be used to break into a Port Nyanzaru location.|
 |Holy water|25 gold coins|Can be thrown up to 4 squares. If the target is a fiend or undead, it takes 2d6 radiant damage on a successful hit.|
 |Cook's Utensils|30 gold coins|Helps when [cooking while camping](activities_for_camping.md#top) in the jungle.|
 
