@@ -4,7 +4,7 @@
 ###### top
 
 
-# Tomb of Annihilation
+# Tomb of Annihilation Character Creation
 
 Welcome to _Dungeons & Dragons_!
 
@@ -12,7 +12,7 @@ When playing D&D you'll be creating and using a **player character**, one member
 
 Additionally, your character shouldn't be one who's unable to work cooperatively with other people, such as a thief who tries to steal or hide treasure from the rest of the party, or someone who starts fights in every town they visit. This adventure is a story about a team of capable (and _generally_ decent) adventurers working together to defeat the extraordinary challenges of the Chultan jungle and the Tomb of Annihilation.
 
-With all that in mind, take a look through the background information available on [the peninsula of Chult](introduction.md#welcome-to-chult), [the Chultan people](dramatis_personae.md#top), and [the city of Port Nyanzaru](Port_Nyanzaru.md#top) to get ideas for your character, then come here for the formal rules on how to create them.
+With all that in mind, take a look through the background information available on [the peninsula of Chult](introduction.md#welcome-to-chult), [the Chultan people](dramatis_personae.md#top), and [the city of Port Nyanzaru](Port_Nyanzaru.md#top) to get ideas for your character! Then come back here for the formal rules on how to create them.
 
 ---
 
@@ -170,7 +170,7 @@ Characters sailing an unfamiliar ship require some time to adjust to their new v
 See the [items available for purchase in Port Nyanzaru](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#top).
 
 # Factions
-Standard Adventurer's League factions, or you can tell me about a new one. See the Player Factions section of my Tomb of Annihilation [dramatis personae](dramatis_personae.md#player-factions).
+The same [five factions](dramatis_personae.md#player-factions) as The Adventurer's League, or you can tell me about a new one.
 
 # Background Options
 Quick summary of various background options from the _Player's Handbook_, _Tomb of Annihilation_, and _Sword Coast Adventurer's Guide_.
@@ -185,7 +185,7 @@ Quick summary of various background options from the _Player's Handbook_, _Tomb 
 |Courtier|Insight, Persuasion|-|2|10 gold|A set of fine clothes.|Master of court bureaucracy and records, and who to ask for favors.|_SCAG_|
 |Criminal|Deception and Stealth|Thieves' tools and one type of gaming set|-|15 gold|A crowbar and dark common clothes with a hood|Criminal Contact|_PHB_|
 |Entertainer|Acrobatics and Performance|Disguise kit and one type of musical instrument|-|15 gold|Your musical instrument, a trinket from a lover, and a costume.|By Popular Demand|_PHB_|
-|Faerûn Faction Agent|Insight plus one Int, Wis, or Cha skill|-|2|15 gold|Badge or emblem of your faction, a seminal text or code book, and a set of common clothes.|Safe Haven|_SCAG_|
+|Faerûn [Faction](dramatis_personae.md#player-factions) Agent|Insight plus one Int, Wis, or Cha skill|-|2|15 gold|Badge or emblem of your faction, a seminal text or code book, and a set of common clothes.|Safe Haven|_SCAG_|
 |Far Traveller|Insight, Perception|One musical instrument or gaming set|1|5 gold|One set of traveler's clothes, your proficient instrument or game, a crude map of Faerûn, a piece of jewelry worth 1 platinum coin.|All Eyes on You|_SCAG_|
 |Folk Hero|Animal Handling and Survival|Land vehicles plus one type of artisan's tools|-|10 gold|Your artisan's tools, a shovel, an iron pot, and common clothes.|Rustic Hospitality|_PHB_|
 |Guild Artisan|Insight and Persuasion|One type of artisan's tools|1|15 gold|Your artisan's tools, a set of traveler's clothes, and a letter of introduction from your guild.|Guild Membership|_PHB_|
@@ -199,13 +199,13 @@ Quick summary of various background options from the _Player's Handbook_, _Tomb 
 |Uthgardt Outlander|Athletics and Survival|One instrument or set of artisan's tools|1|10 gold|A hunting trap, a totemic token or set of tattoos, and traveler's clothes.|Uthgaardt Heritage|_SCAG_|
 |Sage|History and Arcana|-|2|10 gold|Common clothes, writing tools, and a letter from a dead colleague asking a question you haven't yet solved.|Researcher|_PHB_|
 |Cloistered Scholar|History plus one of Arcana, Nature, or Religion|-|2|10 gold|Your cloisters' scholarly robes, a writing kit, a borrowed research book.|Library access|_SCAG_|
-|Sailor|Athletics, Perception, and [_Sailing_](#sailing)|Water vehicles and navigator's tools|* 1|10 gold|50 feet of silk rope, a lucky charm, and common clothes.|Ship's Passage|_PHB_|
+|Sailor|Athletics, Perception, and * [_Sailing_](#sailing)|Water vehicles and navigator's tools|* 1|10 gold|50 feet of silk rope, a lucky charm, and common clothes.|Ship's Passage|_PHB_|
 |Soldier|Athletics and Intimidation|Land vehicles and one type of gaming set|-|10 gold|An insignia of rank, a trophy from a victory, your gaming set, and common clothes|Military Rank|_PHB_|
 |Mercenary Veteran|Athletics and Persuasion|Land vehicles plus one type of gaming set|-|10 gold|Uniform, an insignia of your rank, and your gaming set.|Identify mercenaries and their companies|_SCAG_|
 |Urban Bounty Hunter|Two from Deception, Insight, Persuasion, or Stealth|Choose two from: a gaming set, an instrument, or thieves' tools.|-|20 gold|Clothes "appropriate to your duties".|Ear to the Ground|_SCAG_|
 |Urchin|Sleight of Hand, Stealth|Disguise kit, thieves' tools|-|10 gold|A precious item to remember your parents by, a pet mouse, common clothes, and a trinket from the city you grew up in.|City Secrets|_PHB_|
 
-> * means homebrew
+> \* means a homebrew tweak
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
@@ -264,19 +264,19 @@ From most to least useful, IMO:
 - Coasts and seas
 
 ## Recommended favored enemies
-I've tried to cram every creature in the 5e Monster Manual into my Chult prep, but some are nonetheless more common than others:
-- Monstrosities, including the most powerful Yuan-ti as well as most Underdark creatures.
+I've been trying to cram every memorable creature in the 5e Monster Manual into my Chult prep, but some types will nonetheless be more common than others. Again, from most to least useful IMO:
+- Monstrosities, including most Underdark creatures as well as the most powerful Yuan-ti.
 - Undead.
 - Shapechanger humanoids (includes Yuan-ti spies and [were-tigers](introduction.md#dangers-of-chult)), plus one other [type of humanoid](dramatis_personae.md#inhabitants-of-chult).
-- One of: Beasts (including dinosaurs) or Elementals.
+- One of: Beasts (includes dinosaurs) or Elementals.
 - One of: Plants, Constructs, Oozes, or Aberrations.
-- One of: Dragons, Giants, Demons, or Devils.
+- One of: Dragons, Giants, Demons, Devils, or Fae.
 
 The Yuan-ti speak Primordial.
 
 ![Vegepygmies](images/Vegepygmy-5e.jpg)
 
-_Vegepygmies, one of the many plant-based dangers in Chult._
+_Vegepygmies, one of the many terrifying plant-based dangers in Chult._
 
 ---
 

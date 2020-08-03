@@ -47,12 +47,12 @@ The market ward is where the majority of Port Nyanzaru's population lives. Parts
 
 - _**The Thundering Lizard Inn and Tavern**_: for characters who want [a raucous time](activities_in_Port_Nyanzaru.md#port-nyanzaru-the-thundering-lizard-tavern). 1 electrum coin per night for a **poor lifestyle**.
 - _**Kaya's House of Repose**_: for characters who want [a good night's sleep](activities_in_Port_Nyanzaru.md#port-nyanzaru-kayas-house-of-repose). 1 gold piece per night for a **modest lifestyle**.
-- The Red Bazaar: an everyday [market](activities_in_Port_Nyanzaru.md#selling-loot-or-items) for Port Nyanzaru citizens. Famed for the large slabs of dinosaur meat available for sale.
-- The city fish market.
-- The Hall of Gold: a [temple](activities_in_Port_Nyanzaru.md#worshipping) to Waukeen, deity of trade and wealth. [Sibonseni](dramatis_personae.md#sibonseni-mother-of-prosperity), Mother of Prosperity, is the high priestess of the Hall of Gold, and the most important person in Port Nyanzaru besides the merchant princes.
+- The __Red Bazaar__: an everyday [market](activities_in_Port_Nyanzaru.md#selling-loot-or-items) for Port Nyanzaru citizens. Famed for the large slabs of dinosaur meat available for sale.
+- The __Hall of Gold__: a [temple](activities_in_Port_Nyanzaru.md#worshipping) to Waukeen, deity of trade and wealth. [Sibonseni](dramatis_personae.md#sibonseni-mother-of-prosperity), Mother of Prosperity, is the high priestess of the Hall of Gold, and the most important person in Port Nyanzaru besides the merchant princes.
 - A district of dye works where laborers work with rare and sometimes dangerous materials to produce dyes.
 - A [public bathhouse](activities_in_Port_Nyanzaru.md#port-nyanzaru-public-baths-of-sune) run by worshippers of Sune.
 - The [Grand Coliseum](activities_in_Port_Nyanzaru.md#port-nyanzaru-the-grand-coliseum), where violent gladiatorial games are held most afternoons.
+- The Port Nyanzaru city fish market.
 
 ![Port Nyanzaru Markets](images/buying.jpg)
 
@@ -103,7 +103,7 @@ A less-developed area outside the city walls, the Tiryki (tee-REE-kee) anchorage
 
 # Further reading
 
-[Welcome to Chult!](introduction.md#welcome-to-chult)
+[Welcome to Chult](introduction.md#welcome-to-chult)
 
 [Dramatis Personae](dramatis_personae.md#top)
 

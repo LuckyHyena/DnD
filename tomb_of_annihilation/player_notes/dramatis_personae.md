@@ -4,10 +4,9 @@
 ###### top
 
 
-## Tomb of Annihilation
-### _Dramatis Personae_
+# Tomb of Annihilation Dramatis Personae
 
-- [Inhabitants of Chult](#native-inhabitants-of-chult)
+- [Native inhabitants of Chult](#native-inhabitants-of-chult)
 - [Port Nyanzaru](#port-nyanzaru)
 - [Organizations](#organizations)
     - [Player Factions](#player-factions)
@@ -18,6 +17,8 @@
 # Native inhabitants of Chult
 
 Port Nyanzaru is a cosmopolitan city built on international trade: people from all parts of Faerûn, as well as travellers from the far West continents of Anchorome and Kara-Tur, can be found in the city. The following are some examples from local Chultan cultures:
+
+> If you want to play a monstrous or strange character, you must have your own personal copy of the relevant sourcebook, often **Volo's Guide to Monsters**.
 
 ---
 
@@ -125,29 +126,45 @@ Port Nyanzaru is controlled by a council of seven merchant princes, powerful nat
 
 Each merchant prince **controls all selling and trading of certain types of goods** in Port Nyanzaru, although black market goods can sometimes be found outside the city walls.
 
-More information on the merchant princes can be found as part of the page on [items available for purchase in Port Nyanzaru](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#top).
-
-# Zindar
-![Harbormaster Zindar](images/Harbormaster_Zindar.jpg)
-
-ZIN-dar is a golden half-dragon sorcerer and **Port Nyanzaru's Harbormaster**. He's responsible for safely coordinating the vast amount of traffic that flows through the port. He's a common sight during the day in the harbor ward, where he can be seen flying, _sending_, and scrying across the maze-like harbor, trying to keep track of all the ships under his authority. The seven-foot stature of a half-dragon, and an occasional display of his magical prowess, is enough to ensure that the bookish Zindar never gets any real trouble from the many captains and crews upset daily by the port's delays and regulations.
+More information on the individual merchant princes can be found as part of the page on [items available for purchase in Port Nyanzaru](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#top).
 
 # Sibonseni, Mother of Prosperity
-SEH-bone-SEN-ay is Port Nyanzaru's **high priestess of Waukeen**, the deity of trade and wealth, and the most important people in Port Nyanzaru besides the merchant princes. The **Hall of Gold** in the market ward is an opulent temple to Waukeen.
+Mother of Prosperity SEH-bone-SEN-ay is Port Nyanzaru's **high priestess of Waukeen**, the deity of trade and wealth, and the most powerful person in Port Nyanzaru besides the merchant princes. The **Hall of Gold** in the market ward is an opulent temple to Waukeen.
+
+![Mother of Prosperity Sibonseni](images/bar-owner-Lethhonel-Krisdan.png)
 
 # Grandfather Zitembe
-zeh-TEM-bay is the high priest at the [**Temple of Savras**](activities_in_Port_Nyanzaru.md#port-nyanzaru-temple-of-savras) in Port Nyanzaru, and a trusted confidante of many of the city's wealthiest and most powerful figures.
+Grandfather zeh-TEM-bay is the high priest at the [**Temple of Savras**](activities_in_Port_Nyanzaru.md#port-nyanzaru-temple-of-savras) in Port Nyanzaru. Despite a slowly-growing list of eccentricities he's long been a trusted confidante of many of the city's wealthiest and most powerful figures.
+
+![Grandfather Zitembe](images/Musharib.jpg)
+
+# Erlathan Naeynore
+The owner and usual bartender at the [Thundering Lizard Inn and Tavern](activities_in_Port_Nyanzaru.md#port-nyanzaru-the-thundering-lizard-tavern). Erlathan made his fortune as a gladiator in the Grand Coliseum, and in spite of the stern tone he sometimes takes with fools Erlathan generally tolerates quite a lot of rough behavior inside the Thundering Lizard.
+
+![Erlathan Naeynore](images/bartender-Erlathan-Naeynore.jpg)
+
+# Kaya
+The owner of [Kaya's House of Repose](activities_in_Port_Nyanzaru.md#port-nyanzaru-kayas-house-of-repose). Kaya's inn is priced for a modest lifestyle and is in a residential section of the market ward. Kaya strictly enforces quiet hours after sundown, using the depicted hammer as necessary.
+
+![Kaya](images/Norandrabelyn-dwarven-blacksmith-Blackstone.png)
+
+# Harbormaster Zindar
+ZIN-dar is a golden half-dragon sorcerer and Port Nyanzaru's Harbormaster. He's responsible for safely coordinating the vast amount of traffic that flows through the port. He's a common sight during the day in the harbor ward, where he can be seen flying, [_sending_](https://5thsrd.org/spellcasting/spells/sending/), and [_scrying_](https://5thsrd.org/spellcasting/spells/scrying/) across the maze-like harbor, trying to keep track of all the ships under his authority. The seven-foot stature of a half-dragon, and an occasional display of his magical prowess, is enough to ensure that the bookish Zindar never gets any real trouble from the many captains and crews upset daily by the port's delays and regulations.
+
+![Harbormaster Zindar](images/Harbormaster_Zindar.jpg)
 
 # The Brazen Pegasus
-A fast [sailing ship available for hire](activities_in_Port_Nyanzaru.md#sailing) somewhere in the labyrinthian harbor ward of Port Nyanzaru. The crew of the Pegasus takes jobs where they can find them, and often fall back on pirate hunting. They're usually on the lookout for skilled sailors and soldiers who might have an interest in joining the Pegasus, [hunting pirates out of the Bay of Chult](activities_in_Port_Nyanzaru.md#hunting-pirates).
+A [fast sailing ship](activities_in_Port_Nyanzaru.md#sailing) available for hire somewhere in the labyrinthian harbor ward of Port Nyanzaru. Captain Swift and Dark and her crew take jobs where they can find them, and often fall back on pirate hunting. They're usually on the lookout for skilled sailors and soldiers who might have an interest in joining the Pegasus, [hunting pirates out of the Bay of Chult](activities_in_Port_Nyanzaru.md#hunting-pirates).
 
-### Captain Ortimay Swift and Dark
-![Captain Ortimay](images/captain-ortimay-swift-and-dark.jpg)
+## Captain Ortimay Swift and Dark
+OR-teh-may Swift and Dark is the captain of the Brazen Pegasus and a rock gnome. Like many gnomes, she has a variety of interests and an impatient zest for life, but above all else Captain Swift and Dark has an unmistakable _talent_ for hunting pirates.
 
-OR-teh-may is the captain of the Brazen Pegasus and a rock gnome.
+![Captain Swift and Dark](images/captain-ortimay-swift-and-dark.jpg)
 
-### First mate Grig Ruddell
-First mate of the Brazen Pegasus, an Illuskan human.
+## First Mate Grig Ruddell
+An Illuskan human and the first mate on the Brazen Pegasus. Ruddell has a retiring personality, and is definitely getting too old for the life of a sailor, but his literal retirement gave him enough cabin fever to drive Grig back out onto the Brazen Pegasus and the Trackless Sea.
+
+![Grig Ruddel](images/rough-bartender-Waldwick-Crowley.jpg)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
@@ -163,15 +180,15 @@ The Ytepka Society is widely known to have had a major role in organizing the me
 ---
 
 # The Flaming Fists
-![Flaming Fist Logo](images/flaming-fist.png)
-
 The official mercenary company of the wealthy foreign city of **Baldur's Gate**, who serve as guards of the city's interests at home and beyond. Their primary task on Chult is to protect ships flying the flag of Baldur's Gate from pirates; the same ships depend on Port Nyanzaru as a way station, so the Fists are also prepared to defend the Chultan city from being overrun by the undead. To accomplish these ends the Flaming Fists built **Fort Beluarian**, their headquarters on Chult.
 
-### Liara Portyr
+![Flaming Fist Logo](images/flaming-fist.png)
+
+## Blaze Liara Portyr
+
+lee-AR-ah por-TEER is the current commander of Fort Beluarian, and holds the Flaming Fist rank of *blaze*. Blaze Portyr is a career soldier who comes from the important Portyr family in Baldur's Gate. She's related to one of the four current Lords of Baldur's Gate, but as a blaze she answers only to Grand Duke Ulder Ravengard, a fellow career officer of the Flaming Fist.
+
 ![Liara Portyr](images/Liara_Portyr.jpg)
-
-lee-AR-ah por-TEER is the current commander of Fort Beluarian, and holds the Flaming Fist rank of *Blaze*. She is a human soldier.
-
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
@@ -183,20 +200,47 @@ _From left to right: Harpers, Zhentarim, Lords' Alliance, Emerald Enclave, and t
 # The Harpers
 An [underground network](https://dnd.wizards.com/dungeons-and-dragons/story/faction/harpers) of freedom-loving bards, rogues, mages, and others who work throughout Faerûn to oppose tyrants and the abuses of the powerful.
 
+## Nivri Snowfang
+Snowfang is a harper _brightcandle_, and harper members' official contact in Port Nyanzaru (and therefore all of Chult). She lives a comfortable life skimming from the immense wealth of Port Nyanzaru, enjoying the local luxuries, and betting on dinosaur races, all while keeping an ear to the ground for information valuable to the Harpers. Syndra Silvane is a harper wise owl, and Snowfang is one of Silvane's trusted contacts for scrounging up information on Chult and the Soulmonger.
+
+![Nivri Snowfang](images/nivri_snowfang.jpeg)
+
 # The Zhentarim
 [Zhentarim mercenaries](https://dnd.wizards.com/dungeons-and-dragons/story/faction/zhentarim) are renowned across Faerûn as the best money can buy, and the foreign mercenary company is commonly employed in Chult to provide city guards, personal bodyguards, and protection for mines and logging camps in the jungle.
+
+## Kuraz
+The orc Kuraz is the _viper_ in charge of Zhentarim operations in Chult. There are plenty of opportunities in Chult for an ambitious young Zhent to make a name for themself, but the lazy Kuraz considers his current station to be a rather cushy gig: he's content to stay out of trouble with [Ekene-Afa](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#ekene-afa) and sell the Black Network's services as a legitimate mercenary company. When not dealing with Zhentarim business in the merchants' ward, Karuz is usually carousing in the vicinity of one of Port Nyanzaru's various [combat arenas](activities_in_Port_Nyanzaru.md#fighting).
+
+![Kuraz](images/kuraz.png)
 
 # The Lords' Alliance
 A loose coalition of Sword Coast cities, lords, and merchants working together to defend civilization, keep the peace, and maintain stability in the face of the incredible powers and forces that wreak havoc across Faerûn. Lords' Alliance members are usually concerned with events in the Sword Coast area, significantly North of Chult, but the various Lords maintain [agents and spies](https://dnd.wizards.com/dungeons-and-dragons/story/faction/lordsalliance) almost everywhere in Faerûn.
 
+## Tsaubra McGee
+Tsaubra McGee is a golden dragonborn and a popular _master_ in Port Nyanzaru's blacksmiths' guild. Tsaubra's work puts him in contact with people all over the city, and the _stingblade_ is able to spy for the Lords' Alliance while waving off suspicion either as required information he needs to estimate and plan the guilds' work, or as a part of his well-publicized eccentricity. Tsaubra has raced dinosaurs in the past but is currently trying to keep a lower profile.
+
+![Tsaubra McGee](images/Tsaubra%20Mcgee.jpeg)
+
 # The Emerald Enclave
-A group of druids, rangers, and others that oppose threats to the natural world and help others survive the many perils of the wild. The [Emerald Enclave](https://dnd.wizards.com/dungeons-and-dragons/story/faction/emeraldenclave) does have members who patrol the Chultan jungles, but almost all Emerald Enclave members operate in isolation, and Chult is far too large for any single individual to ever master.
+A group of druids, rangers, and others that oppose threats to the natural world and help others survive the many perils of the wild. The [Emerald Enclave](https://dnd.wizards.com/dungeons-and-dragons/story/faction/emeraldenclave) does have members who patrol the deep Chultan jungles, but almost all Emerald Enclave members operate in isolation, and Chult is far too large for any single individual to ever master.
+
+## Danbul Thistletop
+The lightfoot halfling Danbul Thistletop is an _autumnreaver_ in the Emerald Enclave, and he's members' point of contact in Port Nyanzaru. He has an affinity for the dinosaurs of Chult, and Danbul can usually be found or summoned to the Tiryki anchorage within a few days. He is an utterly ruthless [gamer](activities_in_Port_Nyanzaru.md#gaming) and dinosaur racer.
+
+![Danbul Thistletop](images/danbul-thistletop.png)
 
 # The Order of the Gauntlet
-Paladins and clerics of the deities Tyr, Helm, and Torm recently established the [Order of the Gauntlet](https://dnd.wizards.com/dungeons-and-dragons/story/factions) in order to better fight the evils of Faerûn. In Chult, the foreign Order established **Camp Righteous** deep in the jungle in order to destroy the undead menace there. As the undead became more aggressive the camp was overrun. Undeterred, the Order has established **Camp Vengeance** even deeper in the interior, where they now continue their efforts to purge the undead from the jungle.
+Paladins and clerics of the deities Tyr, Helm, and Torm recently established the [Order of the Gauntlet](https://dnd.wizards.com/dungeons-and-dragons/story/factions) in order to better fight the evils of Faerûn. In Chult, the foreign Order established **Camp Righteous** deep in the jungle in order to study and destroy the undead menace there. As the undead became more aggressive in the past few years Camp Righteous was overrun. Undeterred, the Order has established **Camp Vengeance** even deeper in the interior, where they continue their efforts to purge the undead from the jungle.
 
-### Niles Breakbone
-The current commander of Camp Vengeance is a [Chondathan](https://forgottenrealms.fandom.com/wiki/Chondathan) paladin who serves Tyr.
+## Niles Breakbone
+The current commander of Camp Vengeance is a young and untested [Chondathan](https://forgottenrealms.fandom.com/wiki/Chondathan) noble named Niles Breakbone. He's a paladin of [Tyr](https://forgottenrealms.fandom.com/wiki/Tyr), and a newly-minted _vindicator_ of the Order, who has come to Chult with the dream of ending the undead plague that has stolen the Chultans' homeland from them.
+
+![Niles Breakbone](images/lord-mayer-olin-keetes.jpg)
+
+## Malexus
+A tiefling bard named Malexus is the Order's agent in Port Nyanzaru itself, outside of Camp Vengeance. Malexus's status as a _whitehawk_ in the Order is only a semi-open secret, which allows him to better keep an eye on the merchants, clerics, and mages that keep Camp Vengeance supplied. Most days Malexus can be found on the streets of Port Nyanzaru performing for a crowd, often in the Grand Souk or the taverns of the market ward.
+
+![Malexus](images/malexus.png)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
@@ -207,10 +251,10 @@ The current commander of Camp Vengeance is a [Chondathan](https://forgottenrealm
 
 A gargantuan dragon turtle called Aremag patrols the Bay of Chult, demanding treasure from ships passing through on their way to or from Port Nyanzaru. There's too much traffic for Aremag to catch every single ship that sails through, and Aremag doesn't appreciate slow or uncomprehending crews who delay her hunting. Aremag won't hesitate to sink an uncooperative or fast-talking ship so that she can simply pick out the treasure at her leisure later that night, when the bay is less busy.
 
-Although a drag on trade, many citizens of Port Nyanzaru have become fond of Aremag because she's a famous symbol of the city, or perhaps because so many of the captains sunk by the gargantuan beast later turn out to be loud, arrogant fools. Aremag is quite happy with her straightforward life of intimidating tiny ships and collecting a hoard of exotic treasures, and the beast is largely unaware of the concerns of the city.
+Although a drag on trade, many citizens of Port Nyanzaru have become fond of Aremag because she's a famous symbol of the city, or perhaps because so many of the captains sunk by the gargantuan beast, after being rescued by a more sensible captain, later turn out to be loud and arrogant fools. Aremag is quite happy with her straightforward life of intimidating tiny ships and collecting a hoard of exotic treasures, and the beast is largely unaware of the concerns of the city.
 
 # The _Tarrasque_
-Tall tales of the return of the _Tarrasque_ have always been a popular topic in the taverns of Faerûn, but something has been subtly different since you arrived in Port Nyanzaru. Many Chultans are still mocking the stories told by travellers who claim to have been to the deepest jungles of the interior, but others have a quiet seriousness and urgency to their questioning. With the recent rise of the Death Curse, the growing aggressiveness of the undead, and the re-awakening of long-dormant volcanoes, it's no wonder that Chultans are considering the further catastrophic possibility of the return of the _Tarrasque_. If the mythological prophecy __is__ finally occurring, and the _Tarrasque_ __has__ risen, then it is coming to consume, and bring the apocalyptic final end to, the entire world of Toril.
+Tall tales of the return of the _Tarrasque_ have always been a popular topic in the taverns of Faerûn, but something has been subtly different since you arrived in Port Nyanzaru. Many Chultans are still mocking the stories told by travellers who claim to have been to the deepest jungles of the interior, but others have a quiet seriousness and urgency to their questioning. With the recent rise of the Death Curse, the growing aggressiveness of the undead, and the re-awakening of long-dormant volcanoes, it's no wonder that Chultans are considering the further catastrophic possibility of the return of the _Tarrasque_. If the mythological prophecy __is__ finally occurring, and the _Tarrasque_ __has__ risen, then it is coming to consume - and bring the apocalyptic final end to - the entire world of Toril.
 
 Beginning with Chult.
 
@@ -229,37 +273,34 @@ RAZ nuh-SEE was a warlord who tried to conquer the Chultan city of **Mezro** wit
 
 # Volothamp "Volo" Geddarm
 
-![Volothamp Geddarm](images/volo.jpg)
-
 VOH-loh-thamp geh-DARM is a famed human explorer currently in Port Nyanzaru as part of a book tour across Faerûn.
 
-50 gold coins will get a character a signed copy of _**Volo's Guide to Monsters**_ in a durable hardcover binding with vellum pages, suitable for strenuous jungle adventuring. Volo claims the book has accurate information on creatures and monsters across Faerûn, including a thoroughly-researched section about those inhabiting Chult.
+50 gold coins will get your character a signed copy of _**Volo's Guide to Monsters**_ in a durable hardcover binding with vellum pages, suitable for strenuous jungle adventuring. Volo claims the book has accurate information on creatures and monsters across Faerûn, including a thoroughly-researched section about those inhabiting Chult.
+
+![Volothamp Geddarm](images/volo.jpg)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
 # **_Acererak_**
-Born to an Age that was already forgotten before the most ancient elven civilizations laid their first brick, Acererak is an immortal _**Lich**_ of unimaginable and sublime power. Wielding magic that dwarfs that of Faerûn's greatest deities, Acererak travels far and wide through the Astral Plane, wandering the uncounted worlds that can be reached from there while watching and manipulating the lives of both mortals and gods for his own amusement.
+Born to an Age that was already forgotten before the most ancient elven civilizations had laid their first brick, Acererak is an immortal _**Lich**_ of unimaginable and sublime power. Wielding magic that dwarfs that of Faerûn's greatest deities, Acererak travels far and wide through the Astral Plane, wandering the uncounted worlds that can be reached from there while watching and manipulating the lives of both mortals and gods for his own amusement.
 
 Obscure texts tell the story of an ancient world named **Oerth**, where Acererak constructed an immense dungeon that he filled with powerful artifacts made from fragments of his own power. Vast armies' worth of adventurers were lured to their final death by the treasure in that ancient slaughterhouse, arrogantly underestimating the power and cruelty of Acererak.
 
-Today, only a few fragments of that story are still remembered in Faerûn, where they're retold as the popular but now mostly-untrue legends of the [_**Tomb of Horrors**_](https://en.wikipedia.org/wiki/Tomb_of_Horrors).
+Today, only a few fragments of that myth are still remembered in Faerûn, where they're retold as the popular, but now [mostly untrue](https://en.wikipedia.org/wiki/Tomb_of_Horrors), stories of the _**Tomb of Horrors**_.
 
 ![The Soulmonger](../the-soulmonger.png)
 
 ---
 
-# Further reading
-
-[Adventure introduction](introduction.md#top)
-
-[Welcome to Chult!](introduction.md#welcome-to-chult)
-
-[Welcome to Port Nyanzaru](Port_Nyanzaru.md#top)
-
-[Tomb of Annihilation homepage](README.md#top)
-
----
-
 [Back to top](#top)
+
+# Further Reading
+
+- [__Tomb of Annihilation__ adventure introduction](introduction.md#top)
+  - [Welcome to Chult](introduction.md#welcome-to-chult)
+- [Welcome to Port Nyanzaru](Port_Nyanzaru.md#top)
+- [Character creation](character_creation.md#top)
+  - [Background options](character_creation.md#background-options)
+- [Tomb of Annihilation homepage](README.md#top)
 
 ![the end](../../images/toa-end.jpg)

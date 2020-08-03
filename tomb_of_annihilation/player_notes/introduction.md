@@ -3,17 +3,17 @@
 
 ###### top
 
-##### Tomb of Annihilation
+# Tomb of Annihilation Adventure Intro and Maps
 
-# Adventure Introduction
+### Welcome to _**Tomb of Annihilation**_, an adventure for Dungeons & Dragons!
 
-## Welcome to _**Tomb of Annihilation**_, an adventure for Dungeons & Dragons!
+This story takes place in the forgotten realms of Faerûn, on the strange world of Toril.
 
-This story takes place in the forgotten realms of Faerûn, on the strange world of Toril. The year is 1496 by dale-reckoning when you first receive the upsetting news: your trusted friend and mentor **Syndra Silvane** has contracted the **Death Curse**. Once a rare affliction, over the past year the Death Curse has begun afflicting far more people all across the continent of Faerûn, particularly adventurers and ex-adventurers. Those stricken with the Curse begin to weaken and wither away, suffering day by day until the wasting disease kills them. The disease can't be cured with any kind of magical healing, and those killed by it **can't be magically resurrected**.
+The year is 1496 by dale-reckoning when you first receive the upsetting news: your trusted friend and mentor **Syndra Silvane** has contracted the **Death Curse**. Once a rare affliction, over the past year reports of the Death Curse have become far more common all across the continent of Faerûn, with the Curse striking adventurers and ex-adventurers particularly often. Those stricken with the Curse begin to weaken and wither away, suffering day by day until the wasting disease kills them. The disease can't be cured with any kind of magical healing, and those killed by it **can't be magically resurrected**.
 
 Desperately searching for a treatment, your mentor Syndra has become convinced that the Death Curse is being caused by a malevolent artifact known as the **Soulmonger**, located somewhere in the unmapped jungles on the southern peninsula called **Chult**.
 
-Now, Syndra has gathered you and the other members of your party in **Port Nyanzaru**, the last city in Chult, to work together in the hope of finding and somehow disabling the Soulmonger, before it ends the life of not only Syndra but all adventurers who would dare stand against the elemental evils of Faerûn.
+Now, Syndra has gathered you and the other members of your party in **Port Nyanzaru**, the last city in Chult, to work together in the hope of finding and somehow disabling the Soulmonger, before it ends the life of not only Syndra, but all adventurers who would dare stand against the elemental evils of Faerûn.
 
 ---
 
@@ -23,7 +23,7 @@ _Somewhere in the jungles of **Chult**, the Soulmonger leeches life from those s
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
-# Welcome to Chult!
+# Welcome to Chult
 
 ![Map of the Sword Coast](images/faerun-swordcoast-chult.png)
 
@@ -62,6 +62,10 @@ _Somewhere in the jungles of **Chult**, the Soulmonger leeches life from those s
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
+[back to top](#top)
+
+---
+
 # Further reading
 
 [Dramatis Personae](dramatis_personae.md#top)
@@ -69,9 +73,5 @@ _Somewhere in the jungles of **Chult**, the Soulmonger leeches life from those s
 [Welcome to Port Nyanzaru](Port_Nyanzaru.md#top)
 
 [Tomb of Annihilation homepage](README.md#top)
-
----
-
-[back to top](#top)
 
 ![the end](../../images/toa-end.jpg)

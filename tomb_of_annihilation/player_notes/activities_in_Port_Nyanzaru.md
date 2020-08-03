@@ -13,7 +13,7 @@ While the party spends time in Port Nyanzaru, each character must spend coin dai
 For speed and simplicity plan the party's days a _tenday_ at a time.
 
 #### Background Info
-- [Welcome to Chult!](introduction.md#welcome-to-chult)
+- [Welcome to Chult](introduction.md#welcome-to-chult)
 - [Welcome to Port Nyanzaru](Port_Nyanzaru.md#top)
 - [Dramatis Personae](dramatis_personae.md#top)
 - [Special items available for purchase in Port Nyanzaru](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#top)
@@ -111,7 +111,7 @@ Most afternoons the Grand Coliseum in the market ward is open and hosting a vari
 Outside the city walls in the Old City district is a rectangular pit, commonly called The Executioner's Run, that has been repurposed from an ancient sporting arena into a combat pit. Some varieties of petty legal disputes can be resolved here via trial by combat, and more serious criminals are sometimes sent here to be executed by a pack of velociraptors. Crowds from all over the city gather to watch the carnage from above. A character can try to get involved in the [fighting](#fighting), or they may carouse and spend the day watching the combats as part of the crowd.
 
 ### Port Nyanzaru: The Thundering Lizard Tavern
-Syndra Silvane recommends the Thundering Lizard Inn for characters who are looking for "a raucous time". The inn's attached tavern faces the Red Bazaar in the market ward, and remains well-trafficked even during working hours; it's a fine place to carouse at any time of day.
+Syndra Silvane recommends the Thundering Lizard Inn for characters who are looking for "a raucous time". The inn's attached tavern faces the Red Bazaar in the market ward, and remains well-trafficked even during working hours. It's a fine place to carouse at any time of day. The owner and main bartender [Erlathan Naeynore](dramatis_personae.md#erlathan-naeynore) is an ex-gladiator who tolerates quite a lot in the tavern.
 
 ---
 
@@ -119,7 +119,7 @@ Syndra Silvane recommends the Thundering Lizard Inn for characters who are looki
 If a character that maintains **at least a modest lifestyle** spends their downtime days healing, after spending **at least three such days** they gain advantage on all saving throws and ability checks to resist or treat nonmagical diseases, poisons, exhaustion, and other health conditions. This includes treating both the character's own conditions and those of other characters.
 
 ### Port Nyanzaru: Kaya's House of Repose
-Syndra Silvane recommends Kaya's House of Repose in the market ward for characters who are looking for a good night's rest. The inn is priced for a modest lifestyle and is in a residential section of the market ward, and Kaya strictly enforces quiet hours after sundown.
+Syndra Silvane recommends Kaya's House of Repose in the market ward for characters who are looking for a good night's rest. The inn is priced for a modest lifestyle and is in a residential section of the market ward, and [Kaya](dramatis_personae.md#kaya) strictly enforces quiet hours after sundown.
 
 ---
 
@@ -463,12 +463,12 @@ _The merchant prince Ifan Talro'a controls all sales of beasts and beast trainin
 
 # Hunting Pirates
 ![A Battle on the High Seas](images/hunting-pirates.jpg)
-Port Nyanzaru has a problem with pirates, and both Harbormaster Zindar and the Blaze of Fort Beluarian need individuals with initiative and pluck to get out there and hunt them. A crew of pirate hunters might start out its journey escorting a merchant ship leaving the Bay of Chult, and then spend its time patrolling and setting ambushes until its crew is exhausted.
+Port Nyanzaru has a problem with pirates, and both Harbormaster Zindar and the [blaze of Fort Beluarian](dramatis_personae.md#blaze-liara-portyr) need individuals with initiative and pluck to get out there and hunt them. A crew of pirate hunters might start out its journey escorting a merchant ship leaving the Bay of Chult, and then spend its time patrolling and setting ambushes until its crew is exhausted.
 
 ### Going on a hunt with The Brazen Pegasus
-A ship named The Brazen Pegasus sails out of Port Nyanzaru. The sixteen-person crew of the Pegasus takes a wide variety of jobs doing whatever they can, and often fall back on pirate hunting when better opportunities can't be found. A character may sign up with [Captain Ortimay Swift and Dark](dramatis_personae.md#captain-ortimay-swift-and-dark) to join The Brazen Pegasus on a pirate hunting voyage as a crew member, and sail the Shining Sea while the rest of the party is doing other business in Port Nyanzaru.
+A ship named The Brazen Pegasus sails out of Port Nyanzaru. The sixteen-person crew of the Pegasus takes a wide variety of jobs doing whatever they can, and often fall back on pirate hunting when better opportunities can't be found. A character may sign up with [Captain Swift and Dark](dramatis_personae.md#captain-ortimay-swift-and-dark) to join The Brazen Pegasus on a pirate hunting voyage as a crew member, and sail the Shining Sea while the rest of the party is doing other business in Port Nyanzaru.
 
-Pirate hunting involves the newly-available skill proficiency [_**Sailing**_](character_creation.md#sailing). Hunting pirates is a combination of _Sailing_ ability checks and combat, and a character must be good at one or the other, preferably both, to impress Captain Ortimay and join The Brazen Pegasus's crew.
+Pirate hunting involves the newly-available skill proficiency [_**Sailing**_](character_creation.md#sailing). Hunting pirates is a combination of _Sailing_ ability checks and combat, and a character must be good at one or the other, preferably both, to impress Captain Swift and Dark and join The Brazen Pegasus's crew.
 
 A character or characters joining The Brazen Pegasus on a hunt will spend **2d20+20 downtime days** at sea, and **can't return early** based on what happens with the rest of the party: even if they arrange to use _sending_ or some other method to communicate with the rest of the party, the characters will only be a minority vote within the Pegasus's crew.
 
@@ -483,7 +483,7 @@ Pirate hunters are expected to seize their payment from the goods they re-steal 
 
 For each potential ship target, the DM will roll one treasure hoard of level 1d20 from the tables in Chapter 7: Treasure of the _Dungeon Master's Guide_. The general booty value of a target can be identified by the features of the ship and how low it's riding in the water; the same is true for pirates eyeing the Brazen Pegasus when it's hauling loot back to Port Nyanzaru.
 
-> **Shares:** If a hoard is successfully looted, and only one party member is participating, that character will get a 1/20 share of the hoard: it's split with the sixteen existing Pegasus crew members, one extra share each for Captain Ortimay and mate Ruddell, and an extra half share each for the quartermaster and the cook. If two characters participate they each get a 1/21 share, if three participate they each get a 1/22 share, and so on. If any of the Brazen Pegasus's original crew die during the hunt, their share will be paid to their surviving kin.
+> **Shares:** If a hoard is successfully looted, and only one party member is participating, that character will get a 1/20 share of the hoard: it's split with the sixteen existing Pegasus crew members, one extra share each for Captain Swift and Dark and mate Ruddell, and an extra half share each for the quartermaster and the cook. If two characters participate they each get a 1/21 share, if three participate they each get a 1/22 share, and so on. If any of the Brazen Pegasus's original crew die during the hunt, their share will be paid to their surviving kin.
 
 > **Magic Items:** Generally, any magic items the crew finds are put up for sale upon returning the Port Nyanzaru, and the profit from the sale is split among the shares as normal. If party members participated in the hunt they have a right of first refusal to buy the item from the Pegasus crew, and they have advantage on the Charisma check to 
 [put down a forward payment to reserve the Magic Item](#putting-down-money-for-a-magic-item).
@@ -503,7 +503,7 @@ Characters may also try to assist with the day's sailing, as described here.
 
 ### Port Nyanzaru: The Brazen Pegasus
 
-The party can speak to [Captain Ortimay Swift and Dark](dramatis_personae.md#captain-ortimay-swift-and-dark) to buy passage on her ship, The Brazen Pegasus, which can eventually be found in Port Nyanzaru's maze-like docks.
+The party can speak to [Captain Swift and Dark](dramatis_personae.md#captain-ortimay-swift-and-dark) to buy passage on her ship, The Brazen Pegasus, which can eventually be found in Port Nyanzaru's maze-like docks.
 
 While the party travels as passengers on The Brazen Pegasus, up to three characters _proficient_ in _Sailing_ may spend downtime days assisting the crew by making one _Sailing_ ability check per day:
 
