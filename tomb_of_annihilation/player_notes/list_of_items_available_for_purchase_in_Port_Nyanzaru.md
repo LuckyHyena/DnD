@@ -190,12 +190,12 @@ JOHN-thee is a Chultan noble who can trace her lineage back to the original foun
 |[_+1 Glamoured_ ](https://5thsrd.org/gamemaster_rules/magic_items/glamoured_studded_leather/) studded leather armor|20 platinum coins|-|
 |Any heavy armor|*|Triple the normal price.|
 |Personalized signet ring|5 gold coins|-|
-|[_Alarm_](https://5thsrd.org/spellcasting/spells/alarm/) sealing wax|10 platinum coins|Self-destructs (either the wax or the entire paper) if the sealed letter or document is opened or tampered with.|
+|[_Alarm_](https://5thsrd.org/spellcasting/spells/alarm/) sealing wax|10 platinum coins|Self-destructs (either the wax or the entire paper) if the sealed letter or document is tampered with or opened by someone other than your intended recipient.|
 |[_Illusory Script_](https://5thsrd.org/spellcasting/spells/illusory_script/) parchment|10 platinum coins|Only creatures you designate may read the real message your write: all others see a different, false message.|
 |Magnifying glass|10 platinum coins|+5 on ability checks to examine, investigate, or assess small objects.|
 |Hourglass|25 gold coins|+5 on ability checks to keep track of time.|
-|[_Sending_](https://5thsrd.org/spellcasting/spells/sending/) sealing wax|100 platinum coins|Notifies you if the sealed document is opened or tampered with, and if it was done by your intended recipient.|
-|[_Glyph of Warding_](https://5thsrd.org/spellcasting/spells/glyph_of_warding/) sealing wax|100 platinum coins|Unleashes a magical effect if the sealed document is opened or tampered with.|
+|[_Sending_](https://5thsrd.org/spellcasting/spells/sending/) sealing wax|100 platinum coins|Notifies you if the sealed document is opened by your intended recipient, tampered with, or opened by someone else.|
+|[_Glyph of Warding_](https://5thsrd.org/spellcasting/spells/glyph_of_warding/) sealing wax|100 platinum coins|Unleashes a magical effect if the sealed document is opened or tampered with by someone other than your intended recipient.|
 |Spyglass|100 platinum coins|Doubles your effective vision range.|
 |High-quality lock|100 platinum coins|Very Hard difficulty to pick using lock-picking tools `DC 25`.|
 
