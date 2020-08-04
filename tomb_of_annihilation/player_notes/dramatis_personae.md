@@ -96,17 +96,6 @@ Port Nyanzaru is a cosmopolitan city built on international trade: people from a
 ### Grungs
 ![Grungs](images/grungs.jpg)
 
----
-
-### Yuan-ti
-Millennia ago, all of Faerûn suffered under the cruel, world-spanning empire of the Yuan-ti: humans who worshipped serpents as the ultimate symbol of beauty and power. At the apex of the Yuan-ti's civilization, their high priests performed an unholy ritual with thousands of living sacrifices in order to make themselves immortal, and to transform their bodies into the form of immense and powerful serpents.
-
-The ritual was disrupted, however, and the Yuan-ti were instead transformed into hideous half-human forms. The high priests turned on each other, sparking a brutal civil war across the entire empire. In response, the many conquered peoples of Faerûn began to resist the empire and throw off the yoke of the Yuan-ti.
-
-The surviving Yuan-ti were eventually driven out of their conquered lands and into the swampy wildernesses that they had originally emerged from. They have remained hidden in the wilds and in the shadows ever since, nursing their ancient grievances and searching for an opportunity or source of power that can return them to their rightful place as immortal conquerors of Faerûn.
-
-![Yuan-ti](images/yuan-ti.jpg)
-
 ![immovable rod](../../images/immovable-rod.jpg)
 
 ### _Port Nyanzaru:_
@@ -157,9 +146,9 @@ Xandala is a half-elf sorcerer searching in Port Nyanzaru for information about 
 # Harbormaster Zindar
 ZIN-dar is a bronze half-dragon sorcerer and Port Nyanzaru's Harbormaster: he's responsible for safely coordinating the vast amount of traffic that flows through the port. He's a common sight during the day in the harbor ward, where he can be seen flying, [_sending_](https://5thsrd.org/spellcasting/spells/sending/), and [_scrying_](https://5thsrd.org/spellcasting/spells/scrying/) across the maze-like harbor, trying to keep track of all the ships under his authority. The seven-foot stature of a half-dragon, and an occasional display of his magical prowess, is enough to ensure that the bookish Zindar never gets any real trouble from the many captains and crews upset daily by the port's delays and regulations.
 
-> Zindar has been discreetly asking around for someone trustworthy to assist him with tracking down criminal activity at night in Port Nyanzaru's [harbor ward](Port_Nyanzaru.md#harbor-ward).
-
 ![Harbormaster Zindar](images/Harbormaster_Zindar.jpg)
+
+> Zindar has been discreetly asking around for someone trustworthy to assist him with tracking down criminal activity at night in Port Nyanzaru's [harbor ward](Port_Nyanzaru.md#harbor-ward).
 
 # Lerek Dashlynd
 Lerek Dashlynd is a rogue and broker who represents powerful Waterdhavian commercial interests, and he's looking for an accurate map with the locations of the two ruined Chultan settlements **Nangalore** and **Oralunga**. Lerek has posted a public offer to provide a [sailing ship](activities_in_Port_Nyanzaru.md#your-very-own-ship) to any explorer who trades him a map that can be verified by divination magic.
@@ -232,7 +221,7 @@ Zhentarim mercenaries are renowned across Faerûn as the best money can buy, and
 A loose coalition of Sword Coast cities, lords, and merchants working together to defend civilization, keep the peace, and maintain stability in the face of the incredible powers and forces that wreak havoc across Faerûn. Lords' Alliance members are usually concerned with events in the Sword Coast area, [significantly North](introduction.md#welcome-to-chult) of Chult, but the various Lords maintain [agents and spies](https://dnd.wizards.com/dungeons-and-dragons/story/faction/lordsalliance) almost everywhere in Faerûn.
 
 > ## Tsaubra McGee
-> Tsaubra McGee is a golden dragonborn, an honorably-retired paladin, and a popular _master_ in Port Nyanzaru's [dyers' guild](Port_Nyanzaru.md#market-ward). Tsaubra's work selling and managing large dying jobs gives him access to people and places all over the city, and the _stingblade_ is able to spy for the Open Lord of Waterdeep while throwing suspicion off his behavior with either the excuse of gathering info for future guild work, or explaining it away as a part of his well-publicized artistic eccentricity. Tsaubra used to own and race a triceratops, but he's now trying to keep a lower profile: he can still be found in the crowd most tenth-days carousing and gambling on the races.
+> Tsaubra McGee is a golden dragonborn, an honorably-retired paladin, and a popular dyemaster in Port Nyanzaru's [dyers' guild](Port_Nyanzaru.md#market-ward). Tsaubra's work selling and managing large dying jobs gives him access to people and places all over the city, and the _stingblade_ is able to spy for the Open Lord of Waterdeep while throwing suspicion off his behavior with either the excuse of gathering info for future guild work, or explaining it away as a part of his well-publicized artistic eccentricity. Tsaubra used to own and race a triceratops, but he's now trying to keep a lower profile: he can still be found in the crowd most tenth-days carousing and gambling on the races.
 > 
 > ![Tsaubra McGee](images/Tsaubra%20Mcgee.jpeg)
 
@@ -280,11 +269,20 @@ _Mythological depictions of the coming of the **Tarrasque**._
 # Na N'buso
 An ancient Chultan king. A modern statue of Na N'buso in full regalia graces the entrance to the harbor of Port Nyanzaru.
 
+# Ras Nsi
+RAZ nuh-SEE was a warlord who tried to conquer the Chultan city of **Mezro** with an undead army a little over a century ago. He was defeated, but his undead hordes flooded into the jungle-choked interior of Chult and drove the native inhabitants out.
+
 # Drizzt Do'Urden
 A famous drow elf known throughout Faerûn. The stories of the adventures of Drizzt and his companions in the Icewind Dale are a popular request for bards across the forgotten realms of Faerûn.
 
-# Ras Nsi
-RAZ nuh-SEE was a warlord who tried to conquer the Chultan city of **Mezro** with an undead army a little over a century ago. He was defeated, but his undead hordes flooded into the jungle-choked interior of Chult and drove the native inhabitants out.
+# Yuan-ti
+Millennia ago, all of Faerûn suffered under the cruel, world-spanning empire of the Yuan-ti: humans who worshipped serpents as the ultimate symbol of beauty and power. At the apex of the Yuan-ti's civilization, their high priests performed an unholy ritual with thousands of living sacrifices in order to make themselves immortal, and to transform their bodies into the form of immense and powerful serpents.
+
+The ritual was disrupted, however, and the Yuan-ti were instead transformed into hideous half-human forms. The high priests turned on each other, sparking a brutal civil war across the entire empire. In response, the many conquered peoples of Faerûn began to resist the empire and throw off the yoke of the Yuan-ti.
+
+The surviving Yuan-ti were eventually driven out of their conquered lands and into the swampy wildernesses that they had originally emerged from. They have remained hidden in the wilds and in the shadows ever since, nursing their ancient grievances and searching for an opportunity or source of power that can return them to their rightful place as immortal conquerors of Faerûn.
+
+![Yuan-ti](images/yuan-ti.jpg)
 
 # Volothamp "Volo" Geddarm
 

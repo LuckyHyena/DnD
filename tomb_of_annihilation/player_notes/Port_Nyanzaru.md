@@ -25,15 +25,13 @@
 
 7. In addition to trade from the Trackless Sea and the Shining Sea, the economy of Port Nyanzaru is based on mining, cutting lumber, hunting, and gathering rare materials from the jungle. Laborers living in hamlets and work camps in the jungle are in constant danger of being forced out by the undead and other dangers.
 
+![immovable rod](../../images/immovable-rod.jpg)
+
 ## Districts and Locations in Port Nyanzaru
 
 ![Map of Port Nyanzaru](images/port-nyanzaru.png)
 
-![immovable rod](../../images/immovable-rod.jpg)
-
-![Port Nyanzaru street scene](images/port-nyanzaru.jpg)
-
-### Harbor Ward
+# Harbor Ward
 The harbor ward includes the extensive, and labyrinthine, cargo docks where ships load and unload trade goods, as well as the vast warehouses where those goods are stored. Port Nyanzaru is equipped to dock and deal with ships of any size, and traffic is constant during the day. Like many warehouse districts, at night the area is mostly abandoned and a fine place to meet in secret.
 
 - An immense statue in the center of the harbor shows the ancient Chultan king [Na N'buso](dramatis_personae.md#na-nbuso) in full regalia.
@@ -42,11 +40,11 @@ The harbor ward includes the extensive, and labyrinthine, cargo docks where ship
 - The Royal Docks: restricted for the use of the merchant princes and their preferred guests.
 - Dry docks for repairing ships.
 
+![Port Nyanzaru street scene](images/port-nyanzaru.jpg)
+
 ---
 
-![Port Nyanzaru Markets](images/buying.jpg)
-
-### Market Ward
+# Market Ward
 
 The market ward is where the majority of Port Nyanzaru's population lives. Parts of the market ward stay open all night, while other, more residential areas generally quiet down at night. The streets never become completely empty.
 
@@ -59,11 +57,11 @@ The market ward is where the majority of Port Nyanzaru's population lives. Parts
 - The __Hall of Gold__: a [temple](activities_in_Port_Nyanzaru.md#worshipping) to Waukeen, deity of trade and wealth. [Sibonseni](dramatis_personae.md#sibonseni-mother-of-prosperity), Mother of Prosperity, is the high priestess of the Hall of Gold, and the most important person in Port Nyanzaru besides the merchant princes.
 - The Port Nyanzaru city fish market.
 
+![Port Nyanzaru Markets](images/buying.jpg)
+
 ---
 
-![Merchants' Ward](images/merchants-ward.jpg)
-
-### Merchants' Ward
+# Merchants' Ward
 Port Nyanzaru's upper classes reside in the opulent merchants' ward. This area hosts the finest shops and the biggest market in the city during the day, while at night anyone trying to travel or do business in the district must submit to questioning by the numerous [Zhentarim](dramatis_personae.md#the-zhentarim) guard patrols.
 
 - The mansions of the [merchant princes](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#top).
@@ -74,24 +72,28 @@ Port Nyanzaru's upper classes reside in the opulent merchants' ward. This area h
 - Temple of Savras, deity of divination and fate. [Grandfather Zitembe](dramatis_personae.md#grandfather-zitembe) is the high priest.
 - Temple of Sune, deity of love and beauty. High priestess [Kwayothé](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#kwayothé) is also a merchant prince, and controls all Port Nyanzaru trade in tej, wine, ale, fruit, oil, and perfume.
 
+![Merchants' Ward](images/merchants-ward.jpg)
+
 ---
 
-![Old City](images/old-city.jpg)
-
-### Old City
+# Old City
 The original Chultan city of Nyanzaru, which Amn conquered and expanded into the modern Port Nyanzaru. This section that was left outside the city walls has become a lower-class but still-respectable part of the city where many laborers live.
 
 - The Beggars' Palaces: two massive stone ziggurats now crowded with newer construction.
 - The [Executioner's Run](activities_in_Port_Nyanzaru.md#port-nyanzaru-the-executioners-run): a rectangular pit where criminals are sentenced to death via dinosaur. Visitors from all over the city come to watch.
 - The city garbage dump.
 
----
-
-![Velociraptors like those at the Executioner's Run](images/raptors_raph04art.jpg)
+![Old City](images/old-city.jpg)
 
 ---
 
-### Tiryki Anchorage
+![Velociraptors](images/raptors_raph04art.jpg)
+
+_Velociraptors like those at the Executioner's Run._
+
+---
+
+# Tiryki Anchorage
 A less-developed area outside the city walls, the Tiryki (tee-REE-kee) anchorage is home to "animal trainers, river folk, and [other](dramatis_personae.md#the-emerald-enclave) rough-and-tumble sorts", whatever that means. It's also where most of Port Nyanzaru's dinosaurs are kept in pens, either to rest after a day of working or in preparation for slaughter. Unlike Old City or Malar's Throat, there are no stone buildings to take shelter in outside the city walls: running for the Tiryki Gate is residents' only option when undead or other dangers come out of the jungle.
 
 - Less developed (and less patrolled) docks are preferred by smugglers.
@@ -101,7 +103,7 @@ A less-developed area outside the city walls, the Tiryki (tee-REE-kee) anchorage
 
 ---
 
-### Malar's Throat
+# Malar's Throat
 People with nowhere else to go in Port Nyanzaru are eventually forced into Malar's Throat, the slum district outside the city walls.
 
 Two deep, jungle-covered ridges flank a ravine filled with trash, which floods during heavy rains. Ramshackle housing is crammed into every available space on the ridges. Rope and bamboo bridges up to 200 feet long hang between them, allowing passage over the ravine. Pickpockets wait on the hanging bridges and use fishing lines to steal from victims.
@@ -112,7 +114,9 @@ Two deep, jungle-covered ridges flank a ravine filled with trash, which floods d
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
-# Further reading
+## Further reading
+
+[back to top](#top)
 
 [Welcome to Chult](introduction.md#welcome-to-chult)
 
@@ -123,9 +127,5 @@ Two deep, jungle-covered ridges flank a ravine filled with trash, which floods d
 [Items available for purchase in Port Nyanzaru](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#jessamine)
 
 [Tomb of Annihilation homepage](README.md#top)
-
----
-
-[back to top](#top)
 
 ![the end](../../images/toa-end.jpg)

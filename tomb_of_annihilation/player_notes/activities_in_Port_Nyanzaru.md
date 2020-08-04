@@ -96,7 +96,7 @@ Street performers have a unique place in the hearts of Port Nyanzaru's citizens,
 
 # Carousing
 
-The reason adventurers go into ancient ruins and violently extract sacks full of gold is to make sure that they don't have to work, and may instead spend their downtime days partying late into the night at Port Nyanzaru's best taverns. Carousing requires that a character spend at least enough for a **wealthy lifestyle**, even if "Port Nyanzaru's best taverns" means dive bars in the Tiryki anchorage.
+The reason adventurers go into ancient ruins and violently extract sacks full of gold is to make sure that they don't have to work, and may instead spend their downtime days partying late into the night at Port Nyanzaru's best taverns. Carousing requires that a character spend at least enough for a **wealthy lifestyle**, even if "Port Nyanzaru's best taverns" means dive bars in the [Tiryki](Port_Nyanzaru.md#tiryki-anchorage) anchorage.
 
 Carousing commonly involves **Charisma** ability checks, but often involves a variety of different ability checks as the day or night progresses.
 
@@ -109,7 +109,7 @@ Every **tenth-day** most of Port Nyanzaru gathers in the streets to watch the ci
 Most afternoons the Grand Coliseum in the market ward is open and hosting a variety of events. It's possible for a character to join as one of the gladiators [fighting](#fighting) in an event, or they may choose to carouse and spend an afternoon in the spectator stands watching the fights.
 
 ### Port Nyanzaru: The Executioner's Run
-Outside the city walls in the Old City district is a rectangular pit, commonly called The Executioner's Run, that has been repurposed from an ancient sporting arena into a combat pit. Some varieties of petty legal disputes can be resolved here via trial by combat, and more serious criminals are sometimes sent here to be executed by a pack of velociraptors. Crowds from all over the city gather to watch the carnage from above. A character can try to get involved in the [fighting](#fighting), or they may carouse and spend the day watching the combats as part of the crowd.
+Outside the city walls in the [old city](Port_Nyanzaru.md#old-city) district is a rectangular pit, commonly called The Executioner's Run, that has been repurposed from an ancient sporting arena into a combat pit. Some varieties of petty legal disputes can be resolved here via trial by combat, and more serious criminals are sometimes sent here to be executed by a pack of velociraptors. Crowds from all over the city gather to watch the carnage from above. A character can try to get involved in the [fighting](#fighting), or they may carouse and spend the day watching the combats as part of the crowd.
 
 ![Velociraptors like those at the Executioner's Run](images/raptors_raph04art.jpg)
 
@@ -143,7 +143,7 @@ Characters that are relaxing while out and about in Port Nyanzaru are more likel
 A character doesn't necessarily need to expend the cost and energy needed to [carouse](#carousing) if they just want to spend the day hanging out in the Thundering Lizard or one of the many other taverns in Port Nyanzaru. Unlike when carousing, such characters avoid drawing attention to themselves, don't party with strangers, and try to stay out of any of fights that break out: if they do end up joining a fight then they spent their downtime day [fighting](#fighting) instead of relaxing.
 
 ### Port Nyanzaru: Public Baths of Sune
-Worshippers of Sune maintain the large public baths that can be found in the market ward of Port Nyanzaru. Citizens from every district come to enjoy these open-air baths, and despite the heavy traffic the city is justifiably proud of the cleanliness and quality of the baths. Giant rain catchers above the baths capture the daily rainfall of Chult for later use in refreshing the baths.
+Worshippers of Sune maintain the large public baths that can be found in the [market ward](Port_Nyanzaru.md#market-ward) of Port Nyanzaru. Citizens from every district come to enjoy these open-air baths, and despite the heavy traffic the city is justifiably proud of the cleanliness and quality of the baths. Giant rain catchers above the baths capture the daily rainfall of Chult for later use in refreshing the baths.
 
 The baths are free but donations are requested, and expected by the citizens of Port Nyanzaru. The city's inhabitants are proud of their local institution and are generous in donating to the temple of Sune for the maintenance of the baths; even the poorest citizens make sure they bring at least a copper penny for the donation bin when they come to the baths.
 
@@ -222,11 +222,11 @@ The people of Faerûn have a practical and unsentimental relationship with their
 |Temple of Gond|Gond, deity of artisans, craftspeople, and smiths|Merchants' Ward|-|
 |Temple of Tymora|Tymora, deity of good fortune|Malar's Throat|-|
 
-![Deities of Faerûn](images/deities_of_the_forgotten_realms_by_doize-dboldkr.png)
-
-> _The high priestess of Waukeen is the most important person in Port Nyanzaru besides the merchant princes, and Mother of Prosperity Sibonseni is frequently asked for advice or a blessing on important business deals._
+> _The high priestess of Waukeen is the most important person in Port Nyanzaru besides the merchant princes, and Mother of Prosperity Sibonseni is frequently asked for her advice or blessing on important business deals._
 > 
 > ![Sibonseni](images/bar-owner-Lethhonel-Krisdan.png)
+
+![Deities of Faerûn](images/deities_of_the_forgotten_realms_by_doize-dboldkr.png)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
@@ -352,7 +352,7 @@ Generally, teleportation targets must be outdoors.
 ![immovable rod](../../images/immovable-rod.jpg)
 
 # Buying Mundane Items
-Characters do not require downtime days to buy mundane items that cost less than 100 gold coins, and such purchases can be done alongside other downtime activities. A purchase with a price of **100 gold coins or more**, or any purchase involving live animals, generally takes **a single downtime day**. See the [items available for purchase in Port Nyanzaru](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#top) for further information.
+Characters do not require downtime days to buy mundane items that cost less than 100 gold coins, and such purchases can be done alongside other downtime activities. A purchase with a price of **100 gold coins or more**, or any purchase involving live animals, generally takes **a single downtime day** of doing business in the [Jewel Market](Port_Nyanzaru.md#merchants-ward). See the [items available for purchase in Port Nyanzaru](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#top) for further information.
 
 ![Port Nyanzaru Markets](images/buying.jpg)
 
@@ -407,7 +407,7 @@ If you're not getting enough combat in your Dungeons & Dragons, for the price of
 ![immovable rod](../../images/immovable-rod.jpg)
 
 # Dyeing
-On top of the cliffs overlooking the Bay of Chult are the famous Port Nyanzaru dyeworks, where laborers gather and process a variety of rare (and sometimes dangerous) materials extracted from Chult in order to produce the colors seen throughout the city. The dyework section of the market ward is expansive, and a determined character can always find a [dyer](dramatis_personae.md#the-lords-alliance) willing to at least try implementing whatever crazy idea the character has.
+On top of the cliffs overlooking the Bay of Chult are the famous Port Nyanzaru dyeworks, where laborers gather and process a variety of rare (and sometimes dangerous) materials extracted from Chult in order to produce the colors seen throughout the city. The dyework section of the [market ward](Port_Nyanzaru.md#market-ward) is expansive, and a determined character can always find a [dyer](dramatis_personae.md#the-lords-alliance) willing to at least try implementing whatever crazy idea the character has.
 
 ![dyeworks](images/dyeworks.jpg)
 
@@ -530,7 +530,7 @@ Characters may also try to assist with the day's sailing, as described here.
 
 ### Port Nyanzaru: The Brazen Pegasus
 
-The party can speak to [Captain Swift and Dark](dramatis_personae.md#the-brazen-pegasus) to buy passage on her ship, The Brazen Pegasus, which can eventually be found in Port Nyanzaru's maze-like docks.
+The party can speak to [Captain Swift and Dark](dramatis_personae.md#the-brazen-pegasus) to buy passage on her ship, The Brazen Pegasus, which can eventually be found in Port Nyanzaru's maze-like [harbor ward](Port_Nyanzaru.md#harbor-ward).
 
 While the party travels as passengers on The Brazen Pegasus, up to three characters _proficient_ in _Sailing_ may spend downtime days assisting the crew by making one _Sailing_ ability check per day:
 
@@ -696,7 +696,7 @@ Characters can teach while the party is travelling in the jungle.
 # Copying Spells into your Spellbook
 A **Wizard** may spend downtime days to copy spells into their personal spellbook. Please double-check with the DM to ensure the spells you're looking for will be useful and fun during your adventures in Chult.
 
-Searching [Wakanga O'tamu's extensive library](#port-nyanzaru-syndra-silvane-and-wakanga-otamu) for a spell and copying it down requires **2 downtime days per level** of the spell, and **5 platinum coins** per day. You may copy a cantrip in a single downtime day.
+Searching Wakanga O'tamu's [extensive library](#port-nyanzaru-syndra-silvane-and-wakanga-otamu) for a spell and copying it down requires **2 downtime days per level** of the spell, and **5 platinum coins** per day. You may copy a cantrip in a single downtime day.
 
 If you have a specific spellbook you've looted or found in Chult, you may copy spells in **half the downtime days and total price** as a spell from O'tamu's library.
 
@@ -726,13 +726,11 @@ Wow I sure have typed up a lot of options at this point, _but!_ there are also [
 >
 > ![Jobal](images/Merchant_Prince_Jobal.jpg)
 
-![Special Projects](images/special-projects.jpg)
-
 Thank you for reading, and welcome to the fantastic city of **Port Nyanzaru**, the starting base camp for your adventures in [**_Tomb of Annihilation_**](README.md#top)!
 
 [Back to top](#top)
 
----
+![Special Projects](images/special-projects.jpg)
 
 > _Like this sheet of activities for Port Nyanzaru? Read about how I used 5e's rules for downtime days to develop it:_ [The Incredible Power in the Nine Sublime Pages of _Player's Handbook_ Chapter Eight](../../homebrew/5e_phb_chapter_eight.md#top)
 
