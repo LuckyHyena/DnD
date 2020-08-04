@@ -31,7 +31,7 @@ _Somewhere in the jungles of **Chult**, the Soulmonger leeches life from those s
 
 1. Chult is a peninsula in the far southwest of the continent of Faerûn. Dense and inhospitable jungle chokes the entire land, and mountain ranges to the south, west, and north make accessing the interior ever more difficult.
 
-2. Chult is hot, humid, and rainy throughout the year. Temperatures vary from 70F to over 100F, while rain varies from a steady mist to drenching downpours. Biting insects are a year-round menace.
+2. Chult is hot, humid, and rainy throughout the year. Temperatures vary from 70°F to over 100°F (20 to over 40°C), while rain varies from a steady mist to drenching downpours. Biting insects are a year-round menace.
 
 3. Dinosaurs rule the wild jungles of Chult, particularly deep in the Valley of Dread. In Port Nyanzaru they are used as beasts of burden and butchered for meat.
 
@@ -42,6 +42,8 @@ _Somewhere in the jungles of **Chult**, the Soulmonger leeches life from those s
 6. Numerous settlements remained on the Chultan coast despite the undead presence, but in recent years all except Port Nyanzaru have fallen to ruin. Long-dormant volcanoes have awakened and the undead have become more aggressive in the past few years, making the land of Chult more dangerous than ever.
 
 ![Map of Chult](images/chult_player_map.jpg)
+
+> 1 hex on the Chult adventuring map is approximately 10 miles to 15 kilometers across.
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
@@ -68,7 +70,9 @@ _Somewhere in the jungles of **Chult**, the Soulmonger leeches life from those s
 
 # Further reading
 
-[Dramatis Personae](dramatis_personae.md#top)
+[Inhabitants of Chult](dramatis_personae.md#top)
+
+[Dramatis Personae](dramatis_personae.md#port-nyanzaru)
 
 [Welcome to Port Nyanzaru](Port_Nyanzaru.md#top)
 

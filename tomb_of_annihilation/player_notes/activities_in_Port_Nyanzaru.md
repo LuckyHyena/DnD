@@ -12,7 +12,7 @@ While the party spends time in Port Nyanzaru, each character must spend coin dai
 
 For speed and simplicity plan the party's days a _tenday_ at a time.
 
-#### Background Info
+### Background Info
 - [Welcome to Chult](introduction.md#welcome-to-chult)
 - [Welcome to Port Nyanzaru](Port_Nyanzaru.md#top)
 - [Dramatis Personae](dramatis_personae.md#top)
@@ -22,7 +22,7 @@ For speed and simplicity plan the party's days a _tenday_ at a time.
 
 ![Port Nyanzaru](images/port-nyanzaru.jpg)
 
-#### Downtime day activities:
+### Downtime day activities:
 Common:
 - [Working](#working)
 - [Carousing](#carousing)
@@ -38,11 +38,12 @@ Useful:
 
 Trouble:
 - [Fighting](#fighting)
+- [Dyeing](#dyeing)
 - [Dinosaur Racing](#dinosaur-racing)
 - [Hunting Pirates](#hunting-pirates)
 - [Sailing](#sailing)
 
-Uncommon:
+Specialty:
 - [Training to Gain Experience Chunks](#sign-up-for-a-class-in-adventuring)
 - [Retraining Class Options](#retraining)
 - [Training with a Skill or Tool](#training-with-a-skill-or-tool)
@@ -55,7 +56,9 @@ Uncommon:
 
 ![Port Nyanzaru map](images/port-nyanzaru.png)
 
-### Lifestyles
+## Lifestyles
+[Districts and Locations in Port Nyanzaru](Port_Nyanzaru.md#top)
+
 |Lifestyle|Activities Available|Expenses per Day|Potential Residences|
 |-|-|-|-|
 |Wretched|-|-|Sleeping in the Malar's Throat slums and consuming food and water from your inventory.|
@@ -68,7 +71,6 @@ Uncommon:
 |Wealthy|Carousing|5 gold coins|A private residence in the market ward.|
 |Aristocratic|-|at least 1 platinum coin|Residing in the merchants' ward as the guest of a merchant prince.|
 
-[Districts and Locations in Port Nyanzaru](Port_Nyanzaru.md#top)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
@@ -86,18 +88,17 @@ Out of each tenday spent working a character may choose **three days** they are 
 
 Street performers have a unique place in the hearts of Port Nyanzaru's citizens, and throughout the city one can find musicians, bards, dancers, magicians, Tabaxi minstrels, mimes, clowns, performers in dinosaur costumes, martial artists, and many others giving performances based upon native Chultan traditions, as well as a wide sampling from cultures across Faerûn.
 
-> **Character Bonus:** A character proficient in Perform can maintain a wealthy lifestyle for free by working as a street performer.
+> **Character Bonus:** A character proficient in Perform can maintain a wealthy lifestyle for free by working as a street performer. ![Tabaxi Bard and Hobgoblin dancer](images/street-performers.png)
 
-![Tabaxi Bard and Hobgoblin dancer](images/street-performers.png)
-
----
+![immovable rod](../../images/immovable-rod.jpg)
 
 # Carousing
-![Carousing](images/yawning-portal.jpg)
 
 The reason adventurers go into ancient ruins and violently extract sacks full of gold is to make sure that they don't have to work, and may instead spend their downtime days partying late into the night at Port Nyanzaru's best taverns. Carousing requires that a character spend at least enough for a **wealthy lifestyle**, even if "Port Nyanzaru's best taverns" means dive bars in the Tiryki anchorage.
 
 Carousing commonly involves **Charisma** ability checks, but often involves a variety of different ability checks as the day or night progresses.
+
+![Carousing](images/yawning-portal.jpg)
 
 ### Port Nyanzaru: Dinosaur Races
 Every **tenth-day** most of Port Nyanzaru gathers in the streets to watch the city's loud and spectacular [dinosaur races](#dinosaur-racing). The races last all day and the crowds are filled with music, vendors, bookies, and a variety of people from all the districts of the city and beyond. This is a _fantastic_ day to carouse.
@@ -111,17 +112,19 @@ Outside the city walls in the Old City district is a rectangular pit, commonly c
 ![Velociraptors like those at the Executioner's Run](images/raptors_raph04art.jpg)
 
 ### Port Nyanzaru: The Thundering Lizard Tavern
-Syndra Silvane recommends the Thundering Lizard Inn for characters who are looking for "a raucous time". The inn's attached tavern faces the Red Bazaar in the market ward, and remains well-trafficked even during working hours. It's a fine place to carouse at any time of day. The owner and main bartender [Erlathan Naeynore](dramatis_personae.md#erlathan-naeynore) is an ex-gladiator who tolerates quite a lot in the tavern.
+Syndra Silvane recommends the Thundering Lizard Inn for characters who are looking for "a raucous time". The inn's attached tavern faces the Red Bazaar in the market ward, and remains well-trafficked even during working hours. The owner and usual bartender [Erlathan](dramatis_personae.md#erlathan-naeynore) is an ex-gladiator who tolerates quite a lot within the walls of the Thundering Lizard: overall, it's a fine place to carouse at any time of day.
 
----
+![immovable rod](../../images/immovable-rod.jpg)
 
 # Healing
 If a character that maintains **at least a modest lifestyle** spends their downtime days healing, after spending **at least three such days** they gain advantage on all saving throws and ability checks to resist or treat nonmagical diseases, poisons, exhaustion, and other health conditions. This includes treating both the character's own conditions and those of other characters.
 
+![healing](images/healing.jpg)
+
 ### Port Nyanzaru: Kaya's House of Repose
 Syndra Silvane recommends Kaya's House of Repose in the market ward for characters who are looking for a good night's rest. The inn is priced for a modest lifestyle and is in a residential section of the market ward, and [Kaya](dramatis_personae.md#kaya) strictly enforces quiet hours after sundown.
 
----
+![immovable rod](../../images/immovable-rod.jpg)
 
 # Relaxing
 Characters who are not ill might nonetheless take a day off from other activities in order to relax. A character might spend the day hanging out in a tavern, taking it easy at their Port Nyanzaru residence, visiting or corresponding with friends and family, or simply going out and exploring a location in the city with no particular end in mind.
@@ -134,6 +137,9 @@ A character that spends additional days relaxing can reroll the 1d6 and keep the
 
 Characters that are relaxing while out and about in Port Nyanzaru are more likely to stumble across people and things in the city than characters that are in the city to accomplish something.
 
+### Port Nyanzaru: The Thundering Lizard Tavern
+A character doesn't necessarily need to expend the cost and energy needed to [carouse](#carousing) if they just want to spend the day hanging out in the Thundering Lizard or one of the many other taverns in Port Nyanzaru. Unlike when carousing, such characters avoid drawing attention to themselves, don't party with strangers, and try to stay out of any of fights that break out: if they do end up joining a fight then they spent their downtime day [fighting](#fighting) instead of relaxing.
+
 ### Port Nyanzaru: Public Baths of Sune
 Worshippers of Sune maintain the large public baths that can be found in the market ward of Port Nyanzaru. Citizens from every district come to enjoy these open-air baths, and despite the heavy traffic the city is justifiably proud of the cleanliness and quality of the baths. Giant rain catchers above the baths capture the daily rainfall of Chult for later use in refreshing the baths.
 
@@ -143,44 +149,44 @@ Aside from the public baths of Sune, various private bathhouses can be found thr
 
 ![Public baths in Hungary](images/public-bathhouses-gellert-budapest-hungary.png)
 
-### Port Nyanzaru: The Thundering Lizard Tavern
-A character doesn't necessarily need to expend the cost and energy needed to [carouse](#carousing) if they just want to spend the day hanging out in a place like the Thundering Lizard Tavern. Unlike when carousing, such characters avoid drawing attention to themselves, don't party with strangers, and try to stay out of any of fights that break out: if they do end up joining a fight then they spent their downtime day [fighting](#fighting) instead of relaxing.
+> _The young high priestess of Port Nyanzaru's Temple of Sune, Kwayothé, is also a powerful and ambitious merchant prince. She controls the sale of alcohol, fruit, oil, and perfume: this gives her additional de facto power over most of Port Nyanzaru's taverns, restaurants, ceremonies, celebrations, and day-to-day life._ ![Kwayothé](images/Merchant_Prince_Kwayothé.jpg)
 
-You may be surprised to learn that, aside from the Thundering Lizard Tavern, taverns and other watering holes can be found throughout every district of Port Nyanzaru.
-
----
+![immovable rod](../../images/immovable-rod.jpg)
 
 # Gaming
-![Gaming](images/gaming.jpg)
 
 A character can spend their downtime day playing games and/or gambling. They might play cards at the Thundering Lizard, roll dice in an alley, or place bets while watching fights at one of Port Nyanzaru's [arenas](#fighting).
 
-By default for **any game**, for each round of gaming or gambling a character will choose how much they want to risk, and have a simple **40% chance to win and receive double their risked coin back**, otherwise they lose it all. Characters who successfully cheat, bluff, or outplay their opponents can improve their odds.
+By default for **any game**, for each round of gaming or gambling a character will choose how much they want to risk, and have a simple **8 out of 20 chance** to win and receive **double their risked coin back**, otherwise they lose it all. Characters who successfully cheat, bluff, or outplay their opponents can improve their odds.
 
 A character that doesn't wish to gamble with coins may place bets to risk either gaining advantage or suffering disadvantage on their post-_gaming_ rolls, similar to [relaxing](#relaxing). A character may accumulate a maximum of 6 advantages or disadvantages from _gaming_ at a time.
 
 > [**Yomi:**](http://www.sirlin.net/ptw-book/7-spies-of-the-mind) Regardless of whether they are gambling with coins or post-_gaming_ advantages, a character playing any __game of skill__ may place an optional bonus bet each round. Depending on their result, the character receives either advantage or disadvantage on their next rolls during their _gaming_ session, for a number of rolls equal to their bonus bet, up to a maximum of 6. Such advantages can't be used outside of _gaming_ activities: they can be held day-to-day while _gaming_ but are lost upon starting another activity.
 
-##### Your fellow gamers
+![Gaming](images/gaming.jpg)
+
+### Your fellow gamers
 Characters trying to bet large sums of coin must make a **Charisma** ability check to find opponents willing to match their bets.
 
 Getting involved in a game with someone in Port Nyanzaru, or spending an afternoon making bets with them at the dinosaur races, is often a good opportunity to meet or connect with them, or to get them drunk. Some people will want you to play to win, ruthlessly and to the best of your ability; others are only happy when they end up the winner.
 
 Very few people tolerate cheaters, and _nobody_ likes unimpressive cheaters.
 
-##### Your fellow tool fans
+### Your fellow tool fans
 In 5e D&D a gaming set is considered to be a type of _tool_, and therefore a character must be _proficient_ with it to make ability checks proficiently while playing. Characters who aren't _proficient_ may play the game but are novices who don't yet completely understand the full rules and strategy of the game.
 
-> **Character Bonus:** Since a gaming set is a _tool_, a character may [train to increase their proficiency bonus](#training-with-a-skill-or-tool) with a particular game. Additionally, many gamers are themselves tools.
+> **Character Bonus:** Since a gaming set is a _tool_, a character may [train to increase their proficiency bonus](#training-with-a-skill-or-tool) with a particular game. Additionally, many gamers are tools.
 
 |Game|Gaming Set Price|Gaming Set Weight|Description|
 |-|-|-|-|
 |Dice|1 silver coin|-|Beloved by people of all ages and cultures, but also the most common game of choice for gambling on the cheap.|
 |Dragonchess|1 gold coin|1/2 lb.|A heavy game that involves contests of **Intelligence**.|
-|Playing cards|1 electrum coin|-|Popular among explorers who often lack flat surfaces to roll dice on. Many card games involve contests of **Wisdom** that represent things such as: keeping track of the cards left in the deck, guessing at other players' hands, intuiting your odds for your next card draw, and, most importantly, dispassionately using that information to avoid being seduced by hot streaks, gambling fallacies, and gut feelings.|
+|Playing cards|1 electrum coin|-|Popular among explorers who often lack flat surfaces to roll dice on. Many card games involve contests of **Wisdom** that represent things such as: keeping track of the cards left in the deck, guessing at other players' hands, intuiting your odds for your next card draw, and most importantly: dispassionately using that information without being seduced by hot streaks, gambling fallacies, or gut feelings.|
 |Three-Dragon Ante|1 gold coin|-|A bluffing game that involves contests of **Charisma**.|
 
-##### Example ability checks related to gaming
+---
+
+### Example ability checks related to gaming
 
 |Ability|Two Example Tasks|
 |-------|----------------|
@@ -195,39 +201,35 @@ In 5e D&D a gaming set is considered to be a type of _tool_, and therefore a cha
 
 # Worshipping
 
-![Deities of Faerûn](images/deities_of_the_forgotten_realms_by_doize-dboldkr.png)
-
 Port Nyanzaru has five major temples and numerous smaller shrines, where crowds of diverse people from all over the city gather to honor their deities, to pray for guidance and relief, or to listen to "less-orthodox" preachers yelling in the street.
 
 The people of Faerûn have a practical and unsentimental relationship with their often mercenary gods, and it's generally understood that petitioners will either bring a material sacrifice with them or purchase one upon arriving at their local shrine or temple.
 
 > The temple in Malar's Throat to Tymora, goddess of good fortune, is open to all without regard for their wealth, and is the temple of choice for those who have rendered themselves destitute from [gaming](#gaming).
 
-> The Calendar of Harptos orders life in Faerûn, including the rhythm of religious ceremonies and holidays. The calendar consists of twelve months, each with three **tendays** or weeks, and five annual holidays that occur between the months. The days in a tenday are described with the plain names first-day, second-day, third-day, and so on until tenth-day.
+> The Calendar of Harptos orders life in Faerûn, including the rhythm of religious ceremonies and holidays. The calendar consists of twelve months, each with three **tendays** or weeks, and five annual holidays that occur between the months. The days in a tenday are described with the plain names first-day, second-day, third-day, and so on until [tenth-day](#dinosaur-racing).
 
 ##### Temples
 |Temple|Deity|District|High Priest|
 |-|-|-|-|
+|Temple of Sune|Sune, deity of love and beauty|Merchants' Ward|[Merchant Prince](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#kwayothé) Kwayothé|
+|Hall of Gold|Waukeen, deity of trade and wealth|Market Ward|Sibonseni, [Mother of Prosperity](dramatis_personae.md#sibonseni-mother-of-prosperity)|
+|Temple of Savras|Savras, deity of divination and fate|Merchants' Ward|[Grandfather](dramatis_personae.md#grandfather-zitembe) Zitembe|
 |Temple of Gond|Gond, deity of artisans, craftspeople, and smiths|Merchants' Ward|-|
-|Temple of Savras|Savras, deity of divination and fate|Merchants' Ward|Grandfather Zitembe|
-|Temple of Sune|Sune, deity of love and beauty|Merchants' Ward|Merchant Prince Kwayothé|
-|Hall of Gold|Waukeen, deity of trade and wealth|Market Ward|Sibonseni, Mother of Prosperity|
 |Temple of Tymora|Tymora, deity of good fortune|Malar's Throat|-|
 
----
+![Deities of Faerûn](images/deities_of_the_forgotten_realms_by_doize-dboldkr.png)
 
-![Kwayothé](images/Merchant_Prince_Kwayothé.jpg)
-
-_The young high priestess of Port Nyanzaru's Temple of Sune, Kwayothé, is also a powerful and ambitious merchant prince. She controls the sale of alcohol, fruit, oil, perfume, and insect repellant: this gives her additional de facto power over most of Port Nyanzaru's taverns, restaurants, ceremonies, celebrations, and day-to-day life._
+> _The high priestess of Waukeen is the most important person in Port Nyanzaru besides the merchant princes, and Mother of Prosperity Sibonseni is frequently asked for advice or a blessing on important business deals._ ![Sibonseni](images/bar-owner-Lethhonel-Krisdan.png)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
 # Investigating
-![Investigation](images/investigation.jpg)
-
 Investigation includes not only the gumshoe kind but also formal research in libraries and guilds as well as talking to people in Port Nyanzaru for information. Investigating costs **1 gold coin per day** in addition to lifestyle expenses.
 
 Investigating commonly involves either **Intelligence** or **Charisma** ability checks with the _Investigation_ skill proficiency, but uses other ability checks and other skill or tool proficiencies for investigating specialized knowledge. Running a stakeout or long-term investigation might require either a **Constitution** or **Wisdom** ability check with your _Investigation_ proficiency or saving throw proficiency.
+
+![Investigation](images/investigation.jpg)
 
 Generally, only one character can usefully pursue a particular line of investigation at a time, with an optional second character assisting for advantage. Other characters may pursue a different method of investigation or investigate different subjects.
 
@@ -244,11 +246,7 @@ Port Nyanzaru's volume of trade means that the party has at least a chance of fi
 ### Port Nyanzaru: Temple of Savras
 In the merchants' ward is an opulent temple of Savras, Faerûn deity of divination and fate. For a price they can cast or assist with a ritual spell, as described below.
 
----
-
-![Wakanga O'tamu](images/Merchant_Prince_Wakanga_O'tamu.jpg)
-
-_Wizard and merchant prince Wakanga O'tamu has final legal authority over magic item sales and spellcasting services in Port Nyanzaru. He's hosting Syndra Silvane in his mansion in the Merchants' ward._
+> _Grandfather Zitembe is the high priest of Savras, and a popular friend and confidante of many of the most powerful citizens in Port Nyanzaru._ ![Grandfather Zitembe](images/Musharib.jpg)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
@@ -279,8 +277,12 @@ Spell effects occur after the final day of the ritual: the ritual prepares energ
 ### Port Nyanzaru: Temple Healing
 A variety of shrines around Port Nyanzaru are dedicated to deities of life and medicine, and it's generally easy to find a caster at the listed rate for healing evocation spells.
 
+---
+
 ### Port Nyanzaru: Hiring Mages
 If no party spellcaster is assisting with the ritual, the price to hire mages in Port Nyanzaru to cast a non-healing ritual on the party's behalf is **double the price** listed in the table, except for healing spells.
+
+---
 
 ### Port Nyanzaru: Temple of Savras
 The immense size and opulence of the temple of Savras in the merchants' ward reflects the popularity, both in Chult and across Faerûn, of seeking divine help in resolving life's practical problems. It also means their answers are accurate, presumably. Grandfather Zitembe is the high priest of Savras, and a popular friend and confidante of many citizens of Port Nyanzaru.
@@ -308,9 +310,12 @@ The temple of Savras can provide the ritual spell services shown below at the li
 |History of an object|Party has object|2d10|2d10|1 platinum coin|
 |The _Soulmonger_|Hope and a literal prayer|10d20|10d20|10 platinum coins|
 
+---
 
 ### Port Nyanzaru: _Teleportation Circles_
 Teleporting is an expensive way to travel with obvious advantages. Several large public _teleportation circles_ are available in Port Nyanzaru's harbor ward as well as the merchants' ward, and a few private circles can be found around the city. Finding mages willing to operate those circles on the party's behalf is trivial in either case, although again expensive: the listed **price below is doubled** unless at least one party spellcaster spends downtime days assisting the ritual.
+
+![Teleportation Circle](images/Teleport_circle-5e.jpg)
 
 All _teleportation_ spells require **one final downtime day** for the casting of the spell, which requires the party to gather at a particular _teleportation circle_ and stand still for a while.
 
@@ -330,7 +335,9 @@ Generally, teleportation targets must be outdoors.
 
 **Shopping for this _teleport_ is kind of like going into a shop and saying "Hello! I would like to buy a pair of gloves, a crowbar and a hammer, a balaclava mask, and most importantly: your _finest_ set of lock-picking tools."
 
-> **The _Tarrasque_:** It's impossible to _teleport_ into or out of a hex near the _Tarrasque_'s current position: ending up in the wrong place and other mishaps become more likely the closer you're aiming to the mythological creature. And when the _Tarrasque_'s position is unknown, trying to _teleport_ deep into the jungle becomes a gamble: be prepared to re-orient yourself as your first task upon landing. Although perhaps an irritating problem, it can be thought of as a blessing when you consider the alternative: being able to blindly _teleport_ directly to the _Tarrasque_ itself.
+**The _Tarrasque_:** It's impossible to _teleport_ into or out of a hex near the _Tarrasque_'s current position: ending up in the wrong place and other mishaps become more likely the closer you're aiming to the mythological creature. And when the _Tarrasque_'s position is unknown, trying to _teleport_ deep into the jungle becomes a gamble: be prepared to re-orient yourself as your first task upon landing. Although perhaps an irritating problem, it can be thought of as a blessing when you consider the alternative: being able to blindly _teleport_ directly to the _Tarrasque_ itself.
+
+> _Wizard and merchant prince Wakanga O'tamu has final legal authority over magic item sales and spellcasting services in Port Nyanzaru. He's hosting Syndra Silvane in his mansion in Port Nyanzaru's merchants' ward._ ![Wakanga O'tamu](images/Merchant_Prince_Wakanga_O'tamu.jpg)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
@@ -353,11 +360,11 @@ Generally, the party receives profit equal to half of the listed price for undam
 
 
 # Buying a Magic Item
-All magic items are rare and expensive. Even a small and purely decorative magic item is a precious handcrafted object. Most magic items were made in civilizations and cultures far from this place and time, and the knowledge needed to make new ones of the same form may be a carefully-guarded or entirely-lost secret. Permanent magic items are almost never available for sale in Faerûn, but Port Nyanzaru has enough sheer traffic that a buyer keeping a close eye on the Grand Souk and the Jewel Market can occasionally find an offer.
+All magic items are rare and expensive. Even a small and purely decorative magic item is a precious handcrafted object. Most magic items were made in civilizations and cultures far from this place and time, and the knowledge needed to make new ones of the same form is likely a carefully-guarded or entirely-lost secret. Permanent magic items are almost never available for sale in Faerûn, but Port Nyanzaru has enough sheer traffic that a buyer keeping a close eye on the Grand Souk and the Jewel Market can occasionally find an offer.
 
 The [scrolls, potions, and common wondrous items](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#wakanga-otamu) that Wakanga O'tamu has for sale can be purchased in the same way as a mundane item.
 
-The DM will randomly determine other magic items that can be found in the markets of Port Nyanzaru, along with their prices. To acquire such an item, make a **Charisma** check: it takes a number of downtime days equal to `1d20+[20 minus the Charisma check result]` in order to find, negotiate, and complete the purchase of such an item.
+The DM will randomly determine other magic items that can be found in the markets of Port Nyanzaru, along with their prices. To acquire such an item, make a **Charisma** check: it takes a number of downtime days equal to `1d20 + [20 minus the Charisma check result]` in order to find, negotiate, and complete the purchase of such an item.
 
 ### Putting down money for a Magic Item
 If a character can't afford a magic item right now, but has some coin to put down as a forward payment, they can usually ask a merchant to reserve the item for them until they can gather the final sum. When first making the request, and every three _tendays_ afterwards until they pay the sum, the character needs to make a forward payment equal to a percentage of the final total.
@@ -366,53 +373,54 @@ When asking for an item to be reserved, the character makes a **Charisma** abili
 
 ### Hunting down a Magic Item
 
-A character may attempt to hunt down a specific magic item by talking to well-connected international merchants in Port Nyanzaru. If such an item can be found, the item's **price is multiplied by 1d4** and it takes downtime days equal to `3d20+[20 minus a Charisma check result]` to acquire. Characters must have the full payment up front to hunt down a magic item.
+A character may attempt to hunt down a specific magic item by talking to well-connected international merchants in Port Nyanzaru. If such an item can be found, the item's **price is multiplied by 1d4** and it takes downtime days equal to `3d20 + [20 minus a Charisma check result]` to acquire. Characters must have the full payment up front to hunt down a magic item.
 
 # Selling a Magic Item
-Few non-adventurers have the wealth or the need to own magic items. Finding a potential buyer for any magic item requires at least `5d20+[20 minus a Charisma check result]` downtime days, and an additional hard [DC 20] **Charisma** check is required to determine the maximum price the buyer is willing to pay.
+Few non-adventurers have the wealth or the need to own magic items. Finding a potential buyer for any magic item requires at least `5d20 + [20 minus a Charisma check result]` downtime days, and an additional hard [DC 20] **Charisma** check is required to determine the maximum price the buyer is willing to pay.
 
----
-
-![Zhanthi](images/Merchant_Prince_Zhanthi.jpg)
-
-_The Chultan noble Zhanthi is a descendant of one of the founders of the city, and she's long been the wealthiest merchant prince. Zhanthi controls the exclusive and highly-secure Jewel Market, where most trade in magic items, armor, and other expensive items occurs._
+> _The Chultan noble Zhanthi is a descendant of one of the founders of the city, and she's long been the wealthiest merchant prince. Zhanthi controls the exclusive and highly-secure Jewel Market, where most trade in magic items, armor, and other expensive items occurs._ ![Zhanthi](images/Merchant_Prince_Zhanthi.jpg)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
 # Fighting
 
-![The Grand Coliseum](images/Banquet_Hall_by_liyart.jpg)
-
 If you're not getting enough combat in your Dungeons & Dragons, for the price of just **one downtime day** I can provide an interesting fight at the arena of your choice: _**The Grand Coliseum**_, _**The Executioner's Run**_, or _**The Thundering Lizard Tavern**_. Winners earn prizes, but _everyone_ earns experience points.
 
----
+![The Grand Coliseum](images/Banquet_Hall_by_liyart.jpg)
 
-![Ekene-Afa](images/Merchant_Prince_Ekene-Afa.jpg)
+> _Ex-gladiator Ekene-Afa is the merchant prince of mercenaries in Port Nyanzaru, and also regulates all combat within the city._ ![Ekene-Afa](images/Merchant_Prince_Ekene-Afa.jpg)
 
-_Ex-gladiator Ekene-Afa is the merchant prince of mercenaries in Port Nyanzaru, and also regulates all combat within the city._
+![immovable rod](../../images/immovable-rod.jpg)
+
+# Dyeing
+On top of the cliffs overlooking the Bay of Chult are the famous Port Nyanzaru dyeworks, where laborers gather and process a variety of rare (and sometimes dangerous) materials extracted from Chult in order to produce the colors seen throughout the city. The dyework section of the market ward is expansive, and a determined character can always find a [dyer](dramatis_personae.md#the-lords-alliance) willing to at least try implementing whatever crazy idea the character has.
+
+![dyeworks](images/dyeworks.jpg)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
 # Dinosaur Racing
 
-![Dinosaur races](images/dinosaur-races.png)
-
 Characters can do more than just [carouse](#carousing) and [relax](#relaxing) at Port Nyanzaru's famous tenth-day dinosaur races: they may opt to join the celebrated but dangerous ranks of Port Nyanzaru's dinosaur riders themselves. Characters can race individually, or two characters can participate riding a single dinosaur.
 
 Racing involves a sequence of ability checks: most of the checks use the newly available [**_Riding_**](character_creation.md#riding) skill proficiency, or less commonly the _Animal Handling_ skill proficiency, and characters who aren't _proficient_ in _Riding_ won't quality for any races. If, on the other hand, a character would like to try racing a rampage-prone tyrannosaur or triceratops with no _Animal Handling_ proficiency: good luck.
 
+![Dinosaur races](images/dinosaur-races.png)
+
 ### The Dinosaurs
 Several of the larger species are restricted by regulation: only juvenile dinosaurs below a certain weight are allowed to race. An adult dinosaur may get special permission to participate if [Ifan Talro'a](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#ifan-talroa) knows both the rider and the beast and trusts that the dinosaur will remain under control.
 
+Four-legged and two-legged dinosaurs usually race separately. The four-legged dinosaurs are generally considered easier to handle than the two-legged ones.
+
 |Dinosaur|Class|Rider Size|Speed|Skill Check DC|AC|Hit Points|Attack|Damage|Constitution|
 |--------|-----|----------|-----|--------------|--|----------|------|------|------------|
-|Allosaur, young|2-legged|Medium|50/80|16 __*__|13|30|+6|1d10 + 3|15 (+2)|
-|Deinonychus|2-legged|Small|40/60|12 __*__|13|26|+4|1d8 + 2|14 (+2)|
-|Tyrannosaur, young|2-legged|Medium|50/100|18 __*__|13|46|+6|1d12 + 3|17 (+3)|
-|_Other **_|-|-|40/60|12|12|24|+3|1d8 + 2|17 (+3)|
 |Dimetrodon|4-legged|Small|30/50|8|12|19|+3|2d6 + 1|15 (+2)|
 |Hadrosaur|4-legged|Medium|40/50|12|12|24|+3|1d8 + 2|16 (+3)|
 |Triceratops, young|4-legged|Medium|50/75|16 __*__|13|30|+6|1d10 + 3|15 (+2)|
+|_Other **_|-|-|40/60|12|12|24|+3|1d8 + 2|17 (+3)|
+|Deinonychus|2-legged|Small|40/60|12 __*__|13|26|+4|1d8 + 2|14 (+2)|
+|Allosaur, young|2-legged|Medium|50/80|16 __*__|13|30|+6|1d10 + 3|15 (+2)|
+|Tyrannosaur, young|2-legged|Medium|50/100|18 __*__|13|46|+6|1d12 + 3|17 (+3)|
 
 __*__ There is a risk that these dinosaurs may go berserk during a race if a _Riding_ or _Animal Handling_ ability check is failed badly enough.
 
@@ -431,7 +439,7 @@ Many racing dinosaurs are owned by investors who don't race themselves; a rider 
 Generally, a rentier will demand **2d4 gold coins** to use a dinosaur for a day's races, or 1 gold coin to spend a day training with a dinosaur. They may waive the fees if they know the rider and believe they can profitably bet on them.
 
 ### The day of the race
-Citywide races occur on the last day of each _tenday_, simply named **tenth-day**. A typical race day has three races: one for **four-legged beasts**, one for **two-legged beasts**, and one no-holds-barred "**unchained**" race. The four-legged dinosaurs are generally considered easier to handle than the two-legged ones. The dinosaurs are stoutly muzzled and have their claws and horns blunted in all but the unchained race.
+Citywide races occur on the last day of each _tenday_, simply named **tenth-day**. A typical race day has three races: one for **four-legged beasts**, one for **two-legged beasts**, and one no-holds-barred "**unchained**" race. The dinosaurs are stoutly muzzled and have their claws and horns blunted in all but the unchained race.
 
 A character may participate in multiple races on a single day, but they have **disadvantage on saving throws** during their second race, and if they race a third time they also suffer **disadvantage on ability checks**.
 
@@ -455,18 +463,17 @@ If a character has an initial down payment of 25% or so, they can purchase a din
 
 A character who wishes to raise a wild dinosaur from an egg or juvenile can do so as a [special project](#developing-relationships-investments-and-special-projects).
 
-![Ifan Talro'a](images/Merchant_Prince_Ifan_Talro'a.jpg)
-
-_The merchant prince Ifan Talro'a controls all sales of beasts and beast training in Port Nyanzaru._
+> _The merchant prince Ifan Talro'a controls all sales of beasts and beast training in Port Nyanzaru, and is also in charge of the citywide dinosaur races._ ![Ifan Talro'a](images/Merchant_Prince_Ifan_Talro'a.jpg)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
 # Hunting Pirates
-![A Battle on the High Seas](images/hunting-pirates.jpg)
 Port Nyanzaru has a problem with pirates, and both Harbormaster Zindar and the [blaze of Fort Beluarian](dramatis_personae.md#blaze-liara-portyr) need individuals with initiative and pluck to get out there and hunt them. A crew of pirate hunters might start out its journey escorting a merchant ship leaving the Bay of Chult, and then spend its time patrolling and setting ambushes until its crew is exhausted.
 
+![A Battle on the High Seas](images/hunting-pirates.jpg)
+
 ### Going on a hunt with The Brazen Pegasus
-A ship named The Brazen Pegasus sails out of Port Nyanzaru. The sixteen-person crew of the Pegasus takes a wide variety of jobs doing whatever they can, and often fall back on pirate hunting when better opportunities can't be found. A character may sign up with [Captain Swift and Dark](dramatis_personae.md#captain-ortimay-swift-and-dark) to join The Brazen Pegasus on a pirate hunting voyage as a crew member, and sail the Shining Sea while the rest of the party is doing other business in Port Nyanzaru.
+A ship named The Brazen Pegasus sails out of Port Nyanzaru. The sixteen-person crew of the Pegasus takes a wide variety of jobs doing whatever they can, and often fall back on pirate hunting when better opportunities can't be found. A character may sign up with [Captain Swift and Dark](dramatis_personae.md#the-brazen-pegasus) to join The Brazen Pegasus on a pirate hunting voyage as a crew member, and sail the Shining Sea while the rest of the party is doing other business in Port Nyanzaru.
 
 Pirate hunting involves the newly-available skill proficiency [_**Sailing**_](character_creation.md#sailing). Hunting pirates is a combination of _Sailing_ ability checks and combat, and a character must be good at one or the other, preferably both, to impress Captain Swift and Dark and join The Brazen Pegasus's crew.
 
@@ -478,24 +485,26 @@ A character or characters joining The Brazen Pegasus on a hunt will spend **2d20
 
 For each day a crew spends hunting, roll a [Random Encounter Check](rules_for_random_encounters.md#top), and the DM will describe any random encounter that occurs.
 
+> **Plot Armor:** Player characters that fall overboard or go down with a sinking ship will always wash up on the shores of Chult, due to the _Tarrasque_.
+
 ### Booty
 The crew of the Brazen Pegasus have privateering agreements with both the [blaze of Fort Beluarian](dramatis_personae.md#the-flaming-fists) and [Harbormaster Zindar](dramatis_personae.md#harbormaster-zindar), who will pay a bounty for each time the crew successfully escorts a convoy, sinks or captures pirates, or rescues a ship under attack. The crew is also licensed to keep any loot they can re-steal from pirate ships.
 
-Fort Beluarian's blaze will pay extra to protect ships flying the flag of Baldur's Gate, while Port Nyanzaru's harbormaster has a public bounty of 40,000 gold coins for anyone who captures and brings in one of the three locally-famous pirate ships: the _Dragonfang_, the _Emerald Eye_, or the _Stirge_. Zindar will pay an additional 10,000 gold coins if a crew captures one of the three captains of the ships and brings them back to Port Nyanzaru alive.
-
 > **Shares:** If only one party member is participating in a hunt, that character will get a 1/20 share of the final haul: it's split with the sixteen existing Pegasus crew members, one extra share each for Captain Swift and Dark and mate Ruddell, and an extra half share each for the quartermaster and the cook. If two characters participate they each get a 1/21 share, if three participate they each get a 1/22 share, and so on. If any of the Brazen Pegasus's original crew die during the hunt, their share will be paid to their surviving kin.
 
-> **Magic Items:** Generally, any magic items the crew finds are put up for sale upon returning the Port Nyanzaru, and the profit from the sale is split among the shares as normal. If party members participated in the hunt they have a right of first refusal to buy the item from the Pegasus crew, and they have advantage on the Charisma check to 
+Fort Beluarian's blaze will pay extra to protect ships flying the flag of Baldur's Gate, while Port Nyanzaru's harbormaster has a public bounty of 40,000 gold coins for anyone who captures and brings in one of the three locally-famous pirate ships: the _Dragonfang_, the _Emerald Eye_, or the _Stirge_. Zindar will pay an additional 10,000 gold coins if a crew captures one of the three captains of the ships and brings them back to Port Nyanzaru alive.
+
+If the crew loots any magic items, normally they are sold on the market upon returning to Port Nyanzaru, and the profit from the sale is split among the shares as normal. If party members participated in the hunt they have a right of first refusal to buy the item from the Pegasus crew, and they have advantage on the Charisma check to 
 [put down a forward payment to reserve the Magic Item](#putting-down-money-for-a-magic-item).
 
-> **Plot Armor:** Player characters that fall overboard or go down with a sinking ship will always wash up on the shores of Chult, due to the _Tarrasque_.
+> _The bronze half-dragon Zindar is Port Nyanzaru's harbormaster, and he pays bounties to crews that drive off pirates._ ![Harbormaster Zindar](images/Harbormaster_Zindar.jpg)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
 # Sailing
 **The other, more precise and boring use for [_Sailing_](character_creation.md#sailing).**
 
-A **sailing ship** is an expensive but fast way to get to the various bays of Chult for the start of an expedition.
+A **sailing ship** is an expensive but fast way to get to the [many bays](introduction.md#six-facts-about-chult) of Chult for the start of an expedition into the jungle.
 
 If the party is travelling via sailing ship, characters can spend downtime days pursuing any of the same downtime activities that are available in the jungle; see the [rules for downtime activities in the jungle](activities_in_the_jungle.md#top) for details.
 
@@ -503,7 +512,7 @@ Characters may also try to assist with the day's sailing, as described here.
 
 ### Port Nyanzaru: The Brazen Pegasus
 
-The party can speak to [Captain Swift and Dark](dramatis_personae.md#captain-ortimay-swift-and-dark) to buy passage on her ship, The Brazen Pegasus, which can eventually be found in Port Nyanzaru's maze-like docks.
+The party can speak to [Captain Swift and Dark](dramatis_personae.md#the-brazen-pegasus) to buy passage on her ship, The Brazen Pegasus, which can eventually be found in Port Nyanzaru's maze-like docks.
 
 While the party travels as passengers on The Brazen Pegasus, up to three characters _proficient_ in _Sailing_ may spend downtime days assisting the crew by making one _Sailing_ ability check per day:
 
@@ -517,29 +526,29 @@ While the party travels as passengers on The Brazen Pegasus, up to three charact
 
 ---
 
-### Your Very Own Ship
-![A Shipwreck in Chult](images/your-very-own-ship.jpg)
-
+## Your Very Own Ship
 Acquiring and maintaining ownership of a sailing ship, particularly one that isn't actively worked to earn a profit on the high seas, is difficult, but entirely possible during the party's adventures in Chult.
 
 While sailing their own ship, up to three party members may work as crew members in the same way as on the Brazen Pegasus. An **additional three characters can assist** the first three to provide advantage on checks. Because of their existing rapport party members can even try to contribute if they aren't _proficient_ in _Sailing_.
 
-##### This fully armed and operational battle station
-To be fully crewed a sailing ship requires crew members equal to its normal speed in (Chultan 10-mile) hexes per day, which is **10 hexes per day** and **10 crew members** for the Brazen Pegasus and similar ships.
+![A Shipwreck in Chult](images/your-very-own-ship.jpg)
+
+### This fully armed and operational battle station
+To be fully crewed, a sailing ship requires crew members equal to its normal speed in (Chultan 10-mile) hexes per day, which is **10 hexes per day** and **10 crew members** for the Brazen Pegasus and similar ships.
 
 If a ship lacks a full crew, its normal speed is one hex for each crew member it does have. Additional crew members don't add speed above the ship's normal maximum.
 
-##### Red sky in the morning, sailors take warning
+### Red sky in the morning, sailors take warning
 **Caution!** As long as at least one character crewing the ship is _proficient_ in _Sailing_, other characters may opt to rely on that character for direction and do a _**cautious**_ job: they skip making an ability check that day but can still contribute to the ship's normal speed.
 
-##### Gotta spend coin to make coin
+### Gotta spend coin to make coin
 As per the _Player's Handbook_, it costs **2 gold coins per day** to employ a skilled hireling, including a sailor. Sailors who are mistreated, or significantly cheaper sailors, might mutiny, steal the ship while the party is ashore, or simply abandon their post at the first available opportunity.
 
-Skilled sailors are proficient in _Sailing_ and generally have a total proficiency and ability bonus of **6** for all _Sailing_ checks, depending on their price. If the crew's morale is low from the difficulty of the journey, or from being away from port for too long, their _Sailing_ proficiency bonus will drop.
+Skilled sailors are proficient in _Sailing_ and generally have a total proficiency and ability bonus of **+6** for all _Sailing_ checks, depending on their price. If the crew's morale is low from the difficulty of the journey, or from being away from port for too long, their _Sailing_ proficiency bonus will drop.
 
 > **Character Bonus:** One member of the party and one optional assistant may make a **Hard difficulty** [DC 20] **Charisma** ability check to improve the crew's morale, as long as the low morale isn't being caused by the antics of the party itself.
 
-##### The most important part
+### The most important part
 Two characters from the three core crew members serve as the **Captain and First Mate**. At least one of the two must be _proficient_ in _Sailing_; otherwise you're not so much a crew with officers as you are a bunch of morons stranded on a boat lost at sea.
 
 When either the Captain or the First Mate roll using _Sailing_ to assist the ship, if they are _proficient_ in _Sailing_, in lieu of the normal bonus to speed for the day they instead achieve the following:
@@ -558,14 +567,16 @@ If the party encounters another ship or a sea creature, and starts communicating
 
 > **Character Bonus:** One character who is not sailing may serve as the ship's Cook: the other characters should be suspicious of the Cook, because many renowned ships' cooks are charlatans.
 
-> **Plot Armor:** Player characters that fall overboard or go down with a sinking ship will always wash up on the shores of Chult, due to the _Tarrasque_. Ships or boats owned by the party do not have _plot armor_.
+> **Plot Armor:** Player characters that fall overboard or go down with a sinking ship will always wash up on the shores of Chult, due to the _Tarrasque_. Ships or boats owned by the party do not have _plot armor_. Speaking of which:
 
 ---
 
 # Aremag
 ![Aremag the Dragon Turtle waylays a sailing ship](images/aremag_wotc.jpg)
 
-The ancient dragon turtle Aremag patrols the Bay of Chult, demanding treasure from the many ships passing through. Although there's too much traffic for Aremag to bother every single ship that sails by, make no mistake about the danger: Aremag won't hesitate to sink an uncooperative or fast-talking ship so that she can simply pick out the treasure at her leisure. Most Port Nyanzaru citizens have little sympathy for captains [foolish enough to irritate the famous beast](dramatis_personae.md#aremag).
+The ancient dragon turtle Aremag patrols the Bay of Chult, demanding treasure from the many ships sailing to or from Port Nyanzaru. Although there's too much traffic for Aremag to bother every single ship that sails by, make no mistake about the danger: Aremag won't hesitate to sink an uncooperative or fast-talking ship so that she can simply pick out the treasure at her leisure. Most Port Nyanzaru citizens have little sympathy for captains [foolish enough to irritate the famous beast](dramatis_personae.md#aremag).
+
+> **Posted Notice:** [Lerek Dashlynd](dramatis_personae.md#lerek-dashlynd) is offering ownership of a sailing ship as a reward for the first person to bring him an accurate map with directions to both the ruined Chultan cities of **Nangalore** and **Oralunga**. ![Lerek Dashlynd](images/lerek.jpg)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
@@ -689,11 +700,13 @@ A character can invest time and coin into developing relationships, investments,
 - Establishing a permanent resource or benefit for the party.
 
 # Looking for a Side Quest
-Wow I sure have typed up a lot of options at this point, _but!_ there are also a few small "side quests" to be found around Port Nyanzaru. Thanks for reading, and welcome to the fantastic city of **Port Nyanzaru**, the starting base camp for your adventures in [**_Tomb of Annihilation_**](README.md#top)!
+Wow I sure have typed up a lot of options at this point, _but!_ there are also [a few](dramatis_personae.md#xandala) small "side quests" to be found around Port Nyanzaru.
+
+> _The merchant prince Jobal spends his time wandering Port Nyanzaru, keeping in touch with people and looking for opportunities. Many explorers and workers seek out Jobal to find out about the most profitable opportunities._ ![Jobal](images/Merchant_Prince_Jobal.jpg)
 
 ![Special Projects](images/special-projects.jpg)
 
----
+Thank you for reading, and welcome to the fantastic city of **Port Nyanzaru**, the starting base camp for your adventures in [**_Tomb of Annihilation_**](README.md#top)!
 
 [Back to top](#top)
 
