@@ -26,8 +26,8 @@ _Standard 5e rules that I like but which I commonly forget during play._
 > - Moving through the space of any other creature.
 >   - A character can normally only move through the space of [nonhostile creatures or creatures at least two sizes different](#creatures-provide-cover) from the character.
 >
-> #### Uncannily Dodge
-> To *uncannily dodge* means "take no damage on any single successful Dexterity saving throw, or half damage on a failed save".
+> #### Evade
+> To *evade* means "take no damage on any single successful Dexterity saving throw, or half damage on a failed save".
 
 ---
 
@@ -377,7 +377,7 @@ Some of these special attacks are performed using the Attack action, and if you 
 |-|-|-|
 |One-handed shield|-|+2 Armor Class|
 |One-handed shield|__Protection__ fighting style|You may spend your _reaction_ to impose disadvantage on one attack **targeting another creature** within 1 square of you. **homebrew:** If you have multiple attacks you may use _Protection_ up to once per attack.|
-|One-handed shield|**_Shield Master_** feat|You can use your _bonus action_ to try to __shove__ a creature within 1 square of you. You can add your shield's AC bonus to Dexterity saving throws __that target only you__. You can use your _reaction_ to [_uncannily dodge_](#uncannily-dodge).|
+|One-handed shield|**_Shield Master_** feat|You can use your _bonus action_ to try to __shove__ a creature within 1 square of you. You can add your shield's AC bonus to Dexterity saving throws __that target only you__. You can use your _reaction_ to [_evade_](#evade) one Dexterity saving throw.|
 
 ---
 
@@ -421,7 +421,7 @@ Improvised attacks don't get your proficiency bonus, but simply improvising a we
 # To do strange and exotic things
 |Exotic Attacks|Requirement|Effect|
 |-|-|-|
-|Mounted character|**_Mounted Combatant_** feat|Advantage on attack rolls against unmounted creatures smaller than your mount. You can force an attack targeting your mount to target you instead. Your mount may [_uncannily dodge_](#uncannily-dodge). **homebrew:** Both of the latter two features require spending either your _reaction_ or your mount's _reaction_.|
+|Mounted character|**_Mounted Combatant_** feat|Advantage on attack rolls against unmounted creatures smaller than your mount. You can force an attack targeting your mount to target you instead. Your mount may [_evade_](#evade) one Dexterity saving throw. **homebrew:** Both of the latter two features require spending either your _reaction_ or your mount's _reaction_.|
 |Lance|martial proficiency|Disadvantage if within 1 square of your target. Needs two hands if not mounted.|
 |Whip|martial proficiency|1d4 slashing damage. _Finesse_ and _Reach_.|
 |Net|martial proficiency, _Large_ or smaller target|Max of one attack per _action_, even if you have multiple attacks. Thrown with **1/3 square range**. On hit the target is __restrained__ until they free themselves or are freed via an **easy Strength check** `DC 10` or `5` slashing damage to the net (`AC 10`).|
@@ -453,9 +453,9 @@ Characters who wish to cast spells must have one hand free to either use a _comp
 
 ---
 
-# Uncannily Dodge
+# Evade
 
-> **homebrew:** To *uncannily dodge* means "take no damage on any successful Dexterity saving throw, or half damage on a failed save".
+> **homebrew:** To *evade* means "take no damage on any successful Dexterity saving throw, or half damage on a failed save".
 
 ---
 
