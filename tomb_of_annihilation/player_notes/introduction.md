@@ -5,6 +5,8 @@
 
 # Tomb of Annihilation Adventure Intro and Maps
 
+![Probably Costa Rica](images/probably-costa-rica.jpg)
+
 ### Welcome to _**Tomb of Annihilation**_, an adventure for Dungeons & Dragons!
 
 This story takes place in the forgotten realms of Faerûn, on the strange world of Toril.
