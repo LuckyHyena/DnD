@@ -30,6 +30,7 @@ Common:
 - [Relaxing](#relaxing)
 - [Gaming](#gaming)
 - [Worshipping](#worshipping)
+    - [Religion in Faerûn](#religion-in-faerûn)
 
 Useful:
 - [Investigating](#investigating)
@@ -211,9 +212,7 @@ The people of Faerûn have a practical and unsentimental relationship with their
 
 > The temple in Malar's Throat to Tymora, goddess of good fortune, is open to all without regard for their wealth, and is the temple of choice for those who have rendered themselves destitute from [gaming](#gaming).
 
-> The Calendar of Harptos orders life in Faerûn, including the rhythm of religious ceremonies and holidays. The calendar consists of twelve months, each with three **tendays** or weeks, and five annual holidays that occur between the months. The days in a tenday are described with the plain names first-day, second-day, third-day, and so on until [tenth-day](#dinosaur-racing).
-
-##### Temples
+### Temples
 |Temple|Deity|District|High Priest|
 |-|-|-|-|
 |Temple of Sune|Sune, deity of love and beauty|Merchants' Ward|[Merchant Prince](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#kwayothé) Kwayothé|
@@ -225,6 +224,9 @@ The people of Faerûn have a practical and unsentimental relationship with their
 > _The high priestess of Waukeen is the most important person in Port Nyanzaru besides the merchant princes, and Mother of Prosperity Sibonseni is frequently asked for her advice or blessing on important business deals._
 > 
 > ![Sibonseni](images/bar-owner-Lethhonel-Krisdan.png)
+
+## Religion in Faerûn 
+The Calendar of Harptos orders life in Faerûn, including the rhythm of religious ceremonies and holidays. The calendar consists of twelve months, each with three **tendays** or weeks, and five annual holidays that occur between the months. The days in a tenday are described with the plain names first-day, second-day, third-day, and so on until [tenth-day](#dinosaur-racing).
 
 ![Deities of Faerûn](images/deities_of_the_forgotten_realms_by_doize-dboldkr.png)
 
