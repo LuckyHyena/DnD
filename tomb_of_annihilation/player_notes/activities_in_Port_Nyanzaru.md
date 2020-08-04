@@ -722,7 +722,7 @@ A character can invest time and coin into developing relationships, investments,
 - Establishing a permanent resource or benefit for the party.
 
 # Looking for a Side Quest
-Wow I sure have typed up a lot of options at this point, _but!_ there are also [a few](dramatis_personae.md#xandala) small "side quests" to be found around Port Nyanzaru.
+Wow I sure have typed up a lot of options at this point, _but!_ there are also [a few](dramatis_personae.md#xandala-cinder) small "side quests" to be found around Port Nyanzaru.
 
 > _The merchant prince Jobal spends his time wandering Port Nyanzaru, keeping in touch with people and looking for opportunities. Many explorers and workers seek out Jobal to find out about the most profitable opportunities._
 >
