@@ -3,7 +3,7 @@
 
 ###### top
 
-# Tomb of Annihilation Adventure Intro and Maps
+# Tomb of Annihilation Adventure Background and Maps
 
 ![Probably Costa Rica](images/probably-costa-rica.jpg)
 
