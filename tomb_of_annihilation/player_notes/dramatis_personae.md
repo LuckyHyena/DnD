@@ -15,90 +15,60 @@
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
-# Native inhabitants of Chult
+## Native inhabitants of Chult
 
 Port Nyanzaru is a cosmopolitan city built on international trade: people from all parts of Faerûn, as well as travellers from the far West continents of Anchorome and Kara-Tur, can be found in the city. The following are some examples from local Chultan cultures:
 
 > If you want to play a monstrous character, or one that needs other special rules, you must have your own personal copy of the relevant sourcebook, often **Volo's Guide to Monsters**.
 
----
-
-### Humans
+# Humans
 ![Chultan Humans](images/Chultans.jpg)
 
----
-
-### Orcs and Half-Orcs
+# Orcs and Half-Orcs
 ![Chultan Orcs and Half-Orcs](images/chultan-orcs.jpg)
 
----
-
-### Tabaxi
+# Tabaxi
 ![Tabaxi](images/tabaxi.jpg)
 
----
-
-### Batiri Goblins and Hobgoblins
+# Batiri Goblins and Hobgoblins
 ![Batiri goblins](images/hobgoblins.jpg)
 
----
-
-### Elves and Half-Elves
+# Elves and Half-Elves
 ![Chultan Elves](images/chultan-elves.jpg)
 
----
-
-### Lizardfolk
+# Lizardfolk
 ![Lizardfolk](images/lizardfolk.jpg)
 
----
-
-### Dragonborn
+# Dragonborn
 ![Chultan Dragonborn](images/chultan-dragonborn.jpg)
 
----
-
-### Dwarves
+# Dwarves
 ![Chultan Dwarves](images/chultan-dwarves.jpg)
 
----
-
-### Tortles
+# Tortles
 ![Tortles](images/tortles.jpg)
 
----
-
-### Pterafolk
+# Pterafolk
 ![Pterafolk](images/pterafolk.jpg)
 
----
-
-### Tieflings and Aasimar
+# Tieflings and Aasimar
 ![Chultan Tieflings and Aasimar](images/chultan-tieflings-and-aasimar.jpg)
 
----
-
-### Aarakocra
+# Aarakocra
 ![Aarakocra](images/aarakocra.jpg)
 
----
-
-### Gnomes and Halflings
+# Gnomes and Halflings
 ![Chultan Gnomes and Halflings](images/chultan-gnomes-halflings.jpg)
 
----
-
-### Thri-Kreen
+# Thri-Kreen
 ![Chultan Thri-kreen](images/chultan-thri-kreen.jpg)
 
----
-
-### Grungs
+# Grungs
 ![Grungs](images/grungs.jpg)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
-### _Port Nyanzaru:_
+## _Port Nyanzaru:_
 
 # Syndra Silvane
 SIN-draw sil-VAIN is a [Tethyrian](https://forgottenrealms.fandom.com/wiki/Tethyrian) mage and **the party's employer and patron**. She's a trusted friend and mentor who has contracted the **Death Curse**; the disease is now so severe that Syndra can barely walk, and only slowly and with a cane. She has taken to wearing a silver mask and hood to hide the progression of the Death Curse.
