@@ -56,7 +56,7 @@ Specialty:
 
 ![Port Nyanzaru map](images/port-nyanzaru.png)
 
-## Lifestyles
+# Lifestyles
 [Districts and Locations in Port Nyanzaru](Port_Nyanzaru.md#top)
 
 |Lifestyle|Activities Available|Expenses per Day|Potential Residences|
@@ -88,7 +88,9 @@ Out of each tenday spent working a character may choose **three days** they are 
 
 Street performers have a unique place in the hearts of Port Nyanzaru's citizens, and throughout the city one can find musicians, bards, dancers, magicians, Tabaxi minstrels, mimes, clowns, performers in dinosaur costumes, martial artists, and many others giving performances based upon native Chultan traditions, as well as a wide sampling from cultures across Faerûn.
 
-> **Character Bonus:** A character proficient in Perform can maintain a wealthy lifestyle for free by working as a street performer. ![Tabaxi Bard and Hobgoblin dancer](images/street-performers.png)
+> **Character Bonus:** A character proficient in Perform can maintain a wealthy lifestyle for free by working as a street performer.
+>
+> ![Tabaxi Bard and Hobgoblin dancer](images/street-performers.png)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
@@ -149,7 +151,9 @@ Aside from the public baths of Sune, various private bathhouses can be found thr
 
 ![Public baths in Hungary](images/public-bathhouses-gellert-budapest-hungary.png)
 
-> _The young high priestess of Port Nyanzaru's Temple of Sune, Kwayothé, is also a powerful and ambitious merchant prince. She controls the sale of alcohol, fruit, oil, and perfume: this gives her additional de facto power over most of Port Nyanzaru's taverns, restaurants, ceremonies, celebrations, and day-to-day life._ ![Kwayothé](images/Merchant_Prince_Kwayothé.jpg)
+> _The young high priestess of Port Nyanzaru's Temple of Sune, Kwayothé, is also a powerful and ambitious merchant prince. She controls the sale of alcohol, fruit, oil, and perfume: this gives her additional de facto power over most of Port Nyanzaru's taverns, restaurants, ceremonies, celebrations, and day-to-day life._
+>
+> ![Kwayothé](images/Merchant_Prince_Kwayothé.jpg)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
@@ -220,7 +224,9 @@ The people of Faerûn have a practical and unsentimental relationship with their
 
 ![Deities of Faerûn](images/deities_of_the_forgotten_realms_by_doize-dboldkr.png)
 
-> _The high priestess of Waukeen is the most important person in Port Nyanzaru besides the merchant princes, and Mother of Prosperity Sibonseni is frequently asked for advice or a blessing on important business deals._ ![Sibonseni](images/bar-owner-Lethhonel-Krisdan.png)
+> _The high priestess of Waukeen is the most important person in Port Nyanzaru besides the merchant princes, and Mother of Prosperity Sibonseni is frequently asked for advice or a blessing on important business deals._
+> 
+> ![Sibonseni](images/bar-owner-Lethhonel-Krisdan.png)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
@@ -246,7 +252,9 @@ Port Nyanzaru's volume of trade means that the party has at least a chance of fi
 ### Port Nyanzaru: Temple of Savras
 In the merchants' ward is an opulent temple of Savras, Faerûn deity of divination and fate. For a price they can cast or assist with a ritual spell, as described below.
 
-> _Grandfather Zitembe is the high priest of Savras, and a popular friend and confidante of many of the most powerful citizens in Port Nyanzaru._ ![Grandfather Zitembe](images/Musharib.jpg)
+> _Grandfather Zitembe is the high priest of Savras, and a popular friend and confidante of many of the most powerful citizens in Port Nyanzaru._
+>
+> ![Grandfather Zitembe](images/Musharib.jpg)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
@@ -337,7 +345,9 @@ Generally, teleportation targets must be outdoors.
 
 **The _Tarrasque_:** It's impossible to _teleport_ into or out of a hex near the _Tarrasque_'s current position: ending up in the wrong place and other mishaps become more likely the closer you're aiming to the mythological creature. And when the _Tarrasque_'s position is unknown, trying to _teleport_ deep into the jungle becomes a gamble: be prepared to re-orient yourself as your first task upon landing. Although perhaps an irritating problem, it can be thought of as a blessing when you consider the alternative: being able to blindly _teleport_ directly to the _Tarrasque_ itself.
 
-> _Wizard and merchant prince Wakanga O'tamu has final legal authority over magic item sales and spellcasting services in Port Nyanzaru. He's hosting Syndra Silvane in his mansion in Port Nyanzaru's merchants' ward._ ![Wakanga O'tamu](images/Merchant_Prince_Wakanga_O'tamu.jpg)
+> _Wizard and merchant prince Wakanga O'tamu has final legal authority over magic item sales and spellcasting services in Port Nyanzaru. He's hosting Syndra Silvane in his mansion in Port Nyanzaru's merchants' ward._
+>
+> ![Wakanga O'tamu](images/Merchant_Prince_Wakanga_O'tamu.jpg)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
@@ -378,7 +388,9 @@ A character may attempt to hunt down a specific magic item by talking to well-co
 # Selling a Magic Item
 Few non-adventurers have the wealth or the need to own magic items. Finding a potential buyer for any magic item requires at least `5d20 + [20 minus a Charisma check result]` downtime days, and an additional hard [DC 20] **Charisma** check is required to determine the maximum price the buyer is willing to pay.
 
-> _The Chultan noble Zhanthi is a descendant of one of the founders of the city, and she's long been the wealthiest merchant prince. Zhanthi controls the exclusive and highly-secure Jewel Market, where most trade in magic items, armor, and other expensive items occurs._ ![Zhanthi](images/Merchant_Prince_Zhanthi.jpg)
+> _The Chultan noble Zhanthi is a descendant of one of the founders of the city, and she's long been the wealthiest merchant prince. Zhanthi controls the exclusive and highly-secure Jewel Market, where most trade in magic items, armor, and other expensive items occurs._
+>
+> ![Zhanthi](images/Merchant_Prince_Zhanthi.jpg)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
@@ -388,7 +400,9 @@ If you're not getting enough combat in your Dungeons & Dragons, for the price of
 
 ![The Grand Coliseum](images/Banquet_Hall_by_liyart.jpg)
 
-> _Ex-gladiator Ekene-Afa is the merchant prince of mercenaries in Port Nyanzaru, and also regulates all combat within the city._ ![Ekene-Afa](images/Merchant_Prince_Ekene-Afa.jpg)
+> _Ex-gladiator Ekene-Afa is the merchant prince of mercenaries in Port Nyanzaru, and also regulates all combat within the city._
+>
+> ![Ekene-Afa](images/Merchant_Prince_Ekene-Afa.jpg)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
@@ -463,7 +477,9 @@ If a character has an initial down payment of 25% or so, they can purchase a din
 
 A character who wishes to raise a wild dinosaur from an egg or juvenile can do so as a [special project](#developing-relationships-investments-and-special-projects).
 
-> _The merchant prince Ifan Talro'a controls all sales of beasts and beast training in Port Nyanzaru, and is also in charge of the citywide dinosaur races._ ![Ifan Talro'a](images/Merchant_Prince_Ifan_Talro'a.jpg)
+> _The merchant prince Ifan Talro'a controls all sales of beasts and beast training in Port Nyanzaru, and is also in charge of the citywide dinosaur races._
+>
+> ![Ifan Talro'a](images/Merchant_Prince_Ifan_Talro'a.jpg)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
@@ -497,7 +513,9 @@ Fort Beluarian's blaze will pay extra to protect ships flying the flag of Baldur
 If the crew loots any magic items, normally they are sold on the market upon returning to Port Nyanzaru, and the profit from the sale is split among the shares as normal. If party members participated in the hunt they have a right of first refusal to buy the item from the Pegasus crew, and they have advantage on the Charisma check to 
 [put down a forward payment to reserve the Magic Item](#putting-down-money-for-a-magic-item).
 
-> _The bronze half-dragon Zindar is Port Nyanzaru's harbormaster, and he pays bounties to crews that drive off pirates._ ![Harbormaster Zindar](images/Harbormaster_Zindar.jpg)
+> _The bronze half-dragon Zindar is Port Nyanzaru's harbormaster, and he pays bounties to crews that drive off pirates._
+>
+> ![Harbormaster Zindar](images/Harbormaster_Zindar.jpg)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
@@ -576,7 +594,9 @@ If the party encounters another ship or a sea creature, and starts communicating
 
 The ancient dragon turtle Aremag patrols the Bay of Chult, demanding treasure from the many ships sailing to or from Port Nyanzaru. Although there's too much traffic for Aremag to bother every single ship that sails by, make no mistake about the danger: Aremag won't hesitate to sink an uncooperative or fast-talking ship so that she can simply pick out the treasure at her leisure. Most Port Nyanzaru citizens have little sympathy for captains [foolish enough to irritate the famous beast](dramatis_personae.md#aremag).
 
-> **Posted Notice:** [Lerek Dashlynd](dramatis_personae.md#lerek-dashlynd) is offering ownership of a sailing ship as a reward for the first person to bring him an accurate map with directions to both the ruined Chultan cities of **Nangalore** and **Oralunga**. ![Lerek Dashlynd](images/lerek.jpg)
+> [**PUBLIC NOTICE:**](dramatis_personae.md#lerek-dashlynd) Lerek Dashlynd is offering ownership of a sailing ship as a reward for the first person to bring him an accurate map with directions to both the ruined Chultan cities of **Nangalore** and **Oralunga**.
+>
+> ![Lerek Dashlynd](images/lerek.jpg)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
@@ -632,8 +652,6 @@ Until they are _proficient_, bards with the jack-of-all-trades class feature may
 ---
 
 # Studying a Language
-![Language](images/fantasy-language.jpg)
-
 Port Nyanzaru's volume of trade and cosmopolitan citizenship means that a character can easily find teachers and studying materials for any non-secret language. Studying a new language costs **1 gold coin per day** in addition to lifestyle expenses. As you spend more downtime days on studying a language, you develop more and more ability to use it:
 |Downtime Days|Competency|
 |-|-|
@@ -647,6 +665,8 @@ You can continue studying a language when the party leaves Port Nyanzaru; see th
 > **Character Bonus:** A character studying a language can make an **Intelligence** ability check and subtract the result from the number of days needed to achieve the next level of competence. Characters may do this once when starting the study of a language and again each time they achieve a new level of competency.
 
 > **Character Bonus:** Characters who choose the newly-available [_Anthropologist_ background](character_creation.md#anthropologist) require only **half the normal downtime days** to earn each level of language competence when studying a new language. They additionally begin the game with **two additonal language proficiencies** of their player's choice.
+
+![Language](images/fantasy-language.jpg)
 
 ---
 
@@ -702,7 +722,9 @@ A character can invest time and coin into developing relationships, investments,
 # Looking for a Side Quest
 Wow I sure have typed up a lot of options at this point, _but!_ there are also [a few](dramatis_personae.md#xandala) small "side quests" to be found around Port Nyanzaru.
 
-> _The merchant prince Jobal spends his time wandering Port Nyanzaru, keeping in touch with people and looking for opportunities. Many explorers and workers seek out Jobal to find out about the most profitable opportunities._ ![Jobal](images/Merchant_Prince_Jobal.jpg)
+> _The merchant prince Jobal spends his time wandering Port Nyanzaru, keeping in touch with people and looking for opportunities. Many explorers and workers seek out Jobal to find out about the most profitable opportunities._
+>
+> ![Jobal](images/Merchant_Prince_Jobal.jpg)
 
 ![Special Projects](images/special-projects.jpg)
 
