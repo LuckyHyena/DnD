@@ -6,6 +6,7 @@
 
 ##### Tomb of Annihilation
 # Items available for purchase in Port Nyanzaru
+
 ![Grand Souk](images/grand-souk.jpg)
 
 > _The Grand Souk in Port Nyanzaru's merchants' ward._
@@ -22,7 +23,7 @@ Each of the seven merchant princes who rule Port Nyanzaru controls the selling a
 - [Zhanthi](#zhanthi) is a noble who runs the Jewel Market, an exclusive and high-end market for the sale of [art, jewelry, gems](activities_in_Port_Nyanzaru.md#selling-loot-or-items), metal armors, and magic items.
 - [Wakanga O'tamu](#wakanga-otamu) is the mage with authority over all [magic item sales](activities_in_Port_Nyanzaru.md#buying-a-magic-item) in Port Nyanzaru, though such sales are rare even in Port Nyanzaru's massive markets. Common potions and scrolls are [available for purchase](#magic-items), however.
 
-> [Other people in Port Nyanzaru](dramatis_personae.md#port-nyanzaru)
+[Other Dramatis Personae in Port Nyanzaru](dramatis_personae.md#port-nyanzaru)
 
 > _Ekene-Afa - Ifan Talro'a - Jessamine - Jobal_
 >

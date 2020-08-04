@@ -72,7 +72,9 @@ Port Nyanzaru's upper classes reside in the opulent merchants' ward. This area h
 - Temple of Savras, deity of divination and fate. [Grandfather Zitembe](dramatis_personae.md#grandfather-zitembe) is the high priest.
 - Temple of Sune, deity of love and beauty. High priestess [Kwayothé](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#kwayothé) is also a merchant prince, and controls all Port Nyanzaru trade in tej, wine, ale, fruit, oil, and perfume.
 
-![Merchants' Ward](images/merchants-ward.jpg)
+![Merchants' Ward](images/grand-souk.jpg)
+
+> _The Grand Souk in Port Nyanzaru's merchants' ward._
 
 ---
 
