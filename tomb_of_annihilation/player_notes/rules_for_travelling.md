@@ -144,7 +144,7 @@ During a tropical storm the rain catcher can collect the equivalent of heavy rai
 
 ### Shivering Sickness
 
-_**Not In Play:** I won't bother with insect repellant. You might still get Shivering Sickness from monsters._
+> _**Not In Play:** I won't force you to buy and track insect repellant. You might still get Shivering Sickness from monsters._
 
 At the end of a long rest, if you didn't apply **insect repellent** since the prior long rest, you must make a DC 11 **Constitution** saving throw or begin exhibiting the symptoms of shivering sickness 2d6 hours later. At the end of each long rest, you may repeat the saving throw and recover from the sickness if you succeed.
 

@@ -524,7 +524,7 @@ If the crew loots any magic items, normally they are sold on the market upon ret
 # Sailing
 **The other, more precise and boring use for [_Sailing_](character_creation.md#sailing).**
 
-A **sailing ship** is an expensive but fast way to get to the [many bays](introduction.md#six-facts-about-chult) of Chult for the start of an expedition into the jungle.
+A **sailing ship** is an expensive but fast way to get to the [many bays](introduction.md#map-of-chult) of Chult for the start of an expedition into the jungle.
 
 If the party is travelling via sailing ship, characters can spend downtime days pursuing any of the same downtime activities that are available in the jungle; see the [rules for downtime activities in the jungle](activities_in_the_jungle.md#top) for details.
 

@@ -41,9 +41,12 @@ _Somewhere in the jungles of **Chult**, the Soulmonger leeches life from those s
 
 6. Numerous settlements remained on the Chultan coast despite the undead presence, but in recent years all except Port Nyanzaru have fallen to ruin. Long-dormant volcanoes have awakened and the undead have become more aggressive in the past few years, making the land of Chult more dangerous than ever.
 
-![Map of Chult](images/chult_player_map.jpg)
+## Map of Chult
+Syndra Silvane has been buying maps and casting divination spells in Port Nyanzaru, and she's sifted and assembled the reliable information into what is likely the most extensive map in all Toril of Chult's coastline and modern interior:
 
-> 1 hex on the Chult adventuring map is approximately 10 miles to 15 kilometers across.
+> 1 hex on the Chult adventuring map is between 10 miles and 15 kilometers across.
+
+![Map of Chult](images/chult_player_map.jpg)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
