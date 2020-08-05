@@ -1,5 +1,5 @@
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 
@@ -80,4 +80,4 @@
 |19|Forest Green|-|-|-|
 |20|Unpleasant Green|-|-|-|
 
-![the end](../../images/toa-end.jpg)
+![the end](/images/toa-end.jpg)

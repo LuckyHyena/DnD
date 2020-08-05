@@ -1,5 +1,5 @@
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 
@@ -12,10 +12,10 @@
 
 ![dragon header](../../images/dragon.png)
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
-![The Soulmonger](../the-soulmonger.png)
+![The Soulmonger](images/characters/the-soulmonger.png)
 
 _do not neglect the Soulmonger. its Curse will come for you as well_
 
-![the end](../../images/toa-end.jpg)
+![the end](/images/toa-end.jpg)

@@ -1,5 +1,5 @@
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 
@@ -8,7 +8,7 @@
 
 # Short Rest Activities
 
-During a [short rest](rules_for_short_rests.md#top), and at the very end of long rests, each character in the party may optionally choose a method to relax and recover. The character makes an ability check based on the method they've chosen. If they pass a **Moderate difficulty** then they also receive the bonus described in the table.
+During a [short rest](short_rests.md#top), and at the very end of long rests, each character in the party may optionally choose a method to relax and recover. The character makes an ability check based on the method they've chosen. If they pass a **Moderate difficulty** then they also receive the bonus described in the table.
 
 If a character rolling an ability check rolls a **Natural 1**, or their result fails to beat an **Easy difficulty**, then the character _fumbles_ and suffers the described setback.
 
@@ -29,12 +29,12 @@ If a character rolling an ability check rolls a **Natural 1**, or their result f
 |Gaming|_varies by gaming set_|_proficiency with the gaming set_|You gain advantage on your next initiative roll, **or** you gain the _Meditation_ bonus. If multiple characters play the same game together then the character(s) with the highest check result instead gains both advantages, each for their next **two** applicable rolls.|You suffer the _Meditation_ fumble.|
 |Gambling|_varies by gaming set_|_proficiency with the gaming set_|Everyone gambling bets platinum coins until they all fold or stay. Roll three checks with bets in between, and the un-folded character with the highest sum of check results wins all the money.|You probably aren't winning that pot.|
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 [Back to top](#top)
 
-[Rules for travelling in the jungle](rules_for_travelling.md#top)
+[Rules for travelling in the jungle](travelling.md#top)
 
 [Tomb of Annihilation homepage](README.md#top)
 
-![the end](../../images/toa-end.jpg)
+![the end](/images/toa-end.jpg)

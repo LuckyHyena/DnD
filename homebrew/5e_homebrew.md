@@ -1,5 +1,5 @@
 
-![immovable rod](../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 
@@ -12,12 +12,12 @@ Optional Rules:
 - [Diagonals](#diagonals)
 - [_Dungeon Master's Guide_ Combat Actions](#dungeon-masters-guide-combat-actions)
 - [Inspiration](#inspiration)
-- [Downtime Days and Lifestyle Expenses](../tomb_of_annihilation/player_notes/activities_in_Port_Nyanzaru.md#top) (for Port Nyanzaru)
+- [Downtime Days and Lifestyle Expenses](../tomb_of_annihilation/player_notes/Port_Nyanzaru_activities.md#top) (for Port Nyanzaru)
 
 The Homebrew:
 - [Fumbles](#fumbles)
 - [Assisting Another Character for Advantage](#assisting-another-character-for-advantage)
-- [Random Encounters](../tomb_of_annihilation/player_notes/rules_for_random_encounters.md#top) (for _Tomb of Annihilation_)
+- [Random Encounters](../tomb_of_annihilation/player_notes/random_encounters.md#top) (for _Tomb of Annihilation_)
 
 Appendixes:
 - [Not enough Weird Vision, let's homebrew](#not-enough-weird-vision-lets-homebrew)
@@ -42,13 +42,13 @@ Appendixes:
 
 ![Writers who use subtext are cowards](../images/writers-who-use-subtext-are-cowards.jpg)
 
-![immovable rod](../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 # Character Creation
 See my Tomb of Annihilation [character creation rules](../tomb_of_annihilation/player_notes/character_creation.md#top).
 
 
-![immovable rod](../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ### Optional Rules
 
@@ -85,9 +85,9 @@ Characters start each session with _Inspiration_, and I'll try to award _Inspira
 Generally, you must declare that you're using _Inspiration_ _**before**_ the dice are rolled. You may receive a "reroll" _Inspiration_ as a form of extra-inspired _Inspiration_.
 
 # Downtime Days and Lifestyle Expenses
-See [downtime activities in Port Nyanzaru](../tomb_of_annihilation/player_notes/activities_in_Port_Nyanzaru.md#top) for some examples of downtime activities.
+See [downtime activities in Port Nyanzaru](../tomb_of_annihilation/player_notes/Port_Nyanzaru_activities.md#top) for some examples of downtime activities.
 
-![immovable rod](../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ### The Homebrew
 
@@ -100,9 +100,9 @@ I don't do fumbles on attack rolls or saving throws.
 When you assist another character to give them advantage, you each separately make your own roll, using your own ability scores and proficiencies, and the higher of the two rolls is used to make a single check.
 
 # Random Encounters
-See [rules for random encounters in Tomb of Annihilation](../tomb_of_annihilation/player_notes/rules_for_random_encounters.md#top) for an example of how I'll handle random encounters.
+See [rules for random encounters in Tomb of Annihilation](../tomb_of_annihilation/player_notes/random_encounters.md#top) for an example of how I'll handle random encounters.
 
-![immovable rod](../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 # Not enough Weird Vision, let's homebrew
 
@@ -352,4 +352,4 @@ Black lives matter, and black people shouldn't have to live in fear of being vio
 
 [My D&D Page](../README.md#top)
 
-![the end](../images/toa-end.jpg)
+![the end](/images/toa-end.jpg)

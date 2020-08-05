@@ -1,5 +1,5 @@
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 
@@ -27,20 +27,20 @@ The [coins of most cultures](https://forgottenrealms.fandom.com/wiki/Currency) o
 
 ---
 
-![Coins of Faerûn](images/coins.jpg)
+![Coins of Faerûn](images/decor/coins.jpg)
 
 > _Coins issued by the wealthy Sword Coast city of Waterdeep._
 
-![Sword Coast Currency](images/Swordcoastcurrency.png)
+![Sword Coast Currency](images/decor/Swordcoastcurrency.png)
 
 > _Coins from the Elven city of Silverymoon._
 
 ---
 
-[Items available for purchase in Port Nyanzaru](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#top)
+[Items available for purchase in Port Nyanzaru](Port_Nyanzaru_items.md#top)
 
-[Activities in Port Nyanzaru](activities_in_Port_Nyanzaru.md#top)
+[Activities in Port Nyanzaru](Port_Nyanzaru_activities.md#top)
 
 [Tomb of Annihilation homepage](README.md#top)
 
-![the end](../../images/toa-end.jpg)
+![the end](/images/toa-end.jpg)

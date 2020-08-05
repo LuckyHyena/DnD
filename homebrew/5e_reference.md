@@ -1,5 +1,5 @@
 
-![immovable rod](../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 # My Dungeons & Dragons 5e Quick Reference
@@ -75,7 +75,7 @@ __Using your hands:__
 
 [To bottom links](#bottom-links)
 
-![immovable rod](../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ## Everyday problems
 
@@ -110,7 +110,7 @@ If you take damage while maintaining _concentration_ on a spell, you must make a
 
 > **homebrew:** make concentration saving throws with **Intelligence** instead of Constitution.
 
-![immovable rod](../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ## Running away from the Monsters
 
@@ -158,7 +158,7 @@ An attack roll against a prone creature gains **advantage if the attacker is wit
 >>
 >> _An **invisible** creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding, the creature is **heavily obscured**. The creature's location can be detected by any noise it makes or any tracks it leaves._ - Player's Handbook page 177 (stealth inset) and 291 (invisible condition)
 
-![immovable rod](../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ## Hiding from the Monsters
 
@@ -265,7 +265,7 @@ Torches and candles last for an **hour** each, while lamps and lanterns burn for
 > 
 > Dropped lamps and lanterns have a 25% chance of being extinguished and spilling their remaining oil.
 
-![immovable rod](../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ## Getting killed by the monsters
 
@@ -332,7 +332,7 @@ Some of these special attacks are performed using the Attack action, and if you 
 |Climb Onto|A creature at least **two sizes larger** than you.|**Str (Ath) or Dex (Acr)**|**Dex (Acr)**|Movement| The target is treated as (difficult) terrain. You get advantage on attacks against the target.|
 |Dislodge|A smaller creature climbing on you.|Str (Ath)|Str (Ath) or Dex (Acr)|Action| The climber is knocked off you.|
 
-![immovable rod](../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 [Back to top](#top)
 
@@ -426,7 +426,7 @@ Improvised attacks don't get your proficiency bonus, but simply improvising a we
 |Net|martial proficiency, _Large_ or smaller target|Max of one attack per _action_, even if you have multiple attacks. Thrown with **1/3 square range**. On hit the target is __restrained__ until they free themselves or are freed via an **easy Strength check** `DC 10` or `5` slashing damage to the net (`AC 10`).|
 |Silvered weapon|10 platinum coins for one item or ten pieces of ammunition|Must be expertly alloyed to remain sharp.|
 
-![immovable rod](../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 # Official spellcasting somatic rules
 
@@ -436,7 +436,7 @@ Characters who wish to cast spells must have one hand free to either use a _comp
 
 > **Divine spellcasters** may use an _emblem_ of their deity emblazoned on their shield as a spellcasting focus, but they risk being unable to cast spells if they aren't using the shield. They may also use an amulet as a focus, but still need a hand free to use it. 
 
-![immovable rod](../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ## Homebrew Definitions
 
@@ -473,7 +473,7 @@ When you put these rules side-by-side, you can see how they allow stacking penal
 > 
 > Likewise, moving one meter, foot, or any other unit, requires movement speed equal to the same unit multiplied by [1 + their current number of _speed penalties_].
 
-![immovable rod](../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### Bottom links
 
@@ -487,4 +487,4 @@ When you put these rules side-by-side, you can see how they allow stacking penal
 
 [My D&D Page](../README.md#top)
 
-![the end](../images/toa-end.jpg)
+![the end](/images/toa-end.jpg)

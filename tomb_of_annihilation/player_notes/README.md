@@ -1,5 +1,5 @@
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 
@@ -21,24 +21,24 @@
 
 - [Dramatis Personae](dramatis_personae.md#top)
 - [One-shot or campaign intro scenario](scenario.md#top)
-- [Activities in Port Nyanzaru](activities_in_Port_Nyanzaru.md#top)
-- [Items available for purchase in Port Nyanzaru](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#top)
+- [Activities in Port Nyanzaru](Port_Nyanzaru_activities.md#top)
+- [Items available for purchase in Port Nyanzaru](Port_Nyanzaru_items.md#top)
   
 ## Rules you could skim
 
-- [Summary of rules for travelling through the jungle](summary_of_travel_rules.md#top)
-- [Camping activities](activities_for_camping.md#top)
-- [Short rest activities](activities_for_short_rests.md#top)
+- [Summary of rules for travelling through the jungle](travelling.md#top)
+- [Camping activities](camping_activities.md#top)
+- [Short rest activities](short_rest_activities.md#top)
 - [My 5e Quick Rules Reference](../../homebrew/5e_reference.md#top)
 - [The subtle elegance of Fifth Edition D&D's ability checks](../../homebrew/5e_ability_checks.md#top)
 
 ## The full player-visible rules reference for all my nonsense
 
 - [My chosen optional and homebrew D&D 5e rules](../../homebrew/5e_homebrew.md#top)
-- [My rules for random encounters](rules_for_random_encounters.md#top)
-- [Short rests](rules_for_short_rests.md#top)
-- [Long rests](rules_for_long_rests.md#top)
-- [Full rules for travelling through the jungle](rules_for_travelling.md#top)
-- [Downtime activities in the jungle](activities_in_the_jungle.md#top)
+- [My rules for random encounters](random_encounters.md#top)
+- [Short rests](short_rests.md#top)
+- [Long rests](long_rests.md#top)
+- [Full rules for travelling through the jungle](travelling_full.md#top)
+- [Downtime activities in the jungle](jungle_activities.md#top)
 
-![the end](../../images/toa-end.jpg)
+![the end](/images/toa-end.jpg)

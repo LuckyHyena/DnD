@@ -1,12 +1,12 @@
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 ![Map of the Sword Coast](../player_notes/images/faerun-swordcoast-chult.png)
 
 ## Faerûn
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ## The Sword Coast
 
@@ -32,7 +32,7 @@ The biggest and most important city, basically D&D NYC.
 - Flaming Fist mercenaries serve as city guards.
 - Historically neutral and too defensible to be attacked.
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ## The Savage Frontier
 
@@ -50,7 +50,7 @@ The biggest and most important city, basically D&D NYC.
 
 # The High Moor
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ## The Sea of Swords
 
@@ -68,7 +68,7 @@ Fae islands.
 
 # Sambar and Lantan
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 # The Lords' Alliance
 + **Waterdeep:** Open Lord Laeral Silverhand (leader)
 + **Neverwinter:** Lord Protector Dagult Neverember
@@ -81,4 +81,4 @@ Fae islands.
 + **Amphail:** Lord Dauner Ilzimmer
 + **Yartar:** Waterbaron Nestra Ruthiol
 
-![the end](../../images/toa-end.jpg)
+![the end](/images/toa-end.jpg)

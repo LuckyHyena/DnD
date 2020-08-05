@@ -1,5 +1,5 @@
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 
@@ -13,4 +13,4 @@
 
 - [Potential Soulmonger locations](random_locations_for_the_Soulmonger.md#top)
 
-![the end](../../images/toa-end.jpg)
+![the end](/images/toa-end.jpg)

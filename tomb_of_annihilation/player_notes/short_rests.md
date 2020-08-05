@@ -1,6 +1,6 @@
 
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 
@@ -14,7 +14,7 @@ A short rest takes 1 hour of time, during which characters can't engage in any s
 
 While a party takes a short rest:
 - One **Random Encounter Check** will be rolled. All rest benefits still accrue regardless of whether something is encountered, but after the encounter.
-- Each character may optionally perform one [short rest activity](activities_for_short_rests.md#short-rest-activities) by performing an ability check.
+- Each character may optionally perform one [short rest activity](short_rest_activities.md#short-rest-activities) by performing an ability check.
 - A character can spend one or more Hit Dice at the end of a short rest, up to the character's maximum number of Hit Dice, which is equal to the character's level.
 - For each Hit Die spent in this way, the player rolls the die and adds the character's Constitution modifier to it. The character regains hit points equal to the total.
 - The player can decide to spend an additional Hit Die after each roll.
@@ -24,10 +24,10 @@ While a party takes a short rest:
 
 ---
 
-[Summary of jungle travel rules](summary_of_travel_rules.md#top)
+[Summary of jungle travel rules](travelling.md#top)
 
-[Full rules for travelling in the jungle](rules_for_travelling.md#top)
+[Full rules for travelling in the jungle](travelling_full.md#top)
 
 [Tomb of Annihilation homepage](README.md#top)
 
-![the end](../../images/toa-end.jpg)
+![the end](/images/toa-end.jpg)

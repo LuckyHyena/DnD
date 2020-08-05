@@ -1,5 +1,5 @@
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 
@@ -10,9 +10,9 @@
 
 # Travelling through the jungles of Chult
 
-[Summary of these jungle travel rules](summary_of_travel_rules.md#top)
+[Summary of these jungle travel rules](travelling.md#top)
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ## Step 1: Weather
 Each day roll a d20:
@@ -43,7 +43,7 @@ Each day roll a d20:
 - Canoes and ships can't safely travel.
 - If the party doesn't take shelter during a tropical storm, each character gains a level of exhaustion and must pass an easy [DC 10] **Constitution** saving throw or else immediately gain another level of exhaustion.
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ## Step 2: Choose Direction and Pace
 1 hex on the map of Chult = 10 miles or 15 kilometers
@@ -66,7 +66,7 @@ Each day roll a d20:
 - Can try to surprise or sneak past random encounters.
 - +5 bonus on Wisdom checks to navigate and avoid getting lost.
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ## Step 3: Navigate
 If the party is entering or leaving a **not-yet-mapped** hex, one character must make a **Wisdom** (Survival) ability check. One other character may assist to provide advantage, but only if they are proficient in Survival. If the Wisdom check fails then the party is **lost in the jungles of Chult**, and moves in a random direction instead of the intended one.
@@ -76,14 +76,14 @@ If the party is entering or leaving a **not-yet-mapped** hex, one character must
 
 Take a -5 penalty to the Wisdom check if the party is moving at a fast pace, or a +5 bonus to the check if the party is moving at a slow pace.
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ## Step 4: Random encounters
-See the [rules for random encounters](rules_for_random_encounters.md#top).
+See the [rules for random encounters](random_encounters.md#top).
 
 Random encounters will not be scaled or modified for your level. My intention is that random encounters should rarely result in combat.
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ## Step 5: Survive
 
@@ -111,11 +111,11 @@ You can eat only half rations to stretch supplies; this counts as half a day wit
 ### Recovery
 A long rest (8 hours) after getting a full day's worth of food and water will remove one level of exhaustion.
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
-![The Soulmonger](../the-soulmonger.png)
+![The Soulmonger](images/characters/the-soulmonger.png)
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ## Bonus: Foraging
 
@@ -131,14 +131,14 @@ Up to two characters who are not navigating today but are proficient in Survival
 Take a -5 penalty to the Wisdom check if the party is moving at a fast pace, or a +5 bonus to the check if the party is moving at a slow pace.
 
 ### Foraging Plants
-A character may choose one or more of the useful Chultan plants listed in the [items available for purchase in Port Nyanzaru](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#chultan-plants) under Jessamine, and attempt to find those plants instead of food and water. On a successful forage check the character finds **1d6 + their Wisdom modifier** uses of one random plant from the types they chose to look for that day.
+A character may choose one or more of the useful Chultan plants listed in the [items available for purchase in Port Nyanzaru](Port_Nyanzaru_items.md#chultan-plants) under Jessamine, and attempt to find those plants instead of food and water. On a successful forage check the character finds **1d6 + their Wisdom modifier** uses of one random plant from the types they chose to look for that day.
 
 ### Rain Catchers
 A rain catcher can be purchased in Port Nyanzaru for 1 gold coin. When set up overnight it will collect **1d3 gallons of potable water** in light rain, or **1d6+2 gallons** in heavy rain. If the rain catcher is left stationary throughout the day it can collect the same amount again, holding a maximum of 8 gallons at any one time.
 
 During a tropical storm the rain catcher can collect the equivalent of heavy rain, but a character must remain with it and pass a moderate [DC 15] **Wisdom** (Survival) check every 12 hours or the rain catcher will be destroyed. The character maintaining the rain catcher must pass an easy [DC 10] **Constitution** saving throw once per day or else suffer 1 level of exhaustion.
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ## Bonus: Diseases
 
@@ -156,12 +156,12 @@ If you drink **tainted water** you must make a DC 12 **Constitution** saving thr
 
 At the end of each long rest, you must repeat the saving throw. On a failure, gain one level of exhaustion, but on a successful save instead remove one level of exhaustion. When a successful saving throw removes your last level of exhaustion you recover from the throat leeches.
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 [Back to top](#top)
 
-[Summary of these jungle travel rules](summary_of_travel_rules.md#top)
+[Summary of these jungle travel rules](travelling.md#top)
 
 [Tomb of Annihilation homepage](README.md#top)
 
-![the end](../../images/toa-end.jpg)
+![the end](/images/toa-end.jpg)

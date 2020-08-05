@@ -1,5 +1,5 @@
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 
@@ -24,9 +24,9 @@
 
 ---
 
-[To bottom links](#bottom-links)
+[Further reading](#further-reading)
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 # Random Encounter Checks
 To check for a random encounter someone at the table will make an aptly-named **Random Encounter Check**:
@@ -55,7 +55,7 @@ To determine the distance at which two parties spot each other in the wilderness
 |lake or sea with **light rain**|Wisdom check result * 250 ft (50 squares)|2500 ft|5000 ft or ~1 mi|7500 ft|
 |lake or sea with clear skies|Wisdom check result * 0.5 miles|5 miles|7.5 miles|10 miles|
 
-Characters doing [downtime activities while the party is travelling](activities_in_the_jungle.md#top) cannot roll to spot other parties.
+Characters doing [downtime activities while the party is travelling](jungle_activities.md#top) cannot roll to spot other parties.
 
 # Enemy Morale and Behavior
 
@@ -71,7 +71,7 @@ Creatures such as golems or undead that are immune to the *frightened* condition
 
 _not the same rules as DMG page 273_
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ## Playing with the tension of random character death
 
@@ -153,16 +153,19 @@ In addition to random encounters, in D&D there are "scripted encounters", or "st
 _The reason I am making 5e's rules technically even less-lethal than they already are, and spelling out the previous section on morale, is so that I can get away with siccing way harder monsters on you. Random rolls also make the tradeoffs of combat decisions less predictable and more interesting, as well as tempting players to not save each other (since a dying character_ "probably won't die"). _As a consequence the correct random rolls can add drama to the game, but my_ **primary** _reason for all this is to use cooler monsters. Just FYI._
 
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
+
+# Further Reading
+
+__Tomb of Annihilation__ [adventure introduction](introduction.md#top)
+\- Welcome to [Chult](introduction.md#welcome-to-chult)
+
+[Travelling](travelling.md#top) in Chult
+
+Tomb of Annihilation [homepage](README.md#top)
+
+---
 
 [Back to top](#top)
 
-[My core 5e homebrew](../../homebrew/5e_homebrew.md#top)
-
-[Summary of jungle travel rules](summary_of_travel_rules.md#top)
-
-[Full rules for travelling in the jungle](rules_for_travelling.md#top)
-
-[Tomb of Annihilation homepage](README.md#top)
-
-![the end](../../images/toa-end.jpg)
+![the end](/images/toa-end.jpg)

@@ -1,5 +1,5 @@
 
-![immovable rod](../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 
@@ -28,7 +28,7 @@ To use the activities in chapter eight, you arrange them into campaign-specific 
 
 To show you what I mean, I've come up with four quick ideas of how a DM could build completely different campaigns, loops, and rulesets around the core ideas in chapter eight:
 
-![immovable rod](../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 # Welcome to the Jungle
 My original experience with chapter eight came when I started working on notes to run _Tomb of Annihilation_, and ended up developing homebrew rules for a brutal slog through the jungle. This ToA loop is a model of what the party is often doing in D&D between their home base and the dungeon, even if plenty of D&D campaigns are happy to quietly skip over all the travel and random encounter parts.
@@ -119,7 +119,7 @@ Loop:
 |Lifestyle expenses|Where you sleep during the day. Affects how likely you are to someday get a knock on your door.|
 |"Core" game structure|Preparing for and running heists using D&D ability and skill checks, with combat sometimes breaking out.|
 
-![immovable rod](../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 # Location- and Campaign-Specific Rules Sheets
 
@@ -148,7 +148,7 @@ What if your players want to visit the echo planes for a particular location? Th
 # Welcome to Port Nyanzaru
 Tomb of Annihilation's Port Nyanzaru was my first one of these location-specific rules sheets, and I plan on writing _many_ more in the years to come. Initially I was just fleshing out "basic" downtime day activities such as working, carousing, buying items, etc, but the real magic began when I started injecting specific details of Port Nyanzaru into the activities: the creative writing of the flavor of Port Nyanzaru and the mechanical board-game-style rules of the activities began to feed into and deepen each other in an _extremely_ cool way.
 
-Here's the sheet in it's current state so that you can see what I mean: [Activities in Port Nyanzaru](../tomb_of_annihilation/player_notes/activities_in_Port_Nyanzaru.md#top). Read or skim through it, and think about how you would narratively handle selling loot or letting characters train in new skills in your current campaign's home-base-town, and how the rules and activities you'll write will be utterly different from my personal Port Nyanzaru.
+Here's the sheet in it's current state so that you can see what I mean: [Activities in Port Nyanzaru](../tomb_of_annihilation/player_notes/Port_Nyanzaru_activities.md#top). Read or skim through it, and think about how you would narratively handle selling loot or letting characters train in new skills in your current campaign's home-base-town, and how the rules and activities you'll write will be utterly different from my personal Port Nyanzaru.
 
 Thank you for reading, and I hope you have a blast writing campaign settings and playing D&D!
 
@@ -164,4 +164,4 @@ Thank you for reading, and I hope you have a blast writing campaign settings and
 
 [My D&D Page](../README.md#top)
 
-![the end](../images/toa-end.jpg)
+![the end](/images/toa-end.jpg)

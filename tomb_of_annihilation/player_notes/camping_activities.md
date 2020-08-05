@@ -1,5 +1,5 @@
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 
@@ -9,7 +9,7 @@
 # Camping Activities
 Each time the party takes a long rest while camping they may complete two rounds of chore activities to improve the camp: one in the evening before they rest and potentially face a random encounter, and another in the morning after they've completed both.
 
-In either the evening or the morning, a character may opt instead to perform a [short rest activity](activities_for_short_rests.md#top)
+In either the evening or the morning, a character may opt instead to perform a [short rest activity](short_rest_activities.md#top)
 
 Most chores involve an ability check with the new [_Camping_](character_creation.md#camping) skill proficiency, after which the Camp Goodness is modified according to the value of the check result, as shown below:
 
@@ -40,7 +40,7 @@ Most chores involve an ability check with the new [_Camping_](character_creation
 |Secure the perimeter|3|Int or Wis|_Survival_|Your check result can be used during night watch random encounters. You'll gain _Inspiration_ any time initiative is rolled tonight, and will gain advantage on those initiative rolls.|
 |Scout|2 and 2 assistants|Wisdom|_Survival_|The party's Random Encounter Armor Class is increased by 1 for each scouting check that beats a Moderate difficulty, and 2 for each check that beats a Very Hard difficulty, up to a maximum of 20.|
 |Lay in bed or on the ground, unmoving|-|-|-|You regain 1d3 hit points.|
-|Prepare for the dangers of the night|-|-|-|You may do any one [short rest activity](activities_for_short_rests.md#top).|
+|Prepare for the dangers of the night|-|-|-|You may do any one [short rest activity](short_rest_activities.md#top).|
 
 
 # Morning Chores to affect Camp Goodness
@@ -63,14 +63,14 @@ Morning activities include:
 |-|-|-|-|-|
 |Cover the Party's Tracks|1 and 1 assistant|Wis|_Survival_|For the upcoming morning and afternoon Random Encounter Checks during the travelling day, the party's Random Encounter Armor Class increases by 1 point if your check result beats a Moderate difficulty, 2 points if it beats a Hard difficulty, and 3 points if it beats a Very Hard difficulty, up to a maximum AC of 20. Disadvantage on the check if no-one else worked to _tear down the camp_.|
 |Lay in bed or on the ground, unmoving|-|-|-|You regain 1d3 hit points.|
-|Prepare for the day.|-|-|-|You may do any one  [short rest activity](activities_for_short_rests.md#top).|
+|Prepare for the day.|-|-|-|You may do any one  [short rest activity](short_rest_activities.md#top).|
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 [Back to top](#top)
 
-[Rules for travelling in the jungle](rules_for_travelling.md#top)
+[Rules for travelling in the jungle](travelling.md#top)
 
 [Tomb of Annihilation homepage](README.md#top)
 
-![the end](../../images/toa-end.jpg)
+![the end](/images/toa-end.jpg)

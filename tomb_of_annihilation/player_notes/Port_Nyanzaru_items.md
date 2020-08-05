@@ -1,5 +1,5 @@
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 
@@ -7,7 +7,7 @@
 ##### Tomb of Annihilation
 # Items available for purchase in Port Nyanzaru
 
-![Grand Souk](images/grand-souk.jpg)
+![Grand Souk](images/places/grand-souk.jpg)
 
 > _The Grand Souk in Port Nyanzaru's merchants' ward._
 
@@ -16,26 +16,26 @@
 Each of the seven merchant princes who rule Port Nyanzaru controls the selling and trading of certain types of goods in Port Nyanzaru. In order to purchase any goods or services you'll have to deal with one of the princes or their organizations.
 
 - [Ekene-Afa](#ekene-afa) is an ex-gladiator who controls the sale and trade of weapons and shields.
-- [Ifan Talro'a](#ifan-talroa) controls the sale of beasts and beast training, including the dinosaurs used as pack animals throughout Port Nyanzaru. He's also responsible for overseeing the [tenth-day dinosaur races](activities_in_Port_Nyanzaru.md#dinosaur-racing).
-- [Jessamine](#jessamine) is the only public representative of Port Nyanzaru's assassins' guild, and controls the sale of [poisons](list_of_poisons.md#top), [medicinal Chultan plants](list_of_chultan_plants.md#top), and [alchemical materials](#jessamine).
+- [Ifan Talro'a](#ifan-talroa) controls the sale of beasts and beast training, including the dinosaurs used as pack animals throughout Port Nyanzaru. He's also responsible for overseeing the [tenth-day dinosaur races](Port_Nyanzaru_activities.md#dinosaur-racing).
+- [Jessamine](#jessamine) is the only public representative of Port Nyanzaru's assassins' guild, and controls the sale of [poisons](poisons.md#top), [medicinal Chultan plants](chultan_plants.md#top), and [alchemical materials](#jessamine).
 - [Jobal](#jobal) is an ex-guide and the merchant prince with authority over all of Port Nyanzaru's jungle guides, and the matchmaker for most of them. He also regulates the sale of travelling gear, rain catchers, wagons, canoes, and insect repellant.
 - [Kwayothé](#kwayothé) is the high priestess in the temple of Sune, and additionally a merchant prince who controls the sale and production of tej, wine, ale, fruit, oil, and perfume. This gives her immense de facto authority over most restaurants, taverns, ceremonies, and celebrations in Port Nyanzaru.
-- [Zhanthi](#zhanthi) is a noble who runs the Jewel Market, an exclusive and high-end market for the sale of [art, jewelry, gems](activities_in_Port_Nyanzaru.md#selling-loot-or-items), metal armors, and magic items.
-- [Wakanga O'tamu](#wakanga-otamu) is the mage with authority over all [magic item sales](activities_in_Port_Nyanzaru.md#buying-a-magic-item) in Port Nyanzaru, though such sales are rare even in Port Nyanzaru's massive markets. Common potions and scrolls are [available for purchase](#magic-items), however.
+- [Zhanthi](#zhanthi) is a noble who runs the Jewel Market, an exclusive and high-end market for the sale of [art, jewelry, gems](Port_Nyanzaru_activities.md#selling-loot-or-items), metal armors, and magic items.
+- [Wakanga O'tamu](#wakanga-otamu) is the mage with authority over all [magic item sales](Port_Nyanzaru_activities.md#buying-a-magic-item) in Port Nyanzaru, though such sales are rare even in Port Nyanzaru's massive markets. Common potions and scrolls are [available for purchase](#magic-items), however.
 
-[Other Dramatis Personae in Port Nyanzaru](dramatis_personae.md#port-nyanzaru)
+[Other Dramatis Personae in Port Nyanzaru](dramatis_personae.md#port-nyanzaru-characters)
 
 > _Ekene-Afa - Ifan Talro'a - Jessamine - Jobal_
 >
 > _Kwayothé - Wakanga O'tamu - Zhanthi_
 
-![The Merchant Princes](images/merchant_princes.jpg)
+![The Merchant Princes](images/characters/merchant_princes.jpg)
 
 ## Mundane Items
 All [mundane items in the _Player's Handbook_](https://5thsrd.org/adventuring/equipment/adventuring_gear/) are available for purchase at their normal price, except that **heavy armor** is rare in Chult and costs triple the normal price. The tables on this page include a subset of those mundane items, and additional items not found in the _Player's Handbook_.
 
 ## The Four Markets
-There are four major markets in Port Nyanzaru, each specializing in different types of goods. The party can [buy or sell items](activities_in_Port_Nyanzaru.md#buying-mundane-items) by visiting the appropriate market during their [downtime days](activities_in_Port_Nyanzaru.md#downtime-day-activities).
+There are four major markets in Port Nyanzaru, each specializing in different types of goods. The party can buy or sell items by [visiting the appropriate market during their downtime days](Port_Nyanzaru_activities.md#buying-mundane-items).
 
 |Market|Usual Goods|Ward|
 |-|-|-|
@@ -44,9 +44,9 @@ There are four major markets in Port Nyanzaru, each specializing in different ty
 |Red Bazaar|Groceries and everyday supplies, dinosaur meat, common trade goods, mundane items, weapons, armor, equipment|Market Ward|
 |Fish Market|Fish|Market Ward|
 
-![Port Nyanzaru Markets](images/buying.jpg)
+![Port Nyanzaru Markets](images/places/buying.jpg)
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 # Ekene-Afa
 
@@ -54,9 +54,9 @@ eh-KEE-nee AH-fah is a Chultan ex-gladiator who rose from the pits of Port Nyanz
 
 Ekene-Afa can be a wrathful and mercurial leader, and the people who succeed in her personal mercenary organization **The Velociraptor Company** are those that can stay calm, and think quickly, in the face of a suddenly-angry boss with a history of killing people for sport. The bulk of Port Nyanzaru's mercenaries are foreigners like the [Zhentarim](dramatis_personae.md#the-zhentarim), however, and Ekene-Afa must also carefully and dispassionately manipulate them to keep a precise balance of power and ensure the city's newly-won independence isn't threatened. In this task, at least, she has the rare boon of the full and unanimous support of the other merchant princes.
 
-> Ekene-Afa is often looking for bouncers to maintain order in the combat arenas, and she sometimes needs rogues or investigators to root out cheating or shady dealings.
+> **Help Wanted:** Ekene-Afa is often looking for bouncers to maintain order in Port Nyanzaru's combat arenas, and she sometimes needs rogues or investigators to root out cheating or shady dealings.
 
-![Ekene-Afa](images/Merchant_Prince_Ekene-Afa.jpg)
+![Ekene-Afa](images/characters/Merchant_Prince_Ekene-Afa.jpg)
 
 > A **yklwa** (YICK-ul-wah) is a 3-foot wooden shaft with a steel or stone blade up to 18 inches long.
 
@@ -79,7 +79,7 @@ Ekene-Afa can be a wrathful and mercurial leader, and the people who succeed in 
 |Ball Bearings|1 gold piece|As an action, a character can spill these [tiny metal ball bearings](https://5thsrd.org/adventuring/equipment/adventuring_gear/) from their pouch to cover a flat area of the floor, affecting up to 4 squares within their reach on the battlemap. A creature may move at half speed to walk safely past the ball bearings. Otherwise they must succeed on an Easy difficulty Dexterity saving throw (`DC 10`) or fall _prone_.|
 |Caltrops|1 gold piece| As an action, a character can spread a [bag of caltrops](https://5thsrd.org/adventuring/equipment/adventuring_gear/) to cover one square within reach on the battlemap. A creature may walk at half speed to move safely through caltrops: otherwise they must succeed on a Moderate difficulty Dexterity saving throw (`DC 15`) or stop moving and take damage.|
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 # Ifan Talro'a
 
@@ -87,9 +87,9 @@ EE-fawn tal-ROH-ah is an aging noble from the ruined Chultan capital of Mezro. H
 
 The roughnecks who train dinosaurs in the Tiryki anchorage are far from being "an organization", but they generally trust Ifan, and respect that his responsibilities and commandments are important for maintaining peace and steady business with the rest of the city. From the city's perspective, Talro'a controls the vital infrastructure and resource that is the city's dinosaurs, and he's one of very few people who can reliably manage the rowdy Tiryki trainers. Ifan relies on a handful of trusted lieutenants to carry out errands and deal with the variety of trainers under his authority.
 
-> Port Nyanzaru keeps its dinosaurs busy, and Talro'a can always use more hands training dinosaurs or working with them in the city. There's also a wide variety of work that needs to be done every tenth-day to run the city-wide dinosaur races.
+> **Help Wanted:** Port Nyanzaru keeps its dinosaurs busy, and Talro'a can always use more hands training dinosaurs or working with them in the city. There's also a wide variety of work that needs to be done every tenth-day to run the city-wide dinosaur races.
 
-![Ifan Talro'a](images/Merchant_Prince_Ifan_Talro'a.jpg)
+![Ifan Talro'a](images/characters/Merchant_Prince_Ifan_Talro'a.jpg)
 
 | Trained Animal | Price |
 |-|-|
@@ -101,26 +101,26 @@ The roughnecks who train dinosaurs in the Tiryki anchorage are far from being "a
 | Flying Snake | 25 platinum coins |
 | Triceratops | 50 platinum coins |
 
-Characters can learn to ride and race dinosaurs, and can [participate in Port Nyanzaru's tenth-day dinosaur races](activities_in_Port_Nyanzaru.md#dinosaur-racing).
+Characters can learn to ride and race dinosaurs, and can [participate in Port Nyanzaru's tenth-day dinosaur races](Port_Nyanzaru_activities.md#dinosaur-racing).
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 # Jessamine
 JESS-ah-meen is a Chultan noble and ex-assassin who controls the buying and selling of **poisons, assassinations, and medicinal plants**. She is the only public face of an anonymous guild of professional assassins in Port Nyanzaru who sell their brutal service to wealthy foreign visitors. Jessamine is usually quiet during meetings of the merchant princes, and she abstains from voting except to break a tie, but her violent presence in the Goldenthrone, sitting with the other merchant princes above petitioners, reinforces the authority of Port Nyanzaru's young government.
 
 Jessamine is the sole person in Port Nyanzaru with the authority to issue **sanctions**, writs that allow for legal assassinations in the city by approved methods, usually poison or a single stab with a blade. Sanctions are rarely sold and are extremely expensive.
 
-> Port Nyanzaru's assassins' guild has no need for new members, but Jessamine sometimes hires independent rogues or spies to investigate the situation around a potential _sanction_, or to quietly deliver a [triceratops](dramatis_personae.md#the-ytepka-society).
+> **Help Wanted:** Jessamine sometimes hires independent rogues or spies to investigate the situation around a potential _sanction_, or to quietly deliver a [triceratops](dramatis_personae.md#the-ytepka-society). Port Nyanzaru's native assassins' guild is, however, _extremely_ satisfied with the current number of assassins operating in and around Port Nyanzaru, and would just _hate_ to see, or to be informed of, or find out about, or actively sniff out, any person or persons trying to change such a lovely status quo.
 
-![Jessamine](images/Merchant_Prince_Jessamine.jpg)
+![Jessamine](images/characters/Merchant_Prince_Jessamine.jpg)
 
 |Item|Price|Note|
 |-|-|-|
-|[Chultan Plants](list_of_chultan_plants.md#top)|*|-|
+|[Chultan Plants](chultan_plants.md#top)|*|-|
 |Blowgun|1 platinum coin|Martial ranged weapon (range 25/100), 1 piercing damage, _loading_ and _ammunition_.|
 |50 blowgun needles|1 gold coin|-|
 |[Basic](https://5thsrd.org/adventuring/equipment/tools/) weapon poison|10 platinum coins|Can spend your _action_ to apply to one slashing or piercing weapon or up to three pieces of ammunition. A coating remains potent for 1 minute. A creature hit by the poisoned weapon or ammunition must make an easy Constitution saving throw (`DC 10`) or take 1d4 poison damage.|
-|[Poisons](list_of_poisons.md#top)|*|_Minimum price is 15 platinum coins._|
+|[Poisons](poisons.md#top)|*|_Minimum price is 15 platinum coins._|
 |Poisoner's [Kit](https://5thsrd.org/adventuring/equipment/tools/)|5 platinum coins|You may add your tool proficiency bonus to ability checks and saving throws to safely use or craft poisons.|
 |Acid|25 gold coins|As an action, you can [throw the vial](https://5thsrd.org/adventuring/equipment/adventuring_gear/) up to 4 squares, dealing 2d6 acid damage to whatever is hit.|
 |Alchemist's Fire|5 platinum coins|This sticky, adhesive fluid ignites when [exposed to air](https://5thsrd.org/adventuring/equipment/adventuring_gear/), and can be thrown up to 4 squares. If it successfully hits, the hit target suffers 1d4 fire damage each turn until they make an Easy Dexterity ability check. `DC 10`|
@@ -130,7 +130,7 @@ Jessamine is the sole person in Port Nyanzaru with the authority to issue **sanc
 |[_Keoghtom's Ointment_](https://5thsrd.org/gamemaster_rules/magic_items/restorative_ointment/)|50 platinum coins|Five doses that each heal 2d8 + 2 hit points, and additionally cure any poisons or diseases affecting the creature.|
 |Herbalism [Kit](https://5thsrd.org/adventuring/equipment/tools/)|5 gold coins|You may add your tool proficiency bonus to ability checks made to find and use medicinal herbs, to craft antitoxin or _Potions of Healing_, and to refill a healer's kit by foraging.|
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 # Jobal
 
@@ -140,9 +140,9 @@ As a merchant prince, Jobal is responsible for ensuring that the occasional larg
 
 Jobal is gregarious and charismatic, and he constantly wanders the city keeping in contact with people and listening for problems and opportunities. Any guide you hire out of Port Nyanzaru will pay a part of their fee to Jobal: most are independent operators but are quite happy with the extra business Jobal brings them.
 
-> Wandering into the jungle without the rest of your party, such as by working as a guide for other parties, is not wise. Jobal may be able to put you in touch with passengers who will pay to travel with the party to someplace they're already going, and he'll be able to find buyers for any particularly useful information you discover about the interior of Chult. Additionally, he may have clients looking for seasoned explorers to answer questions and prepare them for the undead or other Chultan dangers.
+> **Help Wanted:** Jobal may be able to put you in touch with passengers who will pay to travel with the party to someplace they're already going, and he'll be able to find buyers for any particularly useful information you discover about the interior of Chult. Additionally, he may have clients looking for seasoned explorers to answer questions and prepare them for the undead or other Chultan dangers. Wandering into the jungle without the rest of your party, such as by working as a guide for other exploration groups, is not wise.
 
-![Jobal](images/Merchant_Prince_Jobal.jpg)
+![Jobal](images/characters/Merchant_Prince_Jobal.jpg)
 
 | Item | Price | Notes |
 |-|-|-|
@@ -164,7 +164,7 @@ Jobal is gregarious and charismatic, and he constantly wanders the city keeping 
 >
 > If most characters are using insect repellant, and the party would randomly encounter monstrous insects, all the creatures in the potential encounter roll a single Constitution saving throw with their best bonus: if the saving throw fails the random encounter does not occur.
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 # Kwayothé
 
@@ -172,9 +172,9 @@ kway-OH-thay is Port Nyanzaru's young and ambitious high priestess of Sune, deit
 
 As a merchant prince, Kwayothé controls the sale of **tej, wine, ale, fruit, oil, and perfume**, and her portion of the Port Nyanzaru economy has rapidly become the largest in terms of the population it employs: Kwayothé now has de facto authority over most restaurants, taverns, grocers, ceremonies, celebrations, and many other parts of day-to-day life in the city. Most of those who are thus employed don't directly work for Kwayothé, but she does maintain a significant formal organization to enforce her regulations and fees. Additionally, Kwayothé directly owns several of the largest guilds involved in the production of the goods she controls.
 
-> Kwayothé is too busy to deal with individual hiring decisions, but a character (particularly a religious one) may be able to find work at the Temple of Sune, the public baths they maintain, or one of the other [temples](activities_in_Port_Nyanzaru.md#worshipping) in Port Nyanzaru. In addition to the day-to-day work of assisting worshippers, various temples, guilds, and other Port Nyanzaru organizations regularly host opulent ceremonies, festivals, and celebrations that require specialized work.
+> **Help Wanted:** Kwayothé runs too many organizations to deal with individual hiring decisions, but a character (particularly a religious one) may be able to find work at the Temple of Sune, the public baths they maintain, or one of the other [temples](Port_Nyanzaru_activities.md#worshipping) in Port Nyanzaru. In addition to the day-to-day work of assisting worshippers, various temples, guilds, and other Port Nyanzaru organizations regularly host opulent ceremonies, festivals, and celebrations that require specialized work.
 
-![Kwayothé](images/Merchant_Prince_Kwayothé.jpg)
+![Kwayothé](images/characters/Merchant_Prince_Kwayothé.jpg)
 
 > **Tej** is Chult's alcohol of choice, an amber-colored fermented drink made from honey.
 
@@ -192,17 +192,17 @@ As a merchant prince, Kwayothé controls the sale of **tej, wine, ale, fruit, oi
 |Not-Forgery Kit|15 gold coins|This small box contains a variety of papers and parchments, pens and inks, seals and sealing wax, gold and silver leaf, and other supplies for your bard's unremarkable calligraphy hobby. This kit would never be used to forge personal messages or official documents.|
 |Not-Thieves' Tools|25 gold pieces|This kit contains the tools and picks that your rogue needs to disarm traps and open locks, as part of the party's entirely-legitimate business of looting our ancestor civilizations' few remaining tombs. Such a kit would would never be used to break into a Port Nyanzaru location.|
 |Holy water|25 gold coins|Can be thrown up to 4 squares. If the target is a fiend or undead, it takes 2d6 radiant damage on a successful hit.|
-|Cook's Utensils|30 gold coins|Helps when [cooking while camping](activities_for_camping.md#top) in the jungle.|
+|Cook's Utensils|30 gold coins|Helps when [cooking while camping](camping_activities.md#top) in the jungle.|
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 # Zhanthi
 
 JOHN-thee is a Chultan noble who can trace her lineage back to the original founders of the Chultan town of Nyanzaru, over six hundred years ago. She holds the monopoly on the sale of **gems, jewelry, cloth, and armor** in Port Nyanzaru. For several decades Zhanthi has managed the exclusive and high-end Jewel Market, even while the city was still under the control of Amn. Zhanthi and Kwayothé are the two wealthiest merchant princes, and Zhanthi pays high salaries to keep the Jewel Market well-staffed with reliable and trustworthy people: Zhanthi rewards loyalty but ruthlessly avenges betrayal.
 
-> Positions in the Jewel Market are hotly desired, and there's already a long line of applicants for any potential opening. Zhanthi does sometimes need outside help investigating the details of a potential fraud, and plenty of Jewel Market merchants hire their own guards to escort merchandise to and from the market.
+> **Help Wanted:** Although the Jewel Market is well-guarded, plenty of merchants still hire their own guardsZhanthi sometimes needs outside help investigating the details of a potential fraud, and plenty of Jewel Market merchants hire their own guards to escort merchandise to and from the market. Positions in the Jewel Market are hotly desired, and there's already a long line of applicants for any potential opening.
 
-![Zhanthi](images/Merchant_Prince_Zhanthi.jpg)
+![Zhanthi](images/characters/Merchant_Prince_Zhanthi.jpg)
 
 |Purchase|Price|Notes|
 |-|-|-|
@@ -218,22 +218,22 @@ JOHN-thee is a Chultan noble who can trace her lineage back to the original foun
 |[_Sending_](https://5thsrd.org/spellcasting/spells/sending/) sealing wax|100 platinum coins|Instantly notifies you if the sealed document is tampered with or opened by anyone other than your intended recipient. Your intended recipient may burn the sealing wax after opening the letter to send you the short reply allowed by _sending_.|
 |[_Glyph of Warding_](https://5thsrd.org/spellcasting/spells/glyph_of_warding/) sealing wax|100 platinum coins|Unleashes a magical effect if the sealed document is tampered with or opened by anyone other than your intended recipient.|
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 # Wakanga O'tamu
 
 wah-KANG-gah oh-TAH-moo is a Chultan wizard with authority over all Port Nyanzaru business deals involving **magic items, arcane lore, and spellcasting services**, which are generally negotiated or finalized in the Jewel Market. Much like their absentminded merchant prince, the various mages of Port Nyanzaru are unorganized but usually don't cause too much trouble. Wakanga is only occasionally found in the Jewel Market, and trusts Zhanthi to resolve issues in his absence.
 
-> Have you _seen_ magic? It's deeply messed up, and quite obviously dangerous. The small trade in magic around Port Nyanzaru regularly causes strange problems that require expert intervention (and often raw violence) to drive out the resulting elementals, spirits, aberrations, or planar escapees.
+> **Help Wanted:** Have you _seen_ magic? It's deeply messed up, and clearly dangerous. The small trade in magic around Port Nyanzaru regularly causes strange problems that require expert intervention to solve, and quite often need immense raw violence to drive out the resulting elementals, spirits, aberrations, or planar escapees.
 
-![Wakanga O'tamu](images/Merchant_Prince_Wakanga_O'tamu.jpg)
+![Wakanga O'tamu](images/characters/Merchant_Prince_Wakanga_O'tamu.jpg)
 
 #### Magic Items
-These basic magic items are commonly produced in Port Nyanzaru and are usually available for purchase in the Jewel Market. Additional magic items are sometimes available for sale in the Jewel Market and occasionally in the Grand Souk: see [buying a magic item](activities_in_Port_Nyanzaru.md#buying-a-magic-item) as an activity in Port Nyanzaru.
+These basic magic items are commonly produced in Port Nyanzaru and are usually available for purchase in the Jewel Market. Additional magic items are sometimes available for sale in the Jewel Market and occasionally in the Grand Souk: see [buying a magic item](Port_Nyanzaru_activities.md#buying-a-magic-item) as an activity in Port Nyanzaru.
 
 | Item | Price |
 |-|-|
-|Spellcasting Services|See [casting a ritual spell](activities_in_Port_Nyanzaru.md#casting-a-ritual-spell) as an activity in Port Nyanzaru.|
+|Spellcasting Services|See [casting a ritual spell](Port_Nyanzaru_activities.md#casting-a-ritual-spell) as an activity in Port Nyanzaru.|
 | Spell scroll, cantrip | 5 platinum coins |
 | Spell scroll, 1st-level | 10 platinum coins |
 | Spell scroll, 2nd-level | 55 platinum coins |
@@ -305,14 +305,18 @@ This wand has 7 charges. While holding it, you can use an action to expend 1 of 
 
 The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand erupts in a harmless pyrotechnic display and is destroyed.
 
----
+![immovable rod](/images/immovable-rod.jpg)
 
-[Back to top](#top)
+# Further Reading
 
-[Activities in Port Nyanzaru](activities_in_Port_Nyanzaru.md#top)
+[Activities in Port Nyanzaru](Port_Nyanzaru_activities.md#top)
 
 [Coins in Port Nyanzaru](coinage.md#top)
 
 [Tomb of Annihilation homepage](README.md#top)
 
-![the end](../../images/toa-end.jpg)
+---
+
+[Back to top](#top)
+
+![the end](/images/toa-end.jpg)

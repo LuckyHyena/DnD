@@ -1,12 +1,12 @@
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 
 
 # Potential locations for the Soulmonger
 
-![The Soulmonger](../the-soulmonger.png)
+![The Soulmonger](images/characters/the-soulmonger.png)
 
 To select a random location for the Soulmonger at the start of the campaign, or a random location for a different encounter, roll a d16 and do the following based on your roll:
 
@@ -16,4 +16,4 @@ To select a random location for the Soulmonger at the start of the campaign, or 
 
 ![Map of Chult with random numbered locations](random-chult-locations.png)
 
-![the end](../../images/toa-end.jpg)
+![the end](/images/toa-end.jpg)

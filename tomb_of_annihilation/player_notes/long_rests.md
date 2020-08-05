@@ -1,5 +1,5 @@
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 
@@ -25,21 +25,21 @@ A character can't benefit from more than one long rest in a 24-hour period, and 
 ### Without a campsite
 If the party is taking the long rest in a dungeon or other unsafe area, **5 Random Encounter Checks** will be rolled. All rest benefits will accrue regardless of encounters unless the party abandons the rest due to an encounter.
 
-At the end of a long rest without a campsite each of the characters may perform one of the [short rest activities](activities_for_short_rests.md#top).
+At the end of a long rest without a campsite each of the characters may perform one of the [short rest activities](short_rest_activities.md#top).
 
 ### Travelling in the jungle
-Use the [rules for camping in Chult](summary_of_travel_rules.md#top).
+Use the [rules for camping in Chult](travelling.md#top).
 
 > **_Highly Optional_ Hardcore Variant:** For a darker and grittier campaign setting, we could use the _Alternative Rests_ rule in the DMG, and make it so that short rests require 8 hours of rest, while a long rest requires 1 entire week of avoiding strenuous activity and adventuring.
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 [Back to top](#top)
 
-[Summary of jungle travel rules](summary_of_travel_rules.md#top)
+[Summary of jungle travel rules](travelling.md#top)
 
-[Full rules for travelling in the jungle](rules_for_travelling.md#top)
+[Full rules for travelling in the jungle](travelling_full.md#top)
 
 [Tomb of Annihilation homepage](README.md#top)
 
-![the end](../../images/toa-end.jpg)
+![the end](/images/toa-end.jpg)

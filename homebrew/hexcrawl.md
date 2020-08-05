@@ -1,5 +1,5 @@
 
-![immovable rod](../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 
@@ -162,4 +162,4 @@ No goblins.
 + dragon
 + giants
 
-![the end](../images/toa-end.jpg)
+![the end](/images/toa-end.jpg)

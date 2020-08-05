@@ -1,5 +1,5 @@
 
-![immovable rod](../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 
@@ -44,7 +44,7 @@ Fifth edition plants the seeds of an advancement that I think will be everywhere
 
 Today, I'm here to tell you to **take that variant skill ability rule and run with it, into every wall and off the edge of every cliff**. Every DM and every player of _any_ edition of D&D should start thinking of _every_ skill or proficiency bonus as being usable with _any_ ability score. To show you what I mean, check out this example of a new 5e skill, called _Riding_, that I created for use in the dinosaur races of my Tomb of Annihilation campaign:
 
-![immovable rod](../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ##### New Skill Proficiency: 
 # _**Riding**_
@@ -66,7 +66,7 @@ Similarly to tools, characters are separately proficient with different species 
 
 When managing a mount in combat, a character may use their proficiency bonus if they are _proficient_ in either _Riding_ or _Animal Handling_.
 
-![immovable rod](../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ## Multiball
 The above mostly-flavor text is all you need to create a skill in 5e, and that twelve-entry table of Ability score example tasks is all you need to unlock the power of the "variant" skill proficiency rule for any edition of D&D.
@@ -114,4 +114,4 @@ Just in case you haven't realized it yet, 5th edition D&D is _**very**_ cool, an
 
 [My D&D Page](../README.md#top)
 
-![the end](../images/toa-end.jpg)
+![the end](/images/toa-end.jpg)

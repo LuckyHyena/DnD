@@ -1,5 +1,5 @@
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 
@@ -15,14 +15,14 @@ A Faerûn gallon weighs seven pounds, therefore the daily needs of one character
 
 Unless otherwise specified medium creatures weigh **10 stone** and small characters weigh **3 stone**.
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ### Travelling
 If the party attempts to travel by land in Chult while any characters are _encumbered_, then the party **must move at a slow pace** but has only a 5% chance of making progress instead of 50%: each day roll a d20 and the party **only advances a hex on a natural 20**. If fewer than half of the characters in the party are _encumbered_ the party gains advantage on this roll.
 
 Canoes have a maximum carrying capacity of **120 stone**, or enough to carry **six medium characters** with average Strength plus their full carrying capacity. Canoes and ships can't drag or pull more than their capacity and sink if overloaded.
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ### Fitting Thirty-Three Stone in One
 Each character in the party begins Tomb of Annihilation with a _**Bag of Holding**_. This magical Bag weighs just one stone no matter how much is put into it, and it can contain up to **thirty-three stone** of items.
@@ -33,7 +33,7 @@ All other items a character is holding count against their carrying capacity, in
 
 Characters can survive inside a Bag of Holding, although they will eventually run out of air. Characters must not attempt to stack two Bags of Holding.
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ## Weighing Various Items
 
@@ -60,10 +60,10 @@ Characters can survive inside a Bag of Holding, although they will eventually ru
 |5 sets of common clothes|1 stone|3 lb. each|
 |3 sets of expensive clothes|~1 stone|6 lb. each|
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 [Back to top](#top)
 
 [Tomb of Annihilation homepage](README.md#top)
 
-![the end](../../images/toa-end.jpg)
+![the end](/images/toa-end.jpg)

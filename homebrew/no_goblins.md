@@ -1,5 +1,5 @@
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 
@@ -137,4 +137,4 @@ While we are telling a story about roleplaying, to **influence** the creatures i
 
 *Depending on the creature and its hostility, party characters may be forced to make Intelligence, Wisdom, or Charisma saving throws during roleplaying, or else suffer the effects of these powerful, and alien, minds manipulating and toying with the character.
 
-![the end](../../images/toa-end.jpg)
+![the end](/images/toa-end.jpg)

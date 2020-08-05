@@ -1,5 +1,5 @@
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 
@@ -39,7 +39,7 @@ Butterflies and other non-harmful insects are magically attracted to the bearer 
 ### Gray Ioun Stone
 You can speak a command word and this polished gray pebble will begin to slowly orbit your head at a distance of 1d3 feet. Alternatively, you can make the stone orbit your staff, weapon, or some other object of your choice within 10 feet. The stone has no other effect.
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ## Uncommon Wondrous Items
 
@@ -126,5 +126,5 @@ DMG page 195
 |91-96|	Window (2 feet by 4 feet, up to 2 feet deep), which you can place on a vertical surface you can reach
 |97-00|	Portable ram|
 
-![the end](../../images/toa-end.jpg)
+![the end](/images/toa-end.jpg)
 

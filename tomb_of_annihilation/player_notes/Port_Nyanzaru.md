@@ -1,5 +1,5 @@
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 
@@ -7,7 +7,7 @@
 
 # Welcome to **Port Nyanzaru**!
 
-![Port Nyanzaru greeter](images/victor-maury-portcity.jpg)
+![Port Nyanzaru greeter](images/places/victor-maury-portcity.jpg)
 
 ## Seven facts about Port Nyanzaru
 
@@ -25,11 +25,11 @@
 
 7. In addition to trade from the Trackless Sea and the Shining Sea, the economy of Port Nyanzaru is based on mining, cutting lumber, hunting, and gathering rare materials from the jungle. Laborers living in hamlets and work camps in the jungle are in constant danger of being forced out by the undead and other dangers.
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ## Districts and Locations in Port Nyanzaru
 
-![Map of Port Nyanzaru](images/port-nyanzaru.png)
+![Map of Port Nyanzaru](images/places/port-nyanzaru.png)
 
 # Harbor Ward
 The harbor ward includes the extensive, and labyrinthine, cargo docks where ships load and unload trade goods, as well as the vast warehouses where those goods are stored. Port Nyanzaru is equipped to dock and deal with ships of any size, and traffic is constant during the day. Like many warehouse districts, at night the area is mostly abandoned and a fine place to meet in secret.
@@ -40,7 +40,7 @@ The harbor ward includes the extensive, and labyrinthine, cargo docks where ship
 - The Royal Docks: restricted for the use of the merchant princes and their preferred guests.
 - Dry docks for repairing ships.
 
-![Port Nyanzaru street scene](images/port-nyanzaru.jpg)
+![Port Nyanzaru street scene](images/places/port-nyanzaru.jpg)
 
 ---
 
@@ -48,31 +48,31 @@ The harbor ward includes the extensive, and labyrinthine, cargo docks where ship
 
 The market ward is where the majority of Port Nyanzaru's population lives. Parts of the market ward stay open all night, while other, more residential areas generally quiet down at night. The streets never become completely empty.
 
-- _The Thundering Lizard Inn and Tavern_: for characters who want [a raucous time](activities_in_Port_Nyanzaru.md#port-nyanzaru-the-thundering-lizard-tavern). 1 electrum coin per night for a **poor lifestyle**.
-- _Kaya's House of Repose_: for characters who want [a good night's sleep](activities_in_Port_Nyanzaru.md#port-nyanzaru-kayas-house-of-repose). 1 gold piece per night for a **modest lifestyle**.
-- A district of [dyeworks](activities_in_Port_Nyanzaru.md#dyeing) where laborers work with rare and sometimes dangerous materials to produce dyes.
-- A [public bathhouse](activities_in_Port_Nyanzaru.md#port-nyanzaru-public-baths-of-sune) run by worshippers of Sune.
-- The [Grand Coliseum](activities_in_Port_Nyanzaru.md#port-nyanzaru-the-grand-coliseum), where violent gladiatorial games are held most afternoons.
-- The __Red Bazaar__: an everyday [market](activities_in_Port_Nyanzaru.md#selling-loot-or-items) for Port Nyanzaru citizens. Famed for the large slabs of dinosaur meat available for sale.
-- The __Hall of Gold__: a [temple](activities_in_Port_Nyanzaru.md#worshipping) to Waukeen, deity of trade and wealth. [Sibonseni](dramatis_personae.md#sibonseni-mother-of-prosperity), Mother of Prosperity, is the high priestess of the Hall of Gold, and the most important person in Port Nyanzaru besides the merchant princes.
+- _The Thundering Lizard Inn and Tavern_: for characters who want [a raucous time](Port_Nyanzaru_activities.md#port-nyanzaru-the-thundering-lizard-tavern). 1 electrum coin per night for a **poor lifestyle**.
+- _Kaya's House of Repose_: for characters who want [a good night's sleep](Port_Nyanzaru_activities.md#port-nyanzaru-kayas-house-of-repose). 1 gold piece per night for a **modest lifestyle**.
+- A district of [dyeworks](Port_Nyanzaru_activities.md#dyeing) where laborers work with rare and sometimes dangerous materials to produce dyes.
+- A [public bathhouse](Port_Nyanzaru_activities.md#port-nyanzaru-public-baths-of-sune) run by worshippers of Sune.
+- The [Grand Coliseum](Port_Nyanzaru_activities.md#port-nyanzaru-the-grand-coliseum), where violent gladiatorial games are held most afternoons.
+- The __Red Bazaar__: an everyday [market](Port_Nyanzaru_activities.md#selling-loot-or-items) for Port Nyanzaru citizens. Famed for the large slabs of dinosaur meat available for sale.
+- The __Hall of Gold__: a [temple](Port_Nyanzaru_activities.md#worshipping) to Waukeen, deity of trade and wealth. [Sibonseni](dramatis_personae.md#sibonseni-mother-of-prosperity), Mother of Prosperity, is the high priestess of the Hall of Gold, and the most important person in Port Nyanzaru besides the merchant princes.
 - The Port Nyanzaru city fish market.
 
-![Port Nyanzaru Markets](images/buying.jpg)
+![Port Nyanzaru Markets](images/places/buying.jpg)
 
 ---
 
 # Merchants' Ward
 Port Nyanzaru's upper classes reside in the opulent merchants' ward. This area hosts the finest shops and the biggest market in the city during the day, while at night anyone trying to travel or do business in the district must submit to questioning by the numerous [Zhentarim](dramatis_personae.md#the-zhentarim) guard patrols.
 
-- The mansions of the [merchant princes](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#top).
+- The mansions of the [merchant princes](Port_Nyanzaru_items.md#top).
 - The Goldenthrone: palace and seat of Port Nyanzaru's government.
-- The _**Grand Souk**_: the largest [market](activities_in_Port_Nyanzaru.md#selling-loot-or-items) in Port Nyanzaru, where international merchants come to trade.
-- The **_Jewel Market_**: an exclusive and high-end market run by the merchant prince [Zhanthi](dramatis_personae.md#zhanthi) near the Grand Souk for the sale of jewelry, gems, [armor](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#mundane-items), and [magic items](activities_in_Port_Nyanzaru.md#buying-a-magic-item).
+- The _**Grand Souk**_: the largest [market](Port_Nyanzaru_activities.md#selling-loot-or-items) in Port Nyanzaru, where international merchants come to trade.
+- The **_Jewel Market_**: an exclusive and high-end market run by the merchant prince [Zhanthi](dramatis_personae.md#zhanthi) near the Grand Souk for the sale of jewelry, gems, [armor](Port_Nyanzaru_items.md#mundane-items), and [magic items](Port_Nyanzaru_activities.md#buying-a-magic-item).
 - Temple of Gond, deity of artisans, craftspeople, and smiths.
 - Temple of Savras, deity of divination and fate. [Grandfather Zitembe](dramatis_personae.md#grandfather-zitembe) is the high priest.
-- Temple of Sune, deity of love and beauty. High priestess [Kwayothé](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#kwayothé) is also a merchant prince, and controls all Port Nyanzaru trade in tej, wine, ale, fruit, oil, and perfume.
+- Temple of Sune, deity of love and beauty. High priestess [Kwayothé](Port_Nyanzaru_items.md#kwayothé) is also a merchant prince, and controls all Port Nyanzaru trade in tej, wine, ale, fruit, oil, and perfume.
 
-![Merchants' Ward](images/grand-souk.jpg)
+![Merchants' Ward](images/places/grand-souk.jpg)
 
 > _The Grand Souk in Port Nyanzaru's merchants' ward._
 
@@ -82,14 +82,14 @@ Port Nyanzaru's upper classes reside in the opulent merchants' ward. This area h
 The original Chultan city of Nyanzaru, which Amn conquered and expanded into the modern Port Nyanzaru. This section that was left outside the city walls has become a lower-class but still-respectable part of the city where many laborers live.
 
 - The Beggars' Palaces: two massive stone ziggurats now crowded with newer construction.
-- The [Executioner's Run](activities_in_Port_Nyanzaru.md#port-nyanzaru-the-executioners-run): a rectangular pit where criminals are sentenced to death via dinosaur. Visitors from all over the city come to watch.
+- The [Executioner's Run](Port_Nyanzaru_activities.md#port-nyanzaru-the-executioners-run): a rectangular pit where criminals are sentenced to death via dinosaur. Visitors from all over the city come to watch.
 - The city garbage dump.
 
-![Old City](images/old-city.jpg)
+![Old City](images/places/old-city.jpg)
 
 ---
 
-![Velociraptors](images/raptors_raph04art.jpg)
+![Velociraptors](images/places/raptors_raph04art.jpg)
 
 _Velociraptors like those at the Executioner's Run._
 
@@ -99,9 +99,9 @@ _Velociraptors like those at the Executioner's Run._
 A less-developed area outside the city walls, the Tiryki (tee-REE-kee) anchorage is home to "animal trainers, river folk, and [other](dramatis_personae.md#the-emerald-enclave) rough-and-tumble sorts", whatever that means. It's also where most of Port Nyanzaru's dinosaurs are kept in pens, either to rest after a day of working or in preparation for slaughter. Unlike Old City or Malar's Throat, there are no stone buildings to take shelter in outside the city walls: running for the Tiryki Gate is residents' only option when undead or other dangers come out of the jungle.
 
 - Less developed (and less patrolled) docks are preferred by smugglers.
-- Vast pens of dinosaurs, and many teams of dinosaur trainers, all under the authority of merchant prince [Ifan Talro'a](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#ifan-talroa).
+- Vast pens of dinosaurs, and many teams of dinosaur trainers, all under the authority of merchant prince [Ifan Talro'a](Port_Nyanzaru_items.md#ifan-talroa).
 
-![dinosaur races](images/dinosaur-races.png)
+![dinosaur races](images/places/dinosaur-races.png)
 
 ---
 
@@ -112,22 +112,25 @@ Two deep, jungle-covered ridges flank a ravine filled with trash, which floods d
 
 - Temple of Tymora, goddess of good fortune.
 
-![Malar's Throat](images/malars-throat.jpg)
+![Malar's Throat](images/places/malars-throat.jpg)
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
-## Further reading
+# Further Reading
 
-[back to top](#top)
+__Tomb of Annihilation__ [adventure introduction](introduction.md#top)
+\- Welcome to [Chult](introduction.md#welcome-to-chult)
 
-[Welcome to Chult](introduction.md#welcome-to-chult)
+[Inhabitants](chultans.md#top) of Chult
 
-[Dramatis Personae](dramatis_personae.md#top)
+[Downtime activities](Port_Nyanzaru_activities.md#top) in Port Nyanzaru
 
-[Activities in Port Nyanzaru](activities_in_Port_Nyanzaru.md#top)
+[Items](Port_Nyanzaru_items.md#top) available in Port Nyanzaru
 
-[Items available for purchase in Port Nyanzaru](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#jessamine)
+Tomb of Annihilation [homepage](README.md#top)
 
-[Tomb of Annihilation homepage](README.md#top)
+---
 
-![the end](../../images/toa-end.jpg)
+[Back to top](#top)
+
+![the end](/images/toa-end.jpg)

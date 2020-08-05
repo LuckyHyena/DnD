@@ -1,7 +1,7 @@
 
 
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 
@@ -9,7 +9,7 @@
 ##### Tomb of Annihilation
 
 # Poisons
-All sales of poisons must be approved by [Jessamine](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#jessamine) or someone known and licensed by her. The anonymous assassins' guild of Port Nyanzaru will be happy to make a bloody public spectacle out of anyone testing the limits of Jessamine's authority.
+All sales of poisons must be approved by [Jessamine](Port_Nyanzaru_items.md#jessamine) or someone known and licensed by her. The anonymous assassins' guild of Port Nyanzaru will be happy to make a bloody public spectacle out of anyone testing the limits of Jessamine's authority.
 
 ---
 
@@ -48,9 +48,9 @@ All sales of poisons must be approved by [Jessamine](list_of_items_available_for
 
 ---
 
-[Items available for purchase in Port Nyanzaru](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#jessamine)
+[Items available for purchase in Port Nyanzaru](Port_Nyanzaru_items.md#jessamine)
 
 [Tomb of Annihilation homepage](README.md#top)
 
-![the end](../../images/toa-end.jpg)
+![the end](/images/toa-end.jpg)
 

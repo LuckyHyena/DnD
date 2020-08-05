@@ -1,5 +1,5 @@
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 
@@ -8,7 +8,7 @@
 
 # Rules for camping in Chult
 
-[Summary of these rules](summary_of_camping_rules.md#top)
+[Summary of these rules](camping_rules.md#top)
 
 ### The Nightly Schedule
 Generally, characters can't travel for more than 8 hours per day without risking becoming _exhausted_. The remaining 8 hours in the day left after travelling and resting are consumed by:
@@ -25,7 +25,7 @@ Generally, characters can't travel for more than 8 hours per day without risking
 
 The following rules empower you to simulate and experience these nightly hours of chores alongside your character.
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 # Let's go camping
 The very first step each evening is one that still uses _**Survival**_ instead of the new [_Camping_](character_creation.md#camping). Finding a **safe** campsite that avoids common animal trails and is protected against nightly ambush is not a mere creature comfort.
@@ -51,15 +51,15 @@ Searching for the campsite is a liminal activity that takes place late at the en
 
 > _sometimes people complain that D&D settings don't take into account just how much magic would be used to solve practical problems in the world. anyways, you might be surprised at the number of abandoned_ Mordenkainen’s Magnificent Mansions _there are out there_
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 # Morning Chores
-Each character may do a [morning activity](activites_for_camping.md#morning-activites), or a [short rest activity](activities_for_short_rests.md#top)
+Each character may do a [morning activity](camping_activities.md#morning-activities), or a [short rest activity](short_rest_activities.md#top)
 
 ### Settling in for the evening
-After the camp has been found, the party sets up camp and characters may begin doing [evening _Camping_ activities](activities_for_camping.md#camping-activities).
+After the camp has been found, the party sets up camp and characters may begin doing [evening _Camping_ activities](camping_activities.md#camping-activities).
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 # The Night Watch
 
@@ -106,18 +106,18 @@ Characters that were asleep also begin combat in the _prone_ condition, and must
 > 
 > A **Half-Elf** character has a **50%** of being awake and watching the perimeter, provided the player desires it.
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 # The morning sun has vanquished the horrible night
 
-At dawn characters complete their long rest, and may [heal and level up](rules_for_long_rests.md#top).
+At dawn characters complete their long rest, and may [heal and level up](long_rests.md#top).
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 # Morning Chores
-Each character may do a [morning activity](activities_for_camping.md#morning-activities), or a [short rest activity](activities_for_short_rests.md#top)
+Each character may do a [morning activity](camping_activities.md#morning-activities), or a [short rest activity](short_rest_activities.md#top)
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 # Reviewing the night
 After completing all the activities and ability checks in the evening, and again after completing all the checks in the morning, the players state all their results and then tell a stroy about how the night went.
@@ -150,23 +150,23 @@ Covering the campsite so it looks like undisturbed wilderness requires a traditi
 |20|Hard|The party gains advantage for Random Encounter Checks on both the next morning and the next afternoon.|
 |25|Very Hard|The party gains advantage for Random Encounter Checks
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 # Bonuses for the day
 Finally, the accumulated Camp Goodness determines what benefits or penalties the party will face in the following travel day.
 
 Roll a d%, add the Final Camp Goodness Score, and compare with the [Random Camping Bonus Payouts table](random_camping_bonus_payouts.md#top).
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 [Back to top](#top)
 
-[Summary of these camping rules](summary_of_camping_rules.md#top)
+[Summary of these camping rules](camping_rules.md#top)
 
-[Summary of rules for travelling](summary_of_travel_rules.md#top)
+[Summary of rules for travelling](travelling.md#top)
 
-[Full rules for travelling](rules_for_travelling.md#top)
+[Full rules for travelling](travelling_full.md#top)
 
 [Tomb of Annihilation homepage](README.md#top)
 
-![the end](../../images/toa-end.jpg)
+![the end](/images/toa-end.jpg)

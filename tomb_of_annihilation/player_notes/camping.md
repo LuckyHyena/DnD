@@ -1,5 +1,5 @@
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 
@@ -38,7 +38,7 @@ All adventurers have the option of selecting _Camping_ to replace one of their s
 |Wisdom|Notice that an ingredient has gone bad. Control a campfire's flame by rearranging the wood.|
 |Charisma|Keep a lively conversation going around the campfire. Talk shop with explorers or others who spend their time in the wilderness.|
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 # The Camping Loop
 
@@ -50,7 +50,7 @@ The purpose of the algorithm is to establish and then update a Camp Goodness pro
    1. One character and one optional assistant must roll a **Wisdom** (_Survival_) ability check to find a campsite and establish its initial Camp Goodness.
    2. The party may make further searches if they are unhappy with the first site. They may make their final decision from among any of the campsites found that day, regardless of the order they were found.
 2. **Evening**
-   1. Characters may [choose to do camping chores](activities_for_camping.md#evening-activities) to improve the Camp Goodness score, or they may do any [short rest activity](activities_for_short_rests.md#short-rest-activities) for buffs or healing.
+   1. Characters may [choose to do camping chores](camping_activities.md#evening-activities) to improve the Camp Goodness score, or they may do any [short rest activity](short_rest_activities.md#short-rest-activities) for buffs or healing.
    2. Generally, each character's chore or activity is resolved by rolling a single ability check.
 3. **The Night Watch**
    1. A single Random Encounter Check is rolled for the night.
@@ -61,20 +61,20 @@ The purpose of the algorithm is to establish and then update a Camp Goodness pro
    1. The morning sun has vanquished the horrible night.
    1. Characters have completed their long rest, and may now recover health and/or level up. The long rest is successful even if there was a random encounter, unless the party completely broke camp in the night.
 4. **Morning**
-   1. Characters may do a [final round of chores](activities_for_camping.md#morning-activities) around the camp to improve the final Camp Goodness score, or do a [final short rest activity](activities_for_short_rests.md#top) before starting the day.
+   1. Characters may do a [final round of chores](camping_activities.md#morning-activities) around the camp to improve the final Camp Goodness score, or do a [final short rest activity](short_rest_activities.md#top) before starting the day.
    2. Generally, each character's chore or activity is resolved by rolling a single ability check.
 6. **Hit the road!**
    1. Calculate the final Camp Goodness score, and roll for a bonus on the [_Camp Bonuses Payouts_ table](random_camping_bonus_payouts.md#top).
-   2. Begin [the jungling loop](rules_for_travelling.md#top) to complete the day's travel through the jungle.
+   2. Begin [the jungling loop](travelling.md#top) to complete the day's travel through the jungle.
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 [Back to top](#top)
 
-[Full rules for camping](rules_for_camping.md#top)
+[Full rules for camping](camping_full.md#top)
 
-[Summary of rules for travelling in the jungle](summary_of_travel_rules.md#top)
+[Summary of rules for travelling in the jungle](travelling.md#top)
 
 [Tomb of Annihilation homepage](README.md#top)
 
-![the end](../../images/toa-end.jpg)
+![the end](/images/toa-end.jpg)

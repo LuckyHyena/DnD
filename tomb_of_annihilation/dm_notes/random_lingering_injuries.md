@@ -1,5 +1,5 @@
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 
@@ -43,4 +43,4 @@
 |97 - 99|||
 |100|Special|||
 
-![the end](../../images/toa-end.jpg)
+![the end](/images/toa-end.jpg)

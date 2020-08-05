@@ -1,5 +1,5 @@
 
-![immovable rod](../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 
@@ -32,4 +32,4 @@ Thank you for reading, and I hope you have fun with all of us playing together i
 
 [My D&D Page](../README.md#top)
 
-![the end](../images/toa-end.jpg)
+![the end](/images/toa-end.jpg)

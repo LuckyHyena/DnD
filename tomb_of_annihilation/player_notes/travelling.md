@@ -1,5 +1,5 @@
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 
@@ -7,7 +7,7 @@
 ##### Tomb of Annihilation
 # Rules for travelling across Chult
 
-[Full rules for travelling in the jungle](rules_for_travelling.md#top)
+[Full rules for travelling in the jungle](travelling_full.md#top)
 
 # The Travel Loop
 
@@ -18,7 +18,7 @@ For each day of travelling do the following:
 1. **Dawn**
    1. Characters have completed their long rest, and may now recover health and/or level up. The long rest is successful even if there was a random encounter, unless the party completely broke camp in the night.
 3. **Morning**
-   1. Characters may do a [final round of chores](activities_for_camping.md#morning-activities) around the camp to improve the final Camp Goodness score, or do a [final short rest activity](activities_for_short_rests.md#top) before starting the day.
+   1. Characters may do a [final round of chores](camping_activities.md#morning-activities) around the camp to improve the final Camp Goodness score, or do a [final short rest activity](short_rest_activities.md#top) before starting the day.
    2. Generally, each character's chore or activity is resolved by rolling a single ability check.
 4. **Hit the road!**
    1. Calculate the final Camp Goodness score, and roll for a bonus on the [_Camp Bonuses Payouts_ table](random_camping_bonus_payouts.md#top) based on how successfully the party rested over the duration they were camping.
@@ -33,7 +33,7 @@ For each day of travelling do the following:
        1. Roll two Random Encounter Checks (d20s) for the day: one for the morning and one for the afternoon.
        2. If the face on the die is equal or lower to the _Random Encounter Number_ (which is **_5_**), the DM will describe a random encounter.
 7. **Lunch**
-   1. The party usually takes a [short rest](rules_for_short_rests.md#top).
+   1. The party usually takes a [short rest](short_rests.md#top).
    2. If the party skips their short rest, increase their Random Encounter Armor Class for the afternoon random encounter by 1d4, up to a maximum of 20.
 8. **Afternoon Travel**
    1. Repeat the morning steps of navigating and checking for a random encounter.
@@ -41,7 +41,7 @@ For each day of travelling do the following:
    1. One character and one optional assistant must roll a **Wisdom** (_Survival_) ability check to find a campsite and establish its initial Camp Goodness.
    1. The party may make further searches if they are unhappy with the first site. They may make their final decision from among any of the campsites found that day, regardless of the order they were found.
 10. **Evening**
-    1. Characters may [choose to do camping chores](activities_for_camping.md#evening-activities) to improve the Camp Goodness score, or they may do any [short rest activity](activities_for_short_rests.md#short-rest-activities) for buffs or healing.
+    1. Characters may [choose to do camping chores](camping_activities.md#evening-activities) to improve the Camp Goodness score, or they may do any [short rest activity](short_rest_activities.md#short-rest-activities) for buffs or healing.
     1. Generally, each character's chore or activity is resolved by rolling a single ability check.
 11. **Supper**:
     1. Each character consumes 2 gallons of water and 1 lb of food every day.
@@ -53,9 +53,9 @@ For each day of travelling do the following:
     1. **The Random Encounter** will be described by the DM.
 13. Restart the loop.
 
-![Player map of Chult](images/chult_player_map.jpg)
+![Player map of Chult](images/places/chult_player_map.jpg)
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ## Step 5: Survive
 
@@ -83,7 +83,7 @@ You can eat only half rations to stretch supplies; this counts as half a day wit
 ### Recovery
 A long rest (8 hours) after getting a full day's worth of food and water will remove one level of exhaustion.
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ## Bonus: Foraging
 
@@ -99,19 +99,19 @@ Up to two characters who are not navigating today but are proficient in Survival
 Take a -5 penalty to the Wisdom check if the party is moving at a fast pace, or a +5 bonus to the check if the party is moving at a slow pace.
 
 ### Foraging Plants
-A character may choose one or more of the useful Chultan plants listed in the [items available for purchase in Port Nyanzaru](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#chultan-plants) under Jessamine, and attempt to find those plants instead of food and water. On a successful forage check the character finds **1d6 + their Wisdom modifier** uses of one random plant from the types they chose to look for that day.
+A character may choose one or more of the useful Chultan plants listed in the [items available for purchase in Port Nyanzaru](Port_Nyanzaru_items.md#chultan-plants) under Jessamine, and attempt to find those plants instead of food and water. On a successful forage check the character finds **1d6 + their Wisdom modifier** uses of one random plant from the types they chose to look for that day.
 
 ### Rain Catchers
 A rain catcher can be purchased in Port Nyanzaru for 1 gold coin. When set up overnight it will collect **1d3 gallons of potable water** in light rain, or **1d6+2 gallons** in heavy rain. If the rain catcher is left stationary throughout the day it can collect the same amount again, holding a maximum of 8 gallons at any one time.
 
 During a tropical storm the rain catcher can collect the equivalent of heavy rain, but a character must remain with it and pass a moderate [DC 15] **Wisdom** (Survival) check every 12 hours or the rain catcher will be destroyed. The character maintaining the rain catcher must pass an easy [DC 10] **Constitution** saving throw once per day or else suffer 1 level of exhaustion.
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 [Back to top](#top)
 
-[Full rules for travelling in the jungle](rules_for_travelling.md#top)
+[Full rules for travelling in the jungle](travelling_full.md#top)
 
 [Tomb of Annihilation homepage](README.md#top)
 
-![the end](../../images/toa-end.jpg)
+![the end](/images/toa-end.jpg)

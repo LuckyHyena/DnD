@@ -1,11 +1,11 @@
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 
 # Tomb of Annihilation Adventure Background and Maps
 
-![Probably Costa Rica](images/probably-costa-rica.jpg)
+![Probably Costa Rica](images/places/probably-costa-rica.jpg)
 
 ### Welcome to _**Tomb of Annihilation**_, an adventure for Dungeons & Dragons!
 
@@ -19,15 +19,15 @@ Now, Syndra has gathered you and the other members of your party in **Port Nyanz
 
 ---
 
-![The Soulmonger](../the-soulmonger.png)
+![The Soulmonger](images/characters/the-soulmonger.png)
 
 _Somewhere in the jungles of **Chult**, the Soulmonger leeches life from those stricken by the Death Curse._
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 # Welcome to Chult
 
-![Map of the Sword Coast](images/faerun-swordcoast-chult.png)
+![Map of the Sword Coast](images/places/faerun-swordcoast-chult.png)
 
 # Six facts about Chult
 
@@ -48,9 +48,9 @@ Syndra Silvane has been buying maps and casting divination spells in Port Nyanza
 
 > 1 hex on the Chult adventuring map is between 10 miles and 15 kilometers across.
 
-![Map of Chult](images/chult_player_map.jpg)
+![Map of Chult](images/places/chult_player_map.jpg)
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 # Dangers of Chult
 
@@ -59,15 +59,15 @@ Syndra Silvane has been buying maps and casting divination spells in Port Nyanza
 - Dinosaurs
 - Undead
 
-![undead](images/undead.jpg)
+![undead](images/places/undead.jpg)
 
-![Weretiger](images/weretiger_by_deskridge.jpg)
+![Weretiger](images/chultans/weretiger_by_deskridge.jpg)
 
-![Dinosaurs and the Undead](images/undead-trex.jpg)
+![Dinosaurs and the Undead](images/places/undead-trex.jpg)
 
-![The Soulmonger](../the-soulmonger.png)
+![The Soulmonger](images/characters/the-soulmonger.png)
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 [back to top](#top)
 
@@ -75,12 +75,11 @@ Syndra Silvane has been buying maps and casting divination spells in Port Nyanza
 
 # Further reading
 
-[Inhabitants of Chult](dramatis_personae.md#native-inhabitants-of-chult)
-
-[Dramatis Personae](dramatis_personae.md#port-nyanzaru)
+[Dramatis Personae](dramatis_personae.md#port-nyanzaru-characters)
+- [Inhabitants](dramatis_personae.md#native-inhabitants-of-chult) of Chult
 
 [Welcome to Port Nyanzaru!](Port_Nyanzaru.md#top)
 
 [Tomb of Annihilation homepage](README.md#top)
 
-![the end](../../images/toa-end.jpg)
+![the end](/images/toa-end.jpg)

@@ -1,5 +1,5 @@
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 
@@ -16,7 +16,7 @@ With all that in mind, take a look through the background information available 
 
 > **The Adventurer's League** has its own rules for character creation, although you're still welcome to look through the background information for inspiration, or to take one of the official backgrounds from _Tomb of Annihilation_ or the _Sword Coast Adventurer's Guide_.
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 - Backgrounds [options](#background-options)
 - My [Character Creation Rules](#my-character-creation-rules)
@@ -28,7 +28,7 @@ With all that in mind, take a look through the background information available 
   - [**_Riding_**](#riding)
   - [**_Sailing_**](#sailing)
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 # Background Options
 Quick summary of various background options from the _Player's Handbook_, _Tomb of Annihilation_, and _Sword Coast Adventurer's Guide_.
@@ -65,7 +65,7 @@ Quick summary of various background options from the _Player's Handbook_, _Tomb 
 
 > \* means a homebrew tweak
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ### My Character Creation Rules
 
@@ -126,12 +126,12 @@ A character's starting equipment is the accumulation of all the following:
 # Trinkets
 Remember that all 5e characters get to roll on the _Trinkets_ table on PHB pages 160-161! If you don't have a _Player's Handbook_ we'll let you roll at the first session. Let me know about your character's trinket, or lack thereof!
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ##### _Tomb of Annihilation_ character options
 
 # Special _Tomb of Annihilation_ Equipment
-See the [items available for purchase in Port Nyanzaru](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#top).
+See the [items available for purchase in Port Nyanzaru](Port_Nyanzaru_items.md#top).
 
 # Factions
 The same [five factions](dramatis_personae.md#player-factions) as The Adventurer's League, or you can tell me about a new one.
@@ -204,18 +204,18 @@ The Yuan-ti speak Primordial.
 
 _Vegepygmies, one of the many terrifying plant-based dangers in Chult._
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ### Further information
 
 ##### New Skill Proficiency:
 # _**Camping**_ 
 ### Commonly Intelligence or Wisdom
-Characters can do [advanced activities while camping](summary_of_camping_rules.md#top) in the jungle using a new skill proficiency available to them called _**Camping**_. _Camping_ is usually applied to Intelligence or Wisdom checks, but other ability checks are often involved in _Camping_ as well.
+Characters can do [advanced activities while camping](camping_rules.md#top) in the jungle using a new skill proficiency available to them called _**Camping**_. _Camping_ is usually applied to Intelligence or Wisdom checks, but other ability checks are often involved in _Camping_ as well.
 
 > **All adventurers** have the option of selecting _Camping_ to replace one of their starting skill proficiencies.
 
-See the [list of camping activities](activities_for_camping.md#top)
+See the [list of camping activities](camping_activities.md#top)
 
 |Ability|Two Example Uses|
 |-------|----------------|
@@ -233,7 +233,7 @@ See the [list of camping activities](activities_for_camping.md#top)
 ##### New Skill Proficiency: 
 # _**Riding**_
 ### Commonly Dexterity
-Riding a dinosaur at top speed, in the midst of dozens of other huge beasts in what is essentially a stampede, is a far more physical and strenuous activity than simply "handling" one. The [dinosaur racers of Port Nyanzaru](activities_in_Port_Nyanzaru.md#dinosaur-racing) use a new skill proficiency available to characters called _**Riding**_. A character's _Riding_ proficiency is usually applied to a **Dexterity** check, but racing involves all of a character's abilities at one point or another.
+Riding a dinosaur at top speed, in the midst of dozens of other huge beasts in what is essentially a stampede, is a far more physical and strenuous activity than simply "handling" one. The [dinosaur racers of Port Nyanzaru](Port_Nyanzaru_activities.md#dinosaur-racing) use a new skill proficiency available to characters called _**Riding**_. A character's _Riding_ proficiency is usually applied to a **Dexterity** check, but racing involves all of a character's abilities at one point or another.
 
 > **Character Bonus:** During character creation any character who is, or has the option to be, proficient in _Animal Handling_ may select _Riding_ to replace one of their skill proficiencies.
  
@@ -250,7 +250,7 @@ Similarly to tools, characters are separately proficient with different species 
 
 When managing a mount in combat, a character may use their proficiency bonus if they are _proficient_ in either _Riding_ or _Animal Handling_.
 
-> **Character Bonus:** A character [training](activities_in_Port_Nyanzaru.md#training-with-a-skill-or-tool) in _Riding_ who is _proficient_ in **Animal Handling** can make a **Wisdom** (Animal Handling) check and subtract that many downtime days from the required number of days to reach the next level of _Riding_. Characters may do this once when they start training in _Riding_ and again each time they gain a +1 bonus from training.
+> **Character Bonus:** A character [training](Port_Nyanzaru_activities.md#training-with-a-skill-or-tool) in _Riding_ who is _proficient_ in **Animal Handling** can make a **Wisdom** (Animal Handling) check and subtract that many downtime days from the required number of days to reach the next level of _Riding_. Characters may do this once when they start training in _Riding_ and again each time they gain a +1 bonus from training.
 >
 > If a character rolls high enough to reduce the required days below one, then the character has revealed a natural talent for working with that kind of animal, and immediately gains the +1 bonus. The overflow days are then subtracted from the next level's requirement along with the results of the next Wisdom (Animal Handling) check.
 
@@ -259,7 +259,7 @@ When managing a mount in combat, a character may use their proficiency bonus if 
 ##### New Skill Proficiency:
 # _**Sailing**_
 ### Commonly Dexterity or Intelligence
-Joining a [pirate-hunting crew](activities_in_Port_Nyanzaru.md#hunting-pirates) and sailing out of Port Nyanzaru during downtime uses a new skill proficiency available to characters called _**Sailing**_. A character's _Sailing_ proficiency is most often applied to **Dexterity** or **Intelligence** checks, but when the seas get rough other ability checks involving _Sailing_ are needed as well.
+Joining a [pirate-hunting crew](Port_Nyanzaru_activities.md#hunting-pirates) and sailing out of Port Nyanzaru during downtime uses a new skill proficiency available to characters called _**Sailing**_. A character's _Sailing_ proficiency is most often applied to **Dexterity** or **Intelligence** checks, but when the seas get rough other ability checks involving _Sailing_ are needed as well.
 
 > **Character Bonus:** Any character with the _Sailor_ background, or any sea-related background, gains a bonus proficiency in _Sailing_.
 
@@ -284,4 +284,4 @@ Characters sailing an unfamiliar ship require some time to adjust to their new v
 
 [Tomb of Annihilation homepage](README.md#top)
 
-![the end](../../images/toa-end.jpg)
+![the end](/images/toa-end.jpg)

@@ -1,5 +1,5 @@
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 
@@ -14,9 +14,9 @@ While the party is travelling around Chult, a character may optionally choose to
 - Disadvantage on **all saving throws** for the day.
 - Disadvantage on **initiative rolls** during random encounters.
 - Disadvantage on **the first ability check of each random encounter**.
-- Cannot [roll to spot random encounters](rules_for_random_encounters.md#encounter-distance).
+- Cannot [roll to spot random encounters](random_encounters.md#encounter-distance).
 
-See [downtime activities in Port Nyanzaru](activities_in_Port_Nyanzaru.md#retraining) for more details on each activity.
+See [downtime activities in Port Nyanzaru](Port_Nyanzaru_activities.md#retraining) for more details on each activity.
 
 ## Investigating
 If your investigation involves reading, studying physical objects, or you can tell some other story about investigating in the jungle, you may prepay the daily 1 gold coin fee for investigating in order to bring research materials out of Port Nyanzaru and study them while following the rest of the party. Each downtime day you finish investigating 1 gold coin's worth of the research materials, and when you have finished all of the prepaid materials you are unable to make further progress.
@@ -44,14 +44,14 @@ A character with enough Experience Chunks can level up as part of any long rest.
 
 A character that is catching up suffers the normal penalties for being distracted, except they **don't suffer disadvantage on saving throws**.
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 [Back to top](#top)
 
-[Activities in Port Nyanzaru](activities_in_Port_Nyanzaru.md#top)
+[Activities in Port Nyanzaru](Port_Nyanzaru_activities.md#top)
 
-[Rules for travelling in the jungle](rules_for_travelling.md#top)
+[Rules for travelling in the jungle](md#top)
 
 [Tomb of Annihilation homepage](README.md#top)
 
-![the end](../../images/toa-end.jpg)
+![the end](/images/toa-end.jpg)

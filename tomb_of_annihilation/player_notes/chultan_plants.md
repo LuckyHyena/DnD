@@ -1,6 +1,6 @@
 
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 
@@ -8,7 +8,7 @@
 ##### Tomb of Annihilation
 
 # Chultan Plants
-Many native Chultan plants have medicinal or recreational uses, and the buying and selling of such plants or their byproducts is regulated and controlled by the merchant prince [Jessamine](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#jessamine).
+Many native Chultan plants have medicinal or recreational uses, and the buying and selling of such plants or their byproducts is regulated and controlled by the merchant prince [Jessamine](Port_Nyanzaru_items.md#jessamine).
 
 |Plant|Price|Notes|
 |-|-|-|
@@ -23,9 +23,9 @@ Many native Chultan plants have medicinal or recreational uses, and the buying a
 
 ---
 
-[Items available for purchase in Port Nyanzaru](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#jessamine)
+[Items available for purchase in Port Nyanzaru](Port_Nyanzaru_items.md#jessamine)
 
 [Tomb of Annihilation homepage](README.md#top)
 
-![the end](../../images/toa-end.jpg)
+![the end](/images/toa-end.jpg)
 

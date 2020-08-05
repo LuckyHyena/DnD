@@ -1,5 +1,5 @@
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 
@@ -59,12 +59,12 @@ Roll a d%, add the Final Camp Goodness Score, and compare with this table:
 |131 or higher|You have won. During one amazing night the party achieves all of the adventure goals and retires to live happily ever after, endlessly retelling the story of that single, fate-altering night. The players might end up telling the story a lot, too.|
 
 
-![immovable rod](../../images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 [Back to top](#top)
 
-[Rules for travelling in the jungle](rules_for_travelling.md#top)
+[Rules for travelling in the jungle](travelling.md#top)
 
 [Tomb of Annihilation homepage](README.md#top)
 
-![the end](../../images/toa-end.jpg)
+![the end](/images/toa-end.jpg)
