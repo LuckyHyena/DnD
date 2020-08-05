@@ -206,7 +206,7 @@ Paladins and clerics of the deities Tyr, Helm, and Torm recently established the
 > ![Malexus](images/characters/malexus.png)
 
 > ## Vindicator Niles Breakbone
-> The current commander of Camp Vengeance is a young and untested [Chondathan](https://forgottenrealms.fandom.com/wiki/Chondathan) noble named Niles Breakbone. He's a paladin of [Tyr](https://forgottenrealms.fandom.com/wiki/Tyr) who has sworn the _Oath of Devotion_, and a newly-minted _Vindicator_ of the Order, who has come to Chult with a vague dream of proving himself by somehow miraculasly finding a solution to Chult's century-old undead pestilence. The Silverymoon [bloodhawk](https://5thsrd.org/gamemaster_rules/monsters/blood_hawk/) depicted in his portrait died shortly after Vindicator Breakbone entered the jungle, and since arriving at camp Niles has been struggling to teach falconry to a baby pteradon.
+> The current commander of Camp Vengeance is a young and untested [Chondathan](https://forgottenrealms.fandom.com/wiki/Chondathan) noble named Niles Breakbone. He's a _Oath of Devotion_ paladin of [Tyr](https://forgottenrealms.fandom.com/wiki/Tyr), and a newly-minted _Vindicator_ of the Order of the Gauntlet, who has come to Chult with a vague dream of proving himself by somehow miraculasly finding a solution to Chult's century-old undead pestilence. The Silverymoon [bloodhawk](https://5thsrd.org/gamemaster_rules/monsters/blood_hawk/) depicted in his portrait died shortly after Vindicator Breakbone entered the jungle, and since arriving at camp Niles has been struggling to teach falconry to a baby pteradon.
 > 
 > ![Niles Breakbone](images/characters/lord-mayer-olin-keetes.jpg)
 

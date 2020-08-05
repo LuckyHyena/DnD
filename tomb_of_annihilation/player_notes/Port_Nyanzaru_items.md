@@ -110,7 +110,7 @@ JESS-ah-meen is a Chultan noble and ex-assassin who controls the buying and sell
 
 Jessamine is the sole person in Port Nyanzaru with the authority to issue **sanctions**, writs that allow for legal assassinations in the city by approved methods, usually poison or a single stab with a blade. Sanctions are rarely sold and are extremely expensive.
 
-> **Help Wanted:** Jessamine sometimes hires independent rogues or spies to investigate the situation around a potential _sanction_, or to quietly deliver a [triceratops](dramatis_personae.md#the-ytepka-society). Port Nyanzaru's native assassins' guild is, however, _extremely_ satisfied with the current number of assassins operating in and around Port Nyanzaru, and would just _hate_ to see, or to be informed of, or find out about, or actively sniff out, any person or persons trying to change such a lovely status quo.
+> **Help Wanted:** Jessamine sometimes hires independent rogues or spies to investigate the situation around a potential _sanction_, or to quietly deliver a [triceratops](dramatis_personae.md#the-ytepka-society). Port Nyanzaru's native assassins' guild is, however, _extremely_ satisfied with the current number of assassins operating in the Port Nyanzaru area, and they would _hate_ to see, or to be informed of, or find out about, or actively sniff out, anyone in Port Nyanzaru trying to change their beloved status quo.
 
 ![Jessamine](images/characters/Merchant_Prince_Jessamine.jpg)
 
