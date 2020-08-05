@@ -119,7 +119,8 @@ Two deep, jungle-covered ridges flank a ravine filled with trash, which floods d
 # Further Reading
 
 __Tomb of Annihilation__ [adventure introduction](introduction.md#top)
-\- Welcome to [Chult](introduction.md#welcome-to-chult)
+
+- Welcome to [Chult](introduction.md#welcome-to-chult)
 
 [Inhabitants](chultans.md#top) of Chult
 

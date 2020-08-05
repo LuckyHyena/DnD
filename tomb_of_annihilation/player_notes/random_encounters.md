@@ -158,7 +158,8 @@ _The reason I am making 5e's rules technically even less-lethal than they alread
 # Further Reading
 
 __Tomb of Annihilation__ [adventure introduction](introduction.md#top)
-\- Welcome to [Chult](introduction.md#welcome-to-chult)
+
+- Welcome to [Chult](introduction.md#welcome-to-chult)
 
 [Travelling](travelling.md#top) in Chult
 

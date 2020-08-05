@@ -729,13 +729,19 @@ Thank you for reading, and welcome to the fantastic city of **Port Nyanzaru**, t
 
 # Further Reading
 
-- [Districts and Locations](Port_Nyanzaru.md#districts-and-locations-in-port-nyanzaru) in Port Nyanzaru
-- [Items available](Port_Nyanzaru_items.md#top) in Port Nyanzaru
-- [Inhabitants](chultans.md#top) of Chult
-- [Downtime activities](Port_Nyanzaru_activities.md#top) in Port Nyanzaru
-- __Tomb of Annihilation__ [adventure introduction](introduction.md#top)
-  - Welcome to [Chult](introduction.md#welcome-to-chult)
-- Tomb of Annihilation [homepage](README.md#top)
+[Districts and Locations](Port_Nyanzaru.md#districts-and-locations-in-port-nyanzaru) in Port Nyanzaru
+
+[Items available](Port_Nyanzaru_items.md#top) in Port Nyanzaru
+
+[Inhabitants](chultans.md#top) of Chult
+
+[Downtime activities](Port_Nyanzaru_activities.md#top) in Port Nyanzaru
+
+__Tomb of Annihilation__ [adventure introduction](introduction.md#top)
+
+- Welcome to [Chult](introduction.md#welcome-to-chult)
+
+Tomb of Annihilation [homepage](README.md#top)
 
 ---
 
