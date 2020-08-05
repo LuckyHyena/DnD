@@ -12,17 +12,16 @@ While the party spends time in Port Nyanzaru, each character must spend coin dai
 
 For speed and simplicity plan the party's days a _tenday_ at a time.
 
-### Background Info
-- [Welcome to Chult](introduction.md#welcome-to-chult)
-- [Welcome to Port Nyanzaru](Port_Nyanzaru.md#top)
-- [Dramatis Personae](dramatis_personae.md#top)
-- [Special items available for purchase in Port Nyanzaru](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#top)
+## Background Info
+- [Welcome to Port Nyanzaru!](Port_Nyanzaru.md#top)
+- [Items available for purchase in Port Nyanzaru](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#top)
 - [Coins in Port Nyanzaru](coinage.md#top)
+- [Welcome to Chult](introduction.md#welcome-to-chult)
+- [Dramatis Personae](dramatis_personae.md#top)
 
+![Port Nyanzaru map](images/port-nyanzaru.png)
 
-![Port Nyanzaru](images/port-nyanzaru.jpg)
-
-### Downtime day activities:
+## Downtime day activities:
 Common:
 - [Working](#working)
 - [Carousing](#carousing)
@@ -53,11 +52,7 @@ Specialty:
 - [Copying Spells into your Spellbook](#copying-spells-into-your-spellbook)
 - [Developing Special Projects and Side Quests](#developing-relationships-investments-and-special-projects)
 
----
-
-![Port Nyanzaru map](images/port-nyanzaru.png)
-
-# Lifestyles
+## Lifestyles
 [Districts and Locations in Port Nyanzaru](Port_Nyanzaru.md#top)
 
 |Lifestyle|Activities Available|Expenses per Day|Potential Residences|
@@ -71,7 +66,6 @@ Specialty:
 |Comfortable|-|2 gold coins|A private room in the market ward.|
 |Wealthy|Carousing|5 gold coins|A private residence in the market ward.|
 |Aristocratic|-|at least 1 platinum coin|Residing in the merchants' ward as the guest of a merchant prince.|
-
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
@@ -92,6 +86,8 @@ Street performers have a unique place in the hearts of Port Nyanzaru's citizens,
 > **Character Bonus:** A character proficient in Perform can maintain a wealthy lifestyle for free by working as a street performer.
 >
 > ![Tabaxi Bard and Hobgoblin dancer](images/street-performers.png)
+
+![Port Nyanzaru](images/port-nyanzaru.jpg)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
@@ -215,9 +211,9 @@ The people of Faerûn have a practical and unsentimental relationship with their
 ### Temples
 |Temple|Deity|District|High Priest|
 |-|-|-|-|
-|Temple of Sune|Sune, deity of love and beauty|Merchants' Ward|[Merchant Prince](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#kwayothé) Kwayothé|
-|Hall of Gold|Waukeen, deity of trade and wealth|Market Ward|Sibonseni, [Mother of Prosperity](dramatis_personae.md#sibonseni-mother-of-prosperity)|
-|Temple of Savras|Savras, deity of divination and fate|Merchants' Ward|[Grandfather](dramatis_personae.md#grandfather-zitembe) Zitembe|
+|Temple of Sune|Sune, deity of love and beauty|Merchants' Ward|Merchant Prince [Kwayothé](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#kwayothé)|
+|Hall of Gold|Waukeen, deity of trade and wealth|Market Ward|Mother of Prosperity [Sibonseni](dramatis_personae.md#sibonseni-mother-of-prosperity)|
+|Temple of Savras|Savras, deity of divination and fate|Merchants' Ward|Grandfather [Zitembe](dramatis_personae.md#grandfather-zitembe)|
 |Temple of Gond|Gond, deity of artisans, craftspeople, and smiths|Merchants' Ward|-|
 |Temple of Tymora|Tymora, deity of good fortune|Malar's Throat|-|
 
@@ -409,7 +405,7 @@ If you're not getting enough combat in your Dungeons & Dragons, for the price of
 ![immovable rod](../../images/immovable-rod.jpg)
 
 # Dyeing
-On top of the cliffs overlooking the Bay of Chult are the famous Port Nyanzaru dyeworks, where laborers gather and process a variety of rare (and sometimes dangerous) materials extracted from Chult in order to produce the colors seen throughout the city. The dyework section of the [market ward](Port_Nyanzaru.md#market-ward) is expansive, and a determined character can always find a [dyer](dramatis_personae.md#the-lords-alliance) willing to at least try implementing whatever crazy idea the character has.
+On top of the cliffs overlooking the Bay of Chult are the famous Port Nyanzaru dyeworks, where laborers gather and process a variety of rare (and sometimes dangerous) materials extracted from Chult in order to produce the colors seen throughout the city. The dyework section of the [market ward](Port_Nyanzaru.md#market-ward) is expansive, and a determined character can always find a [dyer](dramatis_personae.md#the-lords-alliance) willing to at least try whatever crazy idea you have.
 
 ![dyeworks](images/dyeworks.jpg)
 
@@ -592,9 +588,9 @@ If the party encounters another ship or a sea creature, and starts communicating
 ---
 
 # Aremag
-![Aremag the Dragon Turtle waylays a sailing ship](images/aremag_wotc.jpg)
+The ancient dragon turtle Aremag patrols the Bay of Chult, demanding treasure from the many ships sailing to or from Port Nyanzaru. Although there's too much traffic for Aremag to bother every single ship that sails by, make no mistake about the danger: Aremag won't hesitate to sink an uncooperative or fast-talking ship so that she can simply pick out the treasure at her leisure. Most Port Nyanzaru citizens have little sympathy for captains foolish enough to irritate the [famous beast](dramatis_personae.md#aremag).
 
-The ancient dragon turtle Aremag patrols the Bay of Chult, demanding treasure from the many ships sailing to or from Port Nyanzaru. Although there's too much traffic for Aremag to bother every single ship that sails by, make no mistake about the danger: Aremag won't hesitate to sink an uncooperative or fast-talking ship so that she can simply pick out the treasure at her leisure. Most Port Nyanzaru citizens have little sympathy for captains [foolish enough to irritate the famous beast](dramatis_personae.md#aremag).
+![Aremag the Dragon Turtle waylays a sailing ship](images/aremag_wotc.jpg)
 
 > [**PUBLIC NOTICE:**](dramatis_personae.md#lerek-dashlynd) Lerek Dashlynd is offering ownership of a sailing ship as a reward for the first person to bring him an accurate map with directions to both the ruined Chultan cities of **Nangalore** and **Oralunga**.
 >
@@ -721,6 +717,8 @@ A character can invest time and coin into developing relationships, investments,
 - Speculating and advising on an investment opportunity.
 - Establishing a permanent resource or benefit for the party.
 
+![Special Projects](images/special-projects.jpg)
+
 # Looking for a Side Quest
 Wow I sure have typed up a lot of options at this point, _but!_ there are also [a few](dramatis_personae.md#xandala-cinder) small "side quests" to be found around Port Nyanzaru.
 
@@ -728,12 +726,12 @@ Wow I sure have typed up a lot of options at this point, _but!_ there are also [
 >
 > ![Jobal](images/Merchant_Prince_Jobal.jpg)
 
+![immovable rod](../../images/immovable-rod.jpg)
+
 Thank you for reading, and welcome to the fantastic city of **Port Nyanzaru**, the starting base camp for your adventures in [**_Tomb of Annihilation_**](README.md#top)!
 
 [Back to top](#top)
 
-![Special Projects](images/special-projects.jpg)
-
-> _Like this sheet of activities for Port Nyanzaru? Read about how I used 5e's rules for downtime days to develop it:_ [The Incredible Power in the Nine Sublime Pages of _Player's Handbook_ Chapter Eight](../../homebrew/5e_phb_chapter_eight.md#top)
+> Like this sheet of activities for Port Nyanzaru? Read about how I used 5e's [rules for **downtime days** to develop it!](../../homebrew/5e_phb_chapter_eight.md#top)
 
 ![the end](../../images/toa-end.jpg)

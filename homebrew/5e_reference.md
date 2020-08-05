@@ -18,7 +18,8 @@ _Standard 5e rules that I like but which I commonly forget during play._
 >
 > #### Movement [__*Speed Penalties*__](#movement-speed-penalties-1):
 > 
-> Moving 1 of any unit consumes a character's movement __speed__ equal to that unit multiplied by __[1 plus their current number of _speed penalties_]__, provided they have any.
+> A character moving a length of distance spends a portion of their movement __speed__ equal to that distance multiplied by __[1 plus their current number of _speed penalties_]__, provided they have any.
+>
 > Characters suffer a __speed penalty__ from:
 > - Can suffer a single _penalty_ at a time due to _difficult terrain_ in their square.
 > - Crawling while [_prone_](#putting-the-crawl-in-dungeon-crawl).
@@ -228,23 +229,21 @@ If a cover bonus causes an attack to miss when it would otherwise hit, the attac
 
 |_light_|Direct Sunlight|Bright Light|Dim Light|Darkness|Magical Darkness|
 |-|-|-|-|-|-|
-|__*effect*__|Drow Elves, Kobolds, and undead suffer various disadvantages.|Normal, supposedly.|__Lightly Obscured__|__Heavily Obscured__ and _Blinded_ without darkvision, blindsight, or truesight. _Lightly Obscured_ with darkvision.|_Blinded_ without devilsight, blindsight, or truesight.|
+|__*effect*__|Drow Elves, Kobolds, and undead suffer various disadvantages.|-|__Lightly Obscured__|_Lightly Obscured_ with darkvision. __Heavily Obscured__ and _Blinded_ without darkvision, blindsight, or truesight.|_Blinded_ without devilsight, blindsight, or truesight.|
 
----
+>> _Things seen using **darkvision** are considered to be in **dim light**, and are therefore **lightly obscured**._ - Player's Handbook
 
 Most Darkvision is grayscale colorblind.
-
-Most Devilsight only ignores magical darkness, not natural (at least the kind _Monster Manual_ devils possess). 
-
-> **Character Bonus:** The **Warlock** eldritch invocation _Devil's Sight_ is a special case that ignores both.
 
 A creature with Blindsight doesn't need vision to perceive their surroundings, and (presumably) can't be _Blinded_.
 
 A creature with Truesight can see though magical and nonmagical darkness, illusions, shapechangers, and into the ethereal plane.
 
->> _Things seen using **darkvision** are considered to be in **dim light**, and are therefore **lightly obscured**._ - Player's Handbook
+Most Devilsight (at least the kind _Monster Manual_ devils possess) only ignores magical darkness, not natural. 
 
-> **homebrew:** [some additional types of vision](5e_homebrew.md#not-enough-weird-vision-lets-homebrew)
+> **Character Bonus:** The **Warlock** eldritch invocation _Devil's Sight_ is a special case that ignores both.
+
+**homebrew:** [some additional types of vision](5e_homebrew.md#not-enough-weird-vision-lets-homebrew)
 
 ---
 

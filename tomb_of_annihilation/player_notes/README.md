@@ -14,7 +14,7 @@
 
 - [Adventure Background and Maps](introduction.md#top)
   - [Welcome to Chult](introduction.md#welcome-to-chult)
-- [Welcome to Port Nyanzaru](Port_Nyanzaru.md#top)
+- [Welcome to Port Nyanzaru!](Port_Nyanzaru.md#top)
 - [Character Creation](character_creation.md#top)
 
 ## Optional but useful information

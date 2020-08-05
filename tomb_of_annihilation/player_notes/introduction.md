@@ -79,7 +79,7 @@ Syndra Silvane has been buying maps and casting divination spells in Port Nyanza
 
 [Dramatis Personae](dramatis_personae.md#port-nyanzaru)
 
-[Welcome to Port Nyanzaru](Port_Nyanzaru.md#top)
+[Welcome to Port Nyanzaru!](Port_Nyanzaru.md#top)
 
 [Tomb of Annihilation homepage](README.md#top)
 

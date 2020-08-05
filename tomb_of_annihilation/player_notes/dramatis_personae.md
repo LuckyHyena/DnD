@@ -4,14 +4,69 @@
 ###### top
 
 
+
+
 # Tomb of Annihilation Dramatis Personae
 
-- [Native inhabitants of Chult](#native-inhabitants-of-chult)
-- [Port Nyanzaru](#port-nyanzaru)
-    - [The _Brazen Pegasus_](#the-brazen-pegasus)
-- [Organizations](#organizations)
-    - [Player Factions](#player-factions)
-- [Historical and Famous Figures](#historical-and-famous-figures)
+
+### Native cultures of Chult
+- [Humans](#humans)
+- [Orcs and Half-Orcs](#orcs-and-half-orcs)
+- [Tabaxi](#tabaxi)
+- [Goblins and Hobgoblins](#batiri-goblins-and-hobgoblins)
+- [Grungs](#grungs)
+- [Elves and Half-Elves](#elves-and-half-elves)
+- [Tlincalli](#tlincalli)
+- [Dragonborn](#dragonborn)
+- [Lizardfolk](#lizardfolk)
+- [Aarakocra](#aarakocra)
+- [Dwarves](#dwarves)
+- [Thri-Kreen](#thri-kreen)
+- [Tieflings and Aasimar](#tieflings-and-aasimar)
+- [Pterafolk](#pterafolk)
+- [Gnomes and Halflings](#gnomes-and-halflings)
+- [Tortles](#tortles)
+- [Aldani](#aldani)
+
+### Port Nyanzaru [characters](#port-nyanzaru)
+- [Syndra Silvane](#syndra-silvane), your patron and friend
+- The [Merchant Princes](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#the-merchant-princes)
+- Mother of Prosperity [Sibonseni](#sibonseni-mother-of-prosperity)
+- Grandfather [Zitembe](#grandfather-zitembe)
+- Inns:
+  - [Erlathan Naeynore](#erlathan-naeynore)
+  - [Kaya](#kaya)
+- [Xandala Cinder](#xandala-cinder)
+- Harbormaster [Zindar](#harbormaster-zindar)
+- [Lerek Dashlynd](#lerek-dashlynd)
+- The [_Brazen Pegasus_](#the-brazen-pegasus)
+  - Captain Ortimay [Swift and Dark](#captain-ortimay-swift-and-dark)
+  - First Mate Grig [Ruddell](#first-mate-grig-ruddell)
+
+
+### Port Nyanzaru [organizations](#organizations)
+- The Ytepka [Society](#the-ytepka-society)
+- The [Flaming Fists](#the-flaming-fists)
+- Player [Factions](#player-factions)
+  - The [Harpers](#the-harpers)
+  - The [Zhentarim](#the-zhentarim)
+  - The [Lords' Alliance](#the-lords-alliance)
+  - The [Emerald Enclave](#the-emerald-enclave)
+  - The [Order of the Gauntlet](#the-order-of-the-gauntlet)
+
+### Historical and famous [figures](#historical-and-famous-figures)
+- [Aremag](#aremag)
+- The [_Tarrasque_](#the-tarrasque)
+- [Na N'buso](#na-nbuso)
+- [Ras Nsi](#ras-nsi)
+- [Drizzt Do'Urden](#drizzt-dourden)
+- The [Yuan-ti](#the-yuan-ti)
+- [Volothamp "Volo" Geddarm](#volothamp-volo-geddarm)
+- [Acererak](#acererak)
+
+---
+
+[Further Reading](#further-reading)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
@@ -33,42 +88,48 @@ Port Nyanzaru is a cosmopolitan city built on international trade: people from a
 # Batiri Goblins and Hobgoblins
 ![Batiri goblins](images/hobgoblins.jpg)
 
+# Grungs
+![Grungs](images/grungs.jpg)
+
 # Elves and Half-Elves
 ![Chultan Elves](images/chultan-elves.jpg)
 
-# Lizardfolk
-![Lizardfolk](images/lizardfolk.jpg)
+# Tlincalli
+![Tlincalli](images/tlincalli.jpg)
 
 # Dragonborn
 ![Chultan Dragonborn](images/chultan-dragonborn.jpg)
 
-# Dwarves
-![Chultan Dwarves](images/chultan-dwarves.jpg)
-
-# Tortles
-![Tortles](images/tortles.jpg)
-
-# Pterafolk
-![Pterafolk](images/pterafolk.jpg)
-
-# Tieflings and Aasimar
-![Chultan Tieflings and Aasimar](images/chultan-tieflings-and-aasimar.jpg)
-
-# Aarakocra
-![Aarakocra](images/aarakocra.jpg)
-
-# Gnomes and Halflings
-![Chultan Gnomes and Halflings](images/chultan-gnomes-halflings.jpg)
+# Lizardfolk
+![Lizardfolk](images/lizardfolk.jpg)
 
 # Thri-Kreen
 ![Chultan Thri-kreen](images/chultan-thri-kreen.jpg)
 
-# Grungs
-![Grungs](images/grungs.jpg)
+# Dwarves
+![Chultan Dwarves](images/chultan-dwarves.jpg)
+
+# Aarakocra
+![Aarakocra](images/aarakocra.jpg)
+
+# Tieflings and Aasimar
+![Chultan Tieflings and Aasimar](images/chultan-tieflings-and-aasimar.jpg)
+
+# Pterafolk
+![Pterafolk](images/pterafolk.jpg)
+
+# Gnomes and Halflings
+![Chultan Gnomes and Halflings](images/chultan-gnomes-halflings.jpg)
+
+# Tortles
+![Tortles](images/tortles.jpg)
+
+# Aldani
+![Aldani](images/aldani.jpg)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
-## _Port Nyanzaru:_
+## Port Nyanzaru characters
 
 # Syndra Silvane
 SIN-draw sil-VAIN is a [Tethyrian](https://forgottenrealms.fandom.com/wiki/Tethyrian) mage and **the party's employer and patron**. She's a trusted friend and mentor who has contracted the **Death Curse**; the disease is now so severe that Syndra can barely walk, and only slowly and with a cane. She has taken to wearing a silver mask and hood to hide the progression of the Death Curse.
@@ -76,11 +137,16 @@ SIN-draw sil-VAIN is a [Tethyrian](https://forgottenrealms.fandom.com/wiki/Tethy
 Syndra has brought the party to Port Nyanzaru in order to locate the source of the Death Curse, an artifact known as the Soulmonger, somewhere deep in the jungles of Chult. In Port Nyanzaru, Syndra is staying in the merchants' ward as a guest of the merchant prince and wizard Wakanga O'tamu.
 
 # The Merchant Princes
-![The Merchant Princes](images/merchant_princes.jpg)
+
+<a href="list_of_items_available_for_purchase_in_Port_Nyanzaru.md#top">
+
 > _Ekene-Afa - Ifan Talro'a - Jessamine - Jobal_
 >
 > _Kwayothé - Wakanga O'tamu - Zhanthi_
 
+![The Merchant Princes](images/merchant_princes.jpg)
+
+</a>
 
 Port Nyanzaru is controlled by a council of seven merchant princes, powerful native Chultans who organized a rebellion and took control of the city from the nation of Amn nine years ago. They conduct official city business in the Goldenthrone palace in the merchants' ward.
 
@@ -88,8 +154,8 @@ Each merchant prince **controls all selling and trading of certain types of good
 
 More information on the individual merchant princes can be found as part of the page on [items available for purchase in Port Nyanzaru](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#top).
 
-# Sibonseni, Mother of Prosperity
-Mother of Prosperity SEH-bone-SEN-ay is Port Nyanzaru's **high priestess of Waukeen**, the deity of trade and wealth, and the most powerful person in Port Nyanzaru besides the merchant princes. Many international merchants come to Port Nyanzaru just to seek out Sibonseni and her advice or blessing for important business deals. Among the city's own citizens, the Mother of Prosperity is known as a generous sharer of the wealth Waukeen has brought her temple. Nevertheless, the **Hall of Gold** in the market ward is by far the largest and most opulent temple in Port Nyanzaru.
+# Mother of Prosperity Sibonseni
+Mother of Prosperity SEH-bone-SEN-ay is Port Nyanzaru's **high priestess of Waukeen**, the deity of trade and wealth, and the most powerful person in Port Nyanzaru besides the merchant princes. Many international merchants come to Port Nyanzaru just to seek out Sibonseni and her advice or blessing for important business deals. Among the city's own citizens, the Mother of Prosperity is known as a generous sharer of the wealth Waukeen has brought her temple. Nevertheless, the [**Hall of Gold**](activities_in_Port_Nyanzaru.md#worshipping) in the market ward is by far the largest and most opulent temple in Port Nyanzaru.
 
 ![Mother of Prosperity Sibonseni](images/bar-owner-Lethhonel-Krisdan.png)
 
@@ -99,7 +165,7 @@ Grandfather zeh-TEM-bay is the high priest at the [**Temple of Savras**](activit
 ![Grandfather Zitembe](images/Musharib.jpg)
 
 # Erlathan Naeynore
-The owner and usual bartender at the [Thundering Lizard Inn and Tavern](activities_in_Port_Nyanzaru.md#port-nyanzaru-the-thundering-lizard-tavern). Erlathan made his fortune as a gladiator in the Grand Coliseum, and in spite of the stern tone he sometimes takes with fools he tolerates quite a lot of rough behavior inside the Thundering Lizard.
+The owner and usual bartender at the [Thundering Lizard Inn and Tavern](activities_in_Port_Nyanzaru.md#port-nyanzaru-the-thundering-lizard-tavern). Naeynore made his fortune as a gladiator in the Grand Coliseum, and in spite of the stern tone he sometimes takes with fools Erlathan tolerates quite a lot of rough behavior inside the Thundering Lizard.
 
 ![Erlathan Naeynore](images/bartender-Erlathan-Naeynore.jpg)
 
@@ -142,7 +208,7 @@ Somewhere in the labyrinthian harbor ward of Port Nyanzaru is a fast sailing shi
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
-### _Organizations:_
+### Port Nyanzaru organizations
 
 # The Ytepka Society
 The yeh-TEP-kah Society, also known as the **Triceratops Society**, is an anonymous and obscure organization with the declared aim of protecting Chultans from the abuses of tyrants and malicious foreign powers. Those who upset the Society quietly receive a triceratops-shaped token as a [warning](list_of_items_available_for_purchase_in_Port_Nyanzaru.md#jessamine) to change their ways.
@@ -212,29 +278,33 @@ Paladins and clerics of the deities Tyr, Helm, and Torm recently established the
 > ![Malexus](images/malexus.png)
 
 > ## Vindicator Niles Breakbone
-> The current commander of Camp Vengeance is a young and untested [Chondathan](https://forgottenrealms.fandom.com/wiki/Chondathan) noble named Niles Breakbone. He's a paladin of [Tyr](https://forgottenrealms.fandom.com/wiki/Tyr), and a newly-minted _Vindicator_ of the Order, who has come to Chult with a vague dream of somehow ending the undead plague that has stolen the Chultans' homeland from them. The Silverymoon [bloodhawk](https://5thsrd.org/gamemaster_rules/monsters/blood_hawk/) depicted in his portrait died shortly after Niles entered the jungle, and ever since he arrived at Camp Vengeance the young Vindicator Breakbone has been struggling to train a baby pteradon in falconry.
+> The current commander of Camp Vengeance is a young and untested [Chondathan](https://forgottenrealms.fandom.com/wiki/Chondathan) noble named Niles Breakbone. He's a paladin of [Tyr](https://forgottenrealms.fandom.com/wiki/Tyr), and a newly-minted _Vindicator_ of the Order, who has come to Chult with a vague dream of proving himself by somehow miraculasly finding a solution to Chult's century-old undead pestilence. The Silverymoon [bloodhawk](https://5thsrd.org/gamemaster_rules/monsters/blood_hawk/) depicted in his portrait died shortly after Vindicator Breakbone entered the jungle, and since arriving at camp Niles has been struggling to teach falconry to a baby pteradon.
 > 
 > ![Niles Breakbone](images/lord-mayer-olin-keetes.jpg)
 
 ![immovable rod](../../images/immovable-rod.jpg)
 
-### _Historical and Famous Figures:_
+### Historical and famous figures
 
 # Aremag
-![Aremag the Dragon Turtle waylays a sailing ship](images/aremag_wotc.jpg)
-
 A gargantuan dragon turtle called Aremag patrols the Bay of Chult, demanding treasure from ships passing through on their way to or from Port Nyanzaru. There's too much traffic for Aremag to catch every single ship that sails through, and Aremag doesn't appreciate slow or uncomprehending crews who delay her hunting. Aremag won't hesitate to sink an uncooperative or fast-talking ship so that she can simply pick out the treasure at her leisure later that night, when the bay is less busy.
 
-Although a drag on trade, many citizens of Port Nyanzaru have become fond of Aremag because she's a famous symbol of the city, or perhaps because so many of the captains sunk by the gargantuan beast, after being rescued by a more sensible captain, later turn out to be loud and arrogant fools. Aremag is quite happy with her straightforward life of intimidating tiny ships and collecting a hoard of exotic treasures, and the beast is largely unaware of the concerns of the city.
+Although a drag on trade, many citizens of Port Nyanzaru have become fond of Aremag because she's a famous symbol of the city, or perhaps because so many of the captains sunk by the gargantuan beast, after being rescued by a more sensible captain, later turn out to be loud and arrogant fools. Aremag is quite happy with her straightforward life of intimidating tiny ships and collecting a hoard of exotic treasures, and largely ignores the city.
+
+![Aremag the Dragon Turtle waylays a sailing ship](images/aremag_wotc.jpg)
+
+---
 
 # The _Tarrasque_
-Tall tales of the return of the _Tarrasque_ have always been a popular topic in the taverns of Faerûn, but something has been subtly different since you arrived in Port Nyanzaru. Many Chultans are still mocking the storytellers who claim to have been to the deepest jungles of the interior, but others have a quiet seriousness and urgency to their questioning. With the recent rise of the Death Curse, the growing aggressiveness of the undead, and the re-awakening of long-dormant volcanoes, it's no wonder that Chultans are considering the further catastrophic possibility of the return of the _Tarrasque_. If the mythological prophecy __is__ finally occurring, and the _Tarrasque_ __has__ risen, then it is coming to consume - and bring the apocalyptic final end to - the entire world of Toril.
+Tall tales of the return of the _Tarrasque_ have always been a popular topic in the taverns of Faerûn, but something has been subtly different since you arrived in Port Nyanzaru. Many Chultans are still mocking the storytellers who claim to have been to the deepest jungles of the interior, but others have a quiet seriousness and urgency to their questioning. With the recent rise of the Death Curse, the growing aggressiveness of the undead, and the re-awakening of long-dormant volcanoes, it's no wonder that Chultans are considering the further catastrophic possibility of the return of the _Tarrasque_. If the legendary prophecy __is__ finally occurring, and the _Tarrasque_ __has__ risen, then it is coming to consume - and bring the apocalyptic final end to - the entire world of Toril.
 
 Beginning with Chult.
 
 ![The _Tarrasque_](images/tarrasque.png)
 
-_Mythological depictions of the coming of the **Tarrasque**._
+_Ancient depictions of the coming of the **Tarrasque**._
+
+---
 
 # Na N'buso
 An ancient Chultan king. A modern statue of Na N'buso in full regalia graces the entrance to the harbor of Port Nyanzaru.
@@ -245,7 +315,7 @@ RAZ nuh-SEE was a warlord who tried to conquer the Chultan city of **Mezro** wit
 # Drizzt Do'Urden
 A famous drow elf known throughout Faerûn. The stories of the adventures of Drizzt and his companions in the Icewind Dale are a popular request for bards across the forgotten realms of Faerûn.
 
-# Yuan-ti
+# The Yuan-ti
 Millennia ago, all of Faerûn suffered under the cruel, world-spanning empire of the Yuan-ti: humans who worshipped serpents as the ultimate symbol of beauty and power. At the apex of the Yuan-ti's civilization, their high priests performed an unholy ritual with thousands of living sacrifices in order to make themselves immortal, and to transform their bodies into the form of immense and powerful serpents.
 
 The ritual was disrupted, however, and the Yuan-ti were instead transformed into hideous half-human forms. The high priests turned on each other, sparking a brutal civil war across the entire empire. In response, the many conquered peoples of Faerûn began to resist the empire and throw off the yoke of the Yuan-ti.
@@ -265,11 +335,13 @@ VOH-loh-thamp geh-DARM is a famed human explorer currently in Port Nyanzaru as p
 ![immovable rod](../../images/immovable-rod.jpg)
 
 # **_Acererak_**
-Born to an Age that was already forgotten before the earliest elven civilizations laid their first brick, Acererak is an immortal _**Lich**_ of unimaginable and sublime power. Wielding magic that easily dwarfs that of Faerûn's greatest deities, Acererak travels far and wide through the Astral Plane, wandering the uncounted worlds that can be reached from there while watching and manipulating the lives of both mortals and gods for his own amusement.
+Before the earliest Elven civilizations on the most primordial planes had even smelted copper, the Age and civilization that birthed the immortal __Acererak__ had already been forgotten. Acererak was once a mortal wizard but has become a __Lich__ of sublime and unimaginable power: his undying soul is stored and protected within dozens of phylactories that Acererak has scattered across the planes and buried in secret, trap-filled vaults. With a single thought the Lich can project a physical body into any world he desires, and Acererak uses such bodies to travel far and wide through the Astral Plane, wandering the uncountable worlds reachable from there. Wielding power far beyond even the oldest and greatest Faerûn deities, Acererak watches and toys with the lives of both mortals and gods to sate his venerable and insatiable boredom.
 
-[Obscure texts](https://en.wikipedia.org/wiki/Tomb_of_Horrors) tell the story of an ancient world named **Oerth**, where Acererak constructed an immense dungeon that he filled with powerful artifacts made from fragments of his own power. Vast armies' worth of adventurers were lured to their final death by the treasure in that ancient slaughterhouse, arrogantly underestimating the power and cruelty of Acererak.
+Obscure texts tell the story of an ancient world named **Oerth**, where Acererak constructed an immense dungeon that he filled with powerful artifacts made from fragments of his own power. Vast armies' worth of adventurers were lured to their final death by the treasure in that ancient slaughterhouse, arrogantly underestimating the power and cruelty of Acererak. Long before it was finally defeated and destroyed, Acererak's dungeon had earned its morbid nickname of the _**Tomb of Horrors**_.
 
-Today, only a few fragments of that myth are still remembered in Faerûn, where they're retold as the popular, but now mostly untrue, stories of the _**Tomb of Horrors**_.
+Of course, Faerûn's [bards](https://en.wikipedia.org/wiki/Tomb_of_Horrors) tell all kinds of nonsense stories like that.
+
+![Acererak](images/demilich.jpg)
 
 ![The Soulmonger](../the-soulmonger.png)
 
@@ -281,7 +353,7 @@ Today, only a few fragments of that myth are still remembered in Faerûn, where 
 
 - [__Tomb of Annihilation__ adventure introduction](introduction.md#top)
   - [Welcome to Chult](introduction.md#welcome-to-chult)
-- [Welcome to Port Nyanzaru](Port_Nyanzaru.md#top)
+- [Welcome to Port Nyanzaru!](Port_Nyanzaru.md#top)
 - [Character creation](character_creation.md#top)
   - [Background options](character_creation.md#background-options)
 - [Tomb of Annihilation homepage](README.md#top)

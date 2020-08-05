@@ -32,7 +32,7 @@ Each of the seven merchant princes who rule Port Nyanzaru controls the selling a
 ![The Merchant Princes](images/merchant_princes.jpg)
 
 ## Mundane Items
-All [mundane items in the _Player's Handbook_](https://5thsrd.org/adventuring/equipment/adventuring_gear/) are available for purchase at their normal price, except that **heavy armor** is rare in Chult and costs triple the normal price. The tables on this page include additional items not found in the _Player's Handbook_.
+All [mundane items in the _Player's Handbook_](https://5thsrd.org/adventuring/equipment/adventuring_gear/) are available for purchase at their normal price, except that **heavy armor** is rare in Chult and costs triple the normal price. The tables on this page include a subset of those mundane items, and additional items not found in the _Player's Handbook_.
 
 ## The Four Markets
 There are four major markets in Port Nyanzaru, each specializing in different types of goods. The party can [buy or sell items](activities_in_Port_Nyanzaru.md#buying-mundane-items) by visiting the appropriate market during their [downtime days](activities_in_Port_Nyanzaru.md#downtime-day-activities).
