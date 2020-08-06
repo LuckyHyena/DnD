@@ -75,9 +75,9 @@ Syndra Silvane has been buying maps and casting divination spells in Port Nyanza
 
 # Further reading
 
-[Dramatis Personae](dramatis_personae.md#port-nyanzaru-characters)
+[Inhabitants](chultans.md#top) of Chult
 
-- [Inhabitants](dramatis_personae.md#native-inhabitants-of-chult) of Chult
+[Dramatis Personae](dramatis_personae.md#port-nyanzaru-characters)
 
 [Welcome to Port Nyanzaru!](Port_Nyanzaru.md#top)
 

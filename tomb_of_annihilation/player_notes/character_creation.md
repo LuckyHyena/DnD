@@ -200,7 +200,7 @@ I've been trying to cram every memorable creature in the 5e Monster Manual into 
 
 The Yuan-ti speak Primordial.
 
-![Vegepygmies](images/Vegepygmy-5e.jpg)
+![Vegepygmies](images/decor/Vegepygmy-5e.jpg)
 
 _Vegepygmies, one of the many terrifying plant-based dangers in Chult._
 
