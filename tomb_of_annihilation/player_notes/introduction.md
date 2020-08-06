@@ -46,7 +46,7 @@ _Somewhere in the jungles of **Chult**, the Soulmonger leeches life from those s
 ## Map of Chult
 Syndra Silvane has been buying maps and casting divination spells in Port Nyanzaru, and she's sifted and assembled the reliable information into what is likely the most extensive map in all Toril of Chult's coastline and modern interior:
 
-> 1 hex on the Chult adventuring map is between 10 miles and 15 kilometers across.
+> One hex on the Chult adventuring map is between 10 miles and 15 kilometers across.
 
 ![Map of Chult](images/places/chult_player_map.jpg)
 
@@ -76,6 +76,7 @@ Syndra Silvane has been buying maps and casting divination spells in Port Nyanza
 # Further reading
 
 [Dramatis Personae](dramatis_personae.md#port-nyanzaru-characters)
+
 - [Inhabitants](dramatis_personae.md#native-inhabitants-of-chult) of Chult
 
 [Welcome to Port Nyanzaru!](Port_Nyanzaru.md#top)
