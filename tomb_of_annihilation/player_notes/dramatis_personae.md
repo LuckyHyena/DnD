@@ -125,12 +125,12 @@ Somewhere in the labyrinthian harbor ward of Port Nyanzaru is a fast sailing shi
 > **Help Wanted:** Captain Swift and Dark and her crew on The Brazen Pegasus take whatever jobs they can find, and often fall back on protecting ships from the pirates of the Shining Sea. While in Port Nyanzaru they're usually on the lookout for skilled sailors and soldiers who might have an interest in joining the Brazen Pegasus's crew, [hunting pirates out of the Bay of Chult](Port_Nyanzaru_activities.md#hunting-pirates).
 
 ## Captain Ortimay Swift and Dark
-OR-teh-may Swift and Dark is the captain of the Brazen Pegasus and a rock gnome. Like many gnomes, she has a diverse variety of interests and an impatient passion for life, but above all else Captain Swift and Dark has an unmistakable _talent_ for hunting pirates.
+OR-teh-may Swift and Dark is the captain of the Brazen Pegasus and a rock gnome. Like many gnomes, she has a diverse variety of interests and an impatient passion for life, but above all else the hotheaded Captain Swift and Dark has an unmistakable _talent_ for hunting pirates.
 
 ![Captain Swift and Dark](images/characters/captain-ortimay-swift-and-dark.jpg)
 
 ## First Mate Grig Ruddell
-An Illuskan human and the first mate on the Brazen Pegasus. Ruddell has a retiring personality, and is definitely getting too old for the life of a sailor, but his literal retirement gave him enough cabin fever that Grig was eventually driven back out onto the Brazen Pegasus and the Shining Sea.
+An Illuskan human and the first mate on the Brazen Pegasus. Ruddell has a retiring personality, and is definitely getting too old for the life of a sailor, but his literal retirement drove the workaholic Grig crazy enough to go back out onto the Brazen Pegasus and the Shining Sea.
 
 ![Grig Ruddel](images/characters/rough-bartender-Waldwick-Crowley.jpg)
 
