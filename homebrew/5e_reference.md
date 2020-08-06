@@ -84,7 +84,7 @@ __Appendix B: [Official rules quotes](#appendix-b-official-rules-quotes)__
 ## Everyday problems
 
 # Ability Checks
-In fifth edition D&D's [bounded accuracy] mathematics, these difficulty classes are universal for all power levels and situations. When thinking about a task, ask how hard it would be for a "normal human" to do, and compare with this scale:
+In fifth edition D&D's [bounded accuracy](https://www.dandwiki.com/wiki/Understanding_Bounded_Accuracy_(5e_Guideline)) mathematics, these difficulty classes are universal for all power levels and situations. When thinking about a task, ask how hard it would be for a "normal human" to do, and compare with this scale:
 
 |Ability Check DC:|5|10|15|20|25|30|
 |----------------|-|--|--|--|--|--|
