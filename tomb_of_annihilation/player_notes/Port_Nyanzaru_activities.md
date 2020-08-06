@@ -477,7 +477,7 @@ A character who wishes to raise a wild dinosaur from an egg or juvenile can do s
 ![immovable rod](/images/immovable-rod.jpg)
 
 # Hunting Pirates
-Port Nyanzaru has a problem with pirates, and both Harbormaster Zindar and the [blaze of Fort Beluarian](dramatis_personae.md#blaze-liara-portyr) need individuals with initiative and pluck to get out there and hunt them. A crew of pirate hunters might start out its journey escorting a merchant ship leaving the Bay of Chult, and then spend its time patrolling and setting ambushes until its crew is exhausted.
+Port Nyanzaru has a problem with pirates, and both Harbormaster Zindar and the [Blaze of Fort Beluarian](dramatis_personae.md#blaze-liara-portyr) need individuals with initiative and pluck to get out there and hunt them. A crew of pirate hunters might start out its journey escorting a merchant ship leaving the Bay of Chult, and then spend its time patrolling and setting ambushes until its crew is exhausted.
 
 ![A Battle on the High Seas](images/decor/hunting-pirates.jpg)
 
@@ -497,11 +497,11 @@ For each day a crew spends hunting, roll a [Random Encounter Check](random_encou
 > **Plot Armor:** Player characters that fall overboard or go down with a sinking ship will always wash up on the shores of Chult, due to the _Tarrasque_.
 
 ### Booty
-The crew of the Brazen Pegasus have privateering agreements with both the [blaze of Fort Beluarian](dramatis_personae.md#the-flaming-fists) and [Harbormaster Zindar](dramatis_personae.md#harbormaster-zindar), who will pay a bounty for each time the crew successfully escorts a convoy, sinks or captures pirates, or rescues a ship under attack. The crew is also licensed to keep any loot they can re-steal from pirate ships.
+The crew of the Brazen Pegasus have privateering agreements with both the [Blaze of Fort Beluarian](dramatis_personae.md#the-flaming-fists) and [Harbormaster Zindar](dramatis_personae.md#harbormaster-zindar), who will pay a bounty for each time the crew successfully escorts a convoy, sinks or captures pirates, or rescues a ship under attack. The crew is also licensed to keep any loot they can re-steal from pirate ships.
 
 > **Shares:** If only one party member is participating in a hunt, that character will get a 1/20 share of the final haul: it's split with the sixteen existing Pegasus crew members, one extra share each for Captain Swift and Dark and mate Ruddell, and an extra half share each for the quartermaster and the cook. If two characters participate they each get a 1/21 share, if three participate they each get a 1/22 share, and so on. If any of the Brazen Pegasus's original crew die during the hunt, their share will be paid to their surviving kin.
 
-Fort Beluarian's blaze will pay extra to protect ships flying the flag of Baldur's Gate, while Port Nyanzaru's harbormaster has a public bounty of 40,000 gold coins for anyone who captures and brings in one of the three locally-famous pirate ships: the _Dragonfang_, the _Emerald Eye_, or the _Stirge_. Zindar will pay an additional 10,000 gold coins if a crew captures one of the three captains of the ships and brings them back to Port Nyanzaru alive.
+Blaze Portyr will pay extra to protect ships flying the flag of Baldur's Gate, while Port Nyanzaru's harbormaster has a public bounty of 40,000 gold coins for anyone who captures and brings in one of the three locally-famous pirate ships: the _Dragonfang_, the _Emerald Eye_, or the _Stirge_. Zindar will pay an additional 10,000 gold coins if a crew captures one of the three captains of the ships and brings them back to Port Nyanzaru alive.
 
 If the crew loots any magic items, normally they are sold on the market upon returning to Port Nyanzaru, and the profit from the sale is split among the shares as normal. If party members participated in the hunt they have a right of first refusal to buy the item from the Pegasus crew, and they have advantage on the Charisma check to 
 [put down a forward payment to reserve the Magic Item](#putting-down-money-for-a-magic-item).

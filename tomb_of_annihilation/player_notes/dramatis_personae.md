@@ -124,15 +124,15 @@ Somewhere in the labyrinthian harbor ward of Port Nyanzaru is a fast sailing shi
 
 > **Help Wanted:** Captain Swift and Dark and her crew on The Brazen Pegasus take whatever jobs they can find, and often fall back on protecting ships from the pirates of the Shining Sea. While in Port Nyanzaru they're usually on the lookout for skilled sailors and soldiers who might have an interest in joining the Brazen Pegasus's crew, [hunting pirates out of the Bay of Chult](Port_Nyanzaru_activities.md#hunting-pirates).
 
-> ## Captain Ortimay Swift and Dark
-> OR-teh-may Swift and Dark is the captain of the Brazen Pegasus and a rock gnome. Like many gnomes, she has a diverse variety of interests and an impatient passion for life, but above all else Captain Swift and Dark has an unmistakable _talent_ for hunting pirates.
-> 
-> ![Captain Swift and Dark](images/characters/captain-ortimay-swift-and-dark.jpg)
+## Captain Ortimay Swift and Dark
+OR-teh-may Swift and Dark is the captain of the Brazen Pegasus and a rock gnome. Like many gnomes, she has a diverse variety of interests and an impatient passion for life, but above all else Captain Swift and Dark has an unmistakable _talent_ for hunting pirates.
 
-> ## First Mate Grig Ruddell
-> An Illuskan human and the first mate on the Brazen Pegasus. Ruddell has a retiring personality, and is definitely getting too old for the life of a sailor, but his literal retirement gave him enough cabin fever that Grig was eventually driven back out onto the Brazen Pegasus and the Shining Sea.
-> 
-> ![Grig Ruddel](images/characters/rough-bartender-Waldwick-Crowley.jpg)
+![Captain Swift and Dark](images/characters/captain-ortimay-swift-and-dark.jpg)
+
+## First Mate Grig Ruddell
+An Illuskan human and the first mate on the Brazen Pegasus. Ruddell has a retiring personality, and is definitely getting too old for the life of a sailor, but his literal retirement gave him enough cabin fever that Grig was eventually driven back out onto the Brazen Pegasus and the Shining Sea.
+
+![Grig Ruddel](images/characters/rough-bartender-Waldwick-Crowley.jpg)
 
 ![immovable rod](/images/immovable-rod.jpg)
 
@@ -154,9 +154,17 @@ The official mercenary company of the wealthy foreign city of **Baldur's Gate**,
 
 > ## Blaze Liara Portyr
 > 
-> lee-AR-ah por-TEER is the current commander of Fort Beluarian, and holds the Flaming Fist rank of *Blaze*. The Blaze Portyr is a career soldier who comes from the important Portyr family in Baldur's Gate. She's related to one of the four current Lords of Baldur's Gate, but as a Blaze she answers only to Grand Duke Ulder Ravengard, a fellow career officer of the Flaming Fist.
+> lee-AR-ah por-TEER is the current commander of Fort Beluarian, and holds the Flaming Fist rank of Blaze. The Blaze Portyr is a career soldier who comes from the important Portyr family in Baldur's Gate. She's related to one of the four current Lords of Baldur's Gate, but as a Blaze she answers only to Grand Duke Ulder Ravengard, a fellow career officer of the Flaming Fist.
 > 
 > ![Liara Portyr](images/characters/Liara_Portyr.jpg)
+
+---
+
+# Kir Sabal
+
+Kir Sabal is a monastery built into the side of a sheer cliff face, hundreds of feet above the jungle, and there's no path or stair to reach the structure from the ground. Tha Aarakocra who inhabit Kir Sabal are protected from most dangers simply by virtue of their isolated home, but the monks of the monastery also practice a unique form of martial arts: called Akoka, it teaches an Aarakocra monk how to use their powerful wings to make powerful unarmed strikes and overwhelm their enemies.
+
+![Aarakocra](images/chultans/aarakocra.jpg)
 
 ![immovable rod](/images/immovable-rod.jpg)
 
@@ -169,7 +177,7 @@ _From left to right: Harpers, Zhentarim, Lords' Alliance, Emerald Enclave, and t
 An underground network of freedom-loving bards, rogues, mages, and others who [work throughout](https://dnd.wizards.com/dungeons-and-dragons/story/faction/harpers) Faerûn to oppose tyrants and the abuses of the powerful.
 
 > ## Nivri Snowfang
-> Nivri Snowfang is a Harper _Bright Candle_, and Harper members' official contact in Port Nyanzaru (and therefore all of Chult). Snowfang is an _arcane trickster_ rogue who lives a comfortable life skimming from the immense wealth of Port Nyanzaru, enjoying the local luxuries, racing in the difficult two-legged dinosaur races and betting on herself, all while keeping an ear to the ground for information useful to the Harpers. [Syndra Silvane](#syndra-silvane) is a Harper _Wise Owl_, and Nivri is one of Silvane's trusted contacts for scrounging up information on Chult and the Soulmonger.
+> Nivri Snowfang works for the Harpers as a Bright Candle, and she's Harper members' official contact in Port Nyanzaru (and therefore all of Chult). Nivri is an arcane trickster rogue who lives a comfortable life skimming from the immense wealth of Port Nyanzaru, enjoying the local luxuries, racing in the difficult two-legged dinosaur races and betting on herself, all while keeping an ear to the ground for information useful to the Harpers. [Syndra Silvane](#syndra-silvane) is a Harper Wise Owl, and Nivri is one of Silvane's trusted contacts for scrounging up information on Chult and the Soulmonger.
 > 
 > ![Nivri Snowfang](images/characters/nivri_snowfang.jpeg)
 
@@ -177,7 +185,7 @@ An underground network of freedom-loving bards, rogues, mages, and others who [w
 Zhentarim mercenaries are renowned across Faerûn as the best money can buy, and the foreign mercenary company is [commonly employed](https://dnd.wizards.com/dungeons-and-dragons/story/faction/zhentarim) in Chult to provide city guards, personal bodyguards, and protection for mines and logging camps in the jungle.
 
 > ## Kuraz
-> Kuraz the orc is the _Viper_ in charge of day-to-day Zhentarim operations in Chult. There are plenty of opportunities in Chult for an ambitious young Zhent to make a name for themself, but the lazy Kuraz considers his current station to be a rather cushy gig: he's content to stay out of trouble with [Ekene-Afa](Port_Nyanzaru_items.md#ekene-afa) and sell the Black Network's services as a legitimate mercenary company. When not dealing with Zhentarim business in the merchants' ward, the _champion_ fighter Karuz is usually either carousing in the vicinity of one of Port Nyanzaru's various [combat arenas](Port_Nyanzaru_activities.md#fighting), or parading around on his showy, but rather tame, personal tyrannosaur.
+> Kuraz the orc is the Viper in charge of day-to-day Zhentarim operations in Chult. There are plenty of opportunities in Chult for an ambitious young Zhent to make a name for themself, but the lazy Kuraz considers his current station to be a rather cushy gig: he's content to stay out of trouble with [Ekene-Afa](Port_Nyanzaru_items.md#ekene-afa) and sell the Black Network's services as a legitimate mercenary company. When not dealing with Zhentarim business in the merchants' ward, the [champion](https://www.dndbeyond.com/classes/fighter#Champion) fighter Kuraz is usually either carousing in the vicinity of one of Port Nyanzaru's various [combat arenas](Port_Nyanzaru_activities.md#fighting), or parading around on his showy, but rather tame, personal tyrannosaur.
 > 
 > ![Kuraz](images/characters/kuraz.png)
 
@@ -185,7 +193,7 @@ Zhentarim mercenaries are renowned across Faerûn as the best money can buy, and
 A loose coalition of Sword Coast cities, lords, and merchants working together to defend civilization, keep the peace, and maintain stability in the face of the incredible powers and forces that wreak havoc across Faerûn. Lords' Alliance members are usually concerned with events in the Sword Coast area, [significantly North](introduction.md#welcome-to-chult) of Chult, but the various Lords maintain [agents and spies](https://dnd.wizards.com/dungeons-and-dragons/story/faction/lordsalliance) almost everywhere in Faerûn.
 
 > ## Tsaubra McGee
-> Tsaubra McGee is a golden dragonborn, a paladin sworn to the _Oath of Redemption_, and a popular dyemaster in Port Nyanzaru's [dyers' guild](Port_Nyanzaru_activities.md#dyeing). Tsaubra's work selling and managing large dying jobs gives him access to people and places all over the city, and the _Stingblade_ is able to spy for the Open Lord of Waterdeep while throwing suspicion off his behavior with either the excuse of gathering info for future guild work, or explaining it away as a part of his well-publicized artistic eccentricity. Tsaubra used to own and race a triceratops, but he's now trying to keep a lower profile: he can still be found in the crowd most tenth-days carousing and gambling on the races.
+> Tsaubra McGee is a golden dragonborn, a paladin sworn to the Oath of Redemption, and a popular dyemaster in Port Nyanzaru's [dyers' guild](Port_Nyanzaru_activities.md#dyeing). Tsaubra's work selling and managing large dying jobs gives him access to people and places all over the city, and the Stingblade is able to spy for the Open Lord of Waterdeep while throwing suspicion off his behavior with either the excuse of gathering info for future guild work, or explaining it away as a part of his well-publicized artistic eccentricity. Tsaubra used to own and race a triceratops, but he's now trying to keep a lower profile: he can still be found in the crowd most tenth-days carousing and gambling on the races.
 > 
 > ![Tsaubra McGee](images/characters/Tsaubra%20Mcgee.jpeg)
 
@@ -193,20 +201,20 @@ A loose coalition of Sword Coast cities, lords, and merchants working together t
 An ancient organization of druids, rangers, and others who oppose threats to the natural world, and help the innocent survive the many perils of the wild. The Emerald Enclave does have members who patrol the deep Chultan jungles, but almost all Enclave members [operate in isolation](https://dnd.wizards.com/dungeons-and-dragons/story/faction/emeraldenclave), and Chult is far too large for any single individual to ever master.
 
 > ## Danbul Thistletop
-> The lightfoot halfling Danbul Thistletop is an _Autumn Reaver_ in the Emerald Enclave, and he's members' point of contact in Port Nyanzaru and the Bay of Chult. The _beastmaster_ ranger has an affinity for all the dinosaurs of Chult, and Danbul can usually be found at or summoned to the [Tiryki anchorage](Port_Nyanzaru.md#tiryki-anchorage) within a few days. He's an utterly ruthless [gamer](Port_Nyanzaru_activities.md#gaming) and dinosaur racer.
+> The lightfoot halfling Danbul Thistletop is an Autumn Reaver in the Emerald Enclave, and he's members' point of contact in Port Nyanzaru and the Bay of Chult. The Beastmaster Ranger has an affinity for all the dinosaurs of Chult, and Danbul can usually be found at or summoned to the [Tiryki anchorage](Port_Nyanzaru.md#tiryki-anchorage) within a few days. He's an utterly ruthless [gamer](Port_Nyanzaru_activities.md#gaming) and dinosaur racer.
 > 
 > ![Danbul Thistletop](images/characters/danbul-thistletop.png)
 
 # The Order of the Gauntlet
-Paladins and clerics of the deities Tyr, Helm, and Torm recently established the Order of the Gauntlet in order to better fight the evils of Faerûn. In Chult, the foreign Order established **Camp Righteous** deep in the jungle in order to fight the undead menace there and provide assistance to travellers. As the undead became more aggressive in the past few years Camp Righteous was overrun. Undeterred, the Order has established **Camp Vengeance** even deeper in the interior, where they [continue their efforts](https://dnd.wizards.com/dungeons-and-dragons/story/faction/ordergauntlet) to purge the undead from the jungle.
+Paladins and clerics of the deities Tyr, Helm, and Torm recently established the Order of the Gauntlet in order to better [fight the evils of Faerûn](https://dnd.wizards.com/dungeons-and-dragons/story/faction/ordergauntlet). In Chult, the foreign Order established **Camp Righteous** deep in the jungle in order to fight the undead menace there and provide assistance to travellers. As the undead became more aggressive in the past few years Camp Righteous was overrun. Undeterred, the Order has established **Camp Vengeance** even deeper in the interior, where they continue their efforts to purge the undead from the jungle.
 
 > ## Malexus
-> A tiefling bard of _valor_ named Malexus is the Order's agent in Port Nyanzaru itself, outside of Camp Vengeance. Malexus's status as a _White Hawk_ in the Order of the Gauntlet is only a semi-open secret, which allows him to more easily keep an eye on the merchants, clerics, and mages that keep Camp Vengeance supplied, all while listening for information that might be useful to the Order in the streets of the international city. Most days Malexus can be found alongside his beloved dimetrodon [performing](Port_Nyanzaru_activities.md#port-nyanzaru-street-performers) in Port Nyanzaru for a carefully-placed crowd, often in the Grand Souk, or one of the many Port Nyanzaru taverns where business deals are negotiated.
+> A tiefling bard of valor named Malexus is the Order's agent in Port Nyanzaru itself, outside of Camp Vengeance. Malexus's status as a White Hawk in the Order of the Gauntlet is only a semi-open secret, which allows him to more easily keep an eye on the merchants, clerics, and mages that keep Camp Vengeance supplied, all while listening for information that might be useful to the Order in the streets of the international city. Most days Malexus can be found alongside his beloved dimetrodon [performing](Port_Nyanzaru_activities.md#port-nyanzaru-street-performers) in Port Nyanzaru for a carefully-placed crowd, often in the Grand Souk, or one of the many Port Nyanzaru taverns where business deals are negotiated.
 > 
 > ![Malexus](images/characters/malexus.png)
 
 > ## Vindicator Niles Breakbone
-> The current commander of Camp Vengeance is a young and untested [Chondathan](https://forgottenrealms.fandom.com/wiki/Chondathan) noble named Niles Breakbone. He's a _Oath of Devotion_ paladin of [Tyr](https://forgottenrealms.fandom.com/wiki/Tyr), and a newly-minted _Vindicator_ of the Order of the Gauntlet, who has come to Chult with a vague dream of proving himself by somehow miraculasly finding a solution to Chult's century-old undead pestilence. The Silverymoon [bloodhawk](https://5thsrd.org/gamemaster_rules/monsters/blood_hawk/) depicted in his portrait died shortly after Vindicator Breakbone entered the jungle, and since arriving at camp Niles has been struggling to teach falconry to a baby pteradon.
+> The current commander of Camp Vengeance is a young and untested [Chondathan](https://forgottenrealms.fandom.com/wiki/Chondathan) noble named Niles Breakbone. He's an Oath of Devotion Paladin of [Tyr](https://forgottenrealms.fandom.com/wiki/Tyr), and a newly-minted Vindicator of the Order of the Gauntlet, who has come to Chult with a vague dream of proving himself by somehow miraculasly finding a solution to Chult's century-old undead pestilence. The Silverymoon [bloodhawk](https://5thsrd.org/gamemaster_rules/monsters/blood_hawk/) depicted in his portrait died shortly after Breakbone entered the jungle, and since arriving at the camp Niles has been struggling to teach falconry to a baby pteradon.
 > 
 > ![Niles Breakbone](images/characters/lord-mayer-olin-keetes.jpg)
 
