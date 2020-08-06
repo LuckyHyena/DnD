@@ -8,13 +8,13 @@ _Standard 5e rules that I like but which I commonly forget during play._
 
 ---
 
-> #### **Homebrew Definitions:**
+> #### **Core Homebrew Definitions:**
 >
 > Creatures that aren't [_incapacitated_](https://5thsrd.org/rules/conditions/#incapacitated) are **able to act**.
 > 
 > Creatures that aren't _immobile_ are **able to move**.
 > 
-> Creatures are _immobile_ if they are _grappled_, _paralyzed_, _petrified_, _stunned_, _unconscious_, or their speed is `0`.
+> Creatures are _immobile_ if: they are grappled, paralyzed, petrified, stunned, unconscious, their speed is `0`, or any other effect is preventing them from moving.
 >
 > #### Movement [__*Speed Penalties*__](#movement-speed-penalties-1):
 > 
@@ -72,6 +72,10 @@ __Using your hands:__
 - To be [a cowardly spellcaster](#to-be-a-cowardly-spellcaster)
 - To do [strange and exotic things](#to-do-strange-and-exotic-things)
 
+__Appendix A: [Homebrew definitions](#appendix-a-homebrew-definitions)__
+
+__Appendix B: [Official rules quotes](#appendix-b-official-rules-quotes)__
+
 
 [To bottom links](#bottom-links)
 
@@ -80,9 +84,33 @@ __Using your hands:__
 ## Everyday problems
 
 # Ability Checks
+In fifth edition D&D's [bounded accuracy] mathematics, these difficulty classes are universal for all power levels and situations. When thinking about a task, ask how hard it would be for a "normal human" to do, and compare with this scale:
+
 |Ability Check DC:|5|10|15|20|25|30|
 |----------------|-|--|--|--|--|--|
 |Difficulty of the task:|Very Easy|Easy|Moderate|Hard|Very Hard|Nearly Impossible|
+
+---
+
+## Example Difficulty Classes
+Here are some examples of 5e power levels in terms of attack rolls and AC. A default +0 attack roll beats a default 10 AC eleven times out of twenty. Here are the approximate odds of doing damage for various combinations of armor class and attack bonus:
+ 
+||Clothing (AC 10)|Chain shirt & shield (AC 15)|Full plate & shield (AC 20)|_Tarrasque_ shell (AC 25)|
+|-|-|-|-|-|
+|Peasant (+0)|50%|1 in 4|(natural 20)|(natural 20)|
+|Fighter lvl 1 (+5)|3 out of 4|50%|1 in 4|(natural 20)|
+|Fighter lvl 10 (+10)|(natural 1)|3 out of 4|50%|1 in 4|
+|Fighter lvl 20 (+15)|(natural 1)|(natural 1)|3 out of 4|50%|
+
+Similarly, here is an example of different difficulty _Survival_ checks to forage and successfully produce edible food, and how a character becomes capable of more and more impressive feats as they level up:
+||Forest (easy)|Grasslands (moderate)|Deep Winter (hard)|Desert (very hard)|Polluted Wastelands (nearly impossible)|
+|-|-|-|-|-|-|
+|Untrained (+0)|50%|1 in 4|1 in 20|impossible|impossible|
+|Lvl 1 Ranger (+5)|3 out of 4|50%|1 in 4|1 in 20|impossible|
+|Lvl 10 Ranger (+10)|guaranteed|3 out of 4|50%|1 in 4|1 in 20|
+|Lvl 20 Ranger (+15)|guaranteed|guaranteed|3 out of 4|50%|1 in 4|
+
+> **homebrew:** I'd probably make you fail a "guaranteed" check if you roll a natural 1, but I'm a pretty wild and crazy guy.
 
 ---
 
@@ -96,6 +124,10 @@ __Using your hands:__
 |Medium|1 by 1|5 ft|2 m|
 |Small|1 by 1|5 ft|2 m|
 |Tiny|0.5 by 0.5|2 ½ ft|1 m|
+
+**Small characters** suffer the following penalties in 5e (that I know of):
+- Disadvantage on attack rolls with [_heavy_ weapons](#to-swing-a-heavy-weapon).
+- Disadvantage on some [special attacks](#desperate-non-weapon-attacks) such as grapple or shove.
 
 >> A creature can **squeeze** through a space that is large enough for a creature one size smaller than it. Thus, a Large creature can _squeeze_ through a passage that's only [1 square] wide.
 >>
@@ -154,9 +186,7 @@ An attack roll against a prone creature gains **advantage if the attacker is wit
 
 > **Character Bonus:** A character with the **Skulker** feat can attempt to hide while only _lightly obscured_.
 
->> _You can't hide from a creature that can see you clearly, and you give away your position if you make noise, such as shouting a warning or knocking over a vase. An **invisible creature** can always try to hide. Signs of its passage might still be noticed, and it does have to stay quiet._
->>
->> _An **invisible** creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding, the creature is **heavily obscured**. The creature's location can be detected by any noise it makes or any tracks it leaves._ - Player's Handbook page 177 (stealth inset) and 291 (invisible condition)
+See Appendix B [official rules quotes](#appendix-b-official-rules-quotes)
 
 ![immovable rod](/images/immovable-rod.jpg)
 
@@ -188,8 +218,8 @@ For terrain such as walls and windows, the maximum obscurity assumes the charact
 ||No Cover|Half Cover (+2)|Three-Quarters Cover (+5)|Full Cover|
 |-|-|-|-|-|
 |**Not Obscured**|                                                                                                                      __Bright light__ or __sunlight__.               |                    A shield. Studded leather or hide armor.            |            Half plate or chainmail armor.             |            A _Wall of Force_. Bulletproof glass.                                                |
-|**Lightly Obscured**|                                                                                           **Dim light**. **Rain**. **Foliage**. Things seen only with darkvision. A damaged large window. A [shōji](https://en.wikipedia.org/wiki/Shoji) or paper wall.  Razed buildings' former roofs, supports, and walls.                 |             A [normal](https://www.youtube.com/watch?v=ZGv8oAHxekU) **thicket** or bush. A stone **column** or stalagmite. A **large window** or a damaged small window. A wall destroyed by a weapon.               |                A [normal](https://en.wikipedia.org/wiki/Palisade) **palisade**. An **ancient wall** ruined by erosion. Magically-reinforced smoked [glass](https://en.wikipedia.org/wiki/Prince_Rupert%27s_drop).           |           A [normal](https://en.wikipedia.org/wiki/Battlement) **battlement**. A [tower shield](https://roll20.net/compendium/pathfinder/Shield,%20Tower#content).|
-|**Heavily Obscured**|                                                                                                 **Darkness**. **Fog**. **Smoke**.          |         A **small window**. A [fusuma](https://en.wikipedia.org/wiki/Fusuma) or thin wall.         |         A **wooden wall**. Heavy rain in a jungle or ruin. An [arrowslit](https://en.wikipedia.org/wiki/Arrowslit).              |           A **stone wall**. Sneaking behind battlements while _prone_.|
+|**Lightly Obscured**|                                                                                           **Dim light**. **Rain**. **Foliage**. Things seen only with darkvision. A damaged large window. A [shōji](https://en.wikipedia.org/wiki/Shoji), paper wall, or translucent curtain.  Razed buildings' former roofs, supports, and walls.                 |             A [normal](https://www.youtube.com/watch?v=ZGv8oAHxekU) **thicket** or bush. A stone **column** or stalagmite. A **large window** or a damaged small window. A wall destroyed by a seige weapon.               |                A [normal](https://en.wikipedia.org/wiki/Palisade) **palisade**. An **ancient wall** ruined by erosion. Magically-reinforced smoked [glass](https://en.wikipedia.org/wiki/Prince_Rupert%27s_drop).           |           A [normal](https://en.wikipedia.org/wiki/Battlement) **battlement**. A [tower shield](https://roll20.net/compendium/pathfinder/Shield,%20Tower#content).|
+|**Heavily Obscured**|                                                                                                 **Darkness**. **Fog**. **Smoke**. An opaque curtain.         |         A **small window**. A [fusuma](https://en.wikipedia.org/wiki/Fusuma) or thin wall. A heavy curtain, such as in a [theater](https://en.wikipedia.org/wiki/Theater_drapes_and_stage_curtains).         |         A **wooden wall**. Heavy rain in a jungle or ruin. An [arrowslit](https://en.wikipedia.org/wiki/Arrowslit).              |           A **stone wall**. Sneaking behind battlements while _prone_.|
 
 
 ---
@@ -332,6 +362,8 @@ Some of these special attacks are performed using the Attack action, and if you 
 |Climb Onto|A creature at least **two sizes larger** than you.|**Str (Ath) or Dex (Acr)**|**Dex (Acr)**|Movement| The target is treated as (difficult) terrain. You get advantage on attacks against the target.|
 |Dislodge|A smaller creature climbing on you.|Str (Ath)|Str (Ath) or Dex (Acr)|Action| The climber is knocked off you.|
 
+> **homebrew:** if you wish to throw a Gnome or similarly-sized creature at an enemy, you give advantage to the Gnome's Climb Onto attempt or one weapon attack against that enemy, using your Strength bonus and improvised weapon proficiency. If the Gnome isn't cooperating with you to attack then what you are _actually_ doing instead is attempting to either Grapple or Shove the poor Gnome.
+
 ![immovable rod](/images/immovable-rod.jpg)
 
 [Back to top](#top)
@@ -428,17 +460,7 @@ Improvised attacks don't get your proficiency bonus, but simply improvising a we
 
 ![immovable rod](/images/immovable-rod.jpg)
 
-# Official spellcasting somatic rules
-
-Characters who wish to cast spells must have one hand free to either use a _component pouch_ or an appropriate [_spellcasting focus_](https://5thsrd.org/adventuring/equipment/adventuring_gear/#arcane-focus) for their class. They may make any somatic spell components needed for the spell using the same hand that is holding the focus or material component.
-
-> An **arcane caster** who uses a _staff_ as a spellcasting focus, or a **druid** using a _wooden staff_, can also use it as a _quarterstaff_ to make melee weapon attacks.
-
-> **Divine spellcasters** may use an _emblem_ of their deity emblazoned on their shield as a spellcasting focus, but they risk being unable to cast spells if they aren't using the shield. They may also use an amulet as a focus, but still need a hand free to use it. 
-
-![immovable rod](/images/immovable-rod.jpg)
-
-## Homebrew Definitions
+## Appendix A: Homebrew Definitions
 
 # Able to Act
 > **homebrew:** Creatures that aren't [_incapacitated_](https://5thsrd.org/rules/conditions/#incapacitated) are **able to act**.
@@ -472,6 +494,28 @@ When you put these rules side-by-side, you can see how they allow stacking penal
 > To move one square on the battlegrid, a character must expend squares from their movement speed equal to [1 + their current number of _speed penalties_].
 > 
 > Likewise, moving one meter, foot, or any other unit, requires movement speed equal to the same unit multiplied by [1 + their current number of _speed penalties_].
+
+![immovable rod](/images/immovable-rod.jpg)
+
+## Appendix B: official rules quotes
+
+# Stealth
+
+Player's Handbook page 177 (stealth inset) and 291 (invisible condition):
+
+> You can't hide from a creature that can see you clearly, and you give away your position if you make noise, such as shouting a warning or knocking over a vase. An **invisible creature** can always try to hide. Signs of its passage might still be noticed, and it does have to stay quiet.
+>
+> An **invisible** creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding, the creature is **heavily obscured**. The creature's location can be detected by any noise it makes or any tracks it leaves.
+
+
+
+# Official spellcasting somatic rules
+
+Characters who wish to cast spells must have one hand free to either use a _component pouch_ or an appropriate [_spellcasting focus_](https://5thsrd.org/adventuring/equipment/adventuring_gear/#arcane-focus) for their class. They may make any somatic spell components needed for the spell using the same hand that is holding the focus or material component.
+
+> An **arcane caster** who uses a _staff_ as a spellcasting focus, or a **druid** using a _wooden staff_, can also use it as a _quarterstaff_ to make melee weapon attacks.
+
+> **Divine spellcasters** may use an _emblem_ of their deity emblazoned on their shield as a spellcasting focus, but they risk being unable to cast spells if they aren't using the shield. They may also use an amulet as a focus, but still need a hand free to use it. 
 
 ![immovable rod](/images/immovable-rod.jpg)
 
