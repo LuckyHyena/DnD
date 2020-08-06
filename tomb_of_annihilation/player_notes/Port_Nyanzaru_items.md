@@ -206,7 +206,7 @@ As a merchant prince, Kwayothé controls the sale of **tej, wine, ale, fruit, oi
 
 JOHN-thee is a Chultan noble who can trace her lineage back to the original founders of the Chultan town of Nyanzaru, over six hundred years ago. She holds the monopoly on the sale of **gems, jewelry, cloth, and armor** in Port Nyanzaru. For several decades Zhanthi has managed the exclusive and high-end Jewel Market, even while the city was still under the control of Amn. Zhanthi and Kwayothé are the two wealthiest merchant princes, and Zhanthi pays high salaries to keep the Jewel Market well-staffed with reliable and trustworthy people: Zhanthi rewards loyalty but ruthlessly avenges betrayal.
 
-> **Help Wanted:** Although the Jewel Market is well-guarded, plenty of merchants still hire their own guardsZhanthi sometimes needs outside help investigating the details of a potential fraud, and plenty of Jewel Market merchants hire their own guards to escort merchandise to and from the market. Positions in the Jewel Market are hotly desired, and there's already a long line of applicants for any potential opening.
+> **Help Wanted:** Although the Jewel Market is well-guarded, plenty of merchants still hire their own guards to transport their goods to and from the market. Additionally, Zhanthi sometimes needs outside help investigating the details of a potential fraud. Positions in the Jewel Market are hotly desired, and there's already a long line of applicants for any potential opening.
 
 ![Zhanthi](images/characters/Merchant_Prince_Zhanthi.jpg)
 
