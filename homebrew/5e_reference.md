@@ -36,6 +36,7 @@ __Everyday problems:__
 - The six correct and immutable 5e ability check [difficulty classes](#ability-checks)
 - The official 5th Edition [size categories](#the-official-5th-edition-size-categories)
 - [Concentration](#concentration)
+- Knocking a creature [out](#knocking-a-creature-out)
 - _System Reference Document (SRD)_ [Languages](https://5thsrd.org/character/languages/)
 
 __Running away from the monsters:__
@@ -71,6 +72,12 @@ __Using your hands:__
 - To be [a cowardly archer](#to-be-a-cowardly-archer)
 - To be [a cowardly spellcaster](#to-be-a-cowardly-spellcaster)
 - To do [strange and exotic things](#to-do-strange-and-exotic-things)
+
+__Strange Situations:__
+- Riding [any mount](#riding-any-mount)
+- Riding an [independent mount](#independent-mounts)
+- Riding a [controlled mount](#controlling-a-mount)
+- Underwater [combat](#underwater-combat)
 
 __Appendix A: [Homebrew definitions](#appendix-a-homebrew-definitions)__
 
@@ -141,6 +148,15 @@ Similarly, here is an example of different difficulty _Survival_ checks to forag
 If you take damage while maintaining _concentration_ on a spell, you must make a Constitution saving throw with a DC of either 10 (easy) or half the damage you took, whichever is higher. If you fail the saving throw your _concentration_ is broken.
 
 > **homebrew:** make concentration saving throws with **Intelligence** instead of Constitution.
+
+---
+
+# Knocking a creature out
+An attacker making a __melee__ attack that would kill a creature may choose to instead knock them out: the knocked-out creature falls unconscious, drops to 0 hitpoints, and is stable.
+
+> **homebrew:** IRL any blow or chemical that can render you unconscious is very close to being strong enough to kill you, and an adventurer swinging a normally-lethal weapon in the middle of adrenaline-soaked combat is in no position to carefully or safely take someone down. If you want to take a living prisoner grab some [manacles](https://5thsrd.org/adventuring/equipment/adventuring_gear/#manacles) and brush up on your [grapple rules](#getting-grappled). Or play a monk.
+
+Most monsters don't make death saving throws and have no chance of being saved once they go down.
 
 ![immovable rod](/images/immovable-rod.jpg)
 
@@ -457,6 +473,32 @@ Improvised attacks don't get your proficiency bonus, but simply improvising a we
 |Whip|martial proficiency|1d4 slashing damage. _Finesse_ and _Reach_.|
 |Net|martial proficiency, _Large_ or smaller target|Max of one attack per _action_, even if you have multiple attacks. Thrown with **1/3 square range**. On hit the target is __restrained__ until they free themselves or are freed via an **easy Strength check** `DC 10` or `5` slashing damage to the net (`AC 10`).|
 |Silvered weapon|10 platinum coins for one item or ten pieces of ammunition|Must be expertly alloyed to remain sharp.|
+
+![immovable rod](/images/immovable-rod.jpg)
+
+## Strange Situations
+
+# Riding any mount
+Once during a character's movement for a turn, they can mount or dismount a creature within 1 square of them. Doing so costs __half__ the character's movement speed.
+
+If their mount is knocked prone, a rider can use their _reaction_ to dismount and land on their feet. Otherwise, the rider is dismounted and falls prone in an adjacent square.
+
+If a rider is knocked prone, or their mount is moved against its will, the rider must succeed on an Easy difficulty Dexterity saving throw `DC 10`, or else they dismount and fall prone in an adjacent square.
+
+> If your mount provokes an **opportunity attack**, the attacker may choose to target you instead.
+
+# Independent mounts
+An intelligent mount, or one you're not controlling, retains its own initiative count and has no restrictions on its movement or actions.
+
+# Controlling a mount
+A mount you're controlled acts on your initiative, including on the turn you mounted it. It has full movement speed but can only take the Dash, Disengage, or Dodge actions.
+
+# Underwater combat
+Creatures and objects immersed in water have resistance to all fire damage.
+
+Any creature with a _swimming_ movement speed can use melee weapons freely underwater. For other creatures, a __melee weapon__ attack roll has disadvantage unless the weapon is a dagger, javelin, shortsword, spear, or trident.
+
+A __ranged weapon__ attack automatically misses if the target is at long range, and even at normal range the attack roll has disadvantage, unless the weapon is a crossbow, a net, or a thrown weapon including a javelin, spear, trident, or dart.
 
 ![immovable rod](/images/immovable-rod.jpg)
 
