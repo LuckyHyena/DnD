@@ -8,32 +8,9 @@ _Standard 5e rules that I like but which I commonly forget during play._
 
 ---
 
-> #### **Core Homebrew Definitions:**
->
-> Creatures that aren't [_incapacitated_](https://5thsrd.org/rules/conditions/#incapacitated) are **able to act**.
-> 
-> Creatures that aren't _immobile_ are **able to move**.
-> 
-> Creatures are _immobile_ if: they are grappled, paralyzed, petrified, stunned, unconscious, their speed is `0`, or any other effect is preventing them from moving.
->
-> #### Movement [__*Speed Penalties*__](#movement-speed-penalties-1):
-> 
-> A character moving a length of distance spends a portion of their movement __speed__ equal to that distance multiplied by __[1 plus their current number of _speed penalties_]__, provided they have any.
->
-> Characters suffer a __speed penalty__ from:
-> - Can suffer a single _penalty_ at a time due to _difficult terrain_ in their square.
-> - Crawling while [_prone_](#putting-the-crawl-in-dungeon-crawl).
-> - Three penalties from [_Plant Growth_](https://5thsrd.org/spellcasting/spells/plant_growth/).
-> - Moving through the space of any other creature.
->   - A character can normally only move through the space of [nonhostile creatures or creatures at least two sizes different](#creatures-provide-cover) from the character.
->
-> #### Evade
-> To *evade* means "take no damage on any single successful Dexterity saving throw, or half damage on a failed save".
-
----
-
 __Everyday problems:__
-- The six correct and immutable 5e ability check [difficulty classes](#ability-checks)
+- Fifth edition [actions](#fifth-edition-actions) available each turn
+- The six perfect and immutable 5e ability check [difficulty classes](#ability-checks)
 - The official 5th Edition [size categories](#the-official-5th-edition-size-categories)
 - [Concentration](#concentration)
 - Knocking a creature [out](#knocking-a-creature-out)
@@ -82,6 +59,28 @@ __Strange Situations:__
 
 __Appendix A: [Homebrew definitions](#appendix-a-homebrew-definitions)__
 
+> #### **Core Homebrew Definitions:**
+>
+> Creatures that aren't [_incapacitated_](https://5thsrd.org/rules/conditions/#incapacitated) are **able to act**.
+> 
+> Creatures that aren't _immobile_ are **able to move**.
+> 
+> Creatures are _immobile_ if: they are grappled, paralyzed, petrified, stunned, unconscious, their speed is `0`, or any other effect is preventing them from moving.
+>
+> #### Movement [__*Speed Penalties*__](#movement-speed-penalties-1):
+> 
+> A character moving a length of distance spends a portion of their movement __speed__ equal to that distance multiplied by __[1 plus their current number of _speed penalties_]__, provided they have any.
+>
+> Characters suffer a __speed penalty__ from:
+> - Can suffer a single _penalty_ at a time due to _difficult terrain_ in their square.
+> - Crawling while [_prone_](#putting-the-crawl-in-dungeon-crawl).
+> - Three penalties from [_Plant Growth_](https://5thsrd.org/spellcasting/spells/plant_growth/).
+> - Moving through the space of any other creature.
+>   - A character can normally only move through the space of [nonhostile creatures or creatures at least two sizes different](#creatures-provide-cover) from the character.
+>
+> #### Evade
+> To *evade* means "take no damage on any single successful Dexterity saving throw, or half damage on a failed save".
+
 __Appendix B: [Official rules quotes](#appendix-b-official-rules-quotes)__
 
 
@@ -90,6 +89,17 @@ __Appendix B: [Official rules quotes](#appendix-b-official-rules-quotes)__
 ![immovable rod](/images/immovable-rod.jpg)
 
 ## Everyday problems
+
+# Fifth edition actions
+During [your turn](https://5thsrd.org/combat/order_of_combat/#your-turn), you have the option to [perform one](https://5thsrd.org/combat/actions_in_combat/) __action__, and you additionally have a distance of __movement__ that you may spend to move around the battlefield. Moving is not a type of action, although you may spend your action to [dash](https://5thsrd.org/combat/actions_in_combat/#dash) and double your movement for the turn. You may split up your movement before and after your action, and if you can make multiple attacks you have the option to move between each attack.
+
+Some character abilities or powers mention a __bonus action__. If you have such an ability, during your turn you may perform one such _bonus action_ alongside your regular _action_. You may perform a bonus action at any time during your turn, whether you have taken your _action_ or not. You may spend your _action_ to perform an additional _bonus action_, but not vice versa.
+
+Finally, at the start of each creature's turn it gets a single __reaction__, which can be used not only on the creature's own turn but at any time up until the beginning of its next turn. You must spend your reaction to complete a [readied action](https://5thsrd.org/combat/actions_in_combat/#ready), to make an opportunity attack, or to cast [_Shield_](https://5thsrd.org/spellcasting/spells/shield/).
+
+> Creatures with **melee** attacks can spend their reaction to make an [opportunity attack](#5th-editions-simplified-opportunity-attacks). Additionally, during their turn they can spend their bonus action to [mark](#getting-marked) an opponent for later advantage on an opportunity attack.
+
+---
 
 # Ability Checks
 In fifth edition D&D's [bounded accuracy](https://www.dandwiki.com/wiki/Understanding_Bounded_Accuracy_(5e_Guideline)) mathematics, these difficulty classes are universal for all power levels and situations. When thinking about a task, ask how hard it would be for a "normal human" to do, and compare with this scale:
@@ -129,13 +139,13 @@ Similarly, here is an example of different difficulty _Survival_ checks to forag
 |Gargantuan|4 by 4|20 ft|8 m|
 |Huge|3 by 3|15 ft|6 m|
 |Large|2 by 2|10 ft|4 m|
-|Medium|1 by 1|5 ft|2 m|
-|Small|1 by 1|5 ft|2 m|
+|Medium|1|5 ft|2 m|
+|Small|1|5 ft|2 m|
 |Tiny|0.5 by 0.5|2 ½ ft|1 m|
 
 **Small characters** suffer the following penalties in 5e (that I know of):
 - Disadvantage on attack rolls with [_heavy_ weapons](#to-swing-a-heavy-weapon).
-- Disadvantage on some [special attacks](#desperate-non-weapon-attacks) such as grapple or shove.
+- Penalties and a few bonuses on [special attacks](#desperate-non-weapon-attacks) such as grapple or shove when attacking creatures bigger than you.
 
 >> A creature can **squeeze** through a space that is large enough for a creature one size smaller than it. Thus, a Large creature can _squeeze_ through a passage that's only [1 square] wide.
 >>
@@ -170,21 +180,25 @@ A character must be both _able to act_, and must have a move speed greater than 
 
 > **homebrew:** When a creature spends its _action_ to _dodge_ (and is currently _able to act_) while standing in squares containing cover, they receive the **cover bonus** from the next level of cover __above__ the actual squares' normal bonus. Thus: a square that provides half-cover for characters instead provides three-quarters cover for a dodging character, and a square that normally provides three-quarters cover can provide full cover if a character is dodging in it.
 
+---
+
 # 5th edition's simplified opportunity attacks
 You can make an opportunity attack in the following situation (not plural):
-- A hostile creature (that you can see) **moves out of your reach**.
+- A hostile creature (that you can see) **moves out of your melee reach**.
 
-You may spend your _reaction_ for the turn to make one melee attack against the provoking creature, right before they leave your reach.
+You may spend your _reaction_ for the turn to make one **melee** attack against the provoking creature, right before they leave your reach.
 
 ### Disengage
 If a character spends their _action_ to disengage, they don't provoke opportunity attacks for the rest of their turn. Other characters may still take readied actions against a disengaging character.
 
 > If you would like to take more control of the battlefield, consider _readying_ attacks and additionally the [mark bonus action](#getting-marked), which can give opportunity attacks advantage.
 
+---
+
 > ### Things that do not provoke opportunity attacks
 > - Making a ranged attack within reach of a hostile creature causes [disadvantage](#improvised-weapons) but doesn't provoke.
 > - Casting a spell with a ranged attack roll also suffers disadvantage, but otherwise spellcasting suffers no penalties.
-> - You can circle around creatures without provoking as long as you stay within their reach for your entire movement.
+> - You can circle around a creature without provoking as long as you stay within its reach for your entire movement.
 > - There is no such thing as a [five-foot step](https://www.dandwiki.com/wiki/SRD:5-Foot_Step) in 5th edition.
 
 ---
@@ -411,7 +425,8 @@ Some of these special attacks are performed using the Attack action, and if you 
 # To swing a weapon
 |Melee Attacks|Requirement|Effect|
 |-|-|-|
-|One-handed melee weapon|-|Use **Strength** for the attack roll and damage. Lower __Versatile__ damage.|
+|Non-_two-handed_ melee weapon|-|Use **Strength** for the attack roll and damage.|
+|A __Versatile__ weapon used one-handed|-|Use the lower Versatile damage.|
 |__Finesse__ melee weapon|-|May choose either Dexterity or Strength for the attack roll **and** damage.|
 |__Finesse__ melee weapon|_**Defensive Duelist**_ feat|May use your _reaction_ in response to being attacked, in order to add your proficiency bonus to your AC for that attack.|
 |Any one-handed melee weapon|__Dueling__ fighting style|+2 to damage rolls.|
@@ -421,7 +436,8 @@ Some of these special attacks are performed using the Attack action, and if you 
 # To swing a heavy weapon
 |Heavy Melee Attacks|Requirement|Effect|
 |-|-|-|
-|Two-handed melee weapon|-|Use **Strength** for the attack roll and damage. Higher _Versatile_ damage.|
+|Two-handed melee weapon|-|Use **Strength** for the attack roll and damage.|
+|A __Versatile__ weapon used two-handed|-|Use the higher Versatile damage.|
 |__Reach__ melee weapon|-|Add 1 square to your melee and opportunity attack reach.|
 |_Heavy_ weapon|wielder is _Small_ sized|Disadvantage on the attack roll.|
 |_Heavy_ weapon|__*Great Weapon Master*__ feat|Before attacking, you can choose to take a -5 penalty to the attack roll and get a +10 damage bonus.|
@@ -555,9 +571,9 @@ When you put these rules side-by-side, you can see how they allow stacking penal
 
 > **homebrew:** A character may suffer one or more **speed penalties** from effects such as _difficult terrain_, being forced to crawl while _prone_, or three _speed penalties_ from [_Plant Growth_](https://5thsrd.org/spellcasting/spells/plant_growth/).
 >
-> To move one square on the battlegrid, a character must expend squares from their movement speed equal to [1 + their current number of _speed penalties_].
+> To move one square on the battlegrid, a character must expend squares from their movement equal to [1 + their current number of _speed penalties_].
 > 
-> Likewise, moving one meter, foot, or any other unit, requires movement speed equal to the same unit multiplied by [1 + their current number of _speed penalties_].
+> Likewise, moving one meter, foot, or any other unit, requires movement equal to the same unit multiplied by [1 + their current number of _speed penalties_].
 
 ![immovable rod](/images/immovable-rod.jpg)
 
