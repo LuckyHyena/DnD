@@ -9,7 +9,7 @@ _Standard 5e rules that I like but which I commonly forget during play._
 ---
 
 __Everyday problems:__
-- Fifth edition [actions](#fifth-edition-actions-available-on-your-turn) available on your turn
+- What [you can do](#what-you-can-do-during-your-5th-edition-turn) during your 5th edition turn.
 - The six perfect and immutable 5e ability check [difficulty classes](#ability-checks)
 - [Concentration](#concentration)
 - Knocking a creature [out](#knocking-a-creature-out)
@@ -90,7 +90,7 @@ __Appendix B: [Official rules quotes](#appendix-b-official-rules-quotes)__
 
 ## Everyday problems
 
-# Fifth edition actions available on your turn
+# What you can do during your 5th edition turn 
 - Action 
 - Movement
 - Bonus Action if you have one
@@ -100,7 +100,7 @@ During [your turn](https://5thsrd.org/combat/order_of_combat/#your-turn), you ha
 
 Some character abilities or powers mention a __bonus action__. If you have such an ability, during your turn you may perform one such _bonus action_ alongside your regular _action_. You may perform a bonus action at any time during your turn, whether you have taken your _action_ or not. You may spend your _action_ to perform an additional _bonus action_, but not vice versa.
 
-Finally, at the start of each creature's turn it gets a single __reaction__, which can be used not only on the creature's own turn but at any time up until the beginning of its next turn. You must spend your reaction to complete a [readied action](https://5thsrd.org/combat/actions_in_combat/#ready), to make an opportunity attack, or to cast [_Shield_](https://5thsrd.org/spellcasting/spells/shield/).
+Finally, at the start of your turn you get a single __reaction__, which can be used not only during your turn but on other creatures' turns up until the beginning of your next turn. You must spend your reaction to complete a [readied action](https://5thsrd.org/combat/actions_in_combat/#ready), to make an opportunity attack, or to cast [_Shield_](https://5thsrd.org/spellcasting/spells/shield/).
 
 > Creatures with **melee** attacks can spend their reaction to make an [opportunity attack](#5th-editions-simplified-opportunity-attacks). Additionally, during their turn they can spend their bonus action to [mark](#getting-marked) an opponent for later advantage on an opportunity attack.
 
@@ -364,7 +364,7 @@ Torches and candles last for an **hour** each, while lamps and lanterns burn for
 # Unarmed Strikes
 Unless you have special abilities or features, attacking without a weapon deals bludgeoning damage equal to your Strength modifier plus 1. You are proficient in your unarmed strikes.
 
-> _homebrew: most characters are not proficient with unarmed strikes by default. A character with a Strength penalty must succeed on an easy [DC 10] Strength check to deal 1 point of damage on a successful hit._
+> __homebrew:__ Most characters are not proficient with unarmed strikes by default. A character with a Strength penalty must succeed on an easy [DC 10] Strength check to deal 1 point of damage on a successful hit.
 
 ---
 
@@ -382,7 +382,7 @@ An improvised weapon that doesn't resemble a normal weapon deals 1d4 damage and 
 # Running Out of Ammo
 After combat a character may spend a minute and recover up to **half** of the ammunition they expended during the combat.
 
-> homebrew: roll a d100 and recover that % of your expended ammunition instead.
+> __homebrew__: roll a d100 and recover that % of your expended ammunition instead.
 
 ---
 
@@ -543,14 +543,14 @@ If a rider is knocked prone, or their mount is moved against its will, the rider
 An intelligent mount, or one you're not controlling, retains its own initiative count and has no restrictions on its movement or actions.
 
 # Controlling a mount
-A mount you're controlled acts on your initiative, including on the turn you mounted it. It has full movement speed but can only take the Dash, Disengage, or Dodge actions.
+A mount you're controlling acts on your initiative, including on the turn you mounted it. It has full movement speed but can only take the Dash, Disengage, or Dodge actions.
 
 # Underwater combat
 Creatures and objects immersed in water have resistance to all fire damage.
 
 Any creature with a _swimming_ movement speed can use melee weapons freely underwater. For other creatures, a __melee weapon__ attack roll has disadvantage unless the weapon is a dagger, javelin, shortsword, spear, or trident.
 
-A __ranged weapon__ attack automatically misses if the target is at long range, and even at normal range the attack roll has disadvantage, unless the weapon is a crossbow, a net, or a thrown weapon including a javelin, spear, trident, or dart.
+A __ranged weapon__ attack automatically misses if the target is at long range underwater, and even at normal range the attack roll has disadvantage, unless the weapon is a crossbow, a net, or a thrown weapon including a javelin, spear, trident, or dart.
 
 ![immovable rod](/images/immovable-rod.jpg)
 
