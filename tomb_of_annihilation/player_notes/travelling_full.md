@@ -17,13 +17,13 @@
 ## Step 1: Weather
 Each day roll a d20:
 
-| Roll | Weather |Raincatcher|Max Vision|Aarakocra Survival bonus|
-|-|-|-|-|-|
-|**1-5**|Clear Skies|-|4 hexes|+5|
-|**6-10**|Light Rain|1d3 gallons|2 hexes|+3|
-|**11-15**|Moderate Rain|1d4+1 gallons|1 hex|+1|
-|**16-19**|Heavy Rain|1d6+2 gallons|40 squares|-|
-|**20**|Tropical Storm|\*|\*|-|
+| Roll | Weather |Raincatcher|Max Ground Vision|Max Flying Vision|Flying Survival bonus|
+|-|-|-|-|-|-|
+|**1-5**|Clear Skies|-|1 hex|4 hexes|+5|
+|**6-10**|Light Rain|1d3 gallons|1/2 hex|2 hexes|+3|
+|**11-15**|Moderate Rain|1d4+1 gallons|1/10 hex|1 hex|+1|
+|**16-19**|Heavy Rain|1d6+2 gallons|40 squares|1/2 hex|-|
+|**20**|Tropical Storm|\*|40 squares|-|-|
 
 #### Heavy Rain
 
