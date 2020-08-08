@@ -229,7 +229,7 @@ An attack roll against a prone creature gains **advantage if the attacker is wit
 ---
 
 # Stealth
-**You must normally be _highly obscured_ to attempt to hide.** WotC seems reluctant to explicitly state this rule, preferring to just say "ask your DM" instead, but here are some official exceptions that prove you can't normally hide while only lightly obscured:
+**You must normally be _highly obscured_ to attempt to hide.** WotC seems reluctant to explicitly state this rule, preferring to just say "ask your DM" instead, but here are some official [exceptions that prove](https://en.wikipedia.org/wiki/Exception_that_proves_the_rule#Proving_the_existence_of_the_rule) you can't normally hide while only lightly obscured:
 
 > **Character Bonus:** A **Wood Elf** character's _Mask of the Wild_ feature allows them to try to hide while only _lightly obscured_ by foliage, weather, or other natural phenomena.
 
