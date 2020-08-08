@@ -102,7 +102,7 @@ Take a -5 penalty to the Wisdom check if the party is moving at a fast pace, or 
 A character may choose one or more of the useful Chultan plants listed in the [items available for purchase in Port Nyanzaru](Port_Nyanzaru_items.md#chultan-plants) under Jessamine, and attempt to find those plants instead of food and water. On a successful forage check the character finds **1d6 + their Wisdom modifier** uses of one random plant from the types they chose to look for that day.
 
 ### Rain Catchers
-A rain catcher can be purchased in Port Nyanzaru for 1 gold coin. When set up overnight it will collect **1d3 gallons of potable water** in light rain, or **1d6+2 gallons** in heavy rain. If the rain catcher is left stationary throughout the day it can collect the same amount again, holding a maximum of 8 gallons at any one time.
+A rain catcher can be purchased in Port Nyanzaru for 1 gold coin. When set up overnight it will collect the amount of rainwater specified in the [weather table](travelling_full.md#step-1-weather). If the rain catcher is left stationary throughout the day it can collect the same amount again, holding a maximum of 8 gallons at any one time.
 
 During a tropical storm the rain catcher can collect the equivalent of heavy rain, but a character must remain with it and pass a moderate [DC 15] **Wisdom** (Survival) check every 12 hours or the rain catcher will be destroyed. The character maintaining the rain catcher must pass an easy [DC 10] **Constitution** saving throw once per day or else suffer 1 level of exhaustion.
 
