@@ -179,11 +179,11 @@ Most enemies don't make death saving throws and have no chance of being stabiliz
 ## Running away from the Monsters
 
 # Dodging
-When a character spends their _action_ to _dodge_, they gain benefits until the start of their next turn: **attacks against the dodging character** suffer disadvantage, and the character also gains advantage on **Dexterity saving throws**.
+When a character spends the action for their turn to _dodge_, they gain benefits until the start of their next turn: **attacks against the dodging character** suffer disadvantage, and the character also gains advantage on **Dexterity saving throws**.
 
 A character must be both _able to act_, and must have a move speed greater than 0, at the moment of the attack or saving throw in order to receive benefits from dodging.
 
-> **homebrew:** When a creature spends its _action_ to _dodge_ (and is currently _able to act_) while standing in squares containing cover, they receive the **cover bonus** from the next level of cover __above__ the actual squares' normal bonus. Thus: a square that provides half-cover for characters instead provides three-quarters cover for a dodging character, and a square that normally provides three-quarters cover can provide full cover if a character is dodging in it.
+> **homebrew:** When a creature spends its action to _dodge_ (and is receiving the normal dodge bonuses) while standing in squares containing cover, they receive the **cover bonus** from the next level of cover __above__ the actual squares' normal bonus. Thus: a square that provides half-cover for characters instead provides three-quarters cover for a dodging character, and a square that normally provides three-quarters cover can provide full cover if a character is dodging in it.
 
 ---
 
@@ -224,9 +224,7 @@ An attack roll against a prone creature gains **advantage if the attacker is wit
 
 > **homebrew:** _prone_ creatures who don't move gain advantage on their **ranged attack rolls**.
 >
-> When _Prone_ creatures who are [_able to move_](#able-to-move) are in squares containing cover, they receive the __cover bonus__ from the next level of cover __above__ the actual squares' normal bonus. This doesn't stack with [my homebrew bonus to cover for taking the Dodge action](#dodging).
->
-> Thus: a square that provides half-cover for standing characters provides three-quarters, and a square that normally provides three-quarters cover can provide full cover, if a character **either**: crouches down __prone__ in it, **or** takes the **Dodge action** in it.
+> When _Prone_ creatures who are [_able to move_](#able-to-move) are in squares containing cover, they get the same (non-stacking) homebrew bonus for [taking the Dodge action in cover](#dodging).
 
 ---
 
