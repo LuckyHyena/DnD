@@ -21,22 +21,22 @@ __Running away from the monsters:__
 - 5th edition's simplified [opportunity attacks](#5th-editions-simplified-opportunity-attacks)
 - Creatures [are difficult terrain](#creatures-are-difficult-terrain)
 - How to [put the crawl in dungeon crawl](#how-to-put-the-crawl-in-dungeon-crawl)
-- [Stealth](#stealth), particularly: You must normally be _highly obscured_ to attempt to hide.
 
 __Hiding from the monsters:__
+- [Stealth](#stealth), particularly: You must normally be _highly obscured_ to attempt to hide.
 - Melee attacks can be affected by cover in the same way as ranged attacks.
 - [Cover and Obscurity](#cover-and-obscurity)
     - Examples of [cover](#examples-of-cover)
     - Spells that [provide cover](#spells-that-provide-cover)
-    - Palisades and [quickly-constructable cover](#palisades-and-quickly-constructable-cover)
+    - Palisades and [constructable cover](#palisades-and-constructable-cover)
 - Creatures [provide cover](#creatures-provide-cover)
 - [Light and Vision](#light-and-vision)
 - Light [sources](#light-sources)
 
 __Getting killed by the monsters:__
+- Running [out of ammo](#running-out-of-ammo)
 - [Unarmed strikes](#unarmed-strikes)
 - [Improvised weapons](#improvised-weapons)
-- Running [out of ammo](#running-out-of-ammo)
 - Getting [_grappled_](#getting-grappled)
 - Getting [_marked_](#getting-marked)
 - Desperate [non-weapon attacks](#desperate-non-weapon-attacks)
@@ -226,7 +226,9 @@ An attack roll against a prone creature gains **advantage if the attacker is wit
 >
 > When _Prone_ creatures who are [_able to move_](#able-to-move) are in squares containing cover, they get the same (non-stacking) homebrew bonus for [taking the Dodge action in cover](#dodging).
 
----
+![immovable rod](/images/immovable-rod.jpg)
+
+## Hiding from the Monsters
 
 # Stealth
 **You must normally be _highly obscured_ to attempt to hide.** WotC seems reluctant to explicitly state this rule, preferring to just say "ask your DM" instead, but here are some official [exceptions that prove](https://en.wikipedia.org/wiki/Exception_that_proves_the_rule#Proving_the_existence_of_the_rule) you can't normally hide while only lightly obscured:
@@ -244,14 +246,12 @@ See Appendix B [official rules quotes](#appendix-b-official-rules-quotes)
 I would adjudicate that you must be __highly obscured__ to take the hide action, which requires you to roll a __Dexterity__ (_Stealth_) check:
 - While you stay highly obscured creatures have [no chance to perceive you](#cover-and-obscurity) even when you're not hiding, so your check result is irrelevant.
 - If you move out of the highly obscured area, you're [invisible](https://5thsrd.org/rules/conditions/#invisible) to creatures with a passive __Wisdom__ (_Perception_) score less than your check result.
-   - If they have a reason to be suspicious, any creature make spend their action for their turn to [search](https://5thsrd.org/combat/actions_in_combat/#search) and make an active Wisdom (_Perception_) check to find hidden characters.
-   - Wisdom (_Perception_) checks suffer disadvantage when looking into **lightly obscured** areas (including [dim light and darkvision](#light-and-vision)), and creatures' passive Perception scores suffer a -5 penalty.
+   - Any creature may spend their action for the turn to [search](https://5thsrd.org/combat/actions_in_combat/#search) and make an active Wisdom (_Perception_) check to find hidden characters.
+   - Wisdom (_Perception_) checks suffer disadvantage when looking into **lightly obscured** areas (including all [dim light and darkvision](#light-and-vision)), and creatures' passive Perception scores suffer a -5 penalty.
 
 Attacking, casting a spell, and many other actions will end your current hide attempt.
 
-![immovable rod](/images/immovable-rod.jpg)
-
-## Hiding from the Monsters
+---
 
 # Melee attacks can be affected by cover in the same way as ranged attacks.
 Don't let those silly barbarians and paladins rush your archers!
@@ -361,6 +361,13 @@ Torches and candles last for an **hour** each, while lamps and lanterns burn for
 
 ## Getting killed by the monsters
 
+# Running Out of Ammo
+After combat a character may spend a minute and recover up to **half** of the ammunition they expended during the combat.
+
+> __homebrew__: roll a d100 and recover that % of your expended ammunition instead.
+
+---
+
 # Unarmed Strikes
 Unless you have special abilities or features, attacking without a weapon deals bludgeoning damage equal to your Strength modifier plus 1. You are proficient in your unarmed strikes.
 
@@ -376,13 +383,6 @@ An improvised weapon that doesn't resemble a normal weapon deals 1d4 damage and 
 >  In contrast, making a **ranged attack while a hostile creature is within 5 ft** gives you disadvantage instead.
 
 > **Character Bonus:** Characters with the **_Tavern Brawler_** feat get their proficiency bonus with all improvised and unarmed attacks. After hitting a creature with either kind of attack, a **_Tavern Brawler_** may then spend their _bonus action_ to immediately make a [grapple attempt](#desperate-non-weapon-attacks) on the creature.
-
----
-
-# Running Out of Ammo
-After combat a character may spend a minute and recover up to **half** of the ammunition they expended during the combat.
-
-> __homebrew__: roll a d100 and recover that % of your expended ammunition instead.
 
 ---
 
