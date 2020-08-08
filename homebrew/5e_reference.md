@@ -239,6 +239,16 @@ An attack roll against a prone creature gains **advantage if the attacker is wit
 
 See Appendix B [official rules quotes](#appendix-b-official-rules-quotes)
 
+---
+
+I would adjudicate that you must be __highly obscured__ to take the hide action, which requires you to roll a __Dexterity__ (_Stealth_) check:
+- While you stay highly obscured creatures have [no chance to perceive you](#cover-and-obscurity) even when you're not hiding, so your check result is irrelevant.
+- If you move into a __lightly obscured__ area (including [dim light and darkvision](#light-and-vision)), you're [invisible](https://5thsrd.org/rules/conditions/#invisible) to creatures with a passive __Wisdom__ (_Perception_) score less than your check result.
+   - If they have a reason to be suspicious, any creature make spend their action for their turn to [search](https://5thsrd.org/combat/actions_in_combat/#search) and make an active Wisdom (_Perception_) check to find hidden characters.
+   - Wisdom (_Perception_) checks suffer disadvantage in **low light and darkvision**, and creatures' passive Perception scores suffer a -5 penalty.
+- If you move into a __brightly-lit__ (and otherwise-unobscured) area, any creature that has, or gains, line of sight on you is no longer affected by your current stealth check.
+   - To become hidden to those creatures again you must become _heavily obscured_ and spend a new action on attempting to hide.
+
 ![immovable rod](/images/immovable-rod.jpg)
 
 ## Hiding from the Monsters
@@ -256,7 +266,8 @@ Cover:
 
 Obscurity:
 - **Wisdom (_Perception_) checks** based on sight suffer disadvantage when their targets are **lightly obscured**.
-- Creatures are effectively __blinded__ when trying to see into **heavily obscured** areas: they automatically fail any ability check that depends on sight, they suffer disadvantage on all attack rolls, and anyone firing back at them (without also being _blinded_ by whatever is obscuring them) has advantage on attack rolls.
+- Creatures are effectively __blinded__ when trying to see into **heavily obscured** areas: they automatically fail any ability check that depends on sight, they suffer disadvantage on all attack rolls into the area, and anyone firing back at them (without also being _blinded_ by whatever is obscuring them) has advantage on attack rolls.
+  - When someone fires out of heavy obscurity they normally reveal the square they're firing from, but they're still __invisible__ to their effectively-blinded target.
 
 For terrain such as walls and windows, the maximum obscurity assumes the character is **actively (and successfully)** trying to use the terrain to hide. Likewise the cover assumes the character is actively dodging among the features of the terrain. In both cases a character must be [_able to move_](#able-to-move).
 
