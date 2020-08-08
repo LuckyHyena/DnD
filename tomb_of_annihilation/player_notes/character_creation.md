@@ -12,7 +12,7 @@ When playing D&D you are going to be creating and using a **player character**, 
 
 A socialite from a wealthy noble family, a hermit who's never seen a city before Port Nyanzaru, or a dwarf utterly dedicated to their family and clan, are each potentially useful and interesting player characters, but consider why such a character is motivated to live the adventuring life (and work with the party) instead of the more stable life available at home. Additionally, your character shouldn't be one who's **unable to work cooperatively** with other people, such as a thief who tries to steal or hide treasure from the rest of the party, or someone who starts fights in every town they visit. This adventure is a story about a team of capable (and _generally_ decent) adventurers working together to defeat the extraordinary challenges of the Chultan jungle and the Tomb of Annihilation.
 
-With all that in mind, take a look through the background information available on [the peninsula of Chult](introduction.md#welcome-to-chult), [the Chultan people](dramatis_personae.md#top), and [the city of Port Nyanzaru](Port_Nyanzaru.md#top) to get ideas for your character! Then come back here for the formal rules on how to create them.
+With all that in mind, take a look through the background information available on [the peninsula of Chult](introduction.md#welcome-to-chult), [the Chultan people](chultans.md#top), and [the city of Port Nyanzaru](Port_Nyanzaru.md#top) to get ideas for your character! Then come back here for the formal rules on how to create them.
 
 > **The Adventurer's League** has its own rules for character creation, although you're still welcome to look through the background information for inspiration, or to take one of the official backgrounds from _Tomb of Annihilation_ or the _Sword Coast Adventurer's Guide_.
 
@@ -32,6 +32,8 @@ With all that in mind, take a look through the background information available 
 
 # Background Options
 Quick summary of various background options from the _Player's Handbook_, _Tomb of Annihilation_, and _Sword Coast Adventurer's Guide_.
+
+> \* means a homebrew tweak
 
 |Background|Skills|Tools|Languages|Coins|Items|Feature|Source|
 |-|-|-|-|-|-|-|-|
@@ -53,17 +55,15 @@ Quick summary of various background options from the _Player's Handbook_, _Tomb 
 |Knightly Order|Persuasion plus one from Arcana, History, Nature, or Religion|One gaming set or musical instrument|1|10 gold|Traveler's clothes and a signet, banner, or seal from your order|Well-regarded|_SCAG_|
 |Noble|History and Persuasion|One type of gaming set|1|25 gold|Fine clothes, a signet ring, and a scroll of pedigree.|Position of Privilege|_PHB_|
 |Waterdhavian Noble|History and Persuasion|One gaming set or musical instrument|1|20 gold|Fine clothes, a signet ring or brooch, a scroll of pedigree, and a skin or fine _zzar_ or wine.|Kept in Style|_SCAG_|
-|Outlander|Athletics and Survival|One musical instrument|1|10 gold|A hunting trap, a trophy from a successful hunt, and a set of traveler's clothes.|Excellent memory for terrain and foraging|_PHB_|
+|Outlander|Athletics and Survival|Herbalism kits*, one musical instrument, or one martial weapon*|1|10 gold|A hunting trap, a trophy from a successful hunt, and a set of traveler's clothes.|Excellent memory for terrain and foraging|_PHB_|
 |Uthgardt Outlander|Athletics and Survival|One instrument or set of artisan's tools|1|10 gold|A hunting trap, a totemic token or set of tattoos, and traveler's clothes.|Uthgaardt Heritage|_SCAG_|
 |Sage|History and Arcana|-|2|10 gold|Common clothes, writing tools, and a letter from a dead colleague asking a question you haven't yet solved.|Researcher|_PHB_|
 |Cloistered Scholar|History plus one of Arcana, Nature, or Religion|-|2|10 gold|Your cloisters' scholarly robes, a writing kit, a borrowed research book.|Library access|_SCAG_|
-|Sailor|Athletics, Perception, and * [_Sailing_](#sailing)|Water vehicles and navigator's tools|* 1|10 gold|50 feet of silk rope, a lucky charm, and common clothes.|Ship's Passage|_PHB_|
+|Sailor|Athletics, Perception, and [_Sailing_](#sailing)* |Water vehicles and navigator's tools|1* |10 gold|50 feet of silk rope, a lucky charm, and common clothes.|Ship's Passage|_PHB_|
 |Soldier|Athletics and Intimidation|Land vehicles and one type of gaming set|-|10 gold|An insignia of rank, a trophy from a victory, your gaming set, and common clothes|Military Rank|_PHB_|
 |Mercenary Veteran|Athletics and Persuasion|Land vehicles plus one type of gaming set|-|10 gold|Uniform, an insignia of your rank, and your gaming set.|Identify mercenaries and their companies|_SCAG_|
 |Urban Bounty Hunter|Two from Deception, Insight, Persuasion, or Stealth|Choose two from: a gaming set, an instrument, or thieves' tools.|-|20 gold|Clothes "appropriate to your duties".|Ear to the Ground|_SCAG_|
 |Urchin|Sleight of Hand, Stealth|Disguise kit, thieves' tools|-|10 gold|A precious item to remember your parents by, a pet mouse, common clothes, and a trinket from the city you grew up in.|City Secrets|_PHB_|
-
-> \* means a homebrew tweak
 
 ![immovable rod](/images/immovable-rod.jpg)
 
@@ -211,7 +211,7 @@ _Vegepygmies, one of the many terrifying plant-based dangers in Chult._
 ##### New Skill Proficiency:
 # _**Camping**_ 
 ### Commonly Intelligence or Wisdom
-Characters can do [advanced activities while camping](camping_rules.md#top) in the jungle using a new skill proficiency available to them called _**Camping**_. _Camping_ is usually applied to Intelligence or Wisdom checks, but other ability checks are often involved in _Camping_ as well.
+Characters can do [advanced activities while camping](camping.md#top) in the jungle using a new skill proficiency available to them called _**Camping**_. _Camping_ is usually applied to Intelligence or Wisdom checks, but other ability checks are often involved in _Camping_ as well.
 
 > **All adventurers** have the option of selecting _Camping_ to replace one of their starting skill proficiencies.
 

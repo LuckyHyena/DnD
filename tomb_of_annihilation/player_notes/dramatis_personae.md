@@ -27,6 +27,7 @@ __Port Nyanzaru [characters](#port-nyanzaru-characters)__
 
 __Port Nyanzaru [organizations](#port-nyanzaru-organizations)__
 - The Ytepka [Society](#the-ytepka-society)
+- [Kir Sibal](#kir-sabal)
 - The [Flaming Fists](#the-flaming-fists)
 - Player [Factions](#player-factions)
   - The [Harpers](#the-harpers)
@@ -147,6 +148,14 @@ The Ytepka Society is widely known to have had a major role in organizing the me
 
 ---
 
+# Kir Sabal
+
+Kir Sabal is an Aarakocran monastery located a tenday's travel up the [river Olung](introduction.md#map-of-chult). Built into the side of a sheer cliff face, the monastery is hundreds of feet above the jungle canopy, and there's no path or stair to reach the structure from the ground. Tha Aarakocra who inhabit Kir Sabal are protected from most dangers simply by virtue of their isolated home, but the monks of the monastery also practice a unique form of martial arts: called Akoka, it teaches an Aarakocran monk how to use their powerful wings to make powerful unarmed strikes and overwhelm their enemies.
+
+![Aarakocra](images/chultans/aarakocra.jpg)
+
+---
+
 # The Flaming Fists
 The official mercenary company of the wealthy foreign city of **Baldur's Gate**, who serve as guards of the city's interests at home and abroad. Their primary task on Chult is to protect ships flying the flag of Baldur's Gate from pirates; the same ships depend on Port Nyanzaru as a way station, so the Fists are also prepared to defend the only surviving Chultan city from being overrun by the undead. To accomplish these ends the Flaming Fists built **Fort Beluarian**, their headquarters on Chult.
 
@@ -157,14 +166,6 @@ The official mercenary company of the wealthy foreign city of **Baldur's Gate**,
 > lee-AR-ah por-TEER is the current commander of Fort Beluarian, and holds the Flaming Fist rank of Blaze. The Blaze Portyr is a career soldier who comes from the important Portyr family in Baldur's Gate. She's related to one of the four current Lords of Baldur's Gate, but as a Blaze she answers only to Grand Duke Ulder Ravengard, a fellow career officer of the Flaming Fist.
 > 
 > ![Liara Portyr](images/characters/Liara_Portyr.jpg)
-
----
-
-# Kir Sabal
-
-Kir Sabal is a monastery built into the side of a sheer cliff face, hundreds of feet above the jungle, and there's no path or stair to reach the structure from the ground. Tha Aarakocra who inhabit Kir Sabal are protected from most dangers simply by virtue of their isolated home, but the monks of the monastery also practice a unique form of martial arts: called Akoka, it teaches an Aarakocra monk how to use their powerful wings to make powerful unarmed strikes and overwhelm their enemies.
-
-![Aarakocra](images/chultans/aarakocra.jpg)
 
 ![immovable rod](/images/immovable-rod.jpg)
 

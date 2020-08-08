@@ -8,7 +8,7 @@
 
 # Rules for camping in Chult
 
-[Summary of these rules](camping_rules.md#top)
+[Summary of these rules](camping.md#top)
 
 ### The Nightly Schedule
 Generally, characters can't travel for more than 8 hours per day without risking becoming _exhausted_. The remaining 8 hours in the day left after travelling and resting are consumed by:
@@ -161,7 +161,7 @@ Roll a d%, add the Final Camp Goodness Score, and compare with the [Random Campi
 
 [Back to top](#top)
 
-[Summary of these camping rules](camping_rules.md#top)
+[Summary of these camping rules](camping.md#top)
 
 [Summary of rules for travelling](travelling.md#top)
 
