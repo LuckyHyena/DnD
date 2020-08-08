@@ -189,7 +189,7 @@ A character must be both _able to act_, and must have a move speed greater than 
 
 # 5th edition's simplified opportunity attacks
 You can make an opportunity attack in the following situation (not plural):
-- A hostile creature (that you can see) **moves out of your melee reach**.
+- A hostile creature (that you can see) moves **out of your melee reach**.
 
 You may spend your _reaction_ for the turn to make one **melee** attack against the provoking creature, right before they leave your reach.
 
@@ -229,13 +229,13 @@ An attack roll against a prone creature gains **advantage if the attacker is wit
 ---
 
 # Stealth
-**You must normally be _highly obscured_ to attempt to hide.** WotC seems deeply reluctant to explicitly state this rule, but here are the official exceptions that prove it:
+**You must normally be _highly obscured_ to attempt to hide.** WotC seems reluctant to explicitly state this rule, preferring to just say "ask your DM" instead, but here are some official exceptions that prove you can't normally hide while only lightly obscured:
 
 > **Character Bonus:** A **Wood Elf** character's _Mask of the Wild_ feature allows them to try to hide while only _lightly obscured_ by foliage, weather, or other natural phenomena.
 
-> **Character Bonus:** A **Lightfoot Halfling** character's _Naturally Stealthy_ feature allows them to try to hide while obscured by a Medium or larger creature.
-
 > **Character Bonus:** A character with the **Skulker** feat can attempt to hide while only _lightly obscured_.
+
+> **Character Bonus:** A **Lightfoot Halfling** character's _Naturally Stealthy_ feature allows them to try to hide while obscured by a Medium or larger creature (normally half cover but no obscurity). 
 
 See Appendix B [official rules quotes](#appendix-b-official-rules-quotes)
 
