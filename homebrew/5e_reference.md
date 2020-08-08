@@ -147,7 +147,7 @@ If you take damage while maintaining _concentration_ on a spell, you must make a
 # Knocking a creature out
 An attacker making a __melee__ attack that would kill a creature may choose to instead knock them out: the knocked-out creature falls unconscious, drops to 0 hitpoints, and is stable.
 
-> **homebrew:** IRL any blow or chemical that can render you unconscious is very close to being strong enough to kill you, and an adventurer swinging a normally-lethal weapon in the middle of adrenaline-soaked combat is in no position to carefully or safely take someone down. If you want to take a living prisoner grab some [manacles](https://5thsrd.org/adventuring/equipment/adventuring_gear/#manacles) and brush up on your [grapple rules](#getting-grappled). Or play a monk.
+> **homebrew:** IRL any blow or chemical that can render you unconscious is very close to being [strong enough to kill you](https://en.wikipedia.org/wiki/Concussion#Treatment), and an adventurer swinging a normally-lethal weapon in the middle of adrenaline-soaked combat is in no position to carefully or safely take someone down. If you want to take a living prisoner grab some [manacles](https://5thsrd.org/adventuring/equipment/adventuring_gear/#manacles) and brush up on your [grapple rules](#getting-grappled). Or play a monk.
 
 Most enemies don't make death saving throws and have no chance of being stabilized or saved once they go down.
 
