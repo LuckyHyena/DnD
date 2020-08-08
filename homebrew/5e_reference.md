@@ -271,9 +271,6 @@ Obscurity:
 
 For terrain such as walls and windows, the maximum obscurity assumes the character is **actively (and successfully)** trying to use the terrain to hide. Likewise the cover assumes the character is actively dodging among the features of the terrain. In both cases a character must be [_able to move_](#able-to-move).
 
-> ~~**Character Bonus?!?**~~ **Drow Elves**, **Kobolds**, and **undead creatures** suffer various disadvantages in direct _sunlight_, most commonly:
->> Disadvantage on attack rolls and **Wisdom** (_Perception_) ability checks if either the creature or the target they're looking at are in _sunlight_.
-
 ---
 
 # Examples of Cover
@@ -301,7 +298,7 @@ For terrain such as walls and windows, the maximum obscurity assumes the charact
 
 ---
 
-# Palisades and Quickly-Constructable Cover
+# Palisades and Constructable Cover
 ||No Cover|Half Cover (+2)|Three-Quarters Cover (+5)|Full Cover|
 |-|-|-|-|-|
 |**Not Obscured**|                                                                                                                      **Bright light** or **sunlight**. Flat land cleared of brush.              |                   An _invisible_ thicket. A shield wall.            |            An _invisible_ palisade. Carefully reinforced glass.             |                           A _Wall of Force_.                                   |
@@ -334,6 +331,9 @@ A creature with Truesight can see though magical and nonmagical darkness, illusi
 Most Devilsight (at least the kind _Monster Manual_ devils possess) only ignores magical darkness, not natural. 
 
 > **Character Bonus:** The **Warlock** eldritch invocation _Devil's Sight_ is a special case that ignores both.
+
+> ~~**Character Bonus?!?**~~ **Drow Elves**, **Kobolds**, and **undead creatures** suffer various disadvantages in direct _sunlight_, most commonly:
+>> Disadvantage on attack rolls and **Wisdom** (_Perception_) ability checks if either the creature or the target they're looking at are in _sunlight_.
 
 **homebrew:** [some additional types of vision](5e_homebrew.md#not-enough-weird-vision-lets-homebrew)
 
