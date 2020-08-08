@@ -9,11 +9,11 @@ _Standard 5e rules that I like but which I commonly forget during play._
 ---
 
 __Everyday problems:__
-- Fifth edition [actions](#fifth-edition-actions) available each turn
+- Fifth edition [actions](#fifth-edition-actions-available-on-your-turn) available on your turn
 - The six perfect and immutable 5e ability check [difficulty classes](#ability-checks)
-- The official 5th Edition [size categories](#the-official-5th-edition-size-categories)
 - [Concentration](#concentration)
 - Knocking a creature [out](#knocking-a-creature-out)
+- The official 5th Edition [size categories](#the-official-5th-edition-size-categories)
 - _System Reference Document (SRD)_ [Languages](https://5thsrd.org/character/languages/)
 
 __Running away from the monsters:__
@@ -90,7 +90,12 @@ __Appendix B: [Official rules quotes](#appendix-b-official-rules-quotes)__
 
 ## Everyday problems
 
-# Fifth edition actions
+# Fifth edition actions available on your turn
+- Action 
+- Movement
+- Bonus Action if you have one
+- Reaction
+
 During [your turn](https://5thsrd.org/combat/order_of_combat/#your-turn), you have the option to [perform one](https://5thsrd.org/combat/actions_in_combat/) __action__, and you additionally have a distance of __movement__ that you may spend to move around the battlefield. Moving is not a type of action, although you may spend your action to [dash](https://5thsrd.org/combat/actions_in_combat/#dash) and double your movement for the turn. You may split up your movement before and after your action, and if you can make multiple attacks you have the option to move between each attack.
 
 Some character abilities or powers mention a __bonus action__. If you have such an ability, during your turn you may perform one such _bonus action_ alongside your regular _action_. You may perform a bonus action at any time during your turn, whether you have taken your _action_ or not. You may spend your _action_ to perform an additional _bonus action_, but not vice versa.
@@ -132,6 +137,22 @@ Similarly, here is an example of different difficulty _Survival_ checks to forag
 
 ---
 
+# Concentration
+If you take damage while maintaining _concentration_ on a spell, you must make a Constitution saving throw with a DC of either 10 (easy) or half the damage you took, whichever is higher. If you fail the saving throw your _concentration_ is broken.
+
+> **homebrew:** make concentration saving throws with **Intelligence** instead of Constitution.
+
+---
+
+# Knocking a creature out
+An attacker making a __melee__ attack that would kill a creature may choose to instead knock them out: the knocked-out creature falls unconscious, drops to 0 hitpoints, and is stable.
+
+> **homebrew:** IRL any blow or chemical that can render you unconscious is very close to being strong enough to kill you, and an adventurer swinging a normally-lethal weapon in the middle of adrenaline-soaked combat is in no position to carefully or safely take someone down. If you want to take a living prisoner grab some [manacles](https://5thsrd.org/adventuring/equipment/adventuring_gear/#manacles) and brush up on your [grapple rules](#getting-grappled). Or play a monk.
+
+Most enemies don't make death saving throws and have no chance of being stabilized or saved once they go down.
+
+---
+
 # The Official 5th Edition Size Categories
 
 |Size|Squares|Faerûn|Oerth|
@@ -152,22 +173,6 @@ Similarly, here is an example of different difficulty _Survival_ checks to forag
 >> While _squeezing_ through a space, a creature has disadvantage on **attack rolls and Dexterity saving throws**, and [it suffers a __speed penalty__].
 >>
 >> Attack rolls against the creature gain advantage while it's in the smaller space. - [_Player's Handbook_](https://5thsrd.org/combat/movement_and_position/#squeezing-into-a-smaller-space)
-
----
-
-# Concentration
-If you take damage while maintaining _concentration_ on a spell, you must make a Constitution saving throw with a DC of either 10 (easy) or half the damage you took, whichever is higher. If you fail the saving throw your _concentration_ is broken.
-
-> **homebrew:** make concentration saving throws with **Intelligence** instead of Constitution.
-
----
-
-# Knocking a creature out
-An attacker making a __melee__ attack that would kill a creature may choose to instead knock them out: the knocked-out creature falls unconscious, drops to 0 hitpoints, and is stable.
-
-> **homebrew:** IRL any blow or chemical that can render you unconscious is very close to being strong enough to kill you, and an adventurer swinging a normally-lethal weapon in the middle of adrenaline-soaked combat is in no position to carefully or safely take someone down. If you want to take a living prisoner grab some [manacles](https://5thsrd.org/adventuring/equipment/adventuring_gear/#manacles) and brush up on your [grapple rules](#getting-grappled). Or play a monk.
-
-Most enemies don't make death saving throws and have no chance of being stabilized or saved once they go down.
 
 ![immovable rod](/images/immovable-rod.jpg)
 
@@ -226,7 +231,7 @@ An attack roll against a prone creature gains **advantage if the attacker is wit
 ---
 
 # Stealth
-**You must normally be _highly obscured_ to attempt to hide.** Here are the exceptions that prove the rule:
+**You must normally be _highly obscured_ to attempt to hide.** WotC seems deeply reluctant to explicitly state this rule, but here are the official exceptions that prove it:
 
 > **Character Bonus:** A **Wood Elf** character's _Mask of the Wild_ feature allows them to try to hide while only _lightly obscured_ by foliage, weather, or other natural phenomena.
 
