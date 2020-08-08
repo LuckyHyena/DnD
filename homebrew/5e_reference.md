@@ -171,7 +171,7 @@ A character must be both _able to act_, and must have a move speed greater than 
 > **homebrew:** When a creature spends its _action_ to _dodge_ (and is currently _able to act_) while standing in squares containing cover, they receive the **cover bonus** from the next level of cover __above__ the actual squares' normal bonus. Thus: a square that provides half-cover for characters instead provides three-quarters cover for a dodging character, and a square that normally provides three-quarters cover can provide full cover if a character is dodging in it.
 
 # 5th edition's simplified opportunity attacks
-You can make an opportunity attack when:
+You can make an opportunity attack in the following situation (not plural):
 - A hostile creature (that you can see) **moves out of your reach**.
 
 You may spend your _reaction_ for the turn to make one melee attack against the provoking creature, right before they leave your reach.
@@ -184,8 +184,8 @@ If a character spends their _action_ to disengage, they don't provoke opportunit
 > ### Things that do not provoke opportunity attacks
 > - Making a ranged attack within reach of a hostile creature causes [disadvantage](#improvised-weapons) but doesn't provoke.
 > - Casting a spell with a ranged attack roll also suffers disadvantage, but otherwise spellcasting suffers no penalties.
-> - There is no such thing as a five-foot step.
 > - You can circle around creatures without provoking as long as you stay within their reach for your entire movement.
+> - There is no such thing as a [five-foot step](https://www.dandwiki.com/wiki/SRD:5-Foot_Step) in 5th edition.
 
 ---
 
@@ -347,6 +347,8 @@ An improvised weapon that doesn't resemble a normal weapon deals 1d4 damage and 
 > 
 >  In contrast, making a **ranged attack while a hostile creature is within 5 ft** gives you disadvantage instead.
 
+> **Character Bonus:** Characters with the **_Tavern Brawler_** feat get their proficiency bonus with all improvised and unarmed attacks. After hitting a creature with either kind of attack, a **_Tavern Brawler_** may then spend their _bonus action_ to immediately make a [grapple attempt](#desperate-non-weapon-attacks) on the creature.
+
 ---
 
 # Running Out of Ammo
@@ -395,7 +397,7 @@ Some of these special attacks are performed using the Attack action, and if you 
 |Disarm|You suffer disadv if the target is holding their weapon with 2+ hands. Target gets adv if larger than you, or disadv if smaller.|**Attack roll**|Str (Ath) or Dex (Acr)|Attack| Target drops their weapon.|
 |Overrun|You get adv if larger than your target, disadv if smaller.|Str (Ath)|**Str (Ath)**|Bonus Action| You can move through the target's space once this turn.
 |Tumble|_homebrew: you get adv if smaller than your target_|**Dex (Acr)**|**Dex (Acr)**|Bonus Action| You can move through the target's space once this turn.|
-|Climb Onto|A creature at least **two sizes larger** than you.|**Str (Ath) or Dex (Acr)**|**Dex (Acr)**|Movement| The target is treated as (difficult) terrain. You get advantage on attacks against the target.|
+|Climb Onto|A creature at least **two sizes larger** than you.|**Str (Ath) or Dex (Acr)**|**Dex (Acr)**|Action, then Movement| The target is treated as (difficult) terrain. You get advantage on attacks against the target.|
 |Dislodge|A smaller creature climbing on you.|Str (Ath)|Str (Ath) or Dex (Acr)|Action| The climber is knocked off you.|
 
 > **homebrew:** if you wish to throw a Gnome or similarly-sized creature at an enemy, you give advantage to the Gnome's Climb Onto attempt or one weapon attack against that enemy, using your Strength bonus and improvised weapon proficiency. If the Gnome isn't cooperating with you to attack then what you are _actually_ doing instead is attempting to either Grapple or Shove the poor Gnome.
@@ -431,10 +433,10 @@ Some of these special attacks are performed using the Attack action, and if you 
 # To swing two weapons
 |Dual Wielding|Requirement|Effect|
 |-|-|-|
-|Two __light__ melee weapons|-|May spend your _bonus action_ to make a second attack. The second attack only adds an ability penalty to the damage, not a bonus.|
+|Two __light__ melee weapons|-|May spend your _bonus action_ to make one extra attack with your off-hand weapon. The bonus attack doesn't get your ability modifier for the **damage** roll unless you have a penalty.|
 |Two __light__ melee weapons|__Two-weapon fighting__ fighting style|You can add your ability bonus to your bonus attack.|
-|Two _one-handed_ melee weapons|**_Dual Wielder_** feat|Can spend your _bonus action_ as above. +1 Armor Class bonus. Can draw or stow two weapons at once.|
-|One-handed **monk weapon** and _unarmed strikes_|**Monk** class|At level 1: You can use Dexterity instead of Strength for attack and damage rolls. You roll a die based on your level (d4) for your unarmed strike damage. By spending your __bonus action__ you can make a single unarmed strike, and may optionally spend one __Ki Point__ to use _flurry of blows_ to instead make two unarmed strikes.|
+|Two __one-handed__ melee weapons|**_Dual Wielder_** feat|+1 Armor Class bonus. Can draw or stow two one-handed weapons at once.|
+|One-handed monk weapon and _unarmed strikes_|**Monk** class|At level 1: You can use Dexterity instead of Strength for attack and damage rolls. You roll a die based on your level (d4) for your unarmed strike damage. By spending your __bonus action__ you can make a single unarmed strike. Beginning at 2nd level you may optionally spend one __Ki Point__ to use _flurry of blows_ to instead make two unarmed strikes with your bonus action.|
 
 ---
 
