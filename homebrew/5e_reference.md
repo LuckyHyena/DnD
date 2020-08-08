@@ -243,11 +243,10 @@ See Appendix B [official rules quotes](#appendix-b-official-rules-quotes)
 
 I would adjudicate that you must be __highly obscured__ to take the hide action, which requires you to roll a __Dexterity__ (_Stealth_) check:
 - While you stay highly obscured creatures have [no chance to perceive you](#cover-and-obscurity) even when you're not hiding, so your check result is irrelevant.
-- If you move into a __lightly obscured__ area (including [dim light and darkvision](#light-and-vision)), you're [invisible](https://5thsrd.org/rules/conditions/#invisible) to creatures with a passive __Wisdom__ (_Perception_) score less than your check result.
+- If you move out of the highly obscured area, you're [invisible](https://5thsrd.org/rules/conditions/#invisible) to creatures with a passive __Wisdom__ (_Perception_) score less than your check result.
    - If they have a reason to be suspicious, any creature make spend their action for their turn to [search](https://5thsrd.org/combat/actions_in_combat/#search) and make an active Wisdom (_Perception_) check to find hidden characters.
-   - Wisdom (_Perception_) checks suffer disadvantage in **low light and darkvision**, and creatures' passive Perception scores suffer a -5 penalty.
-- If you move into a __brightly-lit__ (and otherwise-unobscured) area, any creature that has, or gains, line of sight on you is no longer affected by your current stealth check.
-   - To become hidden to those creatures again you must become _heavily obscured_ and spend a new action on attempting to hide.
+   - Wisdom (_Perception_) checks suffer disadvantage when looking into **lightly obscured** areas (including [dim light and darkvision](#light-and-vision)), and creatures' passive Perception scores suffer a -5 penalty.
+   - Attacking, casting a spell, and many other actions will end your current hide attempt.
 
 ![immovable rod](/images/immovable-rod.jpg)
 
