@@ -334,7 +334,7 @@ Generally, teleportation targets must be outdoors.
 
 *If you're asking "why is it faster to..." it's because of the Spellplague and the **Tarrasque**, _obviously_.
 
-**Shopping for this _teleport_ is kind of like going into a shop and saying "Hello! I would like to buy a pair of gloves, a crowbar and a hammer, a balaclava mask, and most importantly: your _finest_ set of lock-picking tools."
+**Shopping for this _teleport_ is kind of like going into a shop and saying "Hello! I would like to buy a pair of gloves, a crowbar and a hammer, a balaclava mask, and most importantly: your _finest_ set of thieves' tools."
 
 **The _Tarrasque_:** It's impossible to _teleport_ into or out of a hex near the _Tarrasque_'s current position: ending up in the wrong place and other mishaps become more likely the closer you're aiming to the mythological creature. And when the _Tarrasque_'s position is unknown, trying to _teleport_ deep into the jungle becomes a gamble: be prepared to re-orient yourself as your first task upon landing. Although perhaps an irritating problem, it can be thought of as a blessing when you consider the alternative: being able to blindly _teleport_ directly to the _Tarrasque_ itself.
 

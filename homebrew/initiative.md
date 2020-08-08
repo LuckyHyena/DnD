@@ -38,7 +38,7 @@ Initiative rolls are generally **Dexterity** ability checks with the newly avail
 |---------|------------------|----------------|----------|----|
 |A fighter is hit by a trap that starts initiative.|_**trap saving throw ability**_|Initiative|Disadvantage|-|
 |A barbarian was holding a door that's forced open, starting initiative.|**Strength**|Initiative|Disadvantage|-|
-|A rogue picking a lock when initiative starts.|Dexterity|**_Lock-picking Tools_**|Disadvantage|To ensure the tools are put away safely. The rogue may use a standard roll but risks breaking their lock-picking kit unless they beat a very hard difficulty Dexterity saving throw `DC 25`.|
+|A rogue picking a lock when initiative starts.|Dexterity|**_Thieves' Tools_**|Disadvantage|To ensure the tools are put away safely. The rogue may use a standard roll but risks breaking their thieves' tools kit unless they beat a very hard difficulty Dexterity saving throw `DC 25`.|
 
 > D&D 5e removed actions such as _Refocus_ and _Delay_, and made initiative a single unchangeable roll at the start of each combat.
 >

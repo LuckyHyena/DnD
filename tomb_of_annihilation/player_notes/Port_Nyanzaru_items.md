@@ -17,7 +17,7 @@ Each of the seven merchant princes who rule Port Nyanzaru controls the selling a
 
 - [Ekene-Afa](#ekene-afa) is an ex-gladiator who controls the sale and trade of weapons and shields.
 - [Ifan Talro'a](#ifan-talroa) controls the sale of beasts and beast training, including the dinosaurs used as pack animals throughout Port Nyanzaru. He's also responsible for overseeing the [tenth-day dinosaur races](Port_Nyanzaru_activities.md#dinosaur-racing).
-- [Jessamine](#jessamine) is the only public representative of Port Nyanzaru's assassins' guild, and controls the sale of [poisons](poisons.md#top), [medicinal Chultan plants](chultan_plants.md#top), and [alchemical materials](#jessamine).
+- [Jessamine](#jessamine) is the only public representative of Port Nyanzaru's assassins' guild, and controls the sale of [medicinal Chultan plants](chultan_plants.md#top), [alchemical materials](#jessamine), and [poisons](poisons.md#top).
 - [Jobal](#jobal) is an ex-guide and the merchant prince with authority over all of Port Nyanzaru's jungle guides, and the matchmaker for most of them. He also regulates the sale of travelling gear, rain catchers, wagons, canoes, and insect repellant.
 - [Kwayothé](#kwayothé) is the high priestess in the temple of Sune, and additionally a merchant prince who controls the sale and production of tej, wine, ale, fruit, oil, and perfume. This gives her immense de facto authority over most restaurants, taverns, ceremonies, and celebrations in Port Nyanzaru.
 - [Zhanthi](#zhanthi) is a noble who runs the Jewel Market, an exclusive and high-end market for the sale of [art, jewelry, gems](Port_Nyanzaru_activities.md#selling-loot-or-items), metal armors, and magic items.
@@ -76,14 +76,14 @@ Ekene-Afa can be a wrathful and mercurial leader, and the people who succeed in 
 | _+1 Wooden Shield_ | 45 platinum coins | Magical: +1 to AC. |
 | _+1 Dagger_ | 50 platinum coins | Magical: +1 to attack rolls and damage. |
 | _+1 Yklwa_ | 50 platinum coins | Magical: +1 to attack rolls and damage. |
-|Hunting trap|5 gold pieces|A Large or smaller creature that steps on a prepared trap must succeed on a Dexterity saving throw (`DC 13`) or take [1d4 piercing damage and stop moving](https://5thsrd.org/adventuring/equipment/adventuring_gear/). Escaping requires a Strength check of the same difficulty, and the target takes 1 more damage on a failed escape.|
+|Hunting trap|5 gold pieces|A Large or smaller creature that steps on a prepared trap must succeed on a Dexterity saving throw (`DC 13`) or take 1d4 piercing damage and their movement speed is 0. Escaping requires a Strength check of the same difficulty, and the target takes 1 more damage on a failed escape.|
 |Massive hunting trap|10 platinum coins|This hunting trap can affect a Medium or larger creature. The creature must make a saving throw as with a normal hunting trap, but suffers increased difficulty (`DC 18`) and doubled damage.|
 |Manacles|2 gold coins|Can bind a Small or Medium creature. Escaping requires a Hard difficulty Strength or Dexterity ability check (`DC 20`), or a Moderate difficulty to pick the lock.|
-|Simple Lock|1 platinum coin|Moderate difficulty to pick with lock-picking tools (`DC 15`).|
-|Good Lock|5 platinum coins|Hard difficulty to pick with lock-picking tools (`DC 20`).|
+|Simple Lock|1 platinum coin|Moderate difficulty to pick with thieves' tools (`DC 15`).|
+|Good Lock|5 platinum coins|Hard difficulty to pick with thieves' tools (`DC 20`).|
 |Portable ram|4 gold coins| A character using a portable ram gets a +4 bonus on Strength checks to break down doors or obstacles. One other character may assist with the ram to provide advantage with the same +4 bonus.|
 |Ball Bearings|1 gold piece|As an action, a character can spill these [tiny metal ball bearings](https://5thsrd.org/adventuring/equipment/adventuring_gear/) from their pouch to cover a flat area of the floor, affecting up to 4 squares within their reach on the battlemap. A creature may move at half speed to walk safely past the ball bearings. Otherwise they must succeed on an Easy difficulty Dexterity saving throw (`DC 10`) or fall _prone_.|
-|Caltrops|1 gold piece| As an action, a character can spread a [bag of caltrops](https://5thsrd.org/adventuring/equipment/adventuring_gear/) to cover one square within reach on the battlemap. A creature may walk at half speed to move safely through caltrops: otherwise they must succeed on a Moderate difficulty Dexterity saving throw (`DC 15`) or stop moving and take damage.|
+|Caltrops|1 gold piece| As an action, a character can spread a [bag of caltrops](https://5thsrd.org/adventuring/equipment/adventuring_gear/) to cover one square within reach on the battlemap. A creature may walk at half speed to move safely through caltrops: otherwise they must succeed on a Moderate difficulty Dexterity saving throw (`DC 15`) or take 1 piercing damage, stop moving for the turn, and suffer a [2 square reduction in movement speed](https://5thsrd.org/adventuring/equipment/adventuring_gear/).|
 
 ![immovable rod](/images/immovable-rod.jpg)
 
@@ -112,29 +112,29 @@ Characters can learn to ride and race dinosaurs, and can [participate in Port Ny
 ![immovable rod](/images/immovable-rod.jpg)
 
 # Jessamine
-JESS-ah-meen is a Chultan noble and ex-assassin who controls the buying and selling of **poisons, assassinations, and medicinal plants**. She is the only public face of an anonymous guild of professional assassins in Port Nyanzaru who sell their brutal service to wealthy foreign visitors. Jessamine is usually quiet during meetings of the merchant princes, and she abstains from voting except to break a tie, but her violent presence in the Goldenthrone, sitting with the other merchant princes above petitioners, reinforces the authority of Port Nyanzaru's young government.
+JESS-ah-meen is a Chultan noble and ex-assassin who controls the buying and selling of **medicinal plants, alchemical supplies, poisons, and assassinations**. She is the only public face of an anonymous guild of professional assassins in Port Nyanzaru who sell their brutal service to wealthy foreign visitors. Jessamine is usually quiet during meetings of the merchant princes, and she abstains from voting except to break a tie. Regardless, her violent presence in the Goldenthrone, sitting with the other merchant princes above petitioners, reinforces the authority of Port Nyanzaru's young government.
 
 Jessamine is the sole person in Port Nyanzaru with the authority to issue **sanctions**, writs that allow for legal assassinations in the city by approved methods, usually poison or a single stab with a blade. Sanctions are rarely sold and are extremely expensive.
 
-> **Help Wanted:** Jessamine sometimes hires independent rogues or spies to investigate the situation around a potential _sanction_, or to quietly deliver a [triceratops](dramatis_personae.md#the-ytepka-society). Port Nyanzaru's native assassins' guild is, however, _extremely_ satisfied with the current number of assassins operating in the Port Nyanzaru area, and they would _hate_ to see, or to be informed of, or find out about, or actively sniff out, anyone in Port Nyanzaru trying to change their beloved status quo.
+> **Help Wanted:** Jessamine sometimes hires independent rogues or spies to investigate the situation around a potential _sanction_, or to quietly deliver a [triceratops](dramatis_personae.md#the-ytepka-society). Port Nyanzaru's native assassins' guild is, however, _extremely_ satisfied with the current number of assassins operating in the Port Nyanzaru area, and they would _hate_ to see, or to be informed of, or find out about, or actively sniff out, anyone in Port Nyanzaru talking about trying to change their beloved status quo.
 
 ![Jessamine](images/characters/Merchant_Prince_Jessamine.jpg)
 
 |Item|Price|Note|
 |-|-|-|
+|Healer's Kit|5 gold coins|10 uses. You may spend your _action_ and one use of this kit to stabilize another creature who is dying.|
+|[_Keoghtom's Ointment_](https://5thsrd.org/gamemaster_rules/magic_items/restorative_ointment/)|50 platinum coins|Five doses that each heal 2d8 + 2 hit points, and additionally cure any poisons or diseases affecting the creature.|
+|Antitoxin|5 platinum coins|A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour.|
+|Herbalism [Kit](https://5thsrd.org/adventuring/equipment/tools/)|5 gold coins|You may add your tool proficiency bonus to ability checks made to find and use medicinal herbs, to craft antitoxin or _Potions of Healing_, and to refill a healer's kit by foraging.|
 |[Chultan Plants](chultan_plants.md#top)|*|-|
+|Alchemist's [Supplies](https://5thsrd.org/adventuring/equipment/tools/)|5 platinum coins|Must be proficient with this tool to craft acid or alchemist's fire.|
+|Acid|25 gold coins|As an action, you can [throw the vial](https://5thsrd.org/adventuring/equipment/adventuring_gear/) up to 4 squares, dealing 2d6 acid damage to whatever is hit.|
+|Alchemist's Fire|5 platinum coins|This sticky, adhesive fluid ignites when [exposed to air](https://5thsrd.org/adventuring/equipment/adventuring_gear/), and can be thrown up to 4 squares. If it successfully hits, the hit target suffers 1d4 fire damage each turn until they spend their action to make an Easy Dexterity ability check. `DC 10`|
+|Poisoner's [Kit](https://5thsrd.org/adventuring/equipment/tools/)|5 platinum coins|You may add your tool proficiency bonus to ability checks and saving throws to safely use or craft poisons.|
+|[Basic](https://5thsrd.org/adventuring/equipment/tools/) weapon poison|10 platinum coins|Can spend your _action_ to apply to one slashing or piercing melee weapon or up to three pieces of ammunition. A coating remains potent for 1 minute. A creature hit by the poisoned weapon or ammunition must make an easy Constitution saving throw (`DC 10`) or take 1d4 poison damage.|
+|[Poisons](poisons.md#top)|*|Minimum price is 15 platinum coins.|
 |Blowgun|1 platinum coin|Martial ranged weapon (range 25/100), 1 piercing damage, _loading_ and _ammunition_.|
 |50 blowgun needles|1 gold coin|-|
-|[Basic](https://5thsrd.org/adventuring/equipment/tools/) weapon poison|10 platinum coins|Can spend your _action_ to apply to one slashing or piercing weapon or up to three pieces of ammunition. A coating remains potent for 1 minute. A creature hit by the poisoned weapon or ammunition must make an easy Constitution saving throw (`DC 10`) or take 1d4 poison damage.|
-|[Poisons](poisons.md#top)|*|_Minimum price is 15 platinum coins._|
-|Poisoner's [Kit](https://5thsrd.org/adventuring/equipment/tools/)|5 platinum coins|You may add your tool proficiency bonus to ability checks and saving throws to safely use or craft poisons.|
-|Acid|25 gold coins|As an action, you can [throw the vial](https://5thsrd.org/adventuring/equipment/adventuring_gear/) up to 4 squares, dealing 2d6 acid damage to whatever is hit.|
-|Alchemist's Fire|5 platinum coins|This sticky, adhesive fluid ignites when [exposed to air](https://5thsrd.org/adventuring/equipment/adventuring_gear/), and can be thrown up to 4 squares. If it successfully hits, the hit target suffers 1d4 fire damage each turn until they make an Easy Dexterity ability check. `DC 10`|
-|Alchemist's [Supplies](https://5thsrd.org/adventuring/equipment/tools/)|5 platinum coins|Must be proficient with this tool to craft acid or alchemist's fire.|
-|Healer's Kit|5 gold coins|10 uses. You may spend your _action_ and one use of this kit to stabilize another creature who is dying.|
-|Antitoxin|5 platinum coins|A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour.|
-|[_Keoghtom's Ointment_](https://5thsrd.org/gamemaster_rules/magic_items/restorative_ointment/)|50 platinum coins|Five doses that each heal 2d8 + 2 hit points, and additionally cure any poisons or diseases affecting the creature.|
-|Herbalism [Kit](https://5thsrd.org/adventuring/equipment/tools/)|5 gold coins|You may add your tool proficiency bonus to ability checks made to find and use medicinal herbs, to craft antitoxin or _Potions of Healing_, and to refill a healer's kit by foraging.|
 
 ![immovable rod](/images/immovable-rod.jpg)
 
@@ -163,8 +163,8 @@ Jobal is gregarious and charismatic, and he constantly wanders the city keeping 
 |Tent, two-person|2 gold coins|-|
 | Insect Repellant Incense | 1 silver coin | A block of incense that, when lit, burns for 8 hours and repels non-monstrous insects in a 20-foot radius. |
 | Insect Repellant Salve | 1 gold coin | A gourd or vial containing 20 applications of an odorless grease. One application protects one character from non-monstrous insects for 24 hours. |
-|Climber's Kit|25 gold pieces|+5 to all ability checks or saving throws related to climbing. Climbing equipment is not a _tool_.|
 |Fishing tackle|1 gold coin|A kit with everything you need to fish. This kit is a _tool_ and you must be _proficient_ with it in order to use your proficiency bonus when fishing.|
+|Climber's Kit|25 gold pieces|+5 to all ability checks or saving throws related to climbing. Climbing equipment does not require any tool proficiency.|
 
 > **homebrew:** Monstrous insects are [_frightened_](https://5thsrd.org/rules/conditions/#frightened) by insect repellant if they fail an **easy** Constitution saving throw [DC 10] when they first encounter it. A frightened insect may repeat the saving throw at the beginning of each of its turns, ending the condition on a success.
 >
@@ -194,9 +194,9 @@ As a merchant prince, Kwayothé controls the sale of **tej, wine, ale, fruit, oi
 |Sealing wax|5 silver coins|-|
 |Abacus|2 gold coins|You may add your tool proficiency bonus to ability checks made when you're investigating monetary documents, estimating distances or areas, or performing other mathematics.|
 |Merchant's Scale|5 gold pieces|You may add your tool proficiency bonus to ability checks to assess the value of an object.|
-|Perfume|5 gold pieces|Easy difficulty (`DC 10`) to correctly apply.|
+|Perfume|5 gold pieces|Easy difficulty to correctly apply. `DC 10`|
 |Not-Forgery Kit|15 gold coins|This small box contains a variety of papers and parchments, pens and inks, seals and sealing wax, gold and silver leaf, and other supplies for your bard's unremarkable calligraphy hobby. This kit would never be used to forge personal messages or official documents.|
-|Not-Thieves' Tools|25 gold pieces|This kit contains the tools and picks that your rogue needs to disarm traps and open locks, as part of the party's entirely-legitimate business of looting our ancestor civilizations' few remaining tombs. Such a kit would would never be used to break into a Port Nyanzaru location.|
+|Not-Thieves' Tools|25 gold pieces|This kit contains the tools and picks that your rogue needs to disarm traps and open locks, as part of the party's entirely-legitimate business of looting our ancestor civilizations' few remaining tombs. Such a kit would never be used to do anything immoral.|
 |Holy water|25 gold coins|Can be thrown up to 4 squares. If the target is a fiend or undead, it takes 2d6 radiant damage on a successful hit.|
 |Cook's Utensils|30 gold coins|Helps when [cooking while camping](camping_activities.md#top) in the jungle.|
 
@@ -204,7 +204,7 @@ As a merchant prince, Kwayothé controls the sale of **tej, wine, ale, fruit, oi
 
 # Zhanthi
 
-JOHN-thee is a Chultan noble who can trace her lineage back to the original founders of the Chultan town of Nyanzaru, over six hundred years ago. She holds the monopoly on the sale of **gems, jewelry, cloth, and armor** in Port Nyanzaru. For several decades Zhanthi has managed the exclusive and high-end Jewel Market, even while the city was still under the control of Amn. Zhanthi and Kwayothé are the two wealthiest merchant princes, and Zhanthi pays high salaries to keep the Jewel Market well-staffed with reliable and trustworthy people: Zhanthi rewards loyalty but ruthlessly avenges betrayal.
+JOHN-thee is a Chultan noble who can trace her lineage back to the original founders of the Chultan town of Nyanzaru, over six hundred years ago. She holds the monopoly on the sale of **gems, jewelry, cloth, and armor** in Port Nyanzaru. For several decades Zhanthi has managed the exclusive and high-end Jewel Market, even while the city was still under the control of Amn. Zhanthi and Kwayothé are the two wealthiest merchant princes, and Zhanthi pays high salaries to keep the Jewel Market well-staffed with reliable and trustworthy people: she rewards loyalty but ruthlessly avenges betrayal.
 
 > **Help Wanted:** Although the Jewel Market is well-guarded, plenty of merchants still hire their own guards to transport their goods to and from the market. Additionally, Zhanthi sometimes needs outside help investigating the details of a potential fraud. Positions in the Jewel Market are hotly desired, and there's already a long line of applicants for any potential opening.
 
@@ -215,12 +215,13 @@ JOHN-thee is a Chultan noble who can trace her lineage back to the original foun
 |[_+1 Glamoured_ ](https://5thsrd.org/gamemaster_rules/magic_items/glamoured_studded_leather/) studded leather armor|20 platinum coins|-|
 |Any heavy armor|*|Triple the normal price.|
 |Personalized signet ring|5 gold coins|-|
+|Enchanting Perfume|5 platinum coins|Hard difficulty to correctly apply. `DC 20`|
 |[_Alarm_](https://5thsrd.org/spellcasting/spells/alarm/) sealing wax|10 platinum coins|Harmlessly self-destructs (either the seal or the entire paper) if the sealed letter or document is tampered with or opened by anyone other than your intended recipient.|
 |[_Illusory Script_](https://5thsrd.org/spellcasting/spells/illusory_script/) parchment|10 platinum coins|Only creatures you designate may read the real message your write: all others see a different, false message.|
 |Magnifying glass|10 platinum coins|+5 on ability checks to examine, investigate, or assess small objects.|
 |Hourglass|25 gold coins|+5 on ability checks to keep track of time.|
 |Spyglass|100 platinum coins|Doubles your effective vision range.|
-|High-quality lock|100 platinum coins|Very Hard difficulty to pick using lock-picking tools `DC 25`.|
+|High-quality lock|100 platinum coins|Very Hard difficulty to pick using thieves' tools. `DC 25`|
 |[_Sending_](https://5thsrd.org/spellcasting/spells/sending/) sealing wax|100 platinum coins|Instantly notifies you if the sealed document is tampered with or opened by anyone other than your intended recipient. Your intended recipient may burn the sealing wax after opening the letter to send you the short reply allowed by _sending_.|
 |[_Glyph of Warding_](https://5thsrd.org/spellcasting/spells/glyph_of_warding/) sealing wax|100 platinum coins|Unleashes a magical effect if the sealed document is tampered with or opened by anyone other than your intended recipient.|
 
@@ -230,7 +231,7 @@ JOHN-thee is a Chultan noble who can trace her lineage back to the original foun
 
 wah-KANG-gah oh-TAH-moo is a Chultan wizard with authority over all Port Nyanzaru business deals involving **magic items, arcane lore, and spellcasting services**, which are generally negotiated or finalized in the Jewel Market. Much like their absentminded merchant prince, the various mages of Port Nyanzaru are unorganized but usually don't cause too much trouble. Wakanga is only occasionally found in the Jewel Market, and trusts Zhanthi to resolve issues in his absence.
 
-> **Help Wanted:** Have you _seen_ magic? It's deeply messed up, and clearly dangerous. The small trade in magic around Port Nyanzaru regularly causes strange problems that require expert intervention to solve, and quite often need immense raw violence to drive out the resulting elementals, spirits, aberrations, or planar escapees.
+> **Help Wanted:** Have you _seen_ magic? It's deeply messed up, and clearly dangerous. The small trade in magic around Port Nyanzaru regularly causes strange problems that require expert intervention to solve, and Wakanga quite often needs large amounts of raw violence to clean up resulting elementals, spirits, aberrations, or planar escapees.
 
 ![Wakanga O'tamu](images/characters/Merchant_Prince_Wakanga_O'tamu.jpg)
 
@@ -246,6 +247,7 @@ These basic magic items are commonly produced in Port Nyanzaru and are usually a
 | Potion, common | 5 platinum coins |
 | Potion, uncommon | 30 platinum coins |
 | Wondrous item, common | 15 platinum coins |
+| Other magic items|See [buying a magic item](Port_Nyanzaru_activities.md#buying-a-magic-item) as an activity in Port Nyanzaru.|
 
 ## Spell Scrolls
 
@@ -274,14 +276,14 @@ If a spell has a material component with a listed price, that price is added to 
 
 |Uncommon Potion|Description|
 |-|-|
-|Potion of Animal Friendship|When you drink this potion, for the next 24 hours you can cast the _animal friendship_ spell (save DC 13) at will. Agitating this muddy liquid brings little bits into view: a fish scale, a hummingbird tongue, a cat claw, or a squirrel hair.|
-|Potion of Fire Breath|After drinking this potion, you can use a bonus action to exhale fire at a target within 30 feet of you. The target must make a DC 13 Dexterity saving throw, taking 4d6 fire damage on a failed save, or half as much damage on a successful one. The effect ends after you exhale the fire three times or when 24 hours have passed. This potion's orange liquid flickers, and smoke fills the top of the container and wafts out whenever it is opened.|
+|Potion of Animal Friendship|When you drink this potion, for the next 24 hours you can cast the [_animal friendship_](https://5thsrd.org/spellcasting/spells/animal_friendship/) spell (save DC 13) at will. Agitating this muddy liquid brings little bits into view: a fish scale, a hummingbird tongue, a cat claw, or a squirrel hair.|
+|Potion of Fire Breath|After drinking this potion, you can use your bonus action to exhale fire at a target within 30 feet of you. The target must make a DC 13 Dexterity saving throw, taking 4d6 fire damage on a failed save, or half as much damage on a successful one. The effect ends after you exhale the fire 1d6 + 2 times or when 24 hours have passed. This potion's orange liquid flickers, and smoke fills the top of the container and wafts out whenever it is opened.|
 |Potion of Greater Healing|You regain **4d4+4 hit points** when you drink this potion. The potion’s red liquid glimmers when agitated.|
-|Potion of Growth|When you drink this potion, you gain the "enlarge" effect of the _enlarge/reduce_ spell for 1d4 hours (no concentration required). The red in the potion's liquid continuously expands from a tiny bead to color the clear liquid around it and then contracts. Shaking the bottle fails to interrupt this process.|
-|Potion of Hill Giant Strength|When you drink this potion, your Strength score changes to 21 for 1 hour. The potion has no effect on you if your Strength is equal to or greater than that score. This potion's transparent liquid has floating in it a sliver of fingernail from a hill giant.|
-|Philter of Love|The next time you see a creature within 10 minutes after drinking this philter, you become **charmed** by that creature for 1 hour. If the creature is of a species and gender you are normally attracted to, you regard it as your true love while you are charmed. This potion's rose-hued, effervescent liquid contains one easy-to-miss bubble shaped like a heart.|
-|Potion of Resistance|When you drink this potion, you gain resistance to one type of damage for 24 hours. You can purchase a potion of resistance for acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder damage.|
-|Oil of Slipperiness|This sticky black unguent is thick and heavy in the container, but it flows quickly when poured. The oil can cover a Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of a _freedom of movement_ spell for 8 hours. Alternatively, the oil can be poured on the ground as an action, where it covers a 10-foot square, duplicating the effect of the _grease_ spell in that area for 8 hours.|
+|Potion of Growth|When you drink this potion, you gain the "enlarge" effect of the [_enlarge/reduce_](https://5thsrd.org/spellcasting/spells/enlargereduce/) spell for 1d4 hours (no concentration required). The red in the potion's liquid continuously expands from a tiny bead to color the clear liquid around it and then contracts. Shaking the bottle fails to interrupt this process.|
+|Potion of Hill Giant Strength|When you drink this potion, your Strength score changes to 21 (+6 bonus) for 1d4 hours. The potion has no effect on you if your Strength is equal to or greater than that score. This potion's transparent liquid has floating in it a sliver of fingernail from a hill giant.|
+|Philter of Love|The next time you see a creature within 10 minutes after drinking this philter, you become [charmed](https://5thsrd.org/rules/conditions/#charmed) by that creature for 1d4 hours. If the creature is of a species and gender you are normally attracted to, you regard it as your true love while you are charmed. This potion's rose-hued, effervescent liquid contains one easy-to-miss bubble shaped like a heart.|
+|Potion of Resistance|When you drink this potion, you gain resistance (take only half damage) to one type of damage for 24 hours. You can purchase a potion of resistance for acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder damage.|
+|Oil of Slipperiness|This sticky black unguent is thick and heavy in the container, but it flows quickly when poured. The oil can cover a Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of a [_freedom of movement_](https://5thsrd.org/spellcasting/spells/freedom_of_movement/) spell for 8 hours. Alternatively, the oil can be poured on the ground as an action, where it covers a 2x2 square, duplicating the effect of the [_grease_](https://5thsrd.org/spellcasting/spells/grease/) spell in that area for 8 hours.|
 |Potion of Water Breathing|You can breathe underwater for 24 hours after drinking this potion. Its cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it.|
 
 ---
@@ -292,11 +294,11 @@ If a spell has a material component with a listed price, that price is added to 
 #### Alarm Bell
 This tiny gold bell lacks a clapper but hums when held up to your ear. It has 3 charges.
 
-By speaking a command word you can expend one of the bell's charges and cast _alarm_. When the spell is cast, the bell rises in the air and moves to float 10 feet above the area, door, or window that was targeted. Another command word causes the _alarm_ to end and the bell to float back to your hand.
+By speaking a command word you can expend one of the bell's charges and cast [_alarm_](https://5thsrd.org/spellcasting/spells/alarm/). When the spell is cast, the bell rises in the air and moves to float 10 feet above the area, door, or window that was targeted. Another command word causes the _alarm_ to end and the bell to float back to your hand.
 
 If the _alarm_ spell's 8 hour duration would expire and the bell still has charges, instead a charge is expended and the duration is extended by 8 hours; otherwise the _alarm_ expires and the bell floats to the ground.
 
-The bell regains 1d3 charges every day at dawn. If the bell's last charge is expended, roll a d20. On a 1, the bell crumbles into gold dust and is destroyed.
+The bell regains 3 charges every day at dawn. Whenever the bell's last charge is expended, roll a d20. On a 1, the bell crumbles into gold dust and is destroyed.
 
 #### Chultan Candle
 This wax candle smells of menga leaves and burns with a copper flame that is not extinguished when immersed in water. It provides light and heat like an oil lamp, but can burn for up to 24 hours.

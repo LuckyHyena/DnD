@@ -523,7 +523,7 @@ Improvised attacks don't get your proficiency bonus, but simply improvising a we
 |Mounted character|**_Mounted Combatant_** feat|Advantage on attack rolls against unmounted creatures smaller than your mount. You can force an attack targeting your mount to target you instead. Your mount may [_evade_](#evade) one Dexterity saving throw. **homebrew:** Both of the latter two features require spending either your _reaction_ or your mount's _reaction_.|
 |Lance|martial proficiency|Disadvantage if within 1 square of your target. Needs two hands if not mounted.|
 |Whip|martial proficiency|1d4 slashing damage. _Finesse_ and _Reach_.|
-|Net|martial proficiency, _Large_ or smaller target|Max of one attack per _action_, even if you have multiple attacks. Thrown with **1/3 square range**. On hit the target is __restrained__ until they free themselves or are freed via an **easy Strength check** `DC 10` or `5` slashing damage to the net (`AC 10`).|
+|Net|martial proficiency, _Large_ or smaller target|Max of one attack per _action_, even if you have multiple attacks. Thrown with **1/3 square range**. On hit the target is __restrained__ until they free themselves or are freed via an **easy Strength check** `DC 10` or `5` slashing damage to the net. `AC 10`|
 |Silvered weapon|10 platinum coins for one item or ten pieces of ammunition|Must be expertly alloyed to remain sharp.|
 
 ![immovable rod](/images/immovable-rod.jpg)
