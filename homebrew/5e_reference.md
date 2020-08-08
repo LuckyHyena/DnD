@@ -157,7 +157,7 @@ An attacker making a __melee__ attack that would kill a creature may choose to i
 
 > **homebrew:** IRL any blow or chemical that can render you unconscious is very close to being strong enough to kill you, and an adventurer swinging a normally-lethal weapon in the middle of adrenaline-soaked combat is in no position to carefully or safely take someone down. If you want to take a living prisoner grab some [manacles](https://5thsrd.org/adventuring/equipment/adventuring_gear/#manacles) and brush up on your [grapple rules](#getting-grappled). Or play a monk.
 
-Most monsters don't make death saving throws and have no chance of being saved once they go down.
+Most enemies don't make death saving throws and have no chance of being stabilized or saved once they go down.
 
 ![immovable rod](/images/immovable-rod.jpg)
 
