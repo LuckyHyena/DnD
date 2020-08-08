@@ -64,7 +64,7 @@ The purpose of the algorithm is to establish and then update a Camp Goodness pro
    1. Characters may do a [final round of chores](camping_activities.md#morning-activities) around the camp to improve the final Camp Goodness score, or do a [final short rest activity](short_rest_activities.md#top) before starting the day.
    2. Generally, each character's chore or activity is resolved by rolling a single ability check.
 6. **Hit the road!**
-   1. Calculate the final Camp Goodness score, and roll for a bonus on the [_Camp Bonuses Payouts_ table](random_camping_bonus_payouts.md#top).
+   1. Calculate the final Camp Goodness score, and roll for a bonus on the [_Camp Bonuses Payouts_ table](camping_bonus_payouts.md#top).
    2. Begin [the jungling loop](travelling.md#top) to complete the day's travel through the jungle.
 
 ![immovable rod](/images/immovable-rod.jpg)

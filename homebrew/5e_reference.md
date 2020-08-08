@@ -41,6 +41,7 @@ __Everyday problems:__
 
 __Running away from the monsters:__
 - [Dodging](#dodging)
+- 5th edition's simplified [opportunity attacks](#5th-editions-simplified-opportunity-attacks)
 - Creatures [are difficult terrain](#creatures-are-difficult-terrain)
 - How to [put the crawl in dungeon crawl](#how-to-put-the-crawl-in-dungeon-crawl)
 - [Stealth](#stealth), particularly: You must normally be _highly obscured_ to attempt to hide.
@@ -165,9 +166,26 @@ Most monsters don't make death saving throws and have no chance of being saved o
 # Dodging
 When a character spends their _action_ to _dodge_, they gain benefits until the start of their next turn: **attacks against the dodging character** suffer disadvantage, and the character also gains advantage on **Dexterity saving throws**.
 
-A character must still be _able to act_ at the moment of the attack or saving throw in order to receive benefits from dodging.
+A character must be both _able to act_, and must have a move speed greater than 0, at the moment of the attack or saving throw in order to receive benefits from dodging.
 
 > **homebrew:** When a creature spends its _action_ to _dodge_ (and is currently _able to act_) while standing in squares containing cover, they receive the **cover bonus** from the next level of cover __above__ the actual squares' normal bonus. Thus: a square that provides half-cover for characters instead provides three-quarters cover for a dodging character, and a square that normally provides three-quarters cover can provide full cover if a character is dodging in it.
+
+# 5th edition's simplified opportunity attacks
+You can make an opportunity attack when:
+- A hostile creature (that you can see) **moves out of your reach**.
+
+You may spend your _reaction_ for the turn to make one melee attack against the provoking creature, right before they leave your reach.
+
+### Disengage
+If a character spends their _action_ to disengage, they don't provoke opportunity attacks for the rest of their turn. Other characters may still take readied actions against a disengaging character.
+
+> If you would like to take more control of the battlefield, consider _readying_ attacks and additionally the [mark bonus action](#getting-marked), which can give opportunity attacks advantage.
+
+> ### Things that do not provoke opportunity attacks
+> - Making a ranged attack within reach of a hostile creature causes [disadvantage](#improvised-weapons) but doesn't provoke.
+> - Casting a spell with a ranged attack roll also suffers disadvantage, but otherwise spellcasting suffers no penalties.
+> - There is no such thing as a five-foot step.
+> - You can circle around creatures without provoking as long as you stay within their reach for your entire movement.
 
 ---
 
@@ -353,12 +371,14 @@ You can release your grappled target whenever you like without an action. If you
 ---
 
 # Getting _marked_
-When you make a melee attack you may spend your bonus action to _mark_ your target.
 
-Until the end of your next turn, any opportunity attack you make against the marked target has advantage.
+When you make a melee attack you may spend your _bonus action_ for the turn to __mark__ your target.
 
-If you do end up making an opportunity attack against your marked target you may take one additional reaction before your next turn, but not another opportunity attack.
+Until the end of your next turn, any [opportunity attack](#5th-editions-simplified-opportunity-attacks) you make against the marked target has advantage.
 
+If you do end up making an opportunity attack against your marked target, you may take one additional _reaction_ before your next turn, but not another opportunity attack.
+
+> *The mark bonus action is an optional rule from the DMG*
 
 ---
 
@@ -505,12 +525,12 @@ A __ranged weapon__ attack automatically misses if the target is at long range, 
 ## Appendix A: Homebrew Definitions
 
 # Able to Act
-> **homebrew:** Creatures that aren't [_incapacitated_](https://5thsrd.org/rules/conditions/#incapacitated) are **able to act**.
+> **homebrew definition:** Creatures that aren't [_incapacitated_](https://5thsrd.org/rules/conditions/#incapacitated) are **able to act**.
 
 ---
 
 # Able to Move
-> **homebrew:** Creatures that aren't _immobile_ are **able to move**.
+> **homebrew definition:** Creatures that aren't _immobile_ are **able to move**.
 >
 > Creatures are _immobile_ if they are _grappled_, _paralyzed_, _petrified_, _stunned_, _unconscious_, or if their speed is `0`.
 
@@ -518,7 +538,7 @@ A __ranged weapon__ attack automatically misses if the target is at long range, 
 
 # Evade
 
-> **homebrew:** To *evade* means "take no damage on any successful Dexterity saving throw, or half damage on a failed save".
+> **homebrew definition:** To *evade* means "take no damage on any successful Dexterity saving throw, or half damage on a failed save".
 
 ---
 

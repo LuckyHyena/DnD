@@ -14,14 +14,14 @@
 For each day of travelling do the following:
 
 1. **Weather**
-   1. The day's weather is rolled on a d20.
+   1. The day's weather is [rolled on a d20](travelling_full.md#step-1-weather).
 1. **Dawn**
-   1. Characters have completed their long rest, and may now recover health and/or level up. The long rest is successful even if there was a random encounter, unless the party completely broke camp in the night.
+   1. Characters have completed their [long rest](long_rests.md#top), and may now recover health and/or level up. The long rest is successful even if there was a random encounter, unless the party completely broke camp in the night.
 3. **Morning**
    1. Characters may do a [final round of chores](camping_activities.md#morning-activities) around the camp to improve the final Camp Goodness score, or do a [final short rest activity](short_rest_activities.md#top) before starting the day.
    2. Generally, each character's chore or activity is resolved by rolling a single ability check.
 4. **Hit the road!**
-   1. Calculate the final Camp Goodness score, and roll for a bonus on the [_Camp Bonuses Payouts_ table](random_camping_bonus_payouts.md#top) based on how successfully the party rested over the duration they were camping.
+   1. Calculate the final Camp Goodness score, and roll for a bonus on the [_Camp Bonuses Payouts_ table](camping_bonus_payouts.md#top) based on how successfully the party rested over the duration they were camping.
 5. **Choose Direction and Pace**
     1. The party chooses one of the six compass directions to head in, and whether they're moving at a _**fast**_, _**moderate**_, or _**slow pace**_.
 6. **Morning Travel**

@@ -155,7 +155,7 @@ Covering the campsite so it looks like undisturbed wilderness requires a traditi
 # Bonuses for the day
 Finally, the accumulated Camp Goodness determines what benefits or penalties the party will face in the following travel day.
 
-Roll a d%, add the Final Camp Goodness Score, and compare with the [Random Camping Bonus Payouts table](random_camping_bonus_payouts.md#top).
+Roll a d%, add the Final Camp Goodness Score, and compare with the [Random Camping Bonus Payouts table](camping_bonus_payouts.md#top).
 
 ![immovable rod](/images/immovable-rod.jpg)
 
