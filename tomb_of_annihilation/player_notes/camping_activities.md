@@ -7,11 +7,11 @@
 ##### Tomb of Annihilation
 
 # Camping Activities
-Each time the party takes a long rest while camping they may complete two rounds of chore activities to improve the camp: one in the evening before they rest and potentially face a random encounter, and another in the morning after they've completed both.
+Each time the party takes a long rest while [camping](travelling.md#top) they may complete two rounds of chore activities to improve the camp: one in the evening before they rest and potentially face a random encounter, and another in the morning after they've completed both.
 
 In either the evening or the morning, a character may opt instead to perform a [short rest activity](short_rest_activities.md#top)
 
-Most chores involve an ability check with the new [_Camping_](character_creation.md#camping) skill proficiency, after which the Camp Goodness is modified according to the value of the check result, as shown below:
+Most chores involve an ability check with the new [_Camping_](character_creation.md#camping) skill proficiency, after which the [Camp Goodness](camping_bonus_payouts.md#top) is modified according to the value of the check result, as shown below:
 
 |Check Result|Difficulty|Change in Camp Goodness|
 |-|-|-|

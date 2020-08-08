@@ -20,7 +20,7 @@ Generally, characters can't travel for more than 8 hours per day without risking
 - Feeding and taking care of pack animals, if any
 - Breaking camp
 
-The following rules empower you to simulate and experience these nightly hours of chores alongside your character.
+The following rules empower you to simulate and experience these nightly hours of drudgery alongside your character.
 
 # New Skill Proficiency: _**Camping**_ (Intelligence)
 Characters can do advanced camp activities involved in camping in the wilderness using a new skill proficiency available to them called _**Camping**_. _Camping_ is usually applied to Intelligence checks, but other ability checks are often involved in _Camping_.

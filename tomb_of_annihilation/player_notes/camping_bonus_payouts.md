@@ -8,10 +8,9 @@
 
 # Random Camping Bonus Payouts
 Roll a d%, add the Final Camp Goodness Score, and compare with this table:
+
 |d% + FCGS|Description| 
 |-------|-----------|
-|Negative|You have died. The party has died. You have died from camping so badly.|
-|0|The party's offensively-awful camp has been noticed by Acererak.|
 |1 - 3|After unknowingly spending the night on hallowed ground, the party has attracted the undesirable attention of a powerful spirit, demon, or fey.|
 |4 - 6|Three random party members each receive a single permanent injury such as those described on the _Lingering Injuries_ table in chapter 3 of the DMG, or one of the critical hit tables in _Dungeon Crawl Classics_.
 |7 - 9|By virtue of their clever and thrifty use of gear and supplies, the party has earned 1d20 platinum coins.|
@@ -56,7 +55,6 @@ Roll a d%, add the Final Camp Goodness Score, and compare with this table:
 |124 - 126|The party loses 20d20 platinum coins' worth of coins, gems, and trading goods.|
 |127 - 129|Each character may become proficient in a single new saving throw of their choice.|
 |130|The party has attracted the friendly attention of a powerful spirit, demon, or fey.|
-|131 or higher|You have won. During one amazing night the party achieves all of the adventure goals and retires to live happily ever after, endlessly retelling the story of that single, fate-altering night. The players might end up telling the story a lot, too.|
 
 
 ![immovable rod](/images/immovable-rod.jpg)

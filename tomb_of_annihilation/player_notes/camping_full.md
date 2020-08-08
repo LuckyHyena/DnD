@@ -23,7 +23,7 @@ Generally, characters can't travel for more than 8 hours per day without risking
 - Feeding and taking care of pack animals, if any
 - Breaking camp
 
-The following rules empower you to simulate and experience these nightly hours of chores alongside your character.
+The following rules empower you to simulate and experience these nightly hours of drudgery alongside your character.
 
 ![immovable rod](/images/immovable-rod.jpg)
 
