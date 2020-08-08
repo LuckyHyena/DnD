@@ -246,7 +246,8 @@ I would adjudicate that you must be __highly obscured__ to take the hide action,
 - If you move out of the highly obscured area, you're [invisible](https://5thsrd.org/rules/conditions/#invisible) to creatures with a passive __Wisdom__ (_Perception_) score less than your check result.
    - If they have a reason to be suspicious, any creature make spend their action for their turn to [search](https://5thsrd.org/combat/actions_in_combat/#search) and make an active Wisdom (_Perception_) check to find hidden characters.
    - Wisdom (_Perception_) checks suffer disadvantage when looking into **lightly obscured** areas (including [dim light and darkvision](#light-and-vision)), and creatures' passive Perception scores suffer a -5 penalty.
-   - Attacking, casting a spell, and many other actions will end your current hide attempt.
+
+Attacking, casting a spell, and many other actions will end your current hide attempt.
 
 ![immovable rod](/images/immovable-rod.jpg)
 

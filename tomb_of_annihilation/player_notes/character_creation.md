@@ -114,8 +114,10 @@ Characters may select feats to replace ability score improvements they get from 
 A character's starting equipment is the accumulation of all the following:
 - The equipment listed for the character's **class**.
 - The equipment listed for the character's **background**.
-- If you have a _Player's Handbook_, you may roll for coins based on the **Starting Wealth by Class** table on page 143 of the _Player's Handbook_.
-  - You may also roll for one random **TRINKET!**  
+- If you have a _Player's Handbook_, you may roll for coins based on the **Starting Wealth by Class** table on the first page of _Player's Handbook_ Chapter 5: Equipment.
+  - You may also roll for one random **TRINKET!**
+
+For this campaign, each character also gets:
 - A single _Potion of Healing_:
   - **Heals 2d4+2 hit points**.
   - A character must **spend their action** on their turn to chug the entire potion or administer it to another character.
@@ -124,7 +126,7 @@ A character's starting equipment is the accumulation of all the following:
 [Coins in Port Nyanzaru](coinage.md#top)
 
 # Trinkets
-Remember that all 5e characters get to roll on the _Trinkets_ table on PHB pages 160-161! If you don't have a _Player's Handbook_ we'll let you roll at the first session. Let me know about your character's trinket, or lack thereof!
+Remember that all 5e characters get to roll on the _Trinkets_ table on the final two pages of PHB Chapter 5: Equipment! If you don't have a _Player's Handbook_ we'll let you roll at the first session. Let me know about your character's trinket, or lack thereof!
 
 ![immovable rod](/images/immovable-rod.jpg)
 
