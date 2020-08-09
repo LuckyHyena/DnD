@@ -52,9 +52,9 @@ __Using your hands:__
 - To do [strange and exotic things](#to-do-strange-and-exotic-things)
 
 __Strange Situations:__
-- Riding [any mount](#riding-any-mount)
-- Riding an [independent mount](#independent-mounts)
-- Riding a [controlled mount](#controlling-a-mount)
+- Riding [a mount](#riding-a-mount)
+  - [Independent mounts](#independent-mounts)
+  - [Controlling a mount](#controlling-a-mount)
 - Underwater [combat](#underwater-combat)
 
 __Appendix A: [Homebrew definitions](#appendix-a-homebrew-definitions)__
@@ -65,7 +65,10 @@ __Appendix A: [Homebrew definitions](#appendix-a-homebrew-definitions)__
 > 
 > Creatures that aren't _immobile_ are **able to move**.
 > 
-> Creatures are _immobile_ if: they are grappled, paralyzed, petrified, stunned, unconscious, their speed is `0`, or any other effect is preventing them from moving.
+> Creatures are __immobile__ if their speed is `0` or any effect is preventing them from moving, including: being grappled, paralyzed, petrified, stunned, or unconscious.
+>
+> #### Evade
+> To *evade* means "take no damage on any single successful Dexterity saving throw, or half damage on a failed save".
 >
 > #### Movement [__*Speed Penalties*__](#movement-speed-penalties-1):
 > 
@@ -77,10 +80,6 @@ __Appendix A: [Homebrew definitions](#appendix-a-homebrew-definitions)__
 > - Three penalties from [_Plant Growth_](https://5thsrd.org/spellcasting/spells/plant_growth/).
 > - Moving through the space of any other creature.
 >   - A character can normally only move through the space of [nonhostile creatures or creatures at least two sizes different](#creatures-provide-cover) from the character.
->
-> #### Evade
-> To *evade* means "take no damage on any single successful Dexterity saving throw, or half damage on a failed save".
-
 __Appendix B: [Official rules quotes](#appendix-b-official-rules-quotes)__
 
 
@@ -93,25 +92,31 @@ __Appendix B: [Official rules quotes](#appendix-b-official-rules-quotes)__
 # What you can do during your 5th edition turn 
 - Action 
 - Movement
-- Bonus Action if you have one
+- Item interaction
+- Bonus Action (if you have an ability that mentions it)
 - Reaction
 
 During [your turn](https://5thsrd.org/combat/order_of_combat/#your-turn), you have the option to [perform one](https://5thsrd.org/combat/actions_in_combat/) __action__, and you additionally have a distance of __movement__ that you may spend to move around the battlefield. Moving is not a type of action, although you may spend your action to [dash](https://5thsrd.org/combat/actions_in_combat/#dash) and double your movement for the turn. You may split up your movement before and after your action, and if you can make multiple attacks you have the option to move between each attack.
 
-Some character abilities or powers mention a __bonus action__. If you have such an ability, during your turn you may perform one such _bonus action_ alongside your regular _action_. You may perform a bonus action at any time during your turn, whether you have taken your _action_ or not. You may spend your _action_ to perform an additional _bonus action_, but not vice versa.
+During your turn you may **manipulate one item** without spending your action: you could equip or sheath a weapon, pull a lever on the wall, ignite a torch or lantern, or retrieve your potion of healing before spending your action to drink it. If you want to manipulate more than one item you must spend your _action_. You can drop any number of items in your hands for free, but they fall on the ground and [might be damaged](#light-sources).
 
-Finally, at the start of your turn you get a single __reaction__, which can be used not only during your turn but on other creatures' turns up until the beginning of your next turn. You must spend your reaction to complete a [readied action](https://5thsrd.org/combat/actions_in_combat/#ready), to make an opportunity attack, or to cast [_Shield_](https://5thsrd.org/spellcasting/spells/shield/).
+Some character abilities or powers mention a __bonus action__. If (and only if) you have such an ability, during your turn you may perform one such _bonus action_ alongside your regular _action_. You may perform a bonus action at any time during your turn, whether you have taken your _action_ or not. You may spend your _action_ to perform a second _bonus action_ on your turn, but not vice versa.
+
+Finally, at the start of your turn you get a single __reaction__, which can be used at any time including other creatures' turns, until the beginning of your next turn. You spend your reaction to complete a [readied action](https://5thsrd.org/combat/actions_in_combat/#ready), to make an opportunity attack, or to cast some spells such as [_Shield_](https://5thsrd.org/spellcasting/spells/shield/).
 
 > Creatures with **melee** attacks can spend their reaction to make an [opportunity attack](#5th-editions-simplified-opportunity-attacks). Additionally, during their turn they can spend their bonus action to [mark](#getting-marked) an opponent for later advantage on an opportunity attack.
 
 ---
 
 # Ability Checks
+See also my article on [5e ability checks](../../DnD/homebrew/5e_ability_checks.md#top).
+
 In fifth edition D&D's [bounded accuracy](https://www.dandwiki.com/wiki/Understanding_Bounded_Accuracy_(5e_Guideline)) mathematics, these difficulty classes are universal for all power levels and situations. When thinking about a task, ask how hard it would be for a "normal human" to do, and compare with this scale:
 
 |Ability Check DC:|5|10|15|20|25|30|
 |----------------|-|--|--|--|--|--|
 |Difficulty of the task:|Very Easy|Easy|Moderate|Hard|Very Hard|Nearly Impossible|
+
 
 ---
 
@@ -140,20 +145,26 @@ Similarly, here is an example of different difficulty _Survival_ checks to forag
 # Concentration
 If you take damage while maintaining _concentration_ on a spell, you must make a Constitution saving throw with a DC of either 10 (easy) or half the damage you took, whichever is higher. If you fail the saving throw your _concentration_ is broken.
 
-> **homebrew:** make concentration saving throws with **Intelligence** instead of Constitution.
+> **homebrew:** Make concentration saving throws with **Intelligence** instead of Constitution.
 
 ---
 
 # Knocking a creature out
 An attacker making a __melee__ attack that would kill a creature may choose to instead knock them out: the knocked-out creature falls unconscious, drops to 0 hitpoints, and is stable.
 
-> **homebrew:** IRL any blow or chemical that can render you unconscious is very close to being [strong enough to kill you](https://en.wikipedia.org/wiki/Concussion#Treatment), and an adventurer swinging a normally-lethal weapon in the middle of adrenaline-soaked combat is in no position to carefully or safely take someone down. If you want to take a living prisoner grab some [manacles](https://5thsrd.org/adventuring/equipment/adventuring_gear/#manacles) and brush up on your [grapple rules](#getting-grappled). Or play a monk.
-
 Most enemies don't make death saving throws and have no chance of being stabilized or saved once they go down.
+
+> **homebrew:** IRL any blow or chemical that can render you unconscious is very close to being [strong enough to kill you](https://en.wikipedia.org/wiki/Concussion#Treatment), and an adventurer swinging a normally-lethal weapon in the middle of adrenaline-soaked combat is in no position to carefully or safely take someone down. If you want to take a living prisoner grab some [manacles](https://5thsrd.org/adventuring/equipment/adventuring_gear/#manacles) and brush up on your [grapple rules](#getting-grappled), or play a monk.
 
 ---
 
 # The Official 5th Edition Size Categories
+
+**Small characters** suffer the following penalties in 5e that I know of:
+- Disadvantage on attack rolls with [_heavy_ weapons](#to-swing-a-heavy-weapon).
+- Penalties and a few bonuses on [special attacks](#desperate-non-weapon-attacks) such as grapple or shove when attacking bigger creatures.
+
+---
 
 |Size|Squares|Faerûn|Oerth|
 |-|-|-|-|
@@ -163,10 +174,6 @@ Most enemies don't make death saving throws and have no chance of being stabiliz
 |Medium|1|5 ft|2 m|
 |Small|1|5 ft|2 m|
 |Tiny|0.5 by 0.5|2 ½ ft|1 m|
-
-**Small characters** suffer the following penalties in 5e (that I know of):
-- Disadvantage on attack rolls with [_heavy_ weapons](#to-swing-a-heavy-weapon).
-- Penalties and a few bonuses on [special attacks](#desperate-non-weapon-attacks) such as grapple or shove when attacking creatures bigger than you.
 
 >> A creature can **squeeze** through a space that is large enough for a creature one size smaller than it. Thus, a Large creature can _squeeze_ through a passage that's only [1 square] wide.
 >>
@@ -179,22 +186,24 @@ Most enemies don't make death saving throws and have no chance of being stabiliz
 ## Running away from the Monsters
 
 # Dodging
-When a character spends the action for their turn to _dodge_, they gain benefits until the start of their next turn: **attacks against the dodging character** suffer disadvantage, and the character also gains advantage on **Dexterity saving throws**.
+When a character uses their action to _dodge_, they gain benefits until the start of their next turn: **attacks against the dodging character** suffer disadvantage, and the character also gains advantage on **Dexterity saving throws**.
 
-A character must be both _able to act_, and must have a move speed greater than 0, at the moment of the attack or saving throw in order to receive benefits from dodging.
+A character must be both [_able to act_ and _able to move_](#able-to-act) at the moment of the attack or saving throw in order to receive benefits from dodging.
 
-> **homebrew:** When a creature spends its action to _dodge_ (and is receiving the normal dodge bonuses) while standing in squares containing cover, they receive the **cover bonus** from the next level of cover __above__ the actual squares' normal bonus. Thus: a square that provides half-cover for characters instead provides three-quarters cover for a dodging character, and a square that normally provides three-quarters cover can provide full cover if a character is dodging in it.
+> **homebrew:** When a creature spends its action to _dodge_ (and is receiving dodge benefits) while standing in squares containing cover, they receive the **cover bonus** from the next level of cover __above__ the actual squares' normal bonus. Thus: a square that provides half-cover for characters instead provides three-quarters cover for a dodging character, and a square that normally provides three-quarters cover can provide full cover if a character is dodging in it.
 
 ---
 
 # 5th edition's simplified opportunity attacks
 You can make an opportunity attack in the following situation (not plural):
-- A hostile creature (that you can see) moves **out of your melee reach**.
+- A hostile creature (that you can see) moves out of your **melee reach**.
 
 You may spend your _reaction_ for the turn to make one **melee** attack against the provoking creature, right before they leave your reach.
 
 ### Disengage
 If a character spends their _action_ to disengage, they don't provoke opportunity attacks for the rest of their turn. Other characters may still take readied actions against a disengaging character.
+
+---
 
 > If you would like to take more control of the battlefield, consider _readying_ attacks and additionally the [mark bonus action](#getting-marked), which can give opportunity attacks advantage.
 
@@ -230,8 +239,15 @@ An attack roll against a prone creature gains **advantage if the attacker is wit
 
 ## Hiding from the Monsters
 
+# Creatures Provide Cover
+Creatures, including friendly creatures, provide **half cover** (+2 bonus to AC and Dexterity saving throws) to targets.
+
+If a cover bonus causes an attack to miss when it would otherwise hit, the attack hits the cover instead.
+
+---
+
 # Stealth
-**You must normally be _highly obscured_ to attempt to hide.** WotC seems reluctant to explicitly state this rule, preferring to just say "ask your DM" instead, but here are some official [exceptions that prove](https://en.wikipedia.org/wiki/Exception_that_proves_the_rule#Proving_the_existence_of_the_rule) you can't normally hide while only lightly obscured:
+**You must normally be _highly obscured_ to attempt to hide.** WotC seems reluctant to explicitly state this rule, preferring to just say "ask your DM" instead, but here are some official [exceptions that prove](https://en.wikipedia.org/wiki/Exception_that_proves_the_rule#Proving_the_existence_of_the_rule) you can't normally hide while only lightly obscured or behind cover:
 
 > **Character Bonus:** A **Wood Elf** character's _Mask of the Wild_ feature allows them to try to hide while only _lightly obscured_ by foliage, weather, or other natural phenomena.
 
@@ -244,16 +260,16 @@ See Appendix B [official rules quotes](#appendix-b-official-rules-quotes)
 ---
 
 I would adjudicate that you must be __highly obscured__ to take the hide action, which requires you to roll a __Dexterity__ (_Stealth_) check:
-- While you stay highly obscured creatures have [no chance to perceive you](#cover-and-obscurity) even when you're not hiding, so your check result is irrelevant.
+- While you stay highly obscured creatures have [no chance to perceive you](#cover-and-obscurity) even when you're not trying to hide, so your check result is irrelevant.
 - If you move out of the highly obscured area, you're [invisible](https://5thsrd.org/rules/conditions/#invisible) to creatures with a passive __Wisdom__ (_Perception_) score less than your check result.
-   - Any creature may spend their action for the turn to [search](https://5thsrd.org/combat/actions_in_combat/#search) and make an active Wisdom (_Perception_) check to find hidden characters.
+   - Any creature may spend their action on their turn to [search](https://5thsrd.org/combat/actions_in_combat/#search) and make an active Wisdom (_Perception_) check to find hidden characters.
    - Wisdom (_Perception_) checks suffer disadvantage when looking into **lightly obscured** areas (including all [dim light and darkvision](#light-and-vision)), and creatures' passive Perception scores suffer a -5 penalty.
 
 Attacking, casting a spell, and many other actions will end your current hide attempt.
 
 ---
 
-# Melee attacks can be affected by cover in the same way as ranged attacks.
+# Melee attacks can be affected by cover in the same way as ranged attacks
 Don't let those silly barbarians and paladins rush your archers!
 
 ---
@@ -269,21 +285,16 @@ Obscurity:
 - Creatures are effectively __blinded__ when trying to see into **heavily obscured** areas: they automatically fail any ability check that depends on sight, they suffer disadvantage on all attack rolls into the area, and anyone firing back at them (without also being _blinded_ by whatever is obscuring them) has advantage on attack rolls.
   - When someone fires out of heavy obscurity they normally reveal the square they're firing from, but they're still __invisible__ to their effectively-blinded target.
 
-For terrain such as walls and windows, the maximum obscurity assumes the character is **actively (and successfully)** trying to use the terrain to hide. Likewise the cover assumes the character is actively dodging among the features of the terrain. In both cases a character must be [_able to move_](#able-to-move).
+For terrain such as walls and windows, the maximum obscurity assumes the character is **actively (and successfully)** trying to use the terrain to hide. Likewise the cover assumes the character is actively staying down among the features of the terrain. In both cases a character must be [_able to move_](#able-to-move).
 
----
-
-# Examples of Cover
+## Examples of Cover
 ||No Cover|Half Cover (+2)|Three-Quarters Cover (+5)|Full Cover|
 |-|-|-|-|-|
 |**Not Obscured**|                                                                                                                      __Bright light__ or __sunlight__.               |                    A shield. Studded leather or hide armor.            |            Half plate or chainmail armor.             |            A _Wall of Force_. Bulletproof glass.                                                |
 |**Lightly Obscured**|                                                                                           **Dim light**. **Rain**. **Foliage**. Things seen only with darkvision. A damaged large window. A [shōji](https://en.wikipedia.org/wiki/Shoji) or paper wall, or a translucent curtain.  Razed buildings' former roofs, supports, and walls.                 |             A [normal](https://www.youtube.com/watch?v=ZGv8oAHxekU) **thicket** or bush. A stone **column** or stalagmite. A **large window** or a damaged small window. A wall destroyed by a seige weapon.               |                A [normal](https://en.wikipedia.org/wiki/Palisade) **palisade**. An **ancient wall** ruined by erosion. Magically-reinforced smoked [glass](https://en.wikipedia.org/wiki/Prince_Rupert%27s_drop).           |           A [normal](https://en.wikipedia.org/wiki/Battlement) **battlement**. A [tower shield](https://roll20.net/compendium/pathfinder/Shield,%20Tower#content).|
 |**Heavily Obscured**|                                                                                                 **Darkness**. **Fog**. **Smoke**. An opaque curtain.         |         A **small window**. A [sudare](https://en.wikipedia.org/wiki/Sudare) or thin wall. A [portière](https://en.wikipedia.org/wiki/Porti%C3%A8re) or heavy curtain such as in a [theater](https://en.wikipedia.org/wiki/Theater_drapes_and_stage_curtains).         |         A **wooden wall**. Heavy rain in a jungle or ruin. An [arrowslit](https://en.wikipedia.org/wiki/Arrowslit).              |           A **stone wall**. Sneaking behind battlements while _prone_.|
 
-
----
-
-# Spells that provide Cover
+## Spells that provide Cover
 
 
 ||No Cover|Half Cover (+2)|Three-Quarters Cover (+5)|Full Cover|
@@ -296,21 +307,12 @@ For terrain such as walls and windows, the maximum obscurity assumes the charact
 > 
 > **homebrew:** Repeatedly casting _Mold Earth_ to build up fortifications in a wide area requires **four times** as much time to complete as compared with casting the 4th-level _Stone Shape_ as a __ritual__ in order to build the same volume of fortification up to three-quarters cover and heavy obscurity.
 
----
-
-# Palisades and Constructable Cover
+## Palisades and Constructable Cover
 ||No Cover|Half Cover (+2)|Three-Quarters Cover (+5)|Full Cover|
 |-|-|-|-|-|
 |**Not Obscured**|                                                                                                                      **Bright light** or **sunlight**. Flat land cleared of brush.              |                   An _invisible_ thicket. A shield wall.            |            An _invisible_ palisade. Carefully reinforced glass.             |                           A _Wall of Force_.                                   |
 |**Lightly Obscured**|                                                                                           **Dim light**. Light fog or smoke. A phantasmal thicket or palisade. Things seen only with darkvision. Phantasmal walls.                 |              A **large window**. A **thicket** or bush. A damaged palisade. A damaged or hastily-constructed wall.             |               A **palisade**. A damaged battlement. Carefully reinforced and smoked glass.          |          A **battlement**. A _Wall of Force_ combined with a palisade. A tower shield wall. |
 |**Heavily Obscured**|                                                                                                 **Darkness**. Heavy **fog or smoke**. Being _invisible_. Phantasmal walls.           |         A **small window**. _Guards and Wards_. A wall built or rebuilt to provide cover.          |        A **wooden wall**. A palisade disguised as a wall. An arrowslit.             |           A solidly-constructed **stone wall**. Sneaking behind battlements while _prone_.|
-
----
-
-# Creatures Provide Cover
-Creatures, including friendly creatures, provide **half cover** (+2 bonus to AC and Dexterity saving throws) to targets.
-
-If a cover bonus causes an attack to miss when it would otherwise hit, the attack hits the cover instead.
 
 ---
 
@@ -353,7 +355,7 @@ Torches and candles last for an **hour** each, while lamps and lanterns burn for
 
 > **homebrew:** You can attack with a candle or oil lamp for 1d3 - 1 fire damage, or a torch for 1d6 fire damage. They are Dexterity melee weapons. Because they're [improvised weapons](#to-improvise-a-weapon), you don't get your _proficiency bonus_.
 > 
-> If you drop a lit torch or candle on the ground it has a 50% chance of being extinguished. A torch or candle that is extinguished by being dropped on the ground is destroyed and cannot be reignited.
+> If you drop (as opposed to set down) a lit torch or candle on the ground it has a 50% chance of being extinguished. A torch or candle that is extinguished by being dropped on the ground is destroyed and cannot be reignited.
 > 
 > Dropped lamps and lanterns have a 25% chance of being extinguished and spilling their remaining oil.
 
@@ -364,7 +366,7 @@ Torches and candles last for an **hour** each, while lamps and lanterns burn for
 # Running Out of Ammo
 After combat a character may spend a minute and recover up to **half** of the ammunition they expended during the combat.
 
-> __homebrew__: roll a d100 and recover that % of your expended ammunition instead.
+> __homebrew__: Roll a d100 and recover that % of your expended ammunition instead.
 
 ---
 
@@ -428,7 +430,7 @@ Some of these special attacks are performed using the Attack action, and if you 
 |Climb Onto|A creature at least **two sizes larger** than you.|**Str (Ath) or Dex (Acr)**|**Dex (Acr)**|Action, then Movement| The target is treated as (difficult) terrain. You get advantage on attacks against the target.|
 |Dislodge|A smaller creature climbing on you.|Str (Ath)|Str (Ath) or Dex (Acr)|Action| The climber is knocked off you.|
 
-> **homebrew:** if you wish to throw a Gnome or similarly-sized creature at an enemy, you give advantage to the Gnome's Climb Onto attempt or one weapon attack against that enemy, using your Strength bonus and improvised weapon proficiency. If the Gnome isn't cooperating with you to attack then what you are _actually_ doing instead is attempting to either Grapple or Shove the poor Gnome.
+> **homebrew:** if you wish to throw a Gnome or similarly-sized creature at an enemy, you give advantage to the Gnome's Climb Onto attempt or one weapon attack against that enemy, using your Strength bonus and improvised weapon proficiency. If the Gnome isn't cooperating with you to attack then what you are _actually_ doing instead is attempting to either Grapple or Shove that poor Gnome.
 
 ![immovable rod](/images/immovable-rod.jpg)
 
@@ -464,7 +466,7 @@ Some of these special attacks are performed using the Attack action, and if you 
 |Dual Wielding|Requirement|Effect|
 |-|-|-|
 |Two __light__ melee weapons|-|May spend your _bonus action_ to make one extra attack with your off-hand weapon. The bonus attack doesn't get your ability modifier for the **damage** roll unless you have a penalty.|
-|Two __light__ melee weapons|__Two-weapon fighting__ fighting style|You can add your ability bonus to your bonus attack.|
+|Two __light__ melee weapons|__Two-weapon fighting__ fighting style|You can add your ability bonus to your bonus attack's damage.|
 |Two __one-handed__ melee weapons|**_Dual Wielder_** feat|+1 Armor Class bonus. Can draw or stow two one-handed weapons at once.|
 |One-handed monk weapon and _unarmed strikes_|**Monk** class|At level 1: You can use Dexterity instead of Strength for attack and damage rolls. You roll a die based on your level (d4) for your unarmed strike damage. By spending your __bonus action__ you can make a single unarmed strike. Beginning at 2nd level you may optionally spend one __Ki Point__ to use _flurry of blows_ to instead make two unarmed strikes with your bonus action.|
 
@@ -530,20 +532,20 @@ Improvised attacks don't get your proficiency bonus, but simply improvising a we
 
 ## Strange Situations
 
-# Riding any mount
+# Riding a mount
 Once during a character's movement for a turn, they can mount or dismount a creature within 1 square of them. Doing so costs __half__ the character's movement speed.
 
 If their mount is knocked prone, a rider can use their _reaction_ to dismount and land on their feet. Otherwise, the rider is dismounted and falls prone in an adjacent square.
 
 If a rider is knocked prone, or their mount is moved against its will, the rider must succeed on an Easy difficulty Dexterity saving throw `DC 10`, or else they dismount and fall prone in an adjacent square.
 
-> If your mount provokes an **opportunity attack**, the attacker may choose to target you instead.
+> If a mount provokes an **opportunity attack**, the attacker may optionally choose to target the rider instead.
 
-# Independent mounts
-An intelligent mount, or one you're not controlling, retains its own initiative count and has no restrictions on its movement or actions.
+## Independent mounts
+An intelligent mount, or one the rider is not controlling, retains its own initiative count and has no restrictions on its movement or actions.
 
-# Controlling a mount
-A mount you're controlling acts on your initiative, including on the turn you mounted it. It has full movement speed but can only take the Dash, Disengage, or Dodge actions.
+## Controlling a mount
+A mount the rider is controlling acts on the rider's initiative, including on the turn the rider mounted it. The mount has full movement speed but can only take the Dash, Disengage, or Dodge actions. The rider may spend their action to try to make the mount Attack.
 
 # Underwater combat
 Creatures and objects immersed in water have resistance to all fire damage.
@@ -564,7 +566,7 @@ A __ranged weapon__ attack automatically misses if the target is at long range u
 # Able to Move
 > **homebrew definition:** Creatures that aren't _immobile_ are **able to move**.
 >
-> Creatures are _immobile_ if they are _grappled_, _paralyzed_, _petrified_, _stunned_, _unconscious_, or if their speed is `0`.
+> Creatures are __immobile__ if their speed is `0` or any effect is preventing them from moving, including: being grappled, paralyzed, petrified, stunned, or unconscious.
 
 ---
 
