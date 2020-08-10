@@ -191,6 +191,8 @@ From most to least useful, IMO:
   - Mountains
   - Coasts and seas
   - Volcanos and wastelands
+  
+The [Natural Explorer](https://5thsrd.org/character/classes/ranger/#natural-explorer) feature says you can't become lost in your favored terrain except by magical means, which is true. The incredibly-magical _Tarrasque_ is currently prowling the wildernesses of Chult, however, and rest assured that _every_ character in this adventure, no matter their class or features, will be given not only the opportunity but the privilege of getting lost in [the unmapped hexes of] Chult.
 
 ## Recommended favored enemies
 I've been trying to cram every memorable creature in the 5e Monster Manual into my Chult prep, but some types will nonetheless be more common than others. Again, from most to least useful IMO:
