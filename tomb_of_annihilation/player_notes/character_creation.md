@@ -196,18 +196,18 @@ The [Natural Explorer](https://5thsrd.org/character/classes/ranger/#natural-expl
 
 ## Recommended favored enemies
 I've been trying to cram every memorable creature in the 5e Monster Manual into my Chult prep, but some types will nonetheless be more common than others. Again, from most to least useful IMO:
-- Monstrosities, including most Underdark creatures as well as the most powerful Yuan-ti.
-- Undead.
-- Shapechanger humanoids (includes Yuan-ti spies and [were-tigers](introduction.md#dangers-of-chult)), plus one other [type of humanoid](dramatis_personae.md#inhabitants-of-chult).
-- Beasts (includes dinosaurs) and Plants.
-- Constructs, Oozes, Aberrations, and Elementals.
+- Monstrosities, including most Underdark creatures as well as the most powerful Yuan-ti
+- Undead
+- Shapechanger humanoids (includes Yuan-ti spies and [were-tigers](introduction.md#dangers-of-chult)), plus one other [type of humanoid](dramatis_personae.md#inhabitants-of-chult)
+- Beasts including dinosaurs, Plants, and fungis (which are just Plants)
+- Constructs, Oozes, Aberrations, Elementals, and Ethereal Plane creatures
 - Two choices from:
   - Dragons
   - Giants
   - Demons
   - Devils
-  - Shadowfell
-  - Faewild
+  - Shadowfell creatures (except for undead)
+  - Faewild creatures
 
 The Yuan-ti speak Primordial.
 
