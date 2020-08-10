@@ -199,9 +199,15 @@ I've been trying to cram every memorable creature in the 5e Monster Manual into 
 - Monstrosities, including most Underdark creatures as well as the most powerful Yuan-ti.
 - Undead.
 - Shapechanger humanoids (includes Yuan-ti spies and [were-tigers](introduction.md#dangers-of-chult)), plus one other [type of humanoid](dramatis_personae.md#inhabitants-of-chult).
-- One of: Beasts (includes dinosaurs) or Elementals.
-- One of: Plants, Constructs, Oozes, or Aberrations.
-- One of: Dragons, Giants, Demons, Devils, or Fae.
+- Beasts (includes dinosaurs) and Plants.
+- Constructs, Oozes, Aberrations, and Elementals.
+- Two choices from:
+  - Dragons
+  - Giants
+  - Demons
+  - Devils
+  - Shadowfell
+  - Faewild
 
 The Yuan-ti speak Primordial.
 
