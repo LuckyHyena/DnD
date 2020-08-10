@@ -185,11 +185,12 @@ The same [five factions](dramatis_personae.md#player-factions) as The Adventurer
 ## Favored terrain options in Chult
 From most to least useful, IMO:
 - Jungle
-- Swamps and rivers
 - The Underdark and other underground areas
-- Mountains and plateaus
-- Wastelands and volcanos
-- Coasts and seas
+- Rivers and the Chultan interior (swamps and plateaus)
+- Two choices from:
+  - Mountains
+  - Coasts and seas
+  - Volcanos and wastelands
 
 ## Recommended favored enemies
 I've been trying to cram every memorable creature in the 5e Monster Manual into my Chult prep, but some types will nonetheless be more common than others. Again, from most to least useful IMO:
