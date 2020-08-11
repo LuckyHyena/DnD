@@ -14,21 +14,13 @@ The scenario I'll be running, either for a one-shot or as the first session of a
 
 ---
 
-Having completed their initial investigations into the _Soulmonger_ in Port Nyanzaru, the party learned of a band of rogues that had set up camp deep in the jungle and stumbled upon something related to the undead hordes that occupy most of Chult. For their first shakedown run into the jungle, the party decided to investigate the camp.
-
-After a tenday's travel walking up the river Soshenstar, the party arrived at their destination deep in the Chultan jungle.
+Having completed their initial investigations into the _Soulmonger_ in Port Nyanzaru, the party learned of a band of rogues that had set up camp deep in the jungle and stumbled upon something related to the undead hordes that occupy most of Chult. The party decided to investigate the camp for their first shakedown run into the jungle. After a tenday's travel walking up the river Soshenstar, the party arrives at their destination deep in the Chultan jungle.
 
 **The session will begin** with the party approaching the camp.
 
-After completing their objectives in the jungle, the party must navigate and hack their way through the jungle to get back home to Port Nyanzaru.
+After completing their objectives in the jungle, the party will navigate and trudge their way through the jungle to get back home to Port Nyanzaru. Normally I rule the party can only become lost in hexes that aren't yet mapped, and therefore would be able to get back to Port Nyanzaru without risk, however for this first session we'll run through the getting-lost rules in the mapped jungle. In the worst case it should take 10-15 days/ability checks.
 
-> Normally I rule the party can only become lost in hexes that aren't yet mapped, and therefore would be able to get back to Port Nyanzaru without issue, however for this first session we'll run through the getting-lost rules in the mapped jungle.
->
-> In the worst case it should take 10-15 days/ability checks.
-
-Once they get back to the city, the party will inform Syndra Silvane of whatever they found, and learn some more about the _Death Curse_.
-
-Finally, the party will have a chance to [have some fun in Port Nyanzaru itself](Port_Nyanzaru_activities.md#top), which **will conclude the session**.
+Once they get back to the city, the party will inform Syndra Silvane of whatever they found, and learn some more about the _Death Curse_. Finally, the party will have a chance to [have some fun in Port Nyanzaru itself](Port_Nyanzaru_activities.md#top), which **will conclude the session**.
 
 ---
 
