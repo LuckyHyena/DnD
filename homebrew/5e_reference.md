@@ -121,16 +121,7 @@ In fifth edition D&D's [bounded accuracy](https://www.dandwiki.com/wiki/Understa
 ---
 
 ## Example Difficulty Classes
-Here are some examples of 5e power levels in terms of attack rolls and AC. A default +0 attack roll beats a default 10 AC eleven times out of twenty. Here are the approximate odds of doing damage for various combinations of armor class and attack bonus:
- 
-||Clothing (AC 10)|Chain shirt & shield (AC 15)|Full plate & shield (AC 20)|_Tarrasque_ shell (AC 25)|
-|-|-|-|-|-|
-|Peasant (+0)|50%|1 in 4|(natural 20)|(natural 20)|
-|Fighter lvl 1 (+5)|3 out of 4|50%|1 in 4|(natural 20)|
-|Fighter lvl 10 (+10)|(natural 1)|3 out of 4|50%|1 in 4|
-|Fighter lvl 20 (+15)|(natural 1)|(natural 1)|3 out of 4|50%|
-
-Similarly, here is an example of different difficulty _Survival_ checks to forage and successfully produce edible food, and how a character becomes capable of more and more impressive feats as they level up:
+Here are some examples of 5e power levels in terms of _Survival_ checks to forage and successfully produce edible food, and how a character becomes capable of more and more impressive feats as they level up:
 ||Forest (easy)|Grasslands (moderate)|Deep Winter (hard)|Desert (very hard)|Polluted Wastelands (nearly impossible)|
 |-|-|-|-|-|-|
 |Untrained (+0)|50%|1 in 4|1 in 20|impossible|impossible|
@@ -139,6 +130,15 @@ Similarly, here is an example of different difficulty _Survival_ checks to forag
 |Lvl 20 Ranger (+15)|guaranteed|guaranteed|3 out of 4|50%|1 in 4|
 
 > **homebrew:** I'd probably make you fail a "guaranteed" check if you roll a natural 1, but I'm a pretty wild and crazy guy.
+
+Similarly, here is an example of 5e's scaling on attack rolls and AC. A default +0 attack roll beats a default 10 AC eleven times out of twenty. Here are the approximate odds of doing damage for various combinations of armor class and attack bonus:
+ 
+||Clothing (AC 10)|Chain shirt & shield (AC 15)|Full plate & shield (AC 20)|_Tarrasque_ shell (AC 25)|
+|-|-|-|-|-|
+|Peasant (+0)|50%|1 in 4|(natural 20)|(natural 20)|
+|Fighter lvl 1 (+5)|3 out of 4|50%|1 in 4|(natural 20)|
+|Fighter lvl 10 (+10)|(natural 1)|3 out of 4|50%|1 in 4|
+|Fighter lvl 20 (+15)|(natural 1)|(natural 1)|3 out of 4|50%|
 
 ---
 
