@@ -35,7 +35,7 @@ Quick summary of various background options from the _Player's Handbook_, _Tomb 
 
 > \* means a homebrew tweak
 
-|Background|Skills|Tools|Languages|Coins|Items|Feature|Source|
+|Background|Skills|Proficient Tools|Languages|Coins|Items|Feature|Source|
 |-|-|-|-|-|-|-|-|
 |Acolyte|Insight and Religion|-|2|15 gold|A holy symbol, a prayer book or prayer wheel, 5 sticks of incense, vestments, and common clothes.|Shelter of the Faithful|[SRD](https://5thsrd.org/character/backgrounds/)|
 |Anthropologist|Insight and History|-|2|10 gold|A leather-bound diary with ink and pen, a set of travelers' clothes, and a trinket of special significance to your adopted culture.|Adept Linguist|_ToA_|
