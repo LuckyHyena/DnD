@@ -16,6 +16,8 @@ Right before the session
 
 Starting the session
 ======
+1. Mention potions of healing.
+1. Explain inspiration.
 1. Ask each player to introduce their character.
 1. Ask for volunteers to:
     1. Track initiative.
