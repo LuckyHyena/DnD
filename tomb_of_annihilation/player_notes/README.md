@@ -10,7 +10,9 @@
 
 ![Writers who use subtext are cowards](/images/writers-who-use-subtext-are-cowards.jpg)
 
-## Things you should read
+![What kind of player are you?](/images/types-of-player.jpg)
+
+## Please read these!
 
 - [Adventure Background and Maps](introduction.md#top)
   - [Welcome to Chult](introduction.md#welcome-to-chult)
@@ -31,8 +33,6 @@
 - [Short rest activities](short_rest_activities.md#top)
 - [My 5e Quick Rules Reference](/homebrew/5e_reference.md#top)
 - [The subtle elegance of Fifth Edition D&D's ability checks](/homebrew/5e_ability_checks.md#top)
-
-![What kind of player are you?](/images/types-of-player.jpg)
 
 ## The full spoiler-free player-visible rules reference for all my nonsense
 
