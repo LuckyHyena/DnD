@@ -47,6 +47,8 @@ Thank __you__ for reading, and I hope you have tons of fun playing whatever kind
 
 ![immovable rod](./images/immovable-rod.jpg)
 
+![What kind of player are you?](/images/what-type-of-player-are-you.JPG)
+
 # 5th Edition Dungeons & Dragons
 
 [My 5e Quick Rules Reference](homebrew/5e_reference.md#top)
