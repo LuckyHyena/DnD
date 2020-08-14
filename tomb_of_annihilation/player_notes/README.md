@@ -8,7 +8,7 @@
 
 # Notes for the Players
 
-![Writers who use subtext are cowards](../../images/writers-who-use-subtext-are-cowards.jpg)
+![Writers who use subtext are cowards](/images/writers-who-use-subtext-are-cowards.jpg)
 
 ## Things you should read
 
@@ -24,7 +24,7 @@
 - [Activities in Port Nyanzaru](Port_Nyanzaru_activities.md#top)
 - [Items available for purchase in Port Nyanzaru](Port_Nyanzaru_items.md#top)
   
-## Rules you could skim
+## Rules you might skim someday
 
 - [Summary of rules for travelling through the jungle](travelling.md#top)
 - [Camping activities](camping_activities.md#top)
@@ -32,7 +32,9 @@
 - [My 5e Quick Rules Reference](../../homebrew/5e_reference.md#top)
 - [The subtle elegance of Fifth Edition D&D's ability checks](../../homebrew/5e_ability_checks.md#top)
 
-## The full player-visible rules reference for all my nonsense
+![What kind of player are you?](/images/what-type-of-player-are-you.JPG)
+
+## The full spoiler-free player-visible rules reference for all my nonsense
 
 - [My chosen optional and homebrew D&D 5e rules](../../homebrew/5e_homebrew.md#top)
 - [My rules for random encounters](random_encounters.md#top)
