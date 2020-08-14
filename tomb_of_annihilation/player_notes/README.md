@@ -29,10 +29,10 @@
 - [Summary of rules for travelling through the jungle](travelling.md#top)
 - [Camping activities](camping_activities.md#top)
 - [Short rest activities](short_rest_activities.md#top)
-- [My 5e Quick Rules Reference](../../homebrew/5e_reference.md#top)
-- [The subtle elegance of Fifth Edition D&D's ability checks](../../homebrew/5e_ability_checks.md#top)
+- [My 5e Quick Rules Reference](/homebrew/5e_reference.md#top)
+- [The subtle elegance of Fifth Edition D&D's ability checks](/homebrew/5e_ability_checks.md#top)
 
-![What kind of player are you?](/images/what-type-of-player-are-you.JPG)
+![What kind of player are you?](/images/types-of-player.jpg)
 
 ## The full spoiler-free player-visible rules reference for all my nonsense
 
