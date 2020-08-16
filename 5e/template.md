@@ -10,7 +10,7 @@
 
 
 
-![dragon header](../../images/dragon.png)
+![dragon header](/images/dragon.png)
 
 ![immovable rod](/images/immovable-rod.jpg)
 

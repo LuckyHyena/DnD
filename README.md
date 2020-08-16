@@ -51,15 +51,15 @@ Thank __you__ for reading, and I hope you have tons of fun playing whatever kind
 
 # 5th Edition Dungeons & Dragons
 
-[My 5e Quick Rules Reference](homebrew/5e_reference.md#top)
+[My 5e Quick Rules Reference](5e/5e_reference.md#top)
 
-[The Subtle Elegance of Fifth Edition D&D's Ability Checks](homebrew/5e_ability_checks.md#top)
+[The Subtle Elegance of Fifth Edition D&D's Ability Checks](5e/5e_ability_checks.md#top)
 
-[The Incredible Power in the Nine Sublime Pages of _Player's Handbook_ Chapter Eight](homebrew/5e_phb_chapter_eight.md#top)
+[The Incredible Power in the Nine Sublime Pages of _Player's Handbook_ Chapter Eight](5e/5e_phb_chapter_eight.md#top)
 
-[My Preferred 5e Optional and Homebrew Rules](homebrew/5e_homebrew.md#top). Check out some ways to trick out 5e!
+[My Preferred 5e Optional and Homebrew Rules](5e/5e_homebrew.md#top). Check out some ways to trick out 5e!
 
-[Welcome to _**The Adventurer's League!**_](homebrew/adventurers_league.md#top)
+[Welcome to _**The Adventurer's League!**_](5e/adventurers_league.md#top)
 
 ![immovable rod](./images/immovable-rod.jpg)
 
@@ -74,7 +74,7 @@ Thank __you__ for reading, and I hope you have tons of fun playing whatever kind
 ## Drafts and Misc
 
 - [Some encumbrance rules](tomb_of_annihilation/player_notes/encumbrance.md#top)
-- [Some initiative rules](homebrew/initiative.md#top)
+- [Some initiative rules](5e/initiative.md#top)
 
 
 ---

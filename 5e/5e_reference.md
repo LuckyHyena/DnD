@@ -109,7 +109,7 @@ Finally, at the start of your turn you get a single __reaction__, which can be u
 ---
 
 # Ability Checks
-See also my article on [5e ability checks](../../DnD/homebrew/5e_ability_checks.md#top).
+See also my article on [5e ability checks](/5e/5e_ability_checks.md#top).
 
 In fifth edition D&D's [bounded accuracy](https://www.dandwiki.com/wiki/Understanding_Bounded_Accuracy_(5e_Guideline)) mathematics, these difficulty classes are universal for all power levels and situations. When thinking about a task, ask how hard it would be for a "normal human" to do, and compare with this scale:
 
@@ -625,6 +625,6 @@ Characters who wish to cast spells must have one hand free to either use a _comp
 
 [My Preferred 5e Optional and Homebrew Rules](5e_homebrew.md#top). Check out some ways to trick out 5e!
 
-[My D&D Page](../README.md#top)
+[My D&D Page](/README.md#top)
 
 ![the end](/images/toa-end.jpg)
