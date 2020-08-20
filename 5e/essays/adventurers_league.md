@@ -30,6 +30,6 @@ Thank you for reading, and I hope you have fun with all of us playing together i
 
 [My Preferred 5e Optional and Homebrew Rules](5e_homebrew.md#top). Check out some ways to trick out 5e!
 
-[My D&D Page](../README.md#top)
+[My D&D Page](/README.md#top)
 
 ![the end](/images/toa-end.jpg)

@@ -7,6 +7,7 @@
 ##### Tomb of Annihilation
 ## Rules for Random Encounters
 
++ [Fumbles](#fumbles)
 + [Random Encounter Checks `16`](#random-encounter-checks)
 + [Encounter distance](#encounter-distance) in the jungles of Chult
 + Enemy [morale and behavior](#enemy-morale-and-behavior)
@@ -27,6 +28,40 @@
 [Further reading](#further-reading)
 
 ![immovable rod](/images/immovable-rod.jpg)
+
+# Fumbles
+When a creature fumbles an attack roll **their turn immediately ends**, and they suffer one additional effect:
+
+---
+
+|d6|Fumble|Effect
+|-|-|-|
+|1|Shook|The creature is *__incapacitated__* until the **end** of their next turn: they can't take _actions_ or _reactions_.|
+|2|in Agony|The creature is *__poisoned__* until the **end** of their next turn: they suffer disadvantage on attack rolls and ability checks.|
+|3|Dazzled|The creature is *__blind__* until the **end** of their next turn: attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.|
+|4|Butterfingers|The creature throws their main weapon **1d4 squares** away from them in a random direction. They make a disadvantaged attack roll against the first creature in that direction.|
+|5|Tripping|The creature falls __*prone*__ and is forced 1 square in a random direction. Forced movement doesn't provoke opportunity attacks.|
+|6|Confused|The creature makes a single new attack roll against their closest potential target, friend or foe. If multiple targets are equally close one of them is chosen randomly. If the creature can't reach their target, they use their remaining movement speed to try to move into reach.|
+
+---
+
+|Random Directions||||
+|-|-|-|-|
+|Easy:|**d12**|11|10|
+||5|4 - 1|9|
+||6|7|8|
+|||||
+|||||
+|Moderate:|**d10**|9|8|
+||3|2 - 1|7|
+||4|5|6|
+|||||
+|||||
+|Hard:|**d8**|7|6|
+||1||5|
+||2|3|4|
+
+---
 
 # Random Encounter Checks
 To check for a random encounter someone at the table will make an aptly-named **Random Encounter Check**:
@@ -101,40 +136,6 @@ When a _dying_ character fails three _death saving throws_ before achieving thre
 
 ---
 
-# Fumbles
-When a creature fumbles an attack roll **their turn immediately ends**, and they suffer one additional effect:
-
----
-
-|d6|Fumble|Effect
-|-|-|-|
-|1|Shook|The creature is *__incapacitated__* until the **end** of their next turn: they can't take _actions_ or _reactions_.|
-|2|Agony|The creature is *__poisoned__* until the **end** of their next turn: they suffer disadvantage on attack rolls and ability checks.|
-|3|Dazzled|The creature is *__blind__* until the **end** of their next turn: attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.|
-|4|Butterfingers|The creature throws their main weapon **1d4 squares** in a random direction.|
-|5|Tripping|The creature falls __*prone*__ and is forced 1 square in a random direction. Forced movement doesn't provoke opportunity attacks.|
-|6|Confused|The creature makes a single new attack roll against their closest potential target, friend or foe. If multiple targets are equally close one of them is chosen randomly. If the creature can't reach their target, they use their remaining movement speed to try to move into reach.|
-
----
-
-|Random Directions||||
-|-|-|-|-|
-|Easy:|**d12**|11|10|
-||5|4 - 1|9|
-||6|7|8|
-|||||
-|||||
-|Moderate:|**d10**|9|8|
-||3|2 - 1|7|
-||4|5|6|
-|||||
-|||||
-|Hard:|**d8**|7|6|
-||1||5|
-||2|3|4|
-
----
-
 # Climactic battles
 In addition to random encounters, in D&D there are "scripted encounters", or "story missions", which both the party and the DM have spent a lot of time planning and preparing for, and which finally culminate in one or more **climactic battles**, during which:
 - A character with three-failed-death-saves has a **100% chance** of suffering a coin-flip of __*either* actually dying *or* gaining a permanent injury.__
@@ -147,11 +148,6 @@ In addition to random encounters, in D&D there are "scripted encounters", or "st
 > - Diseases or poisons
 > - Accumulating a silly number of permanent injuries.
 > - Doing something truly and obviously dumb despite being repeatedly warned.
-
----
-
-_The reason I am making 5e's rules technically even less-lethal than they already are, and spelling out the previous section on morale, is so that I can get away with siccing way harder monsters on you. Random rolls also make the tradeoffs of combat decisions less predictable and more interesting, as well as tempting players to not save each other (since a dying character_ "probably won't die"). _As a consequence the correct random rolls can add drama to the game, but my_ **primary** _reason for all this is to use cooler monsters. Just FYI._
-
 
 ![immovable rod](/images/immovable-rod.jpg)
 

@@ -2,7 +2,7 @@
 ![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
-![Map of the Sword Coast](../player_notes/images/faerun-swordcoast-chult.png)
+![Map of the Sword Coast](/tomb_of_annihilation/player_notes/images/places/faerun-swordcoast-chult.png)
 
 ## Faerûn
 

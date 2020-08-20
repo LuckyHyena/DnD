@@ -6,18 +6,19 @@
 
 # My Dungeons & Dragons 5e Homebrew Rules and Tweaks
 
-[Character Creation](../tomb_of_annihilation/player_notes/character_creation.md#top)
+[Character Creation](/tomb_of_annihilation/player_notes/character_creation.md#top)
 
 Optional Rules:
 - [Diagonals](#diagonals)
 - [_Dungeon Master's Guide_ Combat Actions](#dungeon-masters-guide-combat-actions)
 - [Inspiration](#inspiration)
-- [Downtime Days and Lifestyle Expenses](../tomb_of_annihilation/player_notes/Port_Nyanzaru_activities.md#top) (for Port Nyanzaru)
+- [Downtime Days and Lifestyle Expenses](/tomb_of_annihilation/player_notes/Port_Nyanzaru_activities.md#top) (for Port Nyanzaru)
 
 The Homebrew:
 - [Fumbles](#fumbles)
+- [Double Advantage](#double-advantage)
 - [Assisting Another Character for Advantage](#assisting-another-character-for-advantage)
-- [Random Encounters](../tomb_of_annihilation/player_notes/random_encounters.md#top) (for _Tomb of Annihilation_)
+- [Random Encounters](/5e/random_encounters.md#top) (for _Tomb of Annihilation_)
 
 Appendixes:
 - [Not enough Weird Vision, let's homebrew](#not-enough-weird-vision-lets-homebrew)
@@ -40,12 +41,12 @@ Appendixes:
 
 [To bottom links](#bottom-links)
 
-![Writers who use subtext are cowards](../images/writers-who-use-subtext-are-cowards.jpg)
+![Writers who use subtext are cowards](/images/writers-who-use-subtext-are-cowards.jpg)
 
 ![immovable rod](/images/immovable-rod.jpg)
 
 # Character Creation
-See my Tomb of Annihilation [character creation rules](../tomb_of_annihilation/player_notes/character_creation.md#top).
+See my Tomb of Annihilation [character creation rules](/tomb_of_annihilation/player_notes/character_creation.md#top).
 
 
 ![immovable rod](/images/immovable-rod.jpg)
@@ -85,7 +86,7 @@ Characters start each session with _Inspiration_, and I'll try to award _Inspira
 Generally, you must declare that you're using _Inspiration_ _**before**_ the dice are rolled. You may receive a "reroll" _Inspiration_ as a form of extra-inspired _Inspiration_.
 
 # Downtime Days and Lifestyle Expenses
-See [downtime activities in Port Nyanzaru](../tomb_of_annihilation/player_notes/Port_Nyanzaru_activities.md#top) for some examples of downtime activities.
+See [downtime activities in Port Nyanzaru](/tomb_of_annihilation/player_notes/Port_Nyanzaru_activities.md#top) for some examples of downtime activities.
 
 ![immovable rod](/images/immovable-rod.jpg)
 
@@ -94,13 +95,16 @@ See [downtime activities in Port Nyanzaru](../tomb_of_annihilation/player_notes/
 # Fumbles
 An ability check result of **less than 5** or a **Natural 1** on the d20 roll is a _fumble_, which sometimes has an effect.
 
-I don't do fumbles on attack rolls or saving throws.
+Fumbles in combat are described on the [rules for random encounters](/5e/random_encounters.md#fumbles)
+
+# Double Advantage
+Because advantage/disadvantage were the big new feature of fifth edition, there are a lot of ["hardcoded" advantages](https://thealexandrian.net/wordpress/43497/roleplaying-games/untested-5th-edition-situational-advantage) given in class, race, or feat bonuses. Under the normal rules this will cancel out with any other advantage or disadvantage, which means we can't use it for the local situation. At my discretion, any such hardcoded advantage or disadvantage that would be cancelled out instead becomes a +5 or -5 [background modifier](/5e/essays/5e_ability_checks.md#top).
 
 # Assisting Another Character for Advantage
 When you assist another character to give them advantage, you each separately make your own roll, using your own ability scores and proficiencies, and the higher of the two rolls is used to make a single check.
 
 # Random Encounters
-See [rules for random encounters in Tomb of Annihilation](../tomb_of_annihilation/player_notes/random_encounters.md#top) for an example of how I'll handle random encounters.
+See [rules for random encounters in Tomb of Annihilation](/5e/random_encounters.md#top) for an example of how I'll handle random encounters.
 
 ![immovable rod](/images/immovable-rod.jpg)
 
@@ -350,6 +354,6 @@ Black lives matter, and black people shouldn't have to live in fear of being vio
 
 [The Incredible Power in the Nine Sublime Pages of _Player's Handbook_ Chapter Eight: Adventuring](5e_phb_chapter_eight.md#top)
 
-[My D&D Page](../README.md#top)
+[My D&D Page](/README.md#top)
 
 ![the end](/images/toa-end.jpg)

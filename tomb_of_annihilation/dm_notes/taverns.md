@@ -6,7 +6,7 @@ Things to do in a tavern
 1. Go to a shared inn room.
 1. Request a private inn room, or visit someone's private room.
 
-Anywhere in the inn
+Anywhere in a tavern
 =====================
 1. Order food.
 1. Order drinks.
@@ -14,7 +14,7 @@ Anywhere in the inn
 
 The front room
 ======================
-1. Check out the 
+1. Check out the bulletin board.
 1. Buy a drink for a stranger.
 1. Try to join or start a game.
 1. Eavesdrop

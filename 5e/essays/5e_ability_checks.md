@@ -108,10 +108,10 @@ Just in case you haven't realized it yet, 5th edition D&D is _**very**_ cool, an
 
 [The Incredible Power in the Nine Sublime Pages of _Player's Handbook_ Chapter Eight: Adventuring](5e_phb_chapter_eight.md#top)
 
-[My 5e Quick Rules Reference](5e_reference.md#top)
+[My 5e Quick Rules Reference](/5e/5e_reference.md#top)
 
-[My Preferred 5e Optional and Homebrew Rules](5e_homebrew.md#top). Check out some ways to trick out 5e!
+[My Preferred 5e Optional and Homebrew Rules](/5e/5e_homebrew.md#top). Check out some ways to trick out 5e!
 
-[My D&D Page](../README.md#top)
+[My D&D Page](/README.md#top)
 
 ![the end](/images/toa-end.jpg)

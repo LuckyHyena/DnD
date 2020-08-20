@@ -11,9 +11,9 @@ _Standard 5e rules that I like but which I commonly forget during play._
 __Everyday problems:__
 - What [you can do](#what-you-can-do-during-your-5th-edition-turn) during your 5th edition turn.
 - The six perfect and immutable 5e ability check [difficulty classes](#ability-checks)
+- The official 5th Edition [size categories](#the-official-5th-edition-size-categories)
 - [Concentration](#concentration)
 - Knocking a creature [out](#knocking-a-creature-out)
-- The official 5th Edition [size categories](#the-official-5th-edition-size-categories)
 - _System Reference Document (SRD)_ [Languages](https://5thsrd.org/character/languages/)
 
 __Running away from the monsters:__
@@ -59,7 +59,7 @@ __Strange Situations:__
 
 __Appendix A: [Homebrew definitions](#appendix-a-homebrew-definitions)__
 
-> #### **Core Homebrew Definitions:**
+> ## Core Homebrew Definitions
 >
 > Creatures that aren't [_incapacitated_](https://5thsrd.org/rules/conditions/#incapacitated) are **able to act**.
 > 
@@ -67,16 +67,16 @@ __Appendix A: [Homebrew definitions](#appendix-a-homebrew-definitions)__
 > 
 > Creatures are __immobile__ if their speed is `0` or any effect is preventing them from moving, including: being grappled, paralyzed, petrified, stunned, or unconscious.
 >
-> #### Evade
+> ### Evade
 > To *evade* means "take no damage on any single successful Dexterity saving throw, or half damage on a failed save".
 >
-> #### Movement [__*Speed Penalties*__](#movement-speed-penalties-1):
+> ### Movement [__*Speed Penalties*__](#movement-speed-penalties-1):
 > 
 > A character moving a length of distance spends a portion of their movement __speed__ equal to that distance multiplied by __[1 plus their current number of _speed penalties_]__, provided they have any.
 >
 > Characters suffer a __speed penalty__ from:
 > - Can suffer a single _penalty_ at a time due to _difficult terrain_ in their square.
-> - Crawling while [_prone_](#putting-the-crawl-in-dungeon-crawl).
+> - Crawling while [_prone_](#how-to-put-the-crawl-in-dungeon-crawl).
 > - Three penalties from [_Plant Growth_](https://5thsrd.org/spellcasting/spells/plant_growth/).
 > - Moving through the space of any other creature.
 >   - A character can normally only move through the space of [nonhostile creatures or creatures at least two sizes different](#creatures-provide-cover) from the character.
@@ -93,23 +93,23 @@ __Appendix B: [Official rules quotes](#appendix-b-official-rules-quotes)__
 - Action 
 - Movement
 - Item interaction
-- Bonus Action (if you have an ability that mentions it)
 - Reaction
+- Bonus Action (if you have an ability that mentions it)
 
 During [your turn](https://5thsrd.org/combat/order_of_combat/#your-turn), you have the option to [perform one](https://5thsrd.org/combat/actions_in_combat/) __action__, and you additionally have a distance of __movement__ that you may spend to move around the battlefield. Moving is not a type of action, although you may spend your action to [dash](https://5thsrd.org/combat/actions_in_combat/#dash) and double your movement for the turn. You may split up your movement before and after your action, and if you can make multiple attacks you have the option to move between each attack.
 
-During your turn you may **manipulate one item** without spending your action: you could equip or sheath a weapon, pull a lever on the wall, ignite a torch or lantern, or retrieve your potion of healing before spending your action to drink it. If you want to manipulate more than one item you must spend your _action_. You can drop any number of items in your hands for free, but they fall on the ground and [might be damaged](#light-sources).
+During your turn you may **manipulate one item** without spending your action: you could equip or sheath a single weapon or shield, pull a lever on the wall, ignite a torch or lantern, or retrieve your potion of healing before spending your action to drink it. If you want to manipulate more than one item you must spend your _action_. You can drop any number of items in your hands for free, but they fall on the ground and [might be damaged](#light-sources).
+
+Finally, at the start of your turn you get a single __reaction__, which can be used at any time including other creatures' turns. You spend your reaction to complete a [readied action](https://5thsrd.org/combat/actions_in_combat/#ready), to make an opportunity attack, or to cast some spells such as [_Shield_](https://5thsrd.org/spellcasting/spells/shield/). At the start of your next turn you lose any unspent reactions, and you can't accumulate them.
 
 Some character abilities or powers mention a __bonus action__. If (and only if) you have such an ability, during your turn you may perform one such _bonus action_ alongside your regular _action_. You may perform a bonus action at any time during your turn, whether you have taken your _action_ or not. You may spend your _action_ to perform a second _bonus action_ on your turn, but not vice versa.
-
-Finally, at the start of your turn you get a single __reaction__, which can be used at any time including other creatures' turns, until the beginning of your next turn. You spend your reaction to complete a [readied action](https://5thsrd.org/combat/actions_in_combat/#ready), to make an opportunity attack, or to cast some spells such as [_Shield_](https://5thsrd.org/spellcasting/spells/shield/).
 
 > Creatures with **melee** attacks can spend their reaction to make an [opportunity attack](#5th-editions-simplified-opportunity-attacks). Additionally, during their turn they can spend their bonus action to [mark](#getting-marked) an opponent for later advantage on an opportunity attack.
 
 ---
 
 # Ability Checks
-See also my article on [5e ability checks](/5e/5e_ability_checks.md#top).
+See also my post on [5e ability checks](/5e/essays/5e_ability_checks.md#top).
 
 In fifth edition D&D's [bounded accuracy](https://www.dandwiki.com/wiki/Understanding_Bounded_Accuracy_(5e_Guideline)) mathematics, these difficulty classes are universal for all power levels and situations. When thinking about a task, ask how hard it would be for a "normal human" to do, and compare with this scale:
 
@@ -135,26 +135,10 @@ Similarly, here is an example of 5e's scaling on attack rolls and AC. A default 
  
 ||Clothing (AC 10)|Chain shirt & shield (AC 15)|Full plate & shield (AC 20)|_Tarrasque_ shell (AC 25)|
 |-|-|-|-|-|
-|Peasant (+0)|50%|1 in 4|(natural 20)|(natural 20)|
-|Fighter lvl 1 (+5)|3 out of 4|50%|1 in 4|(natural 20)|
-|Fighter lvl 10 (+10)|(natural 1)|3 out of 4|50%|1 in 4|
-|Fighter lvl 20 (+15)|(natural 1)|(natural 1)|3 out of 4|50%|
-
----
-
-# Concentration
-If you take damage while maintaining _concentration_ on a spell, you must make a Constitution saving throw with a DC of either 10 (easy) or half the damage you took, whichever is higher. If you fail the saving throw your _concentration_ is broken.
-
-> **homebrew:** Make concentration saving throws with **Intelligence** instead of Constitution.
-
----
-
-# Knocking a creature out
-An attacker making a __melee__ attack that would kill a creature may choose to instead knock them out: the knocked-out creature falls unconscious, drops to 0 hitpoints, and is stable.
-
-Most enemies don't make death saving throws and have no chance of being stabilized or saved once they go down.
-
-> **homebrew:** IRL any blow or chemical that can render you unconscious is very close to being [strong enough to kill you](https://en.wikipedia.org/wiki/Concussion#Treatment), and an adventurer swinging a normally-lethal weapon in the middle of adrenaline-soaked combat is in no position to carefully or safely take someone down. If you want to take a living prisoner grab some [manacles](https://5thsrd.org/adventuring/equipment/adventuring_gear/#manacles) and brush up on your [grapple rules](#getting-grappled), or play a monk.
+|Peasant (+0)|50%|1 in 4|only natural 20|only natural 20|
+|Fighter lvl 1 (+5)|3 out of 4|50%|1 in 4|only natural 20|
+|Fighter lvl 10 (+10)|except natural 1|3 out of 4|50%|1 in 4|
+|Fighter lvl 20 (+15)|except natural 1|except natural 1|3 out of 4|50%|
 
 ---
 
@@ -175,11 +159,30 @@ Most enemies don't make death saving throws and have no chance of being stabiliz
 |Small|1|5 ft|2 m|
 |Tiny|0.5 by 0.5|2 ½ ft|1 m|
 
->> A creature can **squeeze** through a space that is large enough for a creature one size smaller than it. Thus, a Large creature can _squeeze_ through a passage that's only [1 square] wide.
->>
->> While _squeezing_ through a space, a creature has disadvantage on **attack rolls and Dexterity saving throws**, and [it suffers a __speed penalty__].
->>
->> Attack rolls against the creature gain advantage while it's in the smaller space. - [_Player's Handbook_](https://5thsrd.org/combat/movement_and_position/#squeezing-into-a-smaller-space)
+---
+
+From the [_Player's Handbook_](https://5thsrd.org/combat/movement_and_position/#squeezing-into-a-smaller-space):
+> A creature can **squeeze** through a space that is large enough for a creature one size smaller than it. Thus, a Large creature can _squeeze_ through a passage that's only [1 square] wide.
+>
+> While _squeezing_ through a space, a creature has disadvantage on **attack rolls and Dexterity saving throws**, and [it suffers a __speed penalty__].
+>
+> Attack rolls against the creature gain advantage while it's [squeezing].
+
+---
+
+# Concentration
+If you take damage while maintaining _concentration_ on a spell, you must make a Constitution saving throw with a DC of either 10 (easy) or half the damage you took, whichever is higher. If you fail the saving throw your _concentration_ is broken.
+
+> **homebrew:** Make concentration saving throws with **Intelligence** instead of Constitution.
+
+---
+
+# Knocking a creature out
+An attacker making a __melee__ attack that would kill a creature may choose to instead knock them out: the knocked-out creature falls unconscious, drops to 0 hitpoints, and is stable.
+
+Most enemies don't make death saving throws and have no chance of being stabilized or saved once they go down.
+
+> **homebrew:** IRL any blow or chemical that can render you unconscious is very close to being [strong enough to kill you](https://en.wikipedia.org/wiki/Concussion#Treatment), and an adventurer swinging a normally-lethal weapon in the middle of adrenaline-soaked combat is in no position to carefully or safely take someone down. If you want to take a living prisoner grab some [manacles](https://5thsrd.org/adventuring/equipment/adventuring_gear/#manacles) and brush up on your [grapple rules](#getting-grappled), or play a monk.
 
 ![immovable rod](/images/immovable-rod.jpg)
 
@@ -190,7 +193,9 @@ When a character uses their action to _dodge_, they gain benefits until the star
 
 A character must be both [_able to act_ and _able to move_](#able-to-act) at the moment of the attack or saving throw in order to receive benefits from dodging.
 
-> **homebrew:** When a creature spends its action to _dodge_ (and is receiving dodge benefits) while standing in squares containing cover, they receive the **cover bonus** from the next level of cover __above__ the actual squares' normal bonus. Thus: a square that provides half-cover for characters instead provides three-quarters cover for a dodging character, and a square that normally provides three-quarters cover can provide full cover if a character is dodging in it.
+> **homebrew:** When a creature spends its action to _dodge_ (and as long as it's both _able to act_ and _able to move_) while standing in squares containing [cover](#cover-and-obscurity), it receives the **cover bonus** from the next level of cover __above__ the actual squares' normal bonus. Thus: a square that provides half-cover for characters instead provides three-quarters cover for a dodging character, and a square that normally provides three-quarters cover can provide full cover if a character is dodging in it.
+>
+> You can get the same (non-stacking) bonus by being [_prone_](#how-to-put-the-crawl-in-dungeon-crawl) in squares containing cover.
 
 ---
 
@@ -214,26 +219,27 @@ If a character spends their _action_ to disengage, they don't provoke opportunit
 > - Casting a spell with a ranged attack roll also suffers disadvantage, but otherwise spellcasting suffers no penalties.
 > - You can circle around a creature without provoking as long as you stay within its reach for your entire movement.
 > - There is no such thing as a [five-foot step](https://www.dandwiki.com/wiki/SRD:5-Foot_Step) in 5th edition.
+> - Forced or unwilled movement explicitly doesn't provoke in 5e.
 
 ---
 
 # Creatures are Difficult Terrain
 Creatures, including friendly creatures, are considered **difficult terrain** if you can move through their space. Generally, you can only move through the space of **nonhostile creatures**, or **creatures at least two sizes larger or smaller than you**.
 
-You aren't allowed to end your turn occupying the same space as another creature, and a character falls [_prone_](#putting-the-crawl-in-dungeon-crawl) if they are forced into another creature's space.
+You aren't allowed to end your turn occupying the same space as another creature, and a character falls _prone_ if they are forced into another creature's space.
 
 ---
 
 # How to put the Crawl in [Dungeon Crawl](https://goodman-games.com/dungeon-crawl-classics-rpg/)
 While **prone** your only movement option is to crawl, with an additional __speed penalty__ on top of any difficult terrain. You may stand up by using **half** of your total movement speed: this ends the _prone_ condition.
 
-Prone creatures suffer **disadvantage on attack rolls**.
-
 An attack roll against a prone creature gains **advantage if the attacker is within 5 feet** of the creature, but if the attacker is farther away their attack roll suffers disadvantage instead.
 
-> **homebrew:** _prone_ creatures who don't move gain advantage on their **ranged attack rolls**.
+Prone creatures suffer **disadvantage on attack rolls**.
+
+> **homebrew:** _Prone_ creatures who don't move on their turn gain advantage instead on their **ranged attack rolls**.
 >
-> When _Prone_ creatures who are [_able to move_](#able-to-move) are in squares containing cover, they get the same (non-stacking) homebrew bonus for [taking the Dodge action in cover](#dodging).
+> When _prone_ creatures who are [_able to move_](#able-to-move) are in squares containing cover, they get the same (non-stacking) homebrew bonus for [taking the Dodge action in cover](#dodging).
 
 ![immovable rod](/images/immovable-rod.jpg)
 
@@ -242,7 +248,7 @@ An attack roll against a prone creature gains **advantage if the attacker is wit
 # Creatures Provide Cover
 Creatures, including friendly creatures, provide **half cover** (+2 bonus to AC and Dexterity saving throws) to targets.
 
-If a cover bonus causes an attack to miss when it would otherwise hit, the attack hits the cover instead.
+If a [cover bonus](#cover-and-obscurity) causes an attack to miss when it would otherwise hit, the attack hits the cover instead.
 
 ---
 
@@ -262,8 +268,8 @@ See Appendix B [official rules quotes](#appendix-b-official-rules-quotes)
 I would adjudicate that you must be __highly obscured__ to take the hide action, which requires you to roll a __Dexterity__ (_Stealth_) check:
 - While you stay highly obscured creatures have [no chance to perceive you](#cover-and-obscurity) even when you're not trying to hide, so your check result is irrelevant.
 - If you move out of the highly obscured area, you're [invisible](https://5thsrd.org/rules/conditions/#invisible) to creatures with a passive __Wisdom__ (_Perception_) score less than your check result.
-   - Any creature may spend their action on their turn to [search](https://5thsrd.org/combat/actions_in_combat/#search) and make an active Wisdom (_Perception_) check to find hidden characters.
    - Wisdom (_Perception_) checks suffer disadvantage when looking into **lightly obscured** areas (including all [dim light and darkvision](#light-and-vision)), and creatures' passive Perception scores suffer a -5 penalty.
+- Any creature may spend their action on their turn to [search](https://5thsrd.org/combat/actions_in_combat/#search) and roll an active Wisdom (_Perception_) check to find hidden characters.
 
 Attacking, casting a spell, and many other actions will end your current hide attempt.
 
@@ -277,8 +283,8 @@ Don't let those silly barbarians and paladins rush your archers!
 # Cover and Obscurity
 
 Cover:
-- Creatures with either half or three-quarters cover receive a fixed bonus to their **Armor Class and their Dexterity saving throws**.
-- A creature with **full cover** can't be individually targeted, and to be affected by an area of effect the spell or effect must be able to get past the obstacle.
+- Creatures with either half or three-quarters cover receive a fixed bonus to their **Armor Class and their Dexterity saving throws**: +2 for half cover and +5 for three-quarters cover.
+- A creature with **full cover** can't be individually targeted, and to be affected by an area of effect the spell or effect must be able to get past or around the obstacle.
 
 Obscurity:
 - **Wisdom (_Perception_) checks** based on sight suffer disadvantage when their targets are **lightly obscured**.
@@ -322,20 +328,18 @@ For terrain such as walls and windows, the maximum obscurity assumes the charact
 |-|-|-|-|-|-|
 |__*effect*__|Drow Elves, Kobolds, and undead suffer various disadvantages.|-|__Lightly Obscured__|_Lightly Obscured_ with darkvision. __Heavily Obscured__ and _Blinded_ without darkvision, blindsight, or truesight.|_Blinded_ without devilsight, blindsight, or truesight.|
 
->> _Things seen using **darkvision** are considered to be in **dim light**, and are therefore **lightly obscured**._ - Player's Handbook
-
-Most Darkvision is grayscale colorblind.
-
-A creature with Blindsight doesn't need vision to perceive their surroundings, and (presumably) can't be _Blinded_.
-
-A creature with Truesight can see though magical and nonmagical darkness, illusions, shapechangers, and into the ethereal plane.
-
-Most Devilsight (at least the kind _Monster Manual_ devils possess) only ignores magical darkness, not natural. 
-
-> **Character Bonus:** The **Warlock** eldritch invocation _Devil's Sight_ is a special case that ignores both.
-
 > ~~**Character Bonus?!?**~~ **Drow Elves**, **Kobolds**, and **undead creatures** suffer various disadvantages in direct _sunlight_, most commonly:
 >> Disadvantage on attack rolls and **Wisdom** (_Perception_) ability checks if either the creature or the target they're looking at are in _sunlight_.
+
+Most __Darkvision__ is grayscale colorblind. Things seen using Darkvision are considered to be in **dim light**, and are therefore **lightly obscured**.
+
+A creature with __Blindsight__ doesn't need vision to perceive their surroundings, and (presumably) can't be _Blinded_.
+
+A creature with __Truesight__ can see though magical and nonmagical darkness, illusions, shapechangers, and into the ethereal plane.
+
+Most __Devilsight__ (at least the kind _Monster Manual_ devils possess) only ignores magical darkness, not natural. 
+
+> **Character Bonus:** The **Warlock** eldritch invocation _Devil's Sight_ is a special case that ignores both.
 
 **homebrew:** [some additional types of vision](5e_homebrew.md#not-enough-weird-vision-lets-homebrew)
 
@@ -380,9 +384,9 @@ Unless you have special abilities or features, attacking without a weapon deals 
 # Improvised Weapons
 An improvised weapon that doesn't resemble a normal weapon deals 1d4 damage and has a throwing range of 20/60 ft. You don't get your proficiency bonus on attack rolls with such weapons.
 
-> **Using a ranged weapon to make a melee attack** is treated like wielding an improvised weapon, as does **throwing a melee weapon not designed to be thrown**.
-> 
->  In contrast, making a **ranged attack while a hostile creature is within 5 ft** gives you disadvantage instead.
+**Using a ranged weapon to make a melee attack** is treated like wielding an improvised weapon, as does **throwing a melee weapon not designed to be thrown**.
+
+In contrast, making a **ranged attack while a hostile creature is within 5 ft** gives you disadvantage instead.
 
 > **Character Bonus:** Characters with the **_Tavern Brawler_** feat get their proficiency bonus with all improvised and unarmed attacks. After hitting a creature with either kind of attack, a **_Tavern Brawler_** may then spend their _bonus action_ to immediately make a [grapple attempt](#desperate-non-weapon-attacks) on the creature.
 

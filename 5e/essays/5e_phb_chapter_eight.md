@@ -148,7 +148,7 @@ What if your players want to visit the echo planes for a particular location? Th
 # Welcome to Port Nyanzaru
 Tomb of Annihilation's Port Nyanzaru was my first one of these location-specific rules sheets, and I plan on writing _many_ more in the years to come. Initially I was just fleshing out "basic" downtime day activities such as working, carousing, buying items, etc, but the real magic began when I started injecting specific details of Port Nyanzaru into the activities: the creative writing of the flavor of Port Nyanzaru and the mechanical board-game-style rules of the activities began to feed into and deepen each other in an _extremely_ cool way.
 
-Here's the sheet in it's current state so that you can see what I mean: [Activities in Port Nyanzaru](../tomb_of_annihilation/player_notes/Port_Nyanzaru_activities.md#top). Read or skim through it, and think about how you would narratively handle selling loot or letting characters train in new skills in your current campaign's home-base-town, and how the rules and activities you'll write will be utterly different from my personal Port Nyanzaru.
+Here's the sheet in it's current state so that you can see what I mean: [Activities in Port Nyanzaru](/tomb_of_annihilation/player_notes/Port_Nyanzaru_activities.md#top). Read or skim through it, and think about how you would narratively handle selling loot or letting characters train in new skills in your current campaign's home-base-town, and how the rules and activities you'll write will be utterly different from my personal Port Nyanzaru.
 
 Thank you for reading, and I hope you have a blast writing campaign settings and playing D&D!
 
@@ -162,6 +162,6 @@ Thank you for reading, and I hope you have a blast writing campaign settings and
 
 [My Preferred 5e Optional and Homebrew Rules](5e_homebrew.md#top). Check out some ways to trick out 5e!
 
-[My D&D Page](../README.md#top)
+[My D&D Page](/README.md#top)
 
 ![the end](/images/toa-end.jpg)

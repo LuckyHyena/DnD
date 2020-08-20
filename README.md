@@ -1,14 +1,59 @@
 
-![immovable rod](./images/immovable-rod.jpg)
+![immovable rod](/images/immovable-rod.jpg)
 
 ###### top
 ### Welcome to
 
 # My Dungeons & Dragons Page!
 
+![A Dragon in a Dungeon](/images/dragon.png)
+
+# 5th Edition Dungeons & Dragons
+
+[My 5e Quick Rules Reference](/5e/5e_reference.md#top)
+
+[My Preferred 5e Optional and Homebrew Rules](/5e/5e_homebrew.md#top). Check out some ways to trick out 5e!
+
+# Essays
+
 ![Writers who use subtext are cowards](images/writers-who-use-subtext-are-cowards.jpg)
 
-##### My Goals
+[The Subtle Elegance of Fifth Edition D&D's Ability Checks](/5e/essays/5e_ability_checks.md#top)
+
+[The Incredible Power in the Nine Sublime Pages of _Player's Handbook_ Chapter Eight](/5e/essays/5e_phb_chapter_eight.md#top)
+
+[Welcome to _**The Adventurer's League!**_](/5e/essays/adventurers_league.md#top)
+
+![immovable rod](/images/immovable-rod.jpg)
+
+# Tomb of Annihilation
+
+- [Documents for the Players](/tomb_of_annihilation/player_notes/README.md#top)
+
+- [Documents for the Dungeon Master](/tomb_of_annihilation/dm_notes/README.md#top)
+
+![Toa](/tomb_of_annihilation/player_notes/images/characters/the-soulmonger.png)
+
+![immovable rod](/images/immovable-rod.jpg)
+
+# _Inspiration_ for everyone in the party!
+
+Major thank yous to [Sly Flourish](https://slyflourish.com/) and [The Alexandrian](https://thealexandrian.net/gamemastery-101) for their thoughtful, and _extensive_, writing on the topic of running D&D games. I **enthusiastically** recommend Sly Flourish's _Return of the Lazy Dungeon Master_ book.
+
+Thank you to [DM David](https://dmdavid.com/) for his many stories about the history of D&D and TTRPGs, along with his practical writing from his experiences being a DM.
+
+Thank you to my GM, Doug, and Goodman Games for [_Dungeon Crawl Classics_](https://goodman-games.com/dungeon-crawl-classics-rpg/), which wonderfully depicts the brutal and cold reality of what a world would actually be like if it contained things like dungeons and dragons.
+
+Thanks to Sage LaTorra and Adam Koebel for [_Dungeon World_](https://dungeon-world.com/), and Evil Hat Productions for [_FATE_](https://www.evilhat.com/home/fate-core/).
+
+Thank you to WotC and everyone else who's worked on D&D or other TTRPGs for the years of fun, and thank you to the 5th edition D&D team, which I believe has successfully created a clean and elegant foundation of rules for DMs to build on and tell stories with.
+
+
+Thank __you__ for reading, and I hope you have tons of fun playing whatever kind of D&D you want!
+
+![What kind of player are you?](/images/types-of-player.jpg)
+
+# My Goals
 
 The following are my goals for these documents and how I hope they will improve the D&D games that I DM, in order of priority:
 1. Answer player questions about **how I'll (try to) run the game** and adjudicate character actions as Dungeon Master.
@@ -28,57 +73,15 @@ Some outcomes I **don't** want:
 1. Spending a lot of time worrying about if rules are being correctly followed.
 1. Simulating activities that exist in the real world simply for verisimilitude, and not because I expect them to be fun and interesting to play with in D&D.
 
-![A Dragon in a Dungeon](./images/dragon.png)
+![immovable rod](/images/immovable-rod.jpg)
 
-# _Inspiration_ for everyone in the party!
-
-Major thank yous to [Sly Flourish](https://slyflourish.com/) and [The Alexandrian](https://thealexandrian.net/gamemastery-101) for their thoughtful, and _extensive_, writing on the topic of running D&D games. I **enthusiastically** recommend Sly Flourish's _Return of the Lazy Dungeon Master_ book.
-
-Thank you to [DM David](https://dmdavid.com/) for his many stories about the history of D&D and TTRPGs, along with his practical writing from his experiences being a DM.
-
-Thank you to my GM, Doug, and Goodman Games for [_Dungeon Crawl Classics_](https://goodman-games.com/dungeon-crawl-classics-rpg/), which wonderfully depicts the brutal and cold reality of what a world would actually be like if it contained things like dungeons and dragons.
-
-Thanks to Sage LaTorra and Adam Koebel for [_Dungeon World_](https://dungeon-world.com/), and Evil Hat Productions for [_FATE_](https://www.evilhat.com/home/fate-core/).
-
-Thank you to WotC and everyone else who's worked on D&D or other TTRPGs for the years of fun, and thank you to the 5th edition D&D team, which I believe has successfully created a clean and elegant foundation of rules for DMs to build on and tell stories with.
-
-
-Thank __you__ for reading, and I hope you have tons of fun playing whatever kind of D&D you want!
-
-![immovable rod](./images/immovable-rod.jpg)
-
-![What kind of player are you?](/images/types-of-player.jpg)
-
-# 5th Edition Dungeons & Dragons
-
-[My 5e Quick Rules Reference](5e/5e_reference.md#top)
-
-[The Subtle Elegance of Fifth Edition D&D's Ability Checks](5e/5e_ability_checks.md#top)
-
-[The Incredible Power in the Nine Sublime Pages of _Player's Handbook_ Chapter Eight](5e/5e_phb_chapter_eight.md#top)
-
-[My Preferred 5e Optional and Homebrew Rules](5e/5e_homebrew.md#top). Check out some ways to trick out 5e!
-
-[Welcome to _**The Adventurer's League!**_](5e/adventurers_league.md#top)
-
-![immovable rod](./images/immovable-rod.jpg)
-
-## Tomb of Annihilation
-
-- [Documents for the Players](tomb_of_annihilation/player_notes/README.md#top)
-
-- [Documents for the Dungeon Master](tomb_of_annihilation/dm_notes/README.md#top)
-
-![immovable rod](./images/immovable-rod.jpg)
-
-## Drafts and Misc
+# Drafts and Misc
 
 - [Some encumbrance rules](tomb_of_annihilation/player_notes/encumbrance.md#top)
-- [Some initiative rules](5e/initiative.md#top)
-
+- [Some initiative rules](/5e/initiative.md#top)
 
 ---
 
 [Back to top](#top)
 
-![the end](./images/toa-end.jpg)
+![the end](/images/toa-end.jpg)

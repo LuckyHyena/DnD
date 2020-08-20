@@ -747,6 +747,6 @@ Tomb of Annihilation [homepage](README.md#top)
 
 [Back to top](#top)
 
-> Like this sheet of activities for Port Nyanzaru? Read about how I used 5e's [rules for **downtime days** to develop it!](/5e/5e_phb_chapter_eight.md#top)
+> Like this sheet of activities for Port Nyanzaru? Read about how I used 5e's [rules for **downtime days** to develop it!](/5e/essays/5e_phb_chapter_eight.md#top)
 
 ![the end](/images/toa-end.jpg)
