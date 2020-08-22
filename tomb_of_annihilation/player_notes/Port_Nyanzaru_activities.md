@@ -370,9 +370,9 @@ The [scrolls, potions, and common wondrous items](Port_Nyanzaru_items.md#wakanga
 The DM will randomly determine other magic items that can be found in the markets of Port Nyanzaru, along with their prices. To acquire such an item, make a **Charisma** check: it takes a number of downtime days equal to `1d20 + [20 minus the Charisma check result]` in order to find, negotiate, and complete the purchase of such an item.
 
 ### Putting down money for a Magic Item
-If a character can't afford a magic item right now, but has some coin to put down as a forward payment, they can usually ask a merchant to reserve the item for them until they can gather the final sum. When first making the request, and every three _tendays_ afterwards until they pay the sum, the character needs to make a forward payment equal to a percentage of the final total.
+If a character can't afford a magic item right now, but has some coin to put down as a forward payment, they can usually ask a merchant to reserve the item for them until they can gather the final sum. When first making the request, and every month (three _tendays_) afterwards until they pay the sum, the character needs to make a forward payment equal to a percentage of the final total.
 
-When asking for an item to be reserved, the character makes a **Charisma** ability check: for the first and each tenday payment the character must pay 35% of the total price minus 1% for each point of their check result.
+When asking for an item to be reserved, the character makes a **Charisma** ability check: for the first and each monthly payment the character must pay 35% of the total price minus 1% for each point of their original check result.
 
 ### Hunting down a Magic Item
 
@@ -443,7 +443,7 @@ On non-race days a character may spend their day in the Tiryki anchorage [traini
 ### Renting a dinosaur
 Many racing dinosaurs are owned by investors who don't race themselves; a rider who wants to race cheaply can rent one such dinosaur in order to qualify for a spot in a race.
 
-Generally, a rentier will demand **2d4 gold coins** to use a dinosaur for a day's races, or 1 gold coin to spend a day training with a dinosaur. They may waive the fees if they know the rider and believe they can profitably bet on them.
+Generally, a rentier will demand **3d4 gold coins** to use a dinosaur for a day's races, or 1 gold coin to spend a day training with a dinosaur. They may waive the fees if they know the rider and believe they can profitably bet on them.
 
 ### The day of the race
 Citywide races occur on the last day of each _tenday_, simply named **tenth-day**. A typical race day has three races: one for **four-legged beasts**, one for **two-legged beasts**, and one no-holds-barred "**unchained**" race. The dinosaurs are stoutly muzzled and have their claws and horns blunted in all but the unchained race.
@@ -705,8 +705,9 @@ A character can invest time and coin into developing relationships, investments,
 - Starting or acquiring a business.
 - Assembling followers and/or forming an organization.
 - Maintaining a character's membership in a Port Nyanzaru organization.
-- Dealing with Port Nyanzaru city government officials in the Goldenthrone palace.
+- Dealing with the Port Nyanzaru city government in the Goldenthrone palace.
 - Atoning for misdeeds with charitable works.
+- Appearing at court or serving time as punishment for a crime.
 - Crafting an item.
 - Raising or training an animal.
 - Speculating and advising on an investment opportunity.
