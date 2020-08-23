@@ -82,7 +82,7 @@ The party chooses whether they're moving at a _**fast**_, _**moderate**_, or _**
 Each party member may opt to perform one of the following tasks by rolling an ability check. A maximum of two characters can work on the same task. If no-one performs a task and the party needs to roll a check, the party rolls a d20 with disadvantage and adds the highest proficiency bonus among party members, and no ability bonus.
 
 |Task|Check|Proficiency|Effect|
-|-|-|-|-|-|
+|-|-|-|-|
 |Search for campsites|Wisdom|_Survival_ or _Camping_|Generates a campsite option at the end of the party's travelling day, with a starting Camp Goodness equal to half your check result.|
 |Navigate|Wisdom or Intelligence *|_Survival_, cartographer's tools, or navigator's tools|If the check fails the party becomes lost: they move only part of their intended movement, and then move 1d6 hexes in a random direction. Until the party succeeds on a subsequent Navigate check, each day after that the party moves in a random direction.|
 |Watch for Enemies|Wisdom *|_Perception_|Determines at [what distance](/5e/random_encounters.md#encounter-distance) the party spots the day's random encounter, if any.|
@@ -120,7 +120,7 @@ Instead of doing evening activities, the party may opt to continue travelling in
 
 ## Camping Activities
 |Task|Check|Proficiency|Effect|
-|-|-|-|-|-|
+|-|-|-|-|
 |Cook|Wisdom or Intelligence *|_Camping_ and/or cook's tools|Camp Goodness is increased by your check result. You suffer disadvantage unless someone Keeps the Fire.|
 |Keep the Fire|Strength or Wisdom *|_Camping_|The Cook gets advantage tonight (Hard) or suffers disadvantage if you fumble (or if no-one keeps the fire). Camp Goodness is increased by half your check result.|
 |Set Up Camp|Strength or Dexterity|_Camping_|Camp Goodness is increased by half your check result.|
