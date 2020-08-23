@@ -28,19 +28,13 @@
   
 ## Rules you might skim someday
 
-- [Summary of rules for travelling through the jungle](travelling.md#top)
-- [Camping activities](camping_activities.md#top)
-- [Short rest activities](short_rest_activities.md#top)
-- [My 5e Quick Rules Reference](/5e/5e_reference.md#top)
-- [The subtle elegance of Fifth Edition D&D's ability checks](/5e/essays/5e_ability_checks.md#top)
-
-## The full spoiler-free player-visible rules reference for all my nonsense
-
-- [My chosen optional and homebrew D&D 5e rules](/5e/5e_homebrew.md#top)
 - [My rules for random encounters](/5e/random_encounters.md#top)
-- [Short rests](short_rests.md#top)
+- [My 5e Quick Rules Reference](/5e/5e_reference.md#top)
+- [My chosen optional and homebrew D&D 5e rules](/5e/5e_homebrew.md#top)
+- [Travelling through the jungle](travelling.md#top)
 - [Long rests](long_rests.md#top)
-- [Full rules for travelling through the jungle](travelling_full.md#top)
+- [Short rests](short_rests.md#top)
+- [Short rest activities](short_rest_activities.md#top)
 - [Downtime activities in the jungle](jungle_activities.md#top)
 
 ![the end](/images/toa-end.jpg)

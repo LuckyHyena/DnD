@@ -7,14 +7,12 @@
 
 # Rules for downtime activities in the jungle
 
-![Chultan Jungle](images/undead-trex.jpg)
+![Chultan Jungle](images/places/undead-trex.jpg)
 
 While the party is travelling around Chult, a character may optionally choose to pursue one of the following downtime activities while relying on other members of the party to navigate. Any character doing a downtime activity while the party is exploring is distracted, and suffers the following penalties:
 
-- Disadvantage on **all saving throws** for the day.
 - Disadvantage on **initiative rolls** during random encounters.
 - Disadvantage on **the first ability check of each random encounter**.
-- Cannot [roll to spot random encounters](random_encounters.md#encounter-distance).
 
 See [downtime activities in Port Nyanzaru](Port_Nyanzaru_activities.md#retraining) for more details on each activity.
 
@@ -36,13 +34,11 @@ You may assist another character who is studying a skill, tool, or language, pro
 The student you teach makes progress twice as fast and consumes twice as much material per day.
 
 ## Catching up
-A party member that is lower level than at least half the other characters may spend their time shadowing the other members of the party, who share stories and point out and explain things they've learned from their more advanced adventuring experience.
+A party member that is lower level than at least half the other party members may spend their time shadowing the other members of the party, who share stories and point out and explain things they've learned from their more advanced adventuring experience.
 
 For every __fifteen__ downtime days a character invests in catching up, they gain __one Experience Chunk__.
 
 A character with enough Experience Chunks can level up as part of any long rest.
-
-A character that is catching up suffers the normal penalties for being distracted, except they **don't suffer disadvantage on saving throws**.
 
 ![immovable rod](/images/immovable-rod.jpg)
 
@@ -50,7 +46,7 @@ A character that is catching up suffers the normal penalties for being distracte
 
 [Activities in Port Nyanzaru](Port_Nyanzaru_activities.md#top)
 
-[Rules for travelling in the jungle](md#top)
+[Rules for travelling in the jungle](travelling.md#top)
 
 [Tomb of Annihilation homepage](README.md#top)
 

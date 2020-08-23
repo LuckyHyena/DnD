@@ -23,7 +23,7 @@ All benefits are gained at the end of the long rest, or at dawn if the party is 
 A character can't benefit from more than one long rest in a 24-hour period, and a character must have at least 1 hit point at the start of the rest to gain its benefits.
 
 ### Without a campsite
-If the party is taking the long rest in a dungeon or other unsafe area, **5 Random Encounter Checks** will be rolled. All rest benefits will accrue regardless of encounters unless the party abandons the rest due to an encounter.
+If the party is taking the long rest in a dungeon or other unsafe area, **8 Random Encounter Checks** will be rolled. All rest benefits will accrue regardless of encounters unless the party abandons the rest due to an encounter.
 
 At the end of a long rest without a campsite each of the characters may perform one of the [short rest activities](short_rest_activities.md#top).
 
@@ -36,9 +36,7 @@ Use the [rules for camping in Chult](travelling.md#top).
 
 [Back to top](#top)
 
-[Summary of jungle travel rules](travelling.md#top)
-
-[Full rules for travelling in the jungle](travelling_full.md#top)
+[Rules for travelling in the jungle](travelling.md#top)
 
 [Tomb of Annihilation homepage](README.md#top)
 

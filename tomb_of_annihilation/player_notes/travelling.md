@@ -7,59 +7,178 @@
 ##### Tomb of Annihilation
 # Rules for travelling across Chult
 
-[Full rules for travelling in the jungle](travelling_full.md#top)
+![Introduction Map](images/places/oneshot_map.png)
+
+_Sample from the Chult hex map._
+
+---
 
 # The Travel Loop
 
 For each day of travelling do the following:
 
-1. **Weather**
-   1. The day's weather is [rolled on a d20](travelling_full.md#step-1-weather).
-1. **Dawn**
-   1. Characters have completed their [long rest](long_rests.md#top), and may now recover health and/or level up. The long rest is successful even if there was a random encounter, unless the party completely broke camp in the night.
-3. **Morning**
-   1. Characters may do a [final round of chores](camping_activities.md#morning-activities) around the camp to improve the final Camp Goodness score, or do a [final short rest activity](short_rest_activities.md#top) before starting the day.
-   2. Generally, each character's chore or activity is resolved by rolling a single ability check.
-4. **Hit the road!**
-   1. Calculate the final Camp Goodness score, and roll for a bonus on the [_Camp Bonuses Payouts_ table](camping_bonus_payouts.md#top) based on how successfully the party rested over the duration they were camping.
-5. **Choose Direction and Pace**
-    1. The party chooses one of the six compass directions to head in, and whether they're moving at a _**fast**_, _**moderate**_, or _**slow pace**_.
-6. **Morning Travel**
-   1. **Navigate**
-       1. If the party is entering or leaving a not-yet-mapped hex, one character must attempt a **Wisdom** (Survival) ability check.
-       2. One other character may provide advantage if they are proficient in Survival.
-       3. If the check fails, the party becomes lost and moves in a random direction.
-   2. **Random Encounters**
-       1. Roll two Random Encounter Checks (d20s) for the day: one for the morning and one for the afternoon.
-       2. If the face on the die is equal or lower to the _Random Encounter Number_ (which is **_5_**), the DM will describe a random encounter.
-7. **Lunch**
-   1. The party usually takes a [short rest](short_rests.md#top).
-   2. If the party skips their short rest, increase their Random Encounter Armor Class for the afternoon random encounter by 1d4, up to a maximum of 20.
-8. **Afternoon Travel**
-   1. Repeat the morning steps of navigating and checking for a random encounter.
-9. **Search for a campsite**
-   1. One character and one optional assistant must roll a **Wisdom** (_Survival_) ability check to find a campsite and establish its initial Camp Goodness.
-   1. The party may make further searches if they are unhappy with the first site. They may make their final decision from among any of the campsites found that day, regardless of the order they were found.
-10. **Evening**
-    1. Characters may [choose to do camping chores](camping_activities.md#evening-activities) to improve the Camp Goodness score, or they may do any [short rest activity](short_rest_activities.md#short-rest-activities) for buffs or healing.
-    1. Generally, each character's chore or activity is resolved by rolling a single ability check.
-11. **Supper**:
-    1. Each character consumes 2 gallons of water and 1 lb of food every day.
-    1. If either runs out you will begin to suffer the extremely fun condition _**exhaustion**_, which will rapidly kill you.
-12. **The Night Watch**
-    1. A single Random Encounter Check is rolled for the night.
-    1. If something is encountered, one random character from the party is selected be on watch at the time the encounter happens. Other characters might be awake as well.
-    1. **The Alarm:** Any characters awake and watching the perimeter make a **Wisdom** (_Perception_) ability check to detect the encounter. Their result will determine which members of the party are _surprised_ if combat starts.
-    1. **The Random Encounter** will be described by the DM.
-13. Restart the loop.
-
-![Player map of Chult](images/places/chult_player_map.jpg)
+|Step|Description|
+|-|-|
+|1. Dawn|The party's long rest is complete, and characters may heal or level up.|
+|2. Weather|A plain d20 determine's [the day's weather](#weather).|
+|3. Travel|The party chooses whether they're moving at a [slow, moderate, or fast pace](#paces). Each character may choose to do one [travel activity](#travel-activities) by rolling an ability check.|
+|4. Random Encounter|A d20 is rolled, and if it's equal to or greater than the party's [Random Encounter Armor Class](/5e/random_encounters.md#random-encounter-checks) (which is usually `16`) the DM will describe a random encounter.|
+|6B. Forced March|If the party is unhappy with the distance they ended up travelling today, they may choose to move up to 4 additional hexes, but each party member must make a Constitution saving throw of DC 10 + 3 for each forced march hex, or else suffer a level of _exhaustion_.|
+|5. Choose a campsite|The party moves on the Chult hex map. Party members will make Wisdom (_Survival_ or _Camping_) [ability checks to locate campsites](#travel-activities), and the party will select one.|
+|6. Evening activities|Unless the party force-marched, each member of the party may choose to do an [evening activity](#evening) by rolling a single ability check.|
+|7. Supper|Each character must consume 1 pound of food and 2 gallons of water or suffer _exhaustion_.|
+|8. Night Watch|New weather is rolled, and a new [Random Encounter Check](/5e/random_encounters.md#random-encounter-checks) is made. If a random encounter occurs then a single member of the party is selected at random to be awake and on watch. They must make a Wisdom (_Perception_) check to determine which members of the party are _surprised_ in combat.|
 
 ![immovable rod](/images/immovable-rod.jpg)
 
-## Step 5: Survive
+### Step 1
+# Dawn
+Characters have completed their [long rest](long_rests.md#top), and may now recover health and/or level up.
 
-### Exhaustion
+The long rest is successful even if there was a random encounter, unless the party completely broke camp in the night.
+
+![immovable rod](/images/immovable-rod.jpg)
+
+### Step 2
+# Weather
+The day's weather is rolled on a d20:
+
+| Roll | Weather |[Rain Catcher](#rain-catchers) |Max Ground Vision|Max Flying Vision|Flying bonus to checks|
+|-|-|-|-|-|-|
+|**1-5**|Clear Skies|-|1 hex|4 hexes|+6|
+|**6-10**|Light Rain|1d3 gallons|1/2 hex|2 hexes|+4|
+|**11-15**|Moderate Rain|1d4+1 gallons|1/10 hex|1 hex|+2|
+|**16-19**|Heavy Rain|1d6+2 gallons|40 squares|1/2 hex|-|
+|**20**|Tropical Storm|\*|40 squares|-|-|
+
+#### Heavy Rain
+
+- All creatures get disadvantage on Wisdom (Perception) ability checks relying on sight or sound.
+- Everything is lightly obscured.
+- Missile weapon ranges are halved.
+- Open flames are extinguished.
+
+#### Tropical Storms
+
+- All the effects of heavy rain.
+- Disadvantage on Wisdom ability checks while travelling.
+- Canoes and ships can't safely travel.
+- If the party doesn't take shelter during a tropical storm, each character must pass a Moderate difficulty **Constitution** saving throw `DC 15` or else gain a level of exhaustion.
+
+![immovable rod](/images/immovable-rod.jpg)
+
+### Step 3
+# Travel
+The party chooses whether they're moving at a _**fast**_, _**moderate**_, or _**slow pace**_.
+
+## Paces
+|Pace|Walking|Canoeing|Sailing|Notes|
+|-|-|-|-|-|
+|Slow|1d3 hexes|1d6 hexes|2d8 hexes|Party members gain a +5 bonus on ability checks while travelling. The party can try to surprise or sneak past random encounters.|
+|Moderate|1d6 hexes|2d4 hexes|3d8 hexes|-|
+|Fast|2d4 hexes|2d6 hexes|4d8 hexes|Party members take a -5 penalty to travelling ability checks, and a -5 penalty on Constitution saving throws vs _exhaustion_.|
+
+## Travel Activities
+Each party member may opt to perform one of the following tasks by rolling an ability check. A maximum of two characters can work on the same task. If no-one performs a task and the party needs to roll a check, the party rolls a d20 with disadvantage and adds the highest proficiency bonus among party members, and no ability bonus.
+
+|Task|Check|Proficiency|Effect|
+|-|-|-|-|-|
+|Search for campsites|Wisdom|_Survival_ or _Camping_|Generates a campsite option at the end of the party's travelling day, with a starting Camp Goodness equal to half your check result.|
+|Navigate|Wisdom or Intelligence *|_Survival_, cartographer's tools, or navigator's tools|If the check fails the party becomes lost: they move only part of their intended movement, and then move 1d6 hexes in a random direction. Until the party succeeds on a subsequent Navigate check, each day after that the party moves in a random direction.|
+|Watch for Enemies|Wisdom *|_Perception_|Determines at [what distance](/5e/random_encounters.md#encounter-distance) the party spots the day's random encounter, if any.|
+|Cover Tracks|Wisdom|_Survival_|Increases the party's Random Encounter AC by 1 (Moderate) or 2 (Very Hard), to a maximum of 20. On a fumble, decrease the party's REAC by 1.|
+|Hunt or Forage|Dexterity, Wisdom, or Intelligence|_Survival_ or _Nature_|The party gains 1d6 + your Wisdom modifier in either pounds of food or gallons of water.|
+|Forage Medicine|Wisdom or Intelligence|_Medicine_, _Nature_, or a herbalist's kit|Gain 1d6 + your Wisdom modifier in either medicine kit charges or one kind of [medicinal Chultan plants](chultan_plants.md#top).|
+|Handle Animals|Wisdom *|_Animal Handling_|Depends upon the animal.|
+|Watch the Weather|Wisdom *|_Survival_ or _Sailing_|The DM prerolls the upcoming weather rolls and informs the party: 1 roll if you beat a Moderate difficulty, 2 rolls for a Hard difficulty, or 3 rolls if you beat Very Hard.|
+|-|-|-|Any number of party members may each do one [short rest activity](short_rest_activities.md#top) or one [downtime activity](jungle_activities.md#top).|
+
+\* If two characters work on this task then one of them is providing advantage to the other.
+
+![immovable rod](/images/immovable-rod.jpg)
+
+### Step 4
+# Random Encounter
+Roll a Random Encounter Check (plain d20) for the day. If the face on the die is equal or higher than the party's _Random Encounter Armor Class_ (which is normally `16` and has a maximum of 20), the DM will describe a random encounter.
+
+![immovable rod](/images/immovable-rod.jpg)
+
+### Step 5
+# Find a campsite
+The party moves on the Chult hex map based upon their previously-chosen pace. If the party is unhappy with the distance they travelled, they may optionally [force themselves to go on](#6b-forced-march) to travel up to 4 additional hexes.
+
+Party members who were _searching for campsites_ make their ability checks, and the DM will present one or more campsite options to the party, who will choose one.
+
+![immovable rod](/images/immovable-rod.jpg)
+
+### Step 6
+# Evening Activities
+Each party member may opt to perform one of the evening tasks by rolling an ability check, using the same rules as the morning tasks.
+
+## 6B. Forced March
+Instead of doing evening activities, the party may opt to continue travelling in the evening to cover more ground. They may move up to 4 extra hexes, but each party member must make a Constitution saving throw or suffer a level of exhaustion. The difficulty is 7 +3 for each forced march hex.
+
+## Camping Activities
+|Task|Check|Proficiency|Effect|
+|-|-|-|-|-|
+|Cook|Wisdom or Intelligence *|_Camping_ and/or cook's tools|Camp Goodness is increased by your check result. You suffer disadvantage unless someone Keeps the Fire.|
+|Keep the Fire|Strength or Wisdom *|_Camping_|The Cook gets advantage tonight (Hard) or suffers disadvantage if you fumble (or if no-one keeps the fire). Camp Goodness is increased by half your check result.|
+|Set Up Camp|Strength or Dexterity|_Camping_|Camp Goodness is increased by half your check result.|
+|Secure the Perimeter|Wisdom|_Survival_|Increases the party's Random Encounter AC for the night by 1 (Moderate) or 2 (Very Hard), to a maximum of 20. On a fumble, decrease the party's REAC by 1.|
+|Night Watch|Wisdom or Constitution|_Perception_|If your check beats a Hard difficulty, you'll be awake and watching the perimeter this evening along with whoever is randomly selected to be on watch. Elves and Half-Elves get a respective +5 and +2 bonus on this check because Elves meditate instead of sleep.|
+|Hunt or Forage|Dexterity, Wisdom, or Intelligence|_Survival_ or _Nature_|The party gains 1d6 + your Wisdom modifier in either pounds of food or gallons of water.|
+|Forage Medicine|Wisdom or Intelligence|_Medicine_, _Nature_, or a herbalist's kit|Gain 1d6 + your Wisdom modifier in either medicine kit charges or one kind of [medicinal Chultan plant](chultan_plants.md#top).|
+|Handle Animals|Wisdom *|_Animal Handling_|Depends upon the animal.|
+|Watch the Weather|Wisdom *|_Survival_ or _Sailing_|The DM prerolls the upcoming weather rolls and informs the party: 1 roll if you beat a Moderate difficulty, 2 rolls for a Hard difficulty, or 3 rolls if you beat Very Hard.|
+|-|-|-|Any number of party members may each do one [short rest activity](short_rest_activities.md#top) or one [downtime activity](jungle_activities.md#top).|
+
+\* If two characters work on this task then one of them is providing advantage to the other.
+
+![immovable rod](/images/immovable-rod.jpg)
+
+### Step 7
+# Supper
+Each character consumes 2 gallons of water and 1 lb of food every day.
+
+If either runs out you will begin to suffer the extremely fun condition _**exhaustion**_, which will rapidly kill you.
+
+### Rain Catchers
+A rain catcher can be purchased in Port Nyanzaru for 1 gold coin. When set up overnight it will collect the amount of rainwater specified in the [weather table](#weather). If the rain catcher is left stationary throughout the day it can collect the same amount again, holding a maximum of 8 gallons at any one time.
+
+During a tropical storm the rain catcher can collect the equivalent of heavy rain, but a character must remain with it and pass a moderate [DC 15] **Wisdom** (Survival) check every 12 hours or the rain catcher will be destroyed. The character maintaining the rain catcher must pass an easy [DC 10] **Constitution** saving throw once per day or else suffer 1 level of exhaustion.
+
+![immovable rod](/images/immovable-rod.jpg)
+
+### Step 8
+# The Night Watch
+A single Random Encounter Check is rolled for the night. A separate Weather roll is made for the evening period.
+
+If something is encountered, one random character from the party is selected to be awake and watching the perimeter at the time the encounter happens. Other characters might be awake as well.
+
+**The Alarm:** Any characters awake and watching the perimeter make a **Wisdom** (_Perception_) ability check to detect the encounter. The highest check result will determine which members of the party are _surprised_ if combat starts.
+
+> **Sleeping characters** generally begin _Prone_ and with their items and [armor](https://5thsrd.org/adventuring/equipment/armor/#getting-into-and-out-of-armor) not equipped. If on a battlemap all of a character's equipment will be in the same tile they start the combat in.
+>
+> If a sleeping character "must be shaken awake" they don't roll initiative until someone spends an _action_ to wake them up. Starting on the **third turn**, any character still sleeping rolls initiative with disadvantage, and at the start of each of their turns they may make a new Wisdom (Perception) check to try to wake up: if they succeed they may immediately take their full turn.
+
+|Check Result|Difficulty|Status|Sleeping Characters|
+|-|-|-|-|
+|Below 5 or a Natural 1|Fumble|No alarm: awake characters are _Surprised_|Moderate Wisdom (Perception) check or you must be shaken awake, and you're _Surprised_ unless the check beats a Very Hard difficulty.|
+|5|Very Easy|Late alarm|Easy Wisdom (Perception) check or must be shaken awake, and you're _Surprised_ unless the check beats a Hard difficulty.|
+|10|Easy|Slow alarm|If you _fumble_ a Wisdom (Perception) check you must be shaken awake, and you're _Surprised_ unless the check beats a Moderate difficulty. |
+|15|Moderate|Alarm|-|
+|20|Hard|Early alarm|Your items are equipped, but [not your armor](https://5thsrd.org/adventuring/equipment/armor/#getting-into-and-out-of-armor).|
+|25|Very Hard|Early warning|All your items and armor are equipped. Any player may reposition their character on the battle map before initiative is rolled.|
+|30|Nearly Impossible|Saw them coming a long way off|The party can ambush the intruders, and if combat starts the other side is _surprised_ for the first turn.|
+
+![immovable rod](/images/immovable-rod.jpg)
+
+# Restart the Loop
+The morning sun has [vanquished the horrible night](#step-1).
+
+![immovable rod](/images/immovable-rod.jpg)
+
+# Exhaustion Rules
 
 A variety of dangers in Chult can give characters levels of **exhaustion**. Characters can accumulate multiple levels of exhaustion, and those with the condition suffer cumulative penalties with each new level:
 
@@ -85,32 +204,20 @@ A long rest (8 hours) after getting a full day's worth of food and water will re
 
 ![immovable rod](/images/immovable-rod.jpg)
 
-## Bonus: Foraging
-
-Up to two characters who are not navigating today but are proficient in Survival may forage. Each character rolls a **Wisdom** (Survival or Nature) ability check and compares against the DC to see if anything is found. For each successful forage check the party gains **1d6 + character's Wisdom modifier** in either pounds of food or gallons of potable water.
+## Foraging DCs
 
 - **easy** [DC 10] in coasts, jungles, and rivers
 - **moderate** [DC 15] in mountains, plateaus, swamps, and lakes
 - **hard** [DC 20] in wastelands
 - **+5 DC** in black skull-and-crossbones zones
 - **+10 DC** in red skull-and-crossbones zones
-- disadvantage on the Wisdom check if today's weather is **heavy rain or a tropical storm**
+- disadvantage on the check if today's weather is **heavy rain or a tropical storm**
 
-Take a -5 penalty to the Wisdom check if the party is moving at a fast pace, or a +5 bonus to the check if the party is moving at a slow pace.
-
-### Foraging Plants
-A character may choose one or more of the useful Chultan plants listed in the [items available for purchase in Port Nyanzaru](Port_Nyanzaru_items.md#chultan-plants) under Jessamine, and attempt to find those plants instead of food and water. On a successful forage check the character finds **1d6 + their Wisdom modifier** uses of one random plant from the types they chose to look for that day.
-
-### Rain Catchers
-A rain catcher can be purchased in Port Nyanzaru for 1 gold coin. When set up overnight it will collect the amount of rainwater specified in the [weather table](travelling_full.md#step-1-weather). If the rain catcher is left stationary throughout the day it can collect the same amount again, holding a maximum of 8 gallons at any one time.
-
-During a tropical storm the rain catcher can collect the equivalent of heavy rain, but a character must remain with it and pass a moderate [DC 15] **Wisdom** (Survival) check every 12 hours or the rain catcher will be destroyed. The character maintaining the rain catcher must pass an easy [DC 10] **Constitution** saving throw once per day or else suffer 1 level of exhaustion.
+Take a -5 penalty to the check if the party is moving at a fast pace, or a +5 bonus to the check if the party is moving at a slow pace.
 
 ![immovable rod](/images/immovable-rod.jpg)
 
 [Back to top](#top)
-
-[Full rules for travelling in the jungle](travelling_full.md#top)
 
 [Tomb of Annihilation homepage](README.md#top)
 

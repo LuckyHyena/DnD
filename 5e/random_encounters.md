@@ -15,13 +15,7 @@
 + Permanent [Injuries](#permanent-injuries)
 + [Critical Hits](#critical-hits)
 + [Dying](#dying)
-+ [Fumbles](#fumbles)
 + [Climactic](#climactic-battles) Battles
-
-+ Homebrew [Initiative](#initiative)
-  + [Tactics](#tactics)
-  + [Situations](#situations)
-  + [Penalties](#penalties)
 
 ---
 
@@ -78,7 +72,7 @@ Advantage is flipped since the party is the "defender" being "attacked" by the e
 
 # Encounter Distance
 ### In the Jungles of Chult
-To determine the distance at which two parties spot each other in the wilderness, every character rolls a **Wisdom** (Perception) ability check. The highest check in each party is used. The distance at which each party spots the other is a multiplier of the former's check, assuming neither party is trying to be stealthy.
+To determine the distance at which two parties spot each other in the wilderness, one or more characters from each party will roll a **Wisdom** (Perception) ability check. The highest check in each party is used. The distance at which each party spots the other is a multiplier of the former's check, assuming neither party is trying to be stealthy.
 
 > A _spyglass_ can be purchased for 100 platinum coins in the Jewel Market of Port Nyanzaru. It doubles the distance at which things can be spotted, except in heavy rain or tropical storms. A _magnifying glass_ can be purchased for 10 platinum coins, but won't help you here.
 
@@ -89,8 +83,6 @@ To determine the distance at which two parties spot each other in the wilderness
 |coast, mountain, plateau, or wasteland|Wisdom check result * 30 ft (6 squares)|300 ft|600 ft|900 ft|
 |lake or sea with **light rain**|Wisdom check result * 250 ft (50 squares)|2500 ft|5000 ft or ~1 mi|7500 ft|
 |lake or sea with clear skies|Wisdom check result * 0.5 miles|5 miles|7.5 miles|10 miles|
-
-Characters doing [downtime activities while the party is travelling](jungle_activities.md#top) cannot roll to spot other parties.
 
 # Enemy Morale and Behavior
 
@@ -155,9 +147,7 @@ In addition to random encounters, in D&D there are "scripted encounters", or "st
 
 __Tomb of Annihilation__ [adventure introduction](introduction.md#top)
 
-- Welcome to [Chult](introduction.md#welcome-to-chult)
-
-[Travelling](travelling.md#top) in Chult
+[Travelling](/tomb_of_annihilation/player_notes/travelling.md#top) in Chult
 
 Tomb of Annihilation [homepage](README.md#top)
 
