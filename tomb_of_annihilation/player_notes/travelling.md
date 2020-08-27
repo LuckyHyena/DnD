@@ -74,9 +74,9 @@ The party chooses whether they're moving at a _**fast**_, _**moderate**_, or _**
 ## Paces
 |Pace|Walking|Canoeing|Sailing|Notes|
 |-|-|-|-|-|
-|Slow|1d3 hexes|1d6 hexes|2d8 hexes|Party members gain a +5 bonus on ability checks while travelling. The party can try to surprise or sneak past random encounters.|
-|Moderate|1d6 hexes|2d4 hexes|3d8 hexes|-|
-|Fast|2d4 hexes|2d6 hexes|4d8 hexes|Party members take a -5 penalty to travelling ability checks, and a -5 penalty on Constitution saving throws vs _exhaustion_.|
+|Slow|1d3 hexes|1d6 hexes|2d6 hexes|Party members gain a +5 bonus on ability checks while travelling. The party can try to surprise or sneak past random encounters.|
+|Moderate|1d6 hexes|2d4 hexes|2d8 hexes|-|
+|Fast|2d4 hexes|2d6 hexes|2d10 hexes|Party members take a -5 penalty to travelling ability checks, and a -5 penalty on Constitution saving throws vs _exhaustion_.|
 
 ## Travel Activities
 Each party member may opt to perform one of the following tasks by rolling an ability check. A maximum of two characters can work on the same task. If no-one performs a task and the party needs to roll a check, the party rolls a d20 with disadvantage and adds the highest proficiency bonus among party members, and no ability bonus.
@@ -105,7 +105,7 @@ Roll a Random Encounter Check (plain d20) for the day. If the face on the die is
 
 ### Step 5
 # Find a campsite
-The party moves on the Chult hex map based upon their previously-chosen pace. If the party is unhappy with the distance they travelled, they may optionally [force themselves to go on](#6b-forced-march) to travel up to 4 additional hexes.
+If the party is unhappy with the distance they travelled, they may now optionally [force themselves to go on](#6b-forced-march) to travel up to 4 additional hexes.
 
 Party members who were _searching for campsites_ make their ability checks, and the DM will present one or more campsite options to the party, who will choose one.
 
