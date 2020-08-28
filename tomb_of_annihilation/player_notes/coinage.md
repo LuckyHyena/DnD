@@ -31,6 +31,8 @@ The [coins of most cultures](https://forgottenrealms.fandom.com/wiki/Currency) o
 
 > _Coins issued by the wealthy Sword Coast city of Waterdeep._
 
+---
+
 ![Sword Coast Currency](images/decor/Swordcoastcurrency.png)
 
 > _Coins from the Elven city of Silverymoon._
