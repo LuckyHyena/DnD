@@ -9,9 +9,9 @@
 
 # Coins in Port Nyanzaru
 
-The merchant princes of Port Nyanzaru don't currently mint their own currency. Citizens use a motley [mix of coins](https://5thsrd.org/adventuring/equipment/coins/) minted by older Chultan cities, foreign coins, [trade goods](https://5thsrd.org/adventuring/equipment/trade_goods/), and other small tokens of value. Port Nyanzaru merchants will generally accept metal coins or bits brought back by adventurers from the ruins of ancient civilizations in Chult or elsewhere in Faerûn.
+The merchant princes of Port Nyanzaru don't currently mint their own currency. Citizens use a motley mix of coins minted by older Chultan cities, foreign coins, [trade goods](https://5thsrd.org/adventuring/equipment/trade_goods/), and other small tokens of value. Port Nyanzaru merchants will generally accept metal coins or bits brought back by adventurers from the ruins of ancient civilizations in Chult or elsewhere in Faerûn.
 
-The [coins of most cultures](https://forgottenrealms.fandom.com/wiki/Currency) on Faerûn fall into one of five broad categories:
+The coins of [most cultures on Faerûn](https://forgottenrealms.fandom.com/wiki/Currency) fall into one of [five broad categories](https://5thsrd.org/adventuring/equipment/coins/):
 
 - 10 _Copper_ coins are worth a single silver coin or piece.
 
