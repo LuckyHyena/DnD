@@ -240,14 +240,16 @@ These basic magic items are commonly produced in Port Nyanzaru and are usually a
 
 | Item | Price |
 |-|-|
+|_+1 yklwa, dagger, shield, or ammunition_|50 platinum coins or 5 per piece of ammunition. See [merchant prince Ekene-Afa](#ekene-afa), who controls the sale of weapons.|
+|[_Keoghtom's Ointment_](https://5thsrd.org/gamemaster_rules/magic_items/restorative_ointment/) (healing)|50 platinum coins. See [merchant prince Jessamine](#jessamine), who controls the sale of medicines, poisons, and other dangerous materials.|
+|[_+1 Glamoured_ ](https://5thsrd.org/gamemaster_rules/magic_items/glamoured_studded_leather/) studded leather armor|20 platinum coins. See [merchant prince Zhanthi](#zhanthi), who controls the sale of armor.|
 |Spellcasting Services|See [casting a ritual spell](Port_Nyanzaru_activities.md#casting-a-ritual-spell) as an activity in Port Nyanzaru.|
-| Spell scroll, cantrip | 5 platinum coins |
-| Spell scroll, 1st-level | 10 platinum coins |
-| Spell scroll, 2nd-level | 55 platinum coins |
-| Potion, common | 5 platinum coins |
-| Potion, uncommon | 30 platinum coins |
-| Wondrous item, common | 15 platinum coins |
-| Other magic items|See [buying a magic item](Port_Nyanzaru_activities.md#buying-a-magic-item) as an activity in Port Nyanzaru.|
+| Cantrip spell scrolls | 5 platinum coins |
+| 1st-level spell scrolls | 10 platinum coins |
+| 2nd-level spell scrolls | 55 platinum coins |
+| [Common potions](#common-potions) | 5 platinum coins |
+| [Uncommon potions](#uncommon-potions) | 30 platinum coins |
+| [Common wondrous items](#common-wondrous-items) | 15 platinum coins |
 
 ## Spell Scrolls
 
@@ -298,10 +300,10 @@ By speaking a command word you can expend one of the bell's charges and cast [_a
 
 If the _alarm_ spell's 8 hour duration would expire and the bell still has charges, instead a charge is expended and the duration is extended by 8 hours; otherwise the _alarm_ expires and the bell floats to the ground.
 
-The bell regains 3 charges every day at dawn. Whenever the bell's last charge is expended, roll a d20. On a 1, the bell crumbles into gold dust and is destroyed.
+The bell regains 3 charges every day at dawn. Any time the bell's last charge is expended, roll a d20. On a 1, the bell crumbles into gold dust and is destroyed.
 
-#### Chultan Candle
-This wax candle smells of menga leaves and burns with a copper flame that is not extinguished when immersed in water. It provides light and heat like an oil lamp, but can burn for up to 24 hours.
+#### Chultan Candles
+These wax candles are sold in boxes of 20. Each one smells of menga leaves and burns with a copper flame that is not extinguished by water or wind. The flame provides light and heat like an oil lamp, and each candle can burn for up to an hour.
 
 #### Staff of Dinosaur Calls
 This wooden staff is decorated with dinosaur carvings. It has 10 charges. While holding it, you can use an action to expend 1 charge from the staff and cause it to create the sounds of any species of dinosaur, including sounds such as roars, mating and social calls, or the whines of a wounded dinosaur in pain.

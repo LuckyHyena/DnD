@@ -12,7 +12,7 @@
 __Port Nyanzaru [characters](#port-nyanzaru-characters)__
 - [Syndra Silvane](#syndra-silvane), your patron and friend
 - The [Merchant Princes](Port_Nyanzaru_items.md#the-merchant-princes)
-- Mother of Prosperity [Sibonseni](#sibonseni-mother-of-prosperity)
+- Mother of Prosperity [Sibonseni](#mother-of-prosperity-sibonseni)
 - Grandfather [Zitembe](#grandfather-zitembe)
 - Inns:
   - [Erlathan Naeynore](#erlathan-naeynore)
