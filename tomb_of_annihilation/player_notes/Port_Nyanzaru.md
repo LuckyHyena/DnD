@@ -23,7 +23,7 @@
 
 6. A gargantuan dragon turtle called [Aremag](dramatis_personae.md#aremag) patrols the Bay of Chult and demands treasure from ships that pass through while going to or from Port Nyanzaru.
 
-7. In addition to trade from the Trackless Sea and the Shining Sea, the economy of Port Nyanzaru is based on mining, cutting lumber, hunting, and gathering rare materials from the jungle. Laborers living in hamlets and work camps in the jungle are in constant danger of being forced out by the undead and other dangers.
+7. In addition to trade from the Shining Sea and the Sea of Swords, the economy of Port Nyanzaru is based on mining, cutting lumber, hunting, and gathering rare materials from the jungle. Laborers living in hamlets and work camps in the jungle are in constant danger of being forced out by the undead and other dangers.
 
 ![immovable rod](/images/immovable-rod.jpg)
 
