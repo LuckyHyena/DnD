@@ -60,7 +60,7 @@ eh-KEE-nee AH-fah is a Chultan ex-gladiator who rose from the pits of Port Nyanz
 
 Ekene-Afa can be a wrathful and mercurial leader, and the people who succeed in her personal mercenary organization **The Velociraptor Company** are those that can stay calm, and think quickly, in the face of a suddenly-angry boss with a history of killing people for sport. The bulk of Port Nyanzaru's mercenaries are foreigners like the [Zhentarim](dramatis_personae.md#the-zhentarim), however, and Ekene-Afa must also carefully and dispassionately manipulate them to keep a precise balance of power and ensure the city's newly-won independence isn't threatened. In this task, at least, she has the rare boon of the full and unanimous support of the other merchant princes.
 
-> **Help Wanted:** Ekene-Afa is often looking for bouncers to maintain order in Port Nyanzaru's combat arenas, and she sometimes needs rogues or investigators to root out cheating or shady dealings.
+> **Help Wanted:** Ekene-Afa is often looking for bouncers to maintain order in Port Nyanzaru's combat arenas. She also sometimes needs rogues or investigators to root out cheating and shady dealings, or someone charismatic to assist during negotiations with mercenaries.
 
 ![Ekene-Afa](images/characters/Merchant_Prince_Ekene-Afa.jpg)
 
@@ -70,9 +70,11 @@ Ekene-Afa can be a wrathful and mercurial leader, and the people who succeed in 
 |-|-|-|
 | Yklwa | 1 gold coin | Simple melee weapon: 1d8 piercing damage, thrown 2/6 squares. |
 |Shortbow|25 gold coins|Simple ranged weapon: 1d6 piercing damage, ranged 16/64 squares, _ammunition_ and _two-handed_.|
-|Light crossbow|25 gold coins|Simple ranged waepon: 1d8 piercing damage, ranged 16/64 squares, _loading_, _ammunition_, and _two-handed_.|
+|Light crossbow|25 gold coins|Simple ranged weapon: 1d8 piercing damage, ranged 16/64 squares, _loading_, _ammunition_, and _two-handed_.|
 |20 arrows or crossbow bolts|1 gold coin|-|
+|Silvered ammunition|1 platinum coin per piece|Nonmagical but pierces magical damage resistance.|
 | _+1 Ammunition_ | 5 platinum coins per piece | Magical: +1 to attack rolls and damage. |
+|Silvered weapon|10 platinum coins|Nonmagical but pierces magical damage resistance.|
 | _+1 Wooden Shield_ | 45 platinum coins | Magical: +1 to AC. |
 | _+1 Dagger_ | 50 platinum coins | Magical: +1 to attack rolls and damage. |
 | _+1 Yklwa_ | 50 platinum coins | Magical: +1 to attack rolls and damage. |
@@ -241,6 +243,7 @@ These basic magic items are commonly produced in Port Nyanzaru and are usually a
 | Item | Price |
 |-|-|
 |_+1 yklwa, dagger, shield, or ammunition_|50 platinum coins or 5 per piece of ammunition. See [merchant prince Ekene-Afa](#ekene-afa), who controls the sale of weapons.|
+|Silvered weapon or ammunition|10 platinum coins or 1 per piece of ammunition. See Ekene-Afa.|
 |[_Keoghtom's Ointment_](https://5thsrd.org/gamemaster_rules/magic_items/restorative_ointment/) (healing)|50 platinum coins. See [merchant prince Jessamine](#jessamine), who controls the sale of medicines, poisons, and other dangerous materials.|
 |[_+1 Glamoured_ ](https://5thsrd.org/gamemaster_rules/magic_items/glamoured_studded_leather/) studded leather armor|20 platinum coins. See [merchant prince Zhanthi](#zhanthi), who controls the sale of armor.|
 |Spellcasting Services|See [casting a ritual spell](Port_Nyanzaru_activities.md#casting-a-ritual-spell) as an activity in Port Nyanzaru.|
