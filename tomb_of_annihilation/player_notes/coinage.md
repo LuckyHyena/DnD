@@ -33,10 +33,10 @@ The coins of [most cultures on Faerûn](https://forgottenrealms.fandom.com/wiki/
 
 ---
 
-# Bank Error In Your Favor
+## Banking in Port Nyanzaru
 When they travel into the jungle it's generally assumed that the party leaves most of their coins and other treasure in Port Nyanzaru. Characters may choose to carry around pocket change or specific jewels, but they risk losing anything they carry. Human robbers, goblin thieves, and flooding from heavy rain all have the potential to take items, including treasure, from the party. There are numerous places to safely store items in the city: two obvious options are getting a safebox in the [Hall of Gold](dramatis_personae.md#mother-of-prosperity-sibonseni) or leaving items in the care of Syndra Silvane.
 
-For simplicy of gameplay ignore all banking or storage fees.
+> __Bank Error In Your Favor:__ For simplicy of gameplay ignore all banking or storage fees.
 
 ---
 
