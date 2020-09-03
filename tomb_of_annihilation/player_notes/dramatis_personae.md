@@ -257,7 +257,7 @@ Millennia ago, all of Faerûn suffered under the cruel, world-spanning empire of
 
 The ritual was disrupted, however, and the Yuan-ti were instead transformed into hideous half-human forms. The high priests turned on each other, sparking a brutal civil war across the entire empire. In response, the many conquered peoples of Faerûn began to resist the empire and throw off the yoke of the Yuan-ti.
 
-The Yuan-ti were eventually driven out of their conquered lands, and the survivors retreated to their ancient cities hidden in the swamps and marshes of the Yuan-ti homelands. They've remained hidden in the wilds and in the shadows ever since: spying on their former slaves, nursing their ancient grievances, and searching for an opportunity or source of power that can return them to their rightful place as immortal conquerors of Faerûn.
+The Yuan-ti were eventually driven out of their conquered lands, and the survivors retreated to their ancient cities hidden in the marshes and marshes of the Yuan-ti homelands. They've remained hidden in the wilds and in the shadows ever since: spying on their former slaves, nursing their ancient grievances, and searching for an opportunity or source of power that can return them to their rightful place as immortal conquerors of Faerûn.
 
 ![Yuan-ti](images/chultans/yuan-ti.jpg)
 

@@ -79,7 +79,7 @@ To determine the distance at which two parties spot each other in the wilderness
 | terrain and weather | distance | easy [10] | hard [20] | nearly impossible [30] |
 |-|-|-|-|-|
 |anywhere with **heavy rain**|disadvantaged Wisdom check result * 10 ft (2 squares)|100 ft|200 ft|300 ft|
-|jungle, river, or swamp|Wisdom check result * 10 ft (2 squares)|100 ft|200 ft|300 ft|
+|jungle, river, or marsh|Wisdom check result * 10 ft (2 squares)|100 ft|200 ft|300 ft|
 |coast, mountain, plateau, or wasteland|Wisdom check result * 30 ft (6 squares)|300 ft|600 ft|900 ft|
 |lake or sea with **light rain**|Wisdom check result * 250 ft (50 squares)|2500 ft|5000 ft or ~1 mi|7500 ft|
 |lake or sea with clear skies|Wisdom check result * 0.5 miles|5 miles|7.5 miles|10 miles|

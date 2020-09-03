@@ -15,11 +15,11 @@
 
 Each of the seven merchant princes who rule Port Nyanzaru controls the selling and trading of certain types of goods in Port Nyanzaru. In order to purchase any goods or services you'll have to deal with one of the princes or their organizations.
 
-- [Ekene-Afa](#ekene-afa) is an ex-gladiator who controls the sale and trade of weapons and shields.
+- [Ekene-Afa](#ekene-afa) is an ex-gladiator who controls the sale and trade of weapons and shields, as well as regulating all arena combat and mercenary work.
 - [Ifan Talro'a](#ifan-talroa) controls the sale of beasts and beast training, including the dinosaurs used as pack animals throughout Port Nyanzaru. He's also responsible for overseeing the [tenth-day dinosaur races](Port_Nyanzaru_activities.md#dinosaur-racing).
 - [Jessamine](#jessamine) is the only public representative of Port Nyanzaru's assassins' guild, and controls the sale of [medicinal Chultan plants](chultan_plants.md#top), [alchemical materials](#jessamine), and [poisons](poisons.md#top).
 - [Jobal](#jobal) is an ex-guide and the merchant prince with authority over all of Port Nyanzaru's jungle guides, and the matchmaker for most of them. He also regulates the sale of travelling gear, rain catchers, wagons, canoes, and insect repellant.
-- [Kwayothé](#kwayothé) is the high priestess in the temple of Sune, and additionally a merchant prince who controls the sale and production of tej, wine, ale, fruit, oil, and perfume. This gives her immense de facto authority over most restaurants, taverns, ceremonies, and celebrations in Port Nyanzaru.
+- [Kwayothé](#kwayothé) is the high priestess in the temple of Sune, and additionally a merchant prince who controls the sale and production of tej, wine, ale, fruit, oil, perfume, and [dye](Port_Nyanzaru_activities.md#dyeing). This gives her immense de facto authority over most restaurants, taverns, ceremonies, and celebrations in Port Nyanzaru.
 - [Zhanthi](#zhanthi) is a noble who runs the Jewel Market, an exclusive and high-end market for the sale of [art, jewelry, gems](Port_Nyanzaru_activities.md#selling-loot-or-items), metal armors, and magic items.
 - [Wakanga O'tamu](#wakanga-otamu) is the mage with authority over all [magic item sales](Port_Nyanzaru_activities.md#buying-a-magic-item) in Port Nyanzaru, though such sales are rare even in Port Nyanzaru's massive markets. Common potions and scrolls are [available for purchase](#magic-items), however.
 
@@ -103,10 +103,16 @@ The roughnecks who train dinosaurs in the Tiryki anchorage are far from being "a
 |-|-|
 | Flying Monkey | 10 platinum coins |
 | Giant Lizard | 10 platinum coins |
+| Flying Snake | 25 platinum coins |
+
+## Dinosaurs
+Each dinosaur can be bred and trained for one of three specific tasks: hauling, fighting, or racing. Hauling dinosaurs are cheaper than racing or fighting ones, and can be found on the [pack animals page](pack_animals.md#top).
+
+| Fighting or Racing Dinosaur | Price |
+|-|-|
 | Hadrosaur | 10 platinum coins |
 | Ankylosaur | 25 platinum coins |
 | Deinonychus | 25 platinum coins |
-| Flying Snake | 25 platinum coins |
 | Triceratops | 50 platinum coins |
 
 Characters can learn to ride and race dinosaurs, and can [participate in Port Nyanzaru's tenth-day dinosaur races](Port_Nyanzaru_activities.md#dinosaur-racing).
@@ -118,7 +124,7 @@ JESS-ah-meen is a Chultan noble and ex-assassin who controls the buying and sell
 
 Jessamine is the sole person in Port Nyanzaru with the authority to issue **sanctions**, writs that allow for legal assassinations in the city by approved methods, usually poison or a single stab with a blade. Sanctions are rarely sold and are extremely expensive.
 
-> **Help Wanted:** Jessamine sometimes hires independent rogues or spies to investigate the situation around a potential _sanction_, or to quietly deliver a [triceratops](dramatis_personae.md#the-ytepka-society). Port Nyanzaru's native assassins' guild is, however, _extremely_ satisfied with the current number of assassins operating in the Port Nyanzaru area, and they would _hate_ to see, or to be informed of, or find out about, or actively sniff out, any loose talk about trying to change their beloved status quo.
+> **Help Wanted:** Jessamine sometimes hires independent rogues or spies to investigate the situation around a potential _sanction_, or to quietly deliver a [triceratops](dramatis_personae.md#the-ytepka-society). Port Nyanzaru's native assassins' guild is, however, _extremely_ satisfied with the current number of assassins operating in the Port Nyanzaru area, and they would _hate_ to see, or to be informed of, or find out about, or actively sniff out, any loose talk about potential new assassins looking for work.
 
 ![Jessamine](images/characters/Merchant_Prince_Jessamine.jpg)
 
@@ -148,7 +154,7 @@ As a merchant prince, Jobal is responsible for ensuring that the occasional larg
 
 Jobal is gregarious and charismatic, and he constantly wanders the city keeping in contact with people and listening for problems and opportunities. Any guide you hire out of Port Nyanzaru will pay a part of their fee to Jobal: most are independent operators but are quite happy with the extra business Jobal brings them.
 
-> **Help Wanted:** Jobal may be able to put you in touch with passengers who will pay to travel with the party to someplace they're already going, and he'll be able to find buyers for any particularly useful information you discover about the interior of Chult. Additionally, he may have clients looking for seasoned explorers to answer questions and prepare them for the undead or other Chultan dangers. Wandering into the jungle without the rest of your party, such as by working as a guide for other exploration groups, is not wise.
+> **Help Wanted:** Jobal may be able to put you in touch with passengers who will pay to travel with the party to someplace they're already going, and he'll be able to find buyers for any particularly useful information you discover about the interior of Chult. Additionally, he may have clients looking for seasoned explorers to answer questions and prepare them for the undead or other Chultan dangers. Wandering into the jungle without the rest of your party (such as by working as a guide for other exploration groups) is unwise, and as everyone knows Wisdom is important for _Survival_.
 
 ![Jobal](images/characters/Merchant_Prince_Jobal.jpg)
 
@@ -178,9 +184,9 @@ Jobal is gregarious and charismatic, and he constantly wanders the city keeping 
 
 kway-OH-thay is Port Nyanzaru's young and ambitious high priestess of Sune, deity of love and beauty. As high priestess she's responsible for managing both the temple of Sune in the merchants' ward as well as the public baths the temple maintains in the market ward.
 
-As a merchant prince, Kwayothé controls the sale of **tej, wine, ale, fruit, oil, and perfume**, and her portion of the Port Nyanzaru economy has rapidly become the largest in terms of the population it employs: Kwayothé now has de facto authority over most restaurants, taverns, grocers, ceremonies, celebrations, and many other parts of day-to-day life in the city. Most of those who are thus employed don't directly work for Kwayothé, but she does maintain a significant formal organization to enforce her regulations and fees. Additionally, Kwayothé directly owns several of the largest guilds involved in the production of the goods she controls.
+As a merchant prince, Kwayothé controls the sale of **tej, wine, ale, fruit, oil, perfume, and dyes**, and her portion of the Port Nyanzaru economy has rapidly become the largest in terms of the population it employs: Kwayothé now has de facto authority over most restaurants, taverns, grocers, ceremonies, celebrations, and many other parts of day-to-day life in the city. Most of those who are thus employed don't directly work for Kwayothé, but she does maintain a significant formal organization to enforce her regulations and fees. Additionally, Kwayothé directly owns several of the largest guilds involved in the production of the goods she controls.
 
-> **Help Wanted:** Kwayothé runs too many organizations to deal with individual hiring decisions, but a character (particularly a religious one) may be able to find work at the Temple of Sune, the public baths they maintain, or one of the other [temples](Port_Nyanzaru_activities.md#worshipping) in Port Nyanzaru. In addition to the day-to-day work of assisting worshippers, various temples, guilds, and other Port Nyanzaru organizations regularly host opulent ceremonies, festivals, and celebrations that require specialized work.
+> **Help Wanted:** Kwayothé runs too many organizations to deal with individual hiring decisions, but a character (particularly a religious one) can find work at the Temple of Sune, the public baths they maintain, or one of the other [temples](Port_Nyanzaru_activities.md#worshipping) in Port Nyanzaru. In addition to religious work many temples, guilds, and other Port Nyanzaru organizations regularly host opulent ceremonies, festivals, and celebrations that require specialized work.
 
 ![Kwayothé](images/characters/Merchant_Prince_Kwayothé.jpg)
 
@@ -208,19 +214,19 @@ As a merchant prince, Kwayothé controls the sale of **tej, wine, ale, fruit, oi
 
 JOHN-thee is a Chultan noble who can trace her lineage back to the original founders of the Chultan town of Nyanzaru, over six hundred years ago. She holds the monopoly on the sale of **gems, jewelry, cloth, and armor** in Port Nyanzaru. For several decades Zhanthi has managed the exclusive and high-end Jewel Market, even while the city was still under the control of Amn. Zhanthi and Kwayothé are the two wealthiest merchant princes, and Zhanthi pays high salaries to keep the Jewel Market well-staffed with reliable and trustworthy people: she rewards loyalty but ruthlessly avenges betrayal.
 
-> **Help Wanted:** Although the Jewel Market is well-guarded, plenty of merchants still hire their own guards to transport their goods to and from the market. Additionally, Zhanthi sometimes needs outside help investigating the details of a potential fraud. Positions in the Jewel Market are hotly desired, and there's already a long line of applicants for any potential opening.
+> **Help Wanted:** Although the Jewel Market is well-guarded, plenty of merchants still hire their own guards to transport their goods to and from the market. Additionally, Zhanthi sometimes needs outside help investigating the details of a potential fraud. Positions in the Jewel Market itself are hotly desired, and there's already a long line of applicants for any potential opening.
 
 ![Zhanthi](images/characters/Merchant_Prince_Zhanthi.jpg)
 
 |Purchase|Price|Notes|
 |-|-|-|
-|[_+1 Glamoured_ ](https://5thsrd.org/gamemaster_rules/magic_items/glamoured_studded_leather/) studded leather armor|20 platinum coins|-|
+|[_+1 glamoured_ ](https://5thsrd.org/gamemaster_rules/magic_items/glamoured_studded_leather/) studded leather armor|20 platinum coins|-|
 |Any heavy armor|*|Triple the normal price.|
 |Personalized signet ring|5 gold coins|-|
-|Enchanting Perfume|5 platinum coins|Hard difficulty to correctly apply. `DC 20`|
+|Expensive Perfume|5 platinum coins|Hard difficulty to correctly apply. `DC 20`|
 |[_Alarm_](https://5thsrd.org/spellcasting/spells/alarm/) sealing wax|10 platinum coins|Harmlessly self-destructs (either the seal or the entire paper) if the sealed letter or document is tampered with or opened by anyone other than your intended recipient.|
 |[_Illusory Script_](https://5thsrd.org/spellcasting/spells/illusory_script/) parchment|10 platinum coins|Only creatures you designate may read the real message your write: all others see a different, false message.|
-|Magnifying glass|10 platinum coins|+5 on ability checks to examine, investigate, or assess small objects.|
+|Magnifying glass|10 platinum coins|+5 on ability checks to examine, investigate, or assess small objects or details.|
 |Hourglass|25 gold coins|+5 on ability checks to keep track of time.|
 |Spyglass|100 platinum coins|Doubles your effective vision range.|
 |High-quality lock|100 platinum coins|Very Hard difficulty to pick using thieves' tools. `DC 25`|
@@ -233,7 +239,7 @@ JOHN-thee is a Chultan noble who can trace her lineage back to the original foun
 
 wah-KANG-gah oh-TAH-moo is a Chultan wizard with authority over all Port Nyanzaru business deals involving **magic items, arcane lore, and spellcasting services**, which are generally negotiated or finalized in the Jewel Market. Much like their absentminded merchant prince, the various mages of Port Nyanzaru are unorganized but usually don't cause too much trouble. Wakanga is only occasionally found in the Jewel Market, and trusts Zhanthi to resolve issues in his absence.
 
-> **Help Wanted:** Have you _seen_ magic? It's deeply messed up, and clearly dangerous. The small trade in magic around Port Nyanzaru regularly causes strange problems that require expert intervention to solve, and Wakanga quite often needs large amounts of raw violence to clean up resulting elementals, spirits, aberrations, or planar escapees.
+> **Help Wanted:** Have you _seen_ magic? It's quite alarming and obviously dangerous. The small trade in magic around Port Nyanzaru regularly causes strange problems that require expert intervention to solve, and Wakanga sometimes needs large amounts of raw violence to clean up resulting elementals, spirits, aberrations, or planar escapees.
 
 ![Wakanga O'tamu](images/characters/Merchant_Prince_Wakanga_O'tamu.jpg)
 
@@ -242,17 +248,17 @@ These basic magic items are commonly produced in Port Nyanzaru and are usually a
 
 | Item | Price |
 |-|-|
-|_+1 yklwa, dagger, shield, or ammunition_|50 platinum coins or 5 per piece of ammunition. See [merchant prince Ekene-Afa](#ekene-afa), who controls the sale of weapons.|
-|Silvered weapon or ammunition|10 platinum coins or 1 per piece of ammunition. See Ekene-Afa.|
-|[_Keoghtom's Ointment_](https://5thsrd.org/gamemaster_rules/magic_items/restorative_ointment/) (healing)|50 platinum coins. See [merchant prince Jessamine](#jessamine), who controls the sale of medicines, poisons, and other dangerous materials.|
-|[_+1 Glamoured_ ](https://5thsrd.org/gamemaster_rules/magic_items/glamoured_studded_leather/) studded leather armor|20 platinum coins. See [merchant prince Zhanthi](#zhanthi), who controls the sale of armor.|
+|_+1 yklwa, dagger, shield, or ammunition_|50 platinum coins or 5 per piece of ammunition. See merchant prince [Ekene-Afa](#ekene-afa), who controls the sale of weapons.|
+|Silvered weapon or ammunition|10 platinum coins or 1 per piece of ammunition. Silvered weapons are nonmagical but pierce magical damage resistance. See merchant prince Ekene-Afa.|
+|[_Keoghtom's Ointment_](https://5thsrd.org/gamemaster_rules/magic_items/restorative_ointment/) (healing)|50 platinum coins. See merchant prince [Jessamine](#jessamine), who controls the sale of medicines, poisons, and other dangerous materials.|
+|[_+1 glamoured_ ](https://5thsrd.org/gamemaster_rules/magic_items/glamoured_studded_leather/) studded leather armor|20 platinum coins. See merchant prince [Zhanthi](#zhanthi), who controls the sale of armor.|
 |Spellcasting Services|See [casting a ritual spell](Port_Nyanzaru_activities.md#casting-a-ritual-spell) as an activity in Port Nyanzaru.|
 | Cantrip spell scrolls | 5 platinum coins |
 | 1st-level spell scrolls | 10 platinum coins |
 | 2nd-level spell scrolls | 55 platinum coins |
-| [Common potions](#common-potions) | 5 platinum coins |
-| [Uncommon potions](#uncommon-potions) | 30 platinum coins |
-| [Common wondrous items](#common-wondrous-items) | 15 platinum coins |
+| Common [potions](#common-potions) | 5 platinum coins |
+| Uncommon potions | 30 platinum coins |
+| Common [wondrous items](#common-wondrous-items) | 15 platinum coins |
 
 ## Spell Scrolls
 
@@ -272,7 +278,7 @@ If a spell has a material component with a listed price, that price is added to 
 |Common Potion|Description|
 |-|-|
 |Potion of Healing|You regain **2d4+2 hit points** when you drink this potion. The potion’s red liquid glimmers when agitated.|
-|Potion of Climbing|When you drink this potion, you gain a climbing speed equal to your walking speed for 24 hours. During this time, you have advantage on Strength (Athletics) checks you make to climb. The potion is separated into brown, silver, and gray layers resembling bands of stone. Shaking the bottle fails to mix the colors.|
+|Potion of Climbing|When you drink this potion, you gain a climbing speed equal to your walking speed for 12 hours. During this time, you have advantage on Strength (Athletics) checks you make to climb. The potion is separated into brown, silver, and gray layers resembling bands of stone. Shaking the bottle fails to mix the colors.|
 
 ---
 
@@ -289,7 +295,7 @@ If a spell has a material component with a listed price, that price is added to 
 |Philter of Love|The next time you see a creature within 10 minutes after drinking this philter, you become [charmed](https://5thsrd.org/rules/conditions/#charmed) by that creature for 1d4 hours. If the creature is of a species and gender you are normally attracted to, you regard it as your true love while you are charmed. This potion's rose-hued, effervescent liquid contains one easy-to-miss bubble shaped like a heart.|
 |Potion of Resistance|When you drink this potion, you gain resistance (take only half damage) to one type of damage for 24 hours. You can purchase a potion of resistance for acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder damage.|
 |Oil of Slipperiness|This sticky black unguent is thick and heavy in the container, but it flows quickly when poured. The oil can cover a Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of a [_freedom of movement_](https://5thsrd.org/spellcasting/spells/freedom_of_movement/) spell for 8 hours. Alternatively, the oil can be poured on the ground as an action, where it covers a 2x2 square, duplicating the effect of the [_grease_](https://5thsrd.org/spellcasting/spells/grease/) spell in that area for 8 hours.|
-|Potion of Water Breathing|You can breathe underwater for 24 hours after drinking this potion. Its cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it.|
+|Potion of Water Breathing|You can breathe underwater for 48 hours after drinking this potion. Its cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it.|
 
 ---
 

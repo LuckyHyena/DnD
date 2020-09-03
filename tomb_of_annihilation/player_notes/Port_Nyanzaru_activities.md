@@ -143,7 +143,7 @@ Aside from the public baths of Sune, various private bathhouses can be found thr
 
 ![Public baths in Hungary](images/places/public-bathhouses-gellert-budapest-hungary.png)
 
-> _The young high priestess of Port Nyanzaru's Temple of Sune, Kwayothé, is also a powerful and ambitious merchant prince. She controls the sale of alcohol, fruit, oil, and perfume: this gives her additional de facto power over most of Port Nyanzaru's taverns, restaurants, ceremonies, celebrations, and day-to-day life._
+> _The young high priestess of Port Nyanzaru's Temple of Sune, Kwayothé, is also a powerful and ambitious merchant prince. She controls the sale of alcohol, fruit, oil, perfume, and dye: this gives her additional de facto power over most of Port Nyanzaru's taverns, restaurants, ceremonies, celebrations, and day-to-day life._
 >
 > ![Kwayothé](images/characters/Merchant_Prince_Kwayothé.jpg)
 
@@ -404,6 +404,10 @@ On top of the cliffs overlooking the Bay of Chult are the famous Port Nyanzaru d
 
 ![dyeworks](images/places/dyeworks.jpg)
 
+> _The merchant prince Kwayothé regulates the production and sale of dyes, but some of the raw materials are dangerous enough to also fall under the authority of Jessamine, merchant prince of poisons, medicines, and alchemical supplies._
+>
+> ![Jessamine](images/characters/Merchant_Prince_Jessamine.jpg)
+
 ![immovable rod](/images/immovable-rod.jpg)
 
 # Dinosaur Racing
@@ -638,8 +642,10 @@ If a character trains a skill or tool they aren't _proficient_ with, the charact
 > **Character Bonus: Bards and Rogues** with the expertise class feature may use that feature to double the effective bonus to +2.
 Until they are _proficient_, bards with the jack-of-all-trades class feature may use either their jack-of-all-trades bonus or their training bonus for ability checks.
 
-> _for now let's cap the maximum proficiency bonus at +12, or up to a +6 training bonus. in 5e your final proficiency bonus will by +6, so this could double it_
+---
 
+> _for now let's cap the maximum proficiency bonus at +12, or up to a +6 training bonus. in 5e your final proficiency bonus will by +6, so this could double it_
+>
 > _wow! training six times in a proficient skill during tier 1 would require 210 downtime days, and it would take 330 days to train eight times in a non-proficient one in order to eventually achieve +12! even more days are required as you advance in tier!_
 
 ---
@@ -657,7 +663,7 @@ You can continue studying a language when the party leaves Port Nyanzaru; see th
 
 > **Character Bonus:** A character studying a language can make an **Intelligence** ability check and subtract the result from the number of days needed to achieve the next level of competence. Characters may do this once when starting the study of a language and again each time they achieve a new level of competency.
 
-> **Character Bonus:** Characters who choose the newly-available [_Anthropologist_ background](character_creation.md#anthropologist) require only **half the normal downtime days** to earn each level of language competence when studying a new language. They additionally begin the game with **two additonal language proficiencies** of their player's choice.
+> **Character Bonus:** Characters who choose the newly-available [_Anthropologist_ background](character_creation.md#anthropologist) require only **half the normal downtime days** to earn each level of language competence when studying a new language. They additionally begin the game with **two additonal language proficiencies** of the player's choice.
 
 ![Language](images/decor/fantasy-language.jpg)
 

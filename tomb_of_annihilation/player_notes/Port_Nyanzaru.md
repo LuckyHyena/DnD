@@ -70,7 +70,7 @@ Port Nyanzaru's upper classes reside in the opulent merchants' ward. This area h
 - The **_Jewel Market_**: an exclusive and high-end market run by the merchant prince [Zhanthi](dramatis_personae.md#zhanthi) near the Grand Souk for the sale of jewelry, gems, [armor](Port_Nyanzaru_items.md#mundane-items), and [magic items](Port_Nyanzaru_activities.md#buying-a-magic-item).
 - Temple of Gond, deity of artisans, craftspeople, and smiths.
 - Temple of Savras, deity of divination and fate. [Grandfather Zitembe](dramatis_personae.md#grandfather-zitembe) is the high priest.
-- Temple of Sune, deity of love and beauty. High priestess [Kwayothé](Port_Nyanzaru_items.md#kwayothé) is also a merchant prince, and controls all Port Nyanzaru trade in tej, wine, ale, fruit, oil, and perfume.
+- Temple of Sune, deity of love and beauty. High priestess [Kwayothé](Port_Nyanzaru_items.md#kwayothé) is also a merchant prince, and controls all Port Nyanzaru trade in tej, wine, ale, fruit, oil, perfume, and dye.
 
 ![Merchants' Ward](images/places/grand-souk.jpg)
 

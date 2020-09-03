@@ -186,7 +186,7 @@ The same [five factions](dramatis_personae.md#player-factions) as The Adventurer
 From most to least useful, IMO:
 - Jungle
 - The Underdark and other underground areas
-- Rivers and the Chultan interior (swamps and plateaus)
+- Rivers and the Chultan interior (marshes and plateaus)
 - Two choices from:
   - Mountains
   - Coasts and seas

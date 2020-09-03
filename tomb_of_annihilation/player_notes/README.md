@@ -25,6 +25,7 @@
 - [One-shot or campaign intro scenario](scenario.md#top)
 - [Activities in Port Nyanzaru](Port_Nyanzaru_activities.md#top)
 - [Items available for purchase in Port Nyanzaru](Port_Nyanzaru_items.md#top)
+- [Languages](/5e/languages.md#top)
   
 ## Rules you might skim someday
 
@@ -36,5 +37,6 @@
 - [Short rests](short_rests.md#top)
 - [Short rest activities](short_rest_activities.md#top)
 - [Downtime activities in the jungle](jungle_activities.md#top)
+- [Pack animals and weight](pack_animals.md#top)
 
 ![the end](/images/toa-end.jpg)

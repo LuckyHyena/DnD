@@ -68,7 +68,7 @@ Each day roll a d20:
 If the party is entering or leaving a **not-yet-mapped** hex, one character must make a **Wisdom** (Survival) ability check. One other character may assist to provide advantage, but only if they are proficient in Survival. If the Wisdom check fails then the party is **lost in the jungles of Chult**, and moves in a random direction instead of the intended one.
 
 - **easy** [DC 10] for coasts and lakes
-- **moderate** [DC 15] for jungles, mountains, plateaus, rivers, swamps, and wastelands
+- **moderate** [DC 15] for jungles, mountains, plateaus, rivers, marshes, and wastelands
 
 Take a -5 penalty to the Wisdom check if the party is moving at a fast pace, or a +5 bonus to the check if the party is moving at a slow pace.
 
@@ -100,7 +100,7 @@ You need 2 gallons of water per day in Chult, or you will gain a level of exhaus
 If you drink only 1 gallon of water per day, you can make a moderate [DC 15] **Constitution** saving throw to avoid gaining levels of exhaustion. You have disadvantage on this saving throw if you are wearing medium armor, heavy armor, or heavy clothing, and you take a -5 penalty to this saving throw if the party is moving at a fast pace.
 
 ### Starvation
-You need 1 lb of food per day. You can go without food for a number of days equal to 3 + your **Constitution** modifier. After that you will gain a level of exhaustion at the end of every day.
+You need 2 lbs of food per day. You can go without food for a number of days equal to 3 + your **Constitution** modifier. After that you will gain a level of exhaustion at the end of every day.
 
 You can eat only half rations to stretch supplies; this counts as half a day without food.
 
@@ -118,7 +118,7 @@ A long rest (8 hours) after getting a full day's worth of food and water will re
 Up to two characters who are not navigating today but are proficient in Survival may forage. Each character rolls a **Wisdom** (Survival or Nature) ability check and compares against the DC to see if anything is found. For each successful forage check the party gains **1d6 + character's Wisdom modifier** in either pounds of food or gallons of potable water.
 
 - **easy** [DC 10] in coasts, jungles, and rivers
-- **moderate** [DC 15] in mountains, plateaus, swamps, and lakes
+- **moderate** [DC 15] in mountains, plateaus, marshes, and lakes
 - **hard** [DC 20] in wastelands
 - **+5 DC** in black skull-and-crossbones zones
 - **+10 DC** in red skull-and-crossbones zones

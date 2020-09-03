@@ -14,7 +14,7 @@ __Everyday problems:__
 - The official 5th Edition [size categories](#the-official-5th-edition-size-categories)
 - [Concentration](#concentration)
 - Knocking a creature [out](#knocking-a-creature-out)
-- _System Reference Document (SRD)_ [Languages](https://5thsrd.org/character/languages/)
+- [Languages](languages.md#top)
 
 __Running away from the monsters:__
 - [Dodging](#dodging)
@@ -506,9 +506,9 @@ Improvised attacks don't get your proficiency bonus, but simply improvising a we
 |Thrown melee weapon|-|Use the same ability score you normally use for the weapon.|
 |One-handed ranged weapon (dart or sling)|-|Use **Dexterity** for the attack roll and damage.|
 |Two-handed ranged weapon (bow or crossbow)|-|Use **Dexterity** for the attack roll and damage.|
+|__Loading__ ranged weapon (crossbow or blowgun)|no **_Crossbow Expert_** feat|Max of one attack per _action_, even if you have multiple attacks.|
 |Ranged weapon used **within 1 square of an enemy**.|enemy is [_able to act_](#able-to-act)|Disadvantage on the attack roll.|
 |Thrown or ranged weapon **beyond normal range**|no **_Sharpshooter_** feat|Disadvantage on the attack roll.|
-|__Loading__ ranged weapon (crossbow or blowgun)|no **_Crossbow Expert_** feat|Max of one attack per _action_, even if you have multiple attacks.|
 |Any ranged weapon|__Archery__ fighting style|+2 bonus to attack rolls.
 
 ---
@@ -530,7 +530,7 @@ Improvised attacks don't get your proficiency bonus, but simply improvising a we
 |Lance|martial proficiency|Disadvantage if within 1 square of your target. Needs two hands if not mounted.|
 |Whip|martial proficiency|1d4 slashing damage. _Finesse_ and _Reach_.|
 |Net|martial proficiency, _Large_ or smaller target|Max of one attack per _action_, even if you have multiple attacks. Thrown with **1/3 square range**. On hit the target is __restrained__ until they free themselves or are freed via an **easy Strength check** `DC 10` or `5` slashing damage to the net. `AC 10`|
-|Silvered weapon|10 platinum coins for one item or ten pieces of ammunition|Must be expertly alloyed to remain sharp.|
+|Silvered weapon|10 platinum coins for one weapon or ten pieces of ammunition|Must be expertly alloyed to remain sharp and effective weapons. Nonmagical but pierces through magical damage resistance.|
 
 ![immovable rod](/images/immovable-rod.jpg)
 
