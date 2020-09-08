@@ -14,7 +14,7 @@ Every creature has a carrying capacity, and if a creature tries to carry more th
 
 Instead of dragging, a creature can pull or power a vehicle. A __vehicle__ multiplies the carrying capacity of its __pack animal__ by 5, and this is the cheapest way to get carrying capacity.
 
-All the vehicles listed here can support (and multiply the carrying capacity of) either **one or two pack animals per vehicle**, and they can all carry up to **six medium or small characters as passengers** that don't count against carrying capacity. The party may not use more than two vehicles at a time.
+All the vehicles listed here can support (and multiply the carrying capacity of) either **one or two pack animals per vehicle**, and they can all carry up to **six medium or small characters as passengers** that don't count against carrying capacity.
 
 A vehicle has its own weight, which must be carried by its pack animals. Vehicles don't have their own carrying capacity, and all carrying capacity is provided by the pack animals.
 
