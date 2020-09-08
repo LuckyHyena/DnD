@@ -46,9 +46,15 @@ When they travel into the jungle it's generally assumed that the party leaves mo
 
 ---
 
-[Items available for purchase in Port Nyanzaru](Port_Nyanzaru_items.md#top)
+### Elsewhere in Port Nyanzaru
+
+[Districts and Locations in Port Nyanzaru](Port_Nyanzaru.md#districts-and-locations-in-port-nyanzaru)
 
 [Activities in Port Nyanzaru](Port_Nyanzaru_activities.md#top)
+
+[Items available for purchase in Port Nyanzaru](Port_Nyanzaru_items.md#top)
+
+---
 
 [Tomb of Annihilation homepage](README.md#top)
 

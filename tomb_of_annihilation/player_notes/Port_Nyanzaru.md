@@ -116,19 +116,11 @@ Two deep, jungle-covered ridges flank a ravine filled with trash, which floods d
 
 ![immovable rod](/images/immovable-rod.jpg)
 
-# Further Reading
+### Elsewhere in Port Nyanzaru
 
-__Tomb of Annihilation__ [adventure introduction](introduction.md#top)
+[Activities in Port Nyanzaru](Port_Nyanzaru_activities.md#top)
 
-- Welcome to [Chult](introduction.md#welcome-to-chult)
-
-[Inhabitants](chultans.md#top) of Chult
-
-[Downtime activities](Port_Nyanzaru_activities.md#top) in Port Nyanzaru
-
-[Items](Port_Nyanzaru_items.md#top) available in Port Nyanzaru
-
-Tomb of Annihilation [homepage](README.md#top)
+[Items available for purchase in Port Nyanzaru](Port_Nyanzaru_items.md#top)
 
 ---
 

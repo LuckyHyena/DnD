@@ -326,13 +326,13 @@ The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wandâ
 
 ![immovable rod](/images/immovable-rod.jpg)
 
-# Further Reading
+### Elsewhere in Port Nyanzaru
+
+[Districts and Locations in Port Nyanzaru](Port_Nyanzaru.md#districts-and-locations-in-port-nyanzaru)
 
 [Activities in Port Nyanzaru](Port_Nyanzaru_activities.md#top)
 
 [Coins in Port Nyanzaru](coinage.md#top)
-
-[Tomb of Annihilation homepage](README.md#top)
 
 ---
 
