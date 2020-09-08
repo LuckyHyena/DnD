@@ -10,14 +10,11 @@
 
 ![Writers who use subtext are cowards](/images/writers-who-use-subtext-are-cowards.jpg)
 
-# Please read these!
-
-- [Character Creation](character_creation.md#top)
-
 # Tomb of Annihilation
 - [Adventure Background and Maps](introduction.md#top)
 - [Dramatis Personae](dramatis_personae.md#top)
 - [One-shot or campaign intro scenario](scenario.md#top)
+- [Character Creation](character_creation.md#top)
 
 # Chult
 - [Welcome to Chult!](introduction.md#welcome-to-chult)
@@ -44,6 +41,7 @@
 
 - [My 5e Quick Rules Reference](/5e/5e_reference.md#top)
 - [My chosen optional and homebrew D&D 5e rules](/5e/5e_homebrew.md#top)
+- [Character Creation](character_creation.md#top)
 
 ![What kind of player are you?](/images/types-of-player.jpg)
 
