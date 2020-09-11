@@ -23,6 +23,7 @@ With all that in mind, take a look through the background information available 
 - Tomb of Annihilation [Character Options](#tomb-of-annihilation-character-options)
   - Druid [_Wild Shape_ options](#druids)
   - Ranger [Favored Terrains](#rangers)
+- Food and water [spell nerfs](spell_nerfs.md#top)
 - New Tomb of Annihilation [skill proficiencies](#further-information)
   - [**_Camping_**](#camping)
   - [**_Riding_**](#riding)
@@ -139,6 +140,9 @@ See the [items available for purchase in Port Nyanzaru](Port_Nyanzaru_items.md#t
 The same [five factions](dramatis_personae.md#player-factions) as The Adventurer's League, or you can tell me about a new one.
 
 # Druids
+
+Several druid spells that create food or water are [nerfed](spell_nerfs.md#top) for this adventure.
+
 ## _Wild Shape_ options
 
 [Circle of the Moon](https://www.dndbeyond.com/classes/druid#CircleoftheMoon) druids gain access to higher-level _Wild Shapes_, and access to some shapes earlier, than [other druids](https://www.dndbeyond.com/classes/druid#WildShape-167).
@@ -182,6 +186,9 @@ The same [five factions](dramatis_personae.md#player-factions) as The Adventurer
 ---
 
 # Rangers
+
+The ranger spell _goodberry_ is [nerfed](spell_nerfs.md#top) for this adventure.
+
 ## Favored terrain options in Chult
 From most to least useful, IMO:
 - Jungle

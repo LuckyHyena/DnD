@@ -15,6 +15,7 @@
 - [Dramatis Personae](dramatis_personae.md#top)
 - [One-shot or campaign intro scenario](scenario.md#top)
 - [Character Creation](character_creation.md#top)
+  - Food and water [spell nerfs](spell_nerfs.md#top)
 
 # Chult
 - [Welcome to Chult!](introduction.md#welcome-to-chult)

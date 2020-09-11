@@ -7,59 +7,28 @@
 ##### Tomb of Annihilation
 ## Rules for Random Encounters
 
-+ [Fumbles](#fumbles)
-+ [Random Encounter Checks `16`](#random-encounter-checks)
+Random Encounter [Checks](#random-encounter-checks)
+- The party has a Random Encounter Armor Class of `16`
+
+[Quick Random Encounters](../tomb_of_annihilation/player_notes/quick_random_encounters.md#top) for Travelling
+
+Full-Size Random Encounters:
 + [Encounter distance](#encounter-distance) in the jungles of Chult
 + Enemy [morale and behavior](#enemy-morale-and-behavior)
++ [Fumbles](#fumbles)
 
+Playing with the tension of random character death:
 + Permanent [Injuries](#permanent-injuries)
 + [Critical Hits](#critical-hits)
 + [Dying](#dying)
 + [Climactic](#climactic-battles) Battles
 
----
-
-[Further reading](#further-reading)
 
 ![immovable rod](/images/immovable-rod.jpg)
 
-# Fumbles
-When a creature fumbles an attack roll **their turn immediately ends**, and they suffer one additional effect:
-
----
-
-|d6|Fumble|Effect
-|-|-|-|
-|1|Shook|The creature is *__incapacitated__* until the **end** of their next turn: they can't take _actions_ or _reactions_.|
-|2|in Agony|The creature is *__poisoned__* until the **end** of their next turn: they suffer disadvantage on attack rolls and ability checks.|
-|3|Dazzled|The creature is *__blind__* until the **end** of their next turn: attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.|
-|4|Butterfingers|The creature throws their main weapon **1d4 squares** away from them in a random direction. They make a disadvantaged attack roll against the first creature in that direction.|
-|5|Tripping|The creature falls __*prone*__ and is forced 1 square in a random direction. Forced movement doesn't provoke opportunity attacks.|
-|6|Confused|The creature makes a single new attack roll against their closest potential target, friend or foe. If multiple targets are equally close one of them is chosen randomly. If the creature can't reach their target, they use their remaining movement speed to try to move into reach.|
-
----
-
-|Random Directions||||
-|-|-|-|-|
-|Easy:|**d12**|11|10|
-||5|4 - 1|9|
-||6|7|8|
-|||||
-|||||
-|Moderate:|**d10**|9|8|
-||3|2 - 1|7|
-||4|5|6|
-|||||
-|||||
-|Hard:|**d8**|7|6|
-||1||5|
-||2|3|4|
-
----
-
 # Random Encounter Checks
 To check for a random encounter someone at the table will make an aptly-named **Random Encounter Check**:
-1. Roll a plain _**d20**_.
+1. Roll a plain d20.
 1. If the face on the die is **equal to or greater than** the party's *Random Encounter AC* then something will be encountered.
 1. The DM will describe what.
 
@@ -70,6 +39,7 @@ To check for a random encounter someone at the table will make an aptly-named **
 
 Advantage is flipped since the party is the "defender" being "attacked" by the encounter: if the party has advantage roll two d20s and choose the lower die, and vice versa for disadvantage.
 
+![immovable rod](/images/immovable-rod.jpg)
 # Encounter Distance
 ### In the Jungles of Chult
 To determine the distance at which two parties spot each other in the wilderness, one or more characters from each party will roll a **Wisdom** (Perception) ability check. The highest check in each party is used. The distance at which each party spots the other is a multiplier of the former's check, assuming neither party is trying to be stealthy.
@@ -97,6 +67,37 @@ Creatures such as golems or undead that are immune to the *frightened* condition
 > **Character Bonus:** Undead _turned_ by a **holy cleric or paladin** behave as though they are a _frighten_-able creature that has been _bloodied_, and when half or more of their Challenge Rating has been _turned_ or destroyed the entire force is _turned_ and _routs_.
 
 _not the same rules as DMG page 273_
+
+---
+
+# Fumbles
+When a creature fumbles an attack roll **their turn immediately ends**, and they suffer one additional effect:
+
+|d6|Fumble|Effect
+|-|-|-|
+|1|Shook|The creature is *__incapacitated__* until the **end** of their next turn: they can't take _actions_ or _reactions_.|
+|2|in Agony|The creature is *__poisoned__* until the **end** of their next turn: they suffer disadvantage on attack rolls and ability checks.|
+|3|Dazzled|The creature is *__blind__* until the **end** of their next turn: attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.|
+|4|Butterfingers|The creature throws their main weapon **1d4 squares** away from them in a random direction. They make a disadvantaged attack roll against the first creature in that direction.|
+|5|Tripping|The creature falls __*prone*__ and is forced 1 square in a random direction. Forced movement doesn't provoke opportunity attacks.|
+|6|Confused|The creature makes a single new attack roll against their closest potential target, friend or foe. If multiple targets are equally close one of them is chosen randomly. If the creature can't reach their closest target, they use their remaining movement speed to try to move into reach.|
+
+|Random Directions||||
+|-|-|-|-|
+|Easy:|**d12**|11|10|
+||5|4 - 1|9|
+||6|7|8|
+|||||
+|||||
+|Moderate:|**d10**|9|8|
+||3|2 - 1|7|
+||4|5|6|
+|||||
+|||||
+|Hard:|**d8**|7|6|
+||1||5|
+||2|3|4|
+
 
 ![immovable rod](/images/immovable-rod.jpg)
 

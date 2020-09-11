@@ -247,7 +247,7 @@ In the merchants' ward is an opulent temple of Savras, Faerûn deity of divinati
 
 > _Grandfather Zitembe is the high priest of Savras, and a popular friend and confidante of many of the most powerful citizens in Port Nyanzaru._
 >
-> ![Grandfather Zitembe](images/characters/Musharib.jpg)
+> ![Grandfather Zitembe](images/characters/grandfather_zitembe.jpg)
 
 ![immovable rod](/images/immovable-rod.jpg)
 
@@ -695,9 +695,9 @@ Characters can teach while the party is travelling in the jungle.
 # Copying Spells into your Spellbook
 A **Wizard** may spend downtime days to copy spells into their personal spellbook. Please double-check with the DM to ensure the spells you're looking for will be useful and fun during your adventures in Chult.
 
-Searching Wakanga O'tamu's [extensive library](#port-nyanzaru-syndra-silvane-and-wakanga-otamu) for a spell and copying it down requires **2 downtime days per level** of the spell, and **5 platinum coins** per day. You may copy a cantrip in a single downtime day.
+Searching Wakanga O'tamu's [extensive but unorganized library](#port-nyanzaru-syndra-silvane-and-wakanga-otamu) for a spell and copying it down requires **1d4 downtime days per level** of the spell, and **5 platinum coins** per day. You may copy a cantrip in a single downtime day.
 
-If you have a specific spellbook you've looted or found in Chult, you may copy spells in **half the downtime days and total price** as a spell from O'tamu's library.
+If you have a spellbook you've looted or found in Chult, you may copy spells according to [the standard rules](http://5thsrd.org/character/classes/wizard/#your-spellbook) in the _Player's Handbook_: **two hours and five platinum coins** per level of the spell. In a single downtime day you may spend eight productive hours copying spells.
 
 A standard wizard's spellbook costs 5 platinum coins and has 100 vellum pages. Each spell requires 1 page per spell level.
 

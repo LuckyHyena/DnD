@@ -4,9 +4,11 @@
 ###### top
 
 ### Tomb of Annihilation
+Special thanks to Justin Alexander for his [encumbrance by stone rules](https://thealexandrian.net/wordpress/4006/roleplaying-games/encumbrance-by-stone-design-notes).
+
 # Pack Animals and Carrying Capacity
 
-__ONE STONE__ is fifteen pounds. One stone is also the weight of a single **day's food and water rations** (two pounds of food and two gallons of water) for a medium or small character in Chult, and these rations are the main thing you **must** have carrying capacity for. Make your choices with an eye to how many guaranteed safe days in the jungle each option gets your party: 50 stone of carrying capacity can support a party of five characters for a tenday [without foraging](travelling.md#foraging-food-and-water).
+__ONE STONE__ is approximately fifteen pounds. One stone is also the weight of a single **day's food and water rations** (two pounds of food and two gallons of water) for a medium or small character in Chult, and these rations are the main thing you **must** have carrying capacity for. Make your choices with an eye to how many guaranteed safe days in the jungle each option gets your party: 50 stone of carrying capacity can support a party of five characters for a tenday [without foraging](travelling.md#foraging-food-and-water).
 
 Every creature has a carrying capacity, and if a creature tries to carry more than its capacity it will suffer penalties. A creature can drag up to twice its carrying capacity, but if party members or their pack animals are _dragging_ the party is limited to moving at a slow pace on the hex map.
 
@@ -93,6 +95,8 @@ For the non-armor parts of a character's equipment, add at least one stone for a
 A nonpurchaseable _Bag of Holding_ can hold 33 stone of weight, but the _Bag_ itself never weighs more than one stone.
 
 ---
+
+[Travelling in the jungle](travelling.md#top)
 
 [Items available for purchase in Port Nyanzaru](Port_Nyanzaru_items.md#top)
 

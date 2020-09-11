@@ -82,20 +82,33 @@ Female bookie at the Executioner's Run.
 # Rokah
 Male Zhentarim rogue
 
+The Sleeping Dog tavern in the Tiryki Anchorage.
+
 > Help Wanted: Needs someone to take him to Fort Beluarian and then create a distraction while he searches Liara Portyr's chambers.
 
 # Undril Silvertusk
 LG female half-orc priest of Torm works for the Order of the Guantlet
+
+Topaz Yklwa Inn and Tavern, in the Old City. (topaz is orange)
 
 > Help Wanted: Needs someone to escort her and her dispatches up the river Soshenstar to Camp Vengeance.
 
 # Inete
 Female acolyte of Savras, under Grandfather Zitembe.
 
+Home outside the temple of Savras.
+
 > Help Wanted: Inete has had visions of red-robed wizards working in the Aldani Basic. She's looking for a party that she can accompany to investigate.
+
+# Eshek
+Male acolyte of Savras.
+
+- Stumbles on the party in a trance and whispers "speak to the wise guardian of Orolunga, east of Mbala. She can direct you to what you seek."
+- Collapses, then has no memory of the past 12 hours except that he desperately needed to find people matching the Party's description.
 
 # Xandala
 - Psuedodragon named Summerwise.
+- 
 
 > Help Wanted: Find Artus Cimber
 
@@ -110,12 +123,6 @@ Two male commoners.
 
 > Help Wanted: Draza is sentenced to die in the Executioner's Run, Belym begs someone to intervene.
 
-# Eshek
-Male acolyte of Savras.
-
-- Stumbles on the party in a trance and whispers "speak to the wise guardian of Orolunga, east of Mbala. She can direct you to what you seek."
-- Collapses, then has no memory of the past 12 hours except that he desperately needed to find people matching the Party's description.
-
 ![immovable rod](/images/immovable-rod.jpg)
 
 ## Merchant Princes
@@ -123,7 +130,7 @@ Male acolyte of Savras.
 # Watanga O'tamu
 ![Wakanga O'tamu](/tomb_of_annihilation/player_notes/images/characters/Merchant_Prince_Wakanga_O'tamu.jpg)
 
-E.D. Farnum from Deadwood:
+E.B. Farnum from Deadwood:
 - Prying for opportunities or useful information.
 - Always excusing himself to wander off.
 - Always offering useless help.
@@ -217,7 +224,7 @@ Villa
 # Zhanthi
 ![Zhanthi](/tomb_of_annihilation/player_notes/images/characters/Merchant_Prince_Zhanthi.jpg)
 
-Cy Tennington from Deadwood:
+Cy Tolliver from Deadwood:
 - Grinning, curious.
 - Sophisticated and worldly.
 - Rich, generous to buy friends.
@@ -225,7 +232,8 @@ Cy Tennington from Deadwood:
 
 Relationships:
 - Ties with the Zhentarim.
-- Her son Shago works as a guide for the Flaming Fists  
+- Doesn't trust the Flaming Fists.
+- Her son Shago works as a guide for the Flaming Fists.
 
 Villa:
 - Standing suites of gold-plated armor

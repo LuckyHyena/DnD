@@ -78,7 +78,7 @@ The party chooses whether they're moving at a _**fast**_, _**moderate**_, or _**
 |Moderate|1d6 hexes|2d6 hexes|2d10 hexes|-|
 |Fast|2d4 hexes|2d8 hexes|2d12 hexes|Party members take a -5 penalty to travelling ability checks, and a -5 penalty on CON saving throws vs _exhaustion_.|
 
-The party only gains bonuses for slow pace if they choose that pace. If an effect limits the party to slow pace they don't gain bonuses, nor if they try to move at a swifter pace but are reduced to a slow pace later in the day.
+The party only gains bonuses for slow pace if they choose that pace. If an effect [such as encumbrance](pack_animals.md#top) limits the party to slow pace they don't gain bonuses, nor if they try to move at a swifter pace but are reduced to a slow pace later in the day.
 
 ## Travel Activities
 Each party member may opt to perform one of the following tasks by rolling an ability check. A maximum of two characters can work on the same task. If no-one performs a task and the party needs to roll a check, the party rolls a d20 with disadvantage and adds the highest proficiency bonus among party members, and no ability bonus.
@@ -102,6 +102,8 @@ Each party member may opt to perform one of the following tasks by rolling an ab
 ### Step 4
 # Random Encounter
 Roll a Random Encounter Check (plain d20) for the day. If the face on the die is equal or higher than the party's _Random Encounter Armor Class_ (which is normally `16` and has a maximum of 20), the DM will describe a random encounter.
+
+Some travelling random encounters are resolved with [simplified rules](quick_random_encounters.md#top).
 
 ![immovable rod](/images/immovable-rod.jpg)
 
