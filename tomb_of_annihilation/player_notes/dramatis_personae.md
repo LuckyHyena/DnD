@@ -85,7 +85,7 @@ Mother of Prosperity SEH-bone-SEN-ay is Port Nyanzaru's **high priestess of Wauk
 # Grandfather Zitembe
 Grandfather zeh-TEM-bay is the high priest at the [**Temple of Savras**](Port_Nyanzaru_activities.md#port-nyanzaru-temple-of-savras), Faerûn deity of divination and fate, in Port Nyanzaru. Despite a slowly-growing list of eccentricities, Zitembe remains a trusted confidante of the city's wealthiest and most powerful figures. No Port Nyanzaru merchant will complete a deal without at least one visit to the temple of Savras in the merchants' ward.
 
-![Grandfather Zitembe](images/characters/Musharib.jpg)
+![Grandfather Zitembe](images/characters/grandfather_zitembe.jpg)
 
 # Erlathan Naeynore
 The owner and usual bartender at the [Thundering Lizard Inn and Tavern](Port_Nyanzaru_activities.md#port-nyanzaru-the-thundering-lizard-tavern). Naeynore made his fortune as a gladiator in the Grand Coliseum, and in spite of the stern tone he sometimes takes with fools Erlathan tolerates quite a lot of rough behavior inside the Thundering Lizard.

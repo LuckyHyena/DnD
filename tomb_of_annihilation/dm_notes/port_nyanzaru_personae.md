@@ -45,7 +45,7 @@ Location:
 - Style and decor evokes Waterdeep, many (though not all) patrons speak with Whaterdhavian accents.
   
 # Grandfather Zitembe
-![Grandfather Zitembe](/tomb_of_annihilation/player_notes/images/characters/Musharib.jpg)
+![Grandfather Zitembe](/tomb_of_annihilation/player_notes/images/characters/grandfather_zitembe.jpg)
 
 Reverend from Deadwood:
 - Intense, flowery language.
@@ -272,9 +272,9 @@ Villa:
 > Help Wanted: Hew is seeking a party to return to Wyrmheart Mine and slay the red dragon there.
 
 # Musharib
-![Musharib](../player_notes/images/characters/musharib.jpg)
+![Musharib](../player_notes/images/characters/Musharib.jpg)
 - Wooden maul named Skullbash.
-- Tries to only talk to dwarven party members unless he has no choice.
+- Tries to only talk to dwarven party members unless she has no choice.
 - Tries to convince dwarven party members to retrieve Hrakhammar.
 
 > Help Wanted: Musharib is looking for a party to retake Hrakhammar, or at least sneak in and retrieve Moradin's Guantlet.
