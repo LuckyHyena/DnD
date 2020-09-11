@@ -9,7 +9,7 @@
 
 The following spells are harder to cast in Chult than normal, due to the _Tarrasque_:
 
-|Spell|Level|Note|
+|Name|Spell Level|Note|
 |-|-|-|
 |[Create or Destroy Water](http://5thsrd.org/spellcasting/spells/create_or_destroy_water/)|4|-|
 |[Goodberry](http://5thsrd.org/spellcasting/spells/goodberry/)|4|3rd level for Rangers|
