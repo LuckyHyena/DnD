@@ -139,6 +139,8 @@ See the [items available for purchase in Port Nyanzaru](Port_Nyanzaru_items.md#t
 # Factions
 The same [five factions](dramatis_personae.md#player-factions) as The Adventurer's League, or you can tell me about a new one.
 
+![immovable rod](/images/immovable-rod.jpg)
+
 # Druids
 
 Several druid spells that create food or water are [nerfed](spell_nerfs.md#top) for this adventure.
@@ -183,14 +185,14 @@ Several druid spells that create food or water are [nerfed](spell_nerfs.md#top) 
 |Pteranodon|1/4|Medium|Flying speed.|Monster Manual|8|8|
 |Quetzalcoatlus|2|Huge|Flying speed.|Volo's|8|-|
 
----
+![immovable rod](/images/immovable-rod.jpg)
 
 # Rangers
 
 The ranger spell _goodberry_ is [nerfed](spell_nerfs.md#top) for this adventure.
 
 ## Favored terrain options in Chult
-From most to least useful, IMO:
+My custom favored terrains, from most to least useful, IMO:
 - Jungle
 - The Underdark and other underground areas
 - Rivers and the Chultan interior (marshes and plateaus)
@@ -198,15 +200,27 @@ From most to least useful, IMO:
   - Mountains
   - Coasts and seas
   - Volcanos and wastelands
-  
-The [Natural Explorer](https://5thsrd.org/character/classes/ranger/#natural-explorer) feature says you can't become lost in your favored terrain except by magical means, which is true. The incredibly-magical _Tarrasque_ is currently prowling the wildernesses of Chult, however, and rest assured that _every_ character in this adventure, no matter their class or power level, will be given not only the opportunity but the privilege of getting lost in [the unmapped hexes of](scenario.md#top) Chult.
+
+### Natural Explorer Features
+The [Natural Explorer](https://5thsrd.org/character/classes/ranger/#natural-explorer) feature provides the following benefits while the party is travelling in your favored terrain:
+- Difficult terrain doesn't slow your group's travel.
+  > Everywhere in Chult is difficult terrain. Your party may roll one extra die when determining how [far they move](travelling.md#paces) each day.
+- Your group can't become lost except by magical means.
+  > The incredibly-magical _Tarrasque_ is currently prowling the wildernesses of Chult, and you can definitely become lost.
+- Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.
+  > You may make an extra ability check to [Watch for Enemies](travelling.md#travel-activites) during the day, regardless of which travel activity you're doing.
+- If you are traveling alone, you can move stealthily at a normal pace.
+  > Do NOT travel in the jungles of Chult alone.
+- When you forage, you find twice as much food as you normally would.
+- While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
+
 
 ## Recommended favored enemies
-I've been trying to cram every memorable creature in the 5e Monster Manual into my Chult prep, but some types will nonetheless be more common than others. Again, from most to least useful IMO:
+I've been trying to cram every memorable creature in the 5e Monster Manual into my Chult prep, but some types will nonetheless be more common than others. Again, my custom favored enemy categories from most to least useful IMO:
 - Monstrosities, including most Underdark creatures as well as the most powerful Yuan-ti
 - Undead
 - Shapechanger humanoids (includes Yuan-ti spies and [were-tigers](introduction.md#dangers-of-chult)), plus one other [type of humanoid](chultans.md#top)
-- Beasts including dinosaurs, Plants, and fungis (which are just Plants)
+- Beasts (includes dinosaurs) plus Plants (includes fungi)
 - Constructs, Oozes, Aberrations, Elementals, and Ethereal Plane creatures
 - Two choices from:
   - Dragons

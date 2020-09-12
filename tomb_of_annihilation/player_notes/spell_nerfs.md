@@ -12,8 +12,8 @@ The following spells are harder to cast in Chult than normal, due to the _Tarras
 |Name|Spell Level|Note|
 |-|-|-|
 |[Create or Destroy Water](http://5thsrd.org/spellcasting/spells/create_or_destroy_water/)|4|-|
-|[Goodberry](http://5thsrd.org/spellcasting/spells/goodberry/)|4|3rd level for Rangers|
-|[Create Food and Water](http://5thsrd.org/spellcasting/spells/create_food_and_water/)|6|4th level for Paladins|
+|[Goodberry](http://5thsrd.org/spellcasting/spells/goodberry/)|4|3rd-level spell for Rangers|
+|[Create Food and Water](http://5thsrd.org/spellcasting/spells/create_food_and_water/)|6|4th-level spell for Paladins|
 
 Spells with "At Higher Levels" effects are adjusted appropriately.
 

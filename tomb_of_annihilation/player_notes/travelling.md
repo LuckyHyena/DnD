@@ -80,6 +80,10 @@ The party chooses whether they're moving at a _**fast**_, _**moderate**_, or _**
 
 The party only gains bonuses for slow pace if they choose that pace. If an effect [such as encumbrance](pack_animals.md#top) limits the party to slow pace they don't gain bonuses, nor if they try to move at a swifter pace but are reduced to a slow pace later in the day.
 
+> __Character Bonus:__ As part of the [Natural Explorer](http://5thsrd.org/character/classes/ranger/#natural-explorer) feature of __Rangers__, "travelling through difficult terrain doesn't slow your group's travel". Everywhere in Chult is difficult terrain, therefore:
+> 
+> If the party is travelling through the [favored terrain](character_creation.md#rangers) of one or more of their __Rangers__, the party may roll one extra die for the day's distance.
+
 ## Travel Activities
 Each party member may opt to perform one of the following tasks by rolling an ability check. A maximum of two characters can work on the same task. If no-one performs a task and the party needs to roll a check, the party rolls a d20 with disadvantage and adds the highest proficiency bonus among party members, and no ability bonus.
 
@@ -89,13 +93,20 @@ Each party member may opt to perform one of the following tasks by rolling an ab
 |Navigate|WIS or INT *|_Survival_, cartographer's tools, or navigator's tools|If the check fails the party becomes lost: they move only part of their intended movement, and then move 1d6 hexes in a random direction. Until the party succeeds on a subsequent Navigate check, each day after that the party moves in a random direction.|
 |Watch for Enemies|WIS *|_Perception_|Determines at [what distance](/5e/random_encounters.md#encounter-distance) the party spots the day's random encounter, if any.|
 |Cover Tracks|WIS|_Survival_|Increases the party's Random Encounter AC by 1 (Moderate) or 2 (Very Hard), to a maximum of 20. On a fumble, decrease the party's REAC by 1.|
+|Follow Tracks|WIS|_Survival_|Difficulty varies based on what you're tracking.|
 |Hunt or Forage|DEX, WIS, or INT|_Survival_ or _Nature_|The party gains [1d6 + your WIS modifier](#foraging-food-and-water) in either pounds of food or gallons of water.|
 |Forage Medicine|WIS or INT|_Medicine_, _Nature_, or a herbalist's kit|Gain [1d6 + your WIS modifier](#foraging-medicines) in either healer's kit charges or one kind of [medicinal Chultan plant](chultan_plants.md#top).|
 |Handle Animals|WIS *|_Animal Handling_|For [most animals](pack_animals.md#top): if you fail the check the party is limited to slow pace today.|
 |Watch the Weather|WIS *|_Survival_ or _Sailing_|The DM prerolls the upcoming weather rolls and informs the party: 1 roll if you beat a Moderate difficulty, 2 rolls for a Hard difficulty, or 3 rolls if you beat Very Hard.|
 |-|-|-|Any number of party members may each do one [short rest activity](short_rest_activities.md#top) or one [downtime activity](jungle_activities.md#top).|
 
-\* If two characters work on this task then one of them is providing advantage to the other.
+\* If two characters work on this task then one of them is providing advantage to the other: they each make a check, and the higher of their two results is used.
+
+> __Character Bonus:__ As part of the [Natural Explorer](http://5thsrd.org/character/classes/ranger/#natural-explorer) feature of __Rangers__, "Even when you are engaged with another activity while travelling, you remain alert to danger".
+> 
+> If the party is travelling through the [favored terrain](character_creation.md#rangers) of a ranger, the ranger may make an extra bonus roll to _Watch for Enemies_. The highest _Watch for Enemies_ check result among all rolls is used for the final result.
+> 
+> A ranger who focuses on _Watching for Enemies_ may make two rolls: their normal one plus their bonus one. Bonus rolls from rangers don't count against the two-character-per-task limit.
 
 ![immovable rod](/images/immovable-rod.jpg)
 
