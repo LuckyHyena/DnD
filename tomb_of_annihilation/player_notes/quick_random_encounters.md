@@ -10,26 +10,32 @@
 These encounter rules are designed to resolve random encounters without running the full 5e combat rules. Most of these encounters are either **very easy or very hard**: the rules give too-easy encounters a chance to cause meaningful attrition, but also let the party flee from the consequences of too-hard encounters.
 
 #### Travelling Hit Dice
-While travelling each character has a number of __Hit Dice__ equal to their best hit die's max roll divided in half, plus their CON modifier.
-- At the end of a long rest a character rolls 1d4, adds their CON modifier to the result, and recovers that many hit dice. A character always recovers a minimum of one hit die at the end of a long rest.
-- At the end of a short rest, a character recovers hit die equal to their CON bonus, or a character may roll an easy CON ability check to recover a single hit die.
+While travelling each character has a number of __Hit Dice__ equal to their CON modifier, plus half of their class's hit dice max roll.
 
-> A bard (d8) with no CON modifier has 4 hit dice total, recovers 1d4 dice at the end of a long rest, and may recover a single hit die if they successfully make a CON ability check of easy difficulty at the end of a short rest.
-> 
-> A barbarian (d12) with a +2 CON bonus has 8 hit dice total, recovers 1d4 + 2 dice at the end of a long rest, and 2 dice at the end of a short rest.
+At the end of a __long rest__ a character rolls 1d4, adds their CON modifier to the result, and recovers that many hit dice. A character always recovers a minimum of one hit die at the end of a long rest.
 
-#### Temporary Hit Dice
-> If a character gains temporary hit points from [short rest](../tomb_of_annihilation/player_notes/short_rest_activities.md#top) or similar activities, each time they accumulate their best hit die's max result in temp hp they gain a temporary hit die that can be sacrificed before a real one. These temporary hit points and dice don't expire while travelling but can accumulate over time.
+At the end of a __short rest__, a character recovers hit die equal to their CON bonus, or a character may roll an easy CON ability check to recover a single hit die.
+
+#### Examples
+A tier 1 bard (d8) with no CON modifier has 4 hit dice total, recovers 1d4 dice at the end of a long rest, and may recover a single hit die if they successfully make a CON ability check of easy difficulty at the end of a short rest.
+ 
+A tier 1 barbarian (d12) with a +2 CON bonus has 8 hit dice total, recovers 1d4 + 2 dice at the end of a long rest, and 2 dice at the end of a short rest.
 
 #### At Higher Tiers
+Characters who advance beyond tier 1 gain additional max hit dice, and they also heal more dice at the end of both short and long rests.
 
-As the party advances in tier characters gain more travelling hit dice:
+|Dice Size|Tier 1|Tier 2|Tier 3| Tier 4|
+|-|-|-|-|-|
+|d12|6|8|10|12|
+|d10|5|7|9|10|
+|d8|4|5|7|8|
+|d6|3|4|5|6|
+|Rest Bonus||+1|+2|+3|
 
-|Tier|Bonus|
-|-|-|
-|2|+2 hit dice|
-|3|+4 hit dice|
-|4|+6 hit dice|
+#### Temporary Hit Dice
+If a character gains temporary hit points from [short rest](../tomb_of_annihilation/player_notes/short_rest_activities.md#top) or similar activities, each time they accumulate their best hit die's max result in temp hp they gain a temporary hit die that can be sacrificed before a real one. These temporary hit points and dice don't expire while travelling but can accumulate over time.
+
+![immovable rod](/images/immovable-rod.jpg)
 
 ## Running Quick Encounters
 

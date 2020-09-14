@@ -237,9 +237,7 @@ An attack roll against a prone creature gains **advantage if the attacker is wit
 
 Prone creatures suffer **disadvantage on attack rolls**.
 
-> **homebrew:** _Prone_ creatures who don't move on their turn gain advantage instead on their **ranged attack rolls**.
->
-> When _prone_ creatures who are [_able to move_](#able-to-move) are in squares containing cover, they get the same (non-stacking) homebrew bonus for [taking the Dodge action in cover](#dodging).
+> **homebrew:** When _prone_ creatures who are [_able to move_](#able-to-move) are in squares containing cover, they get the same (non-stacking) homebrew bonus for [taking the Dodge action in cover](#dodging).
 
 ![immovable rod](/images/immovable-rod.jpg)
 
@@ -291,9 +289,9 @@ Obscurity:
 - Creatures are effectively __blinded__ when trying to see into **heavily obscured** areas: they automatically fail any ability check that depends on sight, they suffer disadvantage on all attack rolls into the area, and anyone firing back at them (without also being _blinded_ by whatever is obscuring them) has advantage on attack rolls.
   - When someone fires out of heavy obscurity they normally reveal the square they're firing from, but they're still __invisible__ to their effectively-blinded target.
 
-For terrain such as walls and windows, the maximum obscurity assumes the character is **actively (and successfully)** trying to use the terrain to hide. Likewise the cover assumes the character is actively staying down among the features of the terrain. In both cases a character must be [_able to move_](#able-to-move).
-
 ## Examples of Cover
+For terrain such as windows and arrowslits, the maximum obscurity assumes the character is **actively (and successfully)** trying to use the terrain to hide. Likewise the cover assumes the character is actively staying down among the features of the terrain. In both cases a character must be [_able to move_](#able-to-move).
+
 ||No Cover|Half Cover (+2)|Three-Quarters Cover (+5)|Full Cover|
 |-|-|-|-|-|
 |**Not Obscured**|                                                                                                                      __Bright light__ or __sunlight__.               |                    A shield. Studded leather or hide armor.            |            Half plate or chainmail armor.             |            A _Wall of Force_. Bulletproof glass.                                                |
@@ -401,7 +399,9 @@ In order to escape, the grappled creature must spend their action to repeat the 
 
 You can release your grappled target whenever you like without an action. If you become [_unable to act_](#able-to-act) your target is freed, as well as if an effect moves or forces them to a location outside your reach.
 
-> **Character Bonus:** A character with the **Grappler** feat (needs Str 13) gets advantage on on attack rolls against their _grappled_ target. They may spend their _action_ to attempt another grapple check vs their _grappled_ target, and on a success both the character and their target are _restrained_ until the grapple ends. 
+> **Character Bonus:** A character with the **Grappler** feat (needs Str 13) gets advantage on on attack rolls against their _grappled_ target.
+> 
+> Alternatively, they may spend their _action_ to attempt to pin their target. The character makes another contested check vs their _grappled_ target, and on a success both the character and their target are _restrained_ until the grapple ends. 
 
 
 ---
@@ -549,7 +549,9 @@ If a rider is knocked prone, or their mount is moved against its will, the rider
 An intelligent mount, or one the rider is not controlling, retains its own initiative count and has no restrictions on its movement or actions.
 
 ## Controlling a mount
-A mount the rider is controlling acts on the rider's initiative, including on the turn the rider mounted it. The mount has full movement speed but can only take the Dash, Disengage, or Dodge actions. The rider may spend their action to try to make the mount Attack.
+A mount the rider is controlling acts on the rider's initiative, including on the turn the rider mounted it. The mount has full movement speed but can only take the Dash, Disengage, or Dodge actions.
+
+> **homebrew:** the rider may spend their action to make an _Animal Handling_ check, and if they're successful their mount may use the Attack action this turn.
 
 # Underwater combat
 Creatures and objects immersed in water have resistance to all fire damage.
